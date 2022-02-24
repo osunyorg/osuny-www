@@ -2,5 +2,9 @@
 - title: Usages
   target: "/usages/"
   kind: page
-  children: []
+  children:
+  - title: Universités & écoles publiques
+    target: "/usages/universites-ecoles-publiques/"
+    kind: page
+    children: []
 
