@@ -1,2 +1,6 @@
---- []
+---
+- title: Usages
+  target: "/usages/"
+  kind: page
+  children: []
 
