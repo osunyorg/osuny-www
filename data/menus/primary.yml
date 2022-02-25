@@ -51,4 +51,8 @@
     target: "/fonctionnalites/roadmap/"
     kind: page
     children: []
+  - title: Enseignement
+    target: "/fonctionnalites/enseignement/"
+    kind: page
+    children: []
 
