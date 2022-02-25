@@ -63,4 +63,8 @@
       target: "/fonctionnalites/enseignement/equipe-pedagogique/"
       kind: page
       children: []
+    - title: Feedbacks étudiants
+      target: "/fonctionnalites/enseignement/feedbacks-etudiants/"
+      kind: page
+      children: []
 
