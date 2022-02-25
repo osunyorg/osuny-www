@@ -46,5 +46,9 @@
 - title: Fonctionnalités
   target: "/fonctionnalites/"
   kind: page
-  children: []
+  children:
+  - title: Roadmap
+    target: "/fonctionnalites/roadmap/"
+    kind: page
+    children: []
 
