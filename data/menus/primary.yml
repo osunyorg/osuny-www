@@ -22,5 +22,9 @@
 - title: Valeurs
   target: "/valeurs/"
   kind: page
-  children: []
+  children:
+  - title: Accessibilité
+    target: "/valeurs/accessibilite/"
+    kind: page
+    children: []
 
