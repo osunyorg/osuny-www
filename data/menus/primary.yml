@@ -83,4 +83,8 @@
       target: "/fonctionnalites/recherche/revues-scientifiques/"
       kind: page
       children: []
+    - title: Veille scientifique
+      target: "/fonctionnalites/recherche/veille-scientifique/"
+      kind: page
+      children: []
 
