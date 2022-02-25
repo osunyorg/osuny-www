@@ -15,4 +15,8 @@
     target: "/usages/ecoles-privees/"
     kind: page
     children: []
+  - title: Direction des Systèmes d’Information
+    target: "/usages/direction-des-systemes-dinformation/"
+    kind: page
+    children: []
 
