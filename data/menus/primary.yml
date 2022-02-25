@@ -79,4 +79,8 @@
       target: "/fonctionnalites/recherche/equipe-de-recherche/"
       kind: page
       children: []
+    - title: Revues scientifiques
+      target: "/fonctionnalites/recherche/revues-scientifiques/"
+      kind: page
+      children: []
 
