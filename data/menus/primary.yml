@@ -35,4 +35,8 @@
     target: "/valeurs/qualite/"
     kind: page
     children: []
+  - title: Souveraineté
+    target: "/valeurs/souverainete/"
+    kind: page
+    children: []
 
