@@ -106,5 +106,9 @@
   - title: Administration
     target: "/fonctionnalites/administration/"
     kind: page
-    children: []
+    children:
+    - title: Admissions
+      target: "/fonctionnalites/administration/admissions/"
+      kind: page
+      children: []
 
