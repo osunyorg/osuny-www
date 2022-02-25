@@ -1,12 +1,4 @@
 ---
-- title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
-  children: []
-- title: Politique de sobriété
-  target: "/politique-de-sobriete/"
-  kind: page
-  children: []
 - title: Github
   target: https://github.com/noesya/osuny/
   kind: url
@@ -14,5 +6,13 @@
 - title: noesya
   target: https://www.noesya.coop/
   kind: url
+  children: []
+- title: Mentions légales
+  target: "/mentions-legales/"
+  kind: page
+  children: []
+- title: Politique de sobriété
+  target: "/politique-de-sobriete/"
+  kind: page
   children: []
 
