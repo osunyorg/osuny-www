@@ -3,4 +3,8 @@
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: Politique de sobriété
+  target: "/politique-de-sobriete/"
+  kind: page
+  children: []
 
