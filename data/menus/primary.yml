@@ -122,5 +122,9 @@
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
-  children: []
+  children:
+  - title: Incubation
+    target: "/gouvernance/incubation/"
+    kind: page
+    children: []
 
