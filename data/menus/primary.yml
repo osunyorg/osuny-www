@@ -74,5 +74,9 @@
   - title: Recherche
     target: "/fonctionnalites/recherche/"
     kind: page
-    children: []
+    children:
+    - title: Équipe de recherche
+      target: "/fonctionnalites/recherche/equipe-de-recherche/"
+      kind: page
+      children: []
 
