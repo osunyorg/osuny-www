@@ -7,4 +7,8 @@
   target: "/politique-de-sobriete/"
   kind: page
   children: []
+- title: Github
+  target: https://github.com/noesya/osuny/
+  kind: url
+  children: []
 
