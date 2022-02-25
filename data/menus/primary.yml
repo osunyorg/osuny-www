@@ -99,4 +99,8 @@
       target: "/fonctionnalites/communication/lettres-dinformation/"
       kind: page
       children: []
+    - title: Alumni
+      target: "/fonctionnalites/communication/alumni/"
+      kind: page
+      children: []
 
