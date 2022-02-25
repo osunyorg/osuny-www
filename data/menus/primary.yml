@@ -115,4 +115,8 @@
       target: "/fonctionnalites/administration/suivi-qualite/"
       kind: page
       children: []
+    - title: Statistiques
+      target: "/fonctionnalites/administration/statistiques/"
+      kind: page
+      children: []
 
