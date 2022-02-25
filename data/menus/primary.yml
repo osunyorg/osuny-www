@@ -87,4 +87,8 @@
       target: "/fonctionnalites/recherche/veille-scientifique/"
       kind: page
       children: []
+  - title: Communication
+    target: "/fonctionnalites/communication/"
+    kind: page
+    children: []
 
