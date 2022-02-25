@@ -131,4 +131,8 @@
     target: "/gouvernance/eclosion/"
     kind: page
     children: []
+  - title: Stabilisation
+    target: "/gouvernance/stabilisation/"
+    kind: page
+    children: []
 
