@@ -27,4 +27,8 @@
     target: "/valeurs/accessibilite/"
     kind: page
     children: []
+  - title: Sobriété
+    target: "/valeurs/sobriete/"
+    kind: page
+    children: []
 
