@@ -7,4 +7,8 @@
     target: "/usages/universites-ecoles-publiques/"
     kind: page
     children: []
+  - title: Écoles privées
+    target: "/usages/ecoles-privees/"
+    kind: page
+    children: []
 
