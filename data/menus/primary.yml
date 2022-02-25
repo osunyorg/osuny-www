@@ -11,8 +11,8 @@
     target: "/usages/ecoles-privees/"
     kind: page
     children: []
-  - title: Écoles privées
-    target: "/usages/universites-ecoles-publiques/"
+  - title: Laboratoires de recherche
+    target: "/usages/laboratoires-de-recherche/"
     kind: page
     children: []
 
