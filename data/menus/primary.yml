@@ -90,5 +90,9 @@
   - title: Communication
     target: "/fonctionnalites/communication/"
     kind: page
-    children: []
+    children:
+    - title: Sites Web
+      target: "/fonctionnalites/communication/sites-web/"
+      kind: page
+      children: []
 
