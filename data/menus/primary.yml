@@ -31,4 +31,8 @@
     target: "/valeurs/sobriete/"
     kind: page
     children: []
+  - title: Qualité
+    target: "/valeurs/qualite/"
+    kind: page
+    children: []
 
