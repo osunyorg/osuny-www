@@ -19,4 +19,8 @@
     target: "/usages/ecoles-privees/"
     kind: page
     children: []
+- title: Valeurs
+  target: "/valeurs/"
+  kind: page
+  children: []
 
