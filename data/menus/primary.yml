@@ -39,4 +39,8 @@
     target: "/valeurs/souverainete/"
     kind: page
     children: []
+  - title: Liberté
+    target: "/valeurs/liberte/"
+    kind: page
+    children: []
 
