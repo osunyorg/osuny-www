@@ -95,4 +95,8 @@
       target: "/fonctionnalites/communication/sites-web/"
       kind: page
       children: []
+    - title: Lettres d’information
+      target: "/fonctionnalites/communication/lettres-dinformation/"
+      kind: page
+      children: []
 
