@@ -71,4 +71,8 @@
       target: "/fonctionnalites/enseignement/ressources-educatives-libres/"
       kind: page
       children: []
+  - title: Recherche
+    target: "/fonctionnalites/recherche/"
+    kind: page
+    children: []
 
