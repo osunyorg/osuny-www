@@ -111,4 +111,8 @@
       target: "/fonctionnalites/administration/admissions/"
       kind: page
       children: []
+    - title: Suivi qualité
+      target: "/fonctionnalites/administration/suivi-qualite/"
+      kind: page
+      children: []
 
