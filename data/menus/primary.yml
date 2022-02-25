@@ -119,4 +119,8 @@
       target: "/fonctionnalites/administration/statistiques/"
       kind: page
       children: []
+- title: Gouvernance
+  target: "/gouvernance/"
+  kind: page
+  children: []
 
