@@ -127,4 +127,8 @@
     target: "/gouvernance/incubation/"
     kind: page
     children: []
+  - title: Éclosion
+    target: "/gouvernance/eclosion/"
+    kind: page
+    children: []
 
