@@ -67,4 +67,8 @@
       target: "/fonctionnalites/enseignement/feedbacks-etudiants/"
       kind: page
       children: []
+    - title: Ressources éducatives libres
+      target: "/fonctionnalites/enseignement/ressources-educatives-libres/"
+      kind: page
+      children: []
 
