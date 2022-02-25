@@ -43,4 +43,8 @@
     target: "/valeurs/liberte/"
     kind: page
     children: []
+- title: Fonctionnalités
+  target: "/fonctionnalites/"
+  kind: page
+  children: []
 
