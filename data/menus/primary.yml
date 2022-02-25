@@ -54,5 +54,9 @@
   - title: Enseignement
     target: "/fonctionnalites/enseignement/"
     kind: page
-    children: []
+    children:
+    - title: Offre de formation
+      target: "/fonctionnalites/enseignement/offre-de-formation-1/"
+      kind: page
+      children: []
 
