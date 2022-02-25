@@ -59,4 +59,8 @@
       target: "/fonctionnalites/enseignement/offre-de-formation-1/"
       kind: page
       children: []
+    - title: Équipe pédagogique
+      target: "/fonctionnalites/enseignement/equipe-pedagogique/"
+      kind: page
+      children: []
 
