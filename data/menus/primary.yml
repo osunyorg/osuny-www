@@ -31,10 +31,6 @@
     target: "/valeurs/sobriete/"
     kind: page
     children: []
-  - title: Communauté
-    target: "/valeurs/communaute/"
-    kind: page
-    children: []
   - title: Qualité
     target: "/valeurs/qualite/"
     kind: page
@@ -45,6 +41,10 @@
     children: []
   - title: Liberté
     target: "/valeurs/liberte/"
+    kind: page
+    children: []
+  - title: Communauté
+    target: "/valeurs/communaute/"
     kind: page
     children: []
 - title: Fonctionnalités
