@@ -43,6 +43,10 @@
     target: "/valeurs/liberte/"
     kind: page
     children: []
+  - title: Communauté
+    target: "/valeurs/communaute/"
+    kind: page
+    children: []
 - title: Fonctionnalités
   target: "/fonctionnalites/"
   kind: page
