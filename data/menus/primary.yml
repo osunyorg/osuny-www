@@ -47,10 +47,6 @@
   target: "/fonctionnalites/"
   kind: page
   children:
-  - title: Roadmap
-    target: "/fonctionnalites/roadmap/"
-    kind: page
-    children: []
   - title: Enseignement
     target: "/fonctionnalites/enseignement/"
     kind: page
@@ -119,6 +115,10 @@
       target: "/fonctionnalites/administration/statistiques/"
       kind: page
       children: []
+  - title: Roadmap
+    target: "/fonctionnalites/roadmap/"
+    kind: page
+    children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
