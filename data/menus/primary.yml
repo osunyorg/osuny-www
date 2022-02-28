@@ -27,12 +27,12 @@
     target: "/valeurs/accessibilite/"
     kind: page
     children: []
-  - title: Communauté
-    target: "/valeurs/communaute/"
-    kind: page
-    children: []
   - title: Sobriété
     target: "/valeurs/sobriete/"
+    kind: page
+    children: []
+  - title: Communauté
+    target: "/valeurs/communaute/"
     kind: page
     children: []
   - title: Qualité
