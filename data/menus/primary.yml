@@ -4,15 +4,15 @@
   kind: page
   children:
   - title: Universités & écoles publiques
-    target: "/usages/universites-ecoles-publiques/"
+    target: "/usages/universites/"
     kind: page
     children: []
   - title: Laboratoires de recherche
-    target: "/usages/laboratoires-de-recherche/"
+    target: "/usages/laboratoires/"
     kind: page
     children: []
   - title: Directions des Systèmes d’Information
-    target: "/usages/directions-des-systemes-dinformation/"
+    target: "/usages/dsi/"
     kind: page
     children: []
   - title: Écoles privées
