@@ -1,3 +1,5 @@
+[build]
+  HUGO_VERSION = "0.93.0"
 [[headers]]
   for = "/*"
   [headers.values]
