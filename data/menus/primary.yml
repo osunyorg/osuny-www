@@ -11,8 +11,8 @@
     target: "/usages/laboratoires-de-recherche/"
     kind: page
     children: []
-  - title: Direction des Systèmes d’Information
-    target: "/usages/direction-des-systemes-dinformation/"
+  - title: Directions des Systèmes d’Information
+    target: "/usages/directions-des-systemes-dinformation/"
     kind: page
     children: []
   - title: Écoles privées
