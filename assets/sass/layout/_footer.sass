@@ -1,0 +1,19 @@
+footer[role="contentinfo"]
+    background-color: black
+    padding-bottom: calc(#{$grid-gutter-width} * 2.5)
+    padding-top: calc(#{$grid-gutter-width} * 2.5)
+
+    .logo
+        img
+            height: 33px
+            max-width: 100%
+            width: auto
+
+    nav
+        > ul
+            @extend .nav
+        li
+            @extend .nav-item
+        a,
+        span
+            @extend .nav-link
