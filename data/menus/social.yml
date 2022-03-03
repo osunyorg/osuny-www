@@ -1,2 +1,6 @@
---- []
+---
+- title: Développeurs
+  target: https://developers.osuny.org/
+  kind: url
+  children: []
 
