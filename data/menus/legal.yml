@@ -11,4 +11,8 @@
   target: "/politique-de-sobriete/"
   kind: page
   children: []
+- title: Noesya
+  target: https://www.noesya.coop/
+  kind: url
+  children: []
 
