@@ -3,6 +3,10 @@
   target: https://github.com/noesya/osuny/
   kind: url
   children: []
+- title: Noesya
+  target: https://www.noesya.coop/
+  kind: url
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
@@ -10,9 +14,5 @@
 - title: Politique de sobriété
   target: "/politique-de-sobriete/"
   kind: page
-  children: []
-- title: Noesya
-  target: https://www.noesya.coop/
-  kind: url
   children: []
 
