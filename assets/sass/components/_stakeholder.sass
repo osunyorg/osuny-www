@@ -14,8 +14,9 @@
             margin-bottom: px2rem(100)
         @include media-breakpoint-up(lg)
             --bs-gutter-y: 4rem
-            margin-bottom: px2rem(300)
+            margin-bottom: px2rem(200)
     li
+        @extend .col-6
         @extend .col-md-3
         @extend .col-lg-2
     a
@@ -24,3 +25,5 @@
             opacity: .7
         &::after
             content: none
+    img
+        max-width: 80%
