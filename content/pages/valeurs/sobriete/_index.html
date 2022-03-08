@@ -13,6 +13,13 @@ blocks:
     data:
       text: >-
         <p>Le back-office Osuny agit comme un "headless CMS", un gestionnaire de contenu sans front. Il publie les contenus créés sur un référentiel Git, que ce soit sur Github ou sur Gitlab. Le front-office s'appuie sur Hugo, un générateur de site statique. Le site est compilé à chaque nouveau contenu, et devient un paquet de fichiers HTML, CSS et JS. De cette façon, il n'y a pas de technologie gourmande sur le serveur : ni langage de programmation, comme PHP, Node ou Java, ni base de données, comme MySQL ou SQL Server. Un serveur très peu puissant peut héberger le site, ou mieux, un espace de stockage statique (Object Storage chez Scaleway, par exemple).</p>
+  - template: chapter
+    title: >
+      Des images allégées
+    position: 2
+    data:
+      text: >-
+        <p>En utilisant des techniques modernes d'optimisation des images, comme le format webp et les balises pictures et srcset, nous délivrons des formats adaptés aux usages, et diminuant la bande passante nécessaire. Dans le back-office, nous utilisons notre technologie Open Source <a href="https://github.com/noesya/kamifusen" target="_blank">Kamifusen</a> pour alléger sans peser sur la maintenabilité du code. </p>
 
 
 ---
