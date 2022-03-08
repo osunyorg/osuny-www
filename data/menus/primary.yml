@@ -103,6 +103,10 @@
       target: "/fonctionnalites/communication/alumni/"
       kind: page
       children: []
+    - title: Extranets
+      target: "/fonctionnalites/communication/extranets/"
+      kind: page
+      children: []
   - title: Administration
     target: "/fonctionnalites/administration/"
     kind: page
