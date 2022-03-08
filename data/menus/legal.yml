@@ -15,4 +15,8 @@
   target: "/politique-de-sobriete/"
   kind: page
   children: []
+- title: développeurs
+  target: https://developers.osuny.org/
+  kind: url
+  children: []
 
