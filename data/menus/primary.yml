@@ -139,4 +139,8 @@
     target: "/gouvernance/stabilisation/"
     kind: page
     children: []
+- title: Passer à l'action
+  target: "/"
+  kind: blank
+  children: []
 
