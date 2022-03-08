@@ -155,4 +155,8 @@
     target: "/passer-a-laction/budgets/"
     kind: page
     children: []
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
+    kind: page
+    children: []
 
