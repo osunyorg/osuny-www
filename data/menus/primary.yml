@@ -151,4 +151,8 @@
     target: https://reseau.osuny.org/
     kind: url
     children: []
+  - title: Budgets
+    target: "/passer-a-laction/budgets/"
+    kind: page
+    children: []
 
