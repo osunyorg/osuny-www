@@ -142,5 +142,9 @@
 - title: Passer à l'action
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Réseau
+    target: https://reseau.osuny.org/
+    kind: url
+    children: []
 
