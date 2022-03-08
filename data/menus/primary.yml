@@ -103,6 +103,10 @@
       target: "/fonctionnalites/communication/alumni/"
       kind: page
       children: []
+    - title: Extranets
+      target: "/fonctionnalites/communication/extranets/"
+      kind: page
+      children: []
   - title: Administration
     target: "/fonctionnalites/administration/"
     kind: page
@@ -153,6 +157,10 @@
     children: []
   - title: Budgets
     target: "/passer-a-laction/budgets/"
+    kind: page
+    children: []
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
     kind: page
     children: []
 

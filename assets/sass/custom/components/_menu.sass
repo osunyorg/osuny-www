@@ -16,11 +16,14 @@
 
         .nav-level-2
             & > li
+                position: relative
                 @include media-breakpoint-down(lg)
                     padding: $navbar-padding-y $navbar-padding-x
                 & > a,
                 & > span
                     font-weight: 700
+                &:not(.has-children) > a
+                    @extend .stretched-link
 
         .nav-level-3
             & > li

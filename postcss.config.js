@@ -15,7 +15,37 @@ module.exports = {
                     /^nav-level-/,
                     /^is-/,
                     /^has-/,
-                    /^js-/
+                    /^js-/,
+
+                    // Glightbox
+                    'wait-autoplay',
+                    'gfadeIn',
+                    'gfadeOut',
+                    'gslideOutLeft',
+                    'gslideInLeft',
+                    'gslideOutRight',
+                    'gslideInRight',
+                    'gzoomIn',
+                    'gzoomOut'
+                ],
+                deep: [
+                    // Glightbox
+                    /^glightbox/,
+                    /^gslide/,
+                    /^desc-top/,
+                    /^desc-left/,
+                    /^ginlined/,
+                    /^zoomed/,
+                    /^gdesc-/,
+                    /^gabsolute/,
+                    /^grelative/,
+                    /^gloader/,
+                    /^goverlay/,
+                    /^gprev/,
+                    /^gnext/,
+                    /^gclose/,
+                    /^gbtn/,
+                    /^gcontainer/
                 ],
                 greedy: [
                     /administrators__/,
