@@ -144,8 +144,8 @@
     kind: page
     children: []
 - title: Passer à l'action
-  target: "/"
-  kind: blank
+  target: "/passer-a-laction/"
+  kind: page
   children:
   - title: Réseau
     target: https://reseau.osuny.org/
