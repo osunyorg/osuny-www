@@ -123,6 +123,10 @@
     target: "/fonctionnalites/roadmap/"
     kind: page
     children: []
+  - title: Infrastructure technique
+    target: "/fonctionnalites/infrastructure/"
+    kind: page
+    children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
