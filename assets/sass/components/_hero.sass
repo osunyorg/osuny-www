@@ -9,9 +9,10 @@
         display: flex
         flex-direction: column
         > div
-            @extend .col-md-8
             margin: auto
             text-align: center
+            @include media-breakpoint-up(md)
+                max-width: $text-width-8
         h1
             margin-bottom: 0
         p
