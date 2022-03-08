@@ -148,8 +148,8 @@
   kind: page
   children:
   - title: Réseau
-    target: https://reseau.osuny.org/
-    kind: url
+    target: "/passer-a-laction/reseau/"
+    kind: page
     children: []
   - title: Budgets
     target: "/passer-a-laction/budgets/"
