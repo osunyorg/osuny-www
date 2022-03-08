@@ -1,6 +1,6 @@
 footer[role="contentinfo"]
     background-color: black
-    padding-bottom: px2rem(40)
+    padding-bottom: 0
     padding-top: px2rem(40)
     @include media-breakpoint-up(lg)
         padding-bottom: px2rem(140)
@@ -8,7 +8,9 @@ footer[role="contentinfo"]
 
     .logo
         display: inline-block
-        margin-bottom: px2rem(30)
+        margin-bottom: px2rem(100)
+        @include media-breakpoint-up(md)
+            margin-bottom: px2rem(30)
         img
             height: 33px
             max-width: 100%
@@ -22,6 +24,12 @@ footer[role="contentinfo"]
             margin-bottom: 0
 
     .content
+        @include media-breakpoint-down(lg)
+            background-image: url('../images/sun.svg')
+            background-position: center top
+            background-repeat: no-repeat
+            background-size: 1000px auto
+            padding-top: px2rem(30)
         > div
             @include media-breakpoint-up(md)
                 width: 50%
@@ -33,6 +41,13 @@ footer[role="contentinfo"]
                 display: flex
                 flex-direction: column
                 justify-content: flex-end
+                @include media-breakpoint-down(lg)
+                    align-items: center
+                    padding-bottom: px2rem(150)
+                    padding-top: px2rem(240)
+                    text-align: center
+                    p
+                        max-width: 59%
     nav
         margin-left: -$nav-link-padding-x
         > ul
