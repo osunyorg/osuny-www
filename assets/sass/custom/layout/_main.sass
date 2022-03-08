@@ -1,8 +1,4 @@
-main
-    #page-informations
-        @extend .row
-        > section
-            @extend .col-md-12
-            &[itemprop='articleBody']
-                @extend .col-md-12
-                @extend .col-lg-10
+@include media-breakpoint-up(lg)
+    main
+        [itemprop='articleBody']
+            max-width: calc(83.33333333% - (#{$grid-gutter-width}/14)*3)
