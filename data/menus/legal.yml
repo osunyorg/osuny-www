@@ -7,6 +7,10 @@
   target: https://www.noesya.coop/
   kind: url
   children: []
+- title: développeurs
+  target: https://developers.osuny.org/
+  kind: url
+  children: []
 - title: mentions légales
   target: "/mentions-legales/"
   kind: page
@@ -14,9 +18,5 @@
 - title: politique de sobriété
   target: "/politique-de-sobriete/"
   kind: page
-  children: []
-- title: développeurs
-  target: https://developers.osuny.org/
-  kind: url
   children: []
 
