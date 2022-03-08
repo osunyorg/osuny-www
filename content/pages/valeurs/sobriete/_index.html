@@ -8,32 +8,32 @@ description: >
 blocks:
   - template: chapter
     title: >
-      Précompiler les sites
-    position: 1
-    data:
-      text: >-
-        <p>Le back-office Osuny agit comme un "headless CMS", un gestionnaire de contenu sans front. Il publie les contenus créés sur un référentiel Git, que ce soit sur Github ou sur Gitlab. Le front-office s'appuie sur Hugo, un générateur de site statique. Le site est compilé à chaque nouveau contenu, et devient un paquet de fichiers HTML, CSS et JS. De cette façon, il n'y a pas de technologie gourmande sur le serveur : ni langage de programmation, comme PHP, Node ou Java, ni base de données, comme MySQL ou SQL Server. Un serveur très peu puissant peut héberger le site, ou mieux, un espace de stockage statique (Object Storage chez Scaleway, par exemple).</p>
-  - template: chapter
-    title: >
       Alléger les images
-    position: 2
+    position: 1
     data:
       text: >-
         <p>En utilisant des techniques modernes d'optimisation des images, comme le format webp et les balises pictures et srcset, nous délivrons des formats adaptés aux usages, et diminuant la bande passante nécessaire. Dans le back-office, nous utilisons notre technologie Open Source <a href="https://github.com/noesya/kamifusen" target="_blank">Kamifusen</a> pour alléger sans peser sur la maintenabilité du code. </p>
   - template: chapter
     title: >
       Optimiser le code
-    position: 3
+    position: 2
     data:
       text: >-
         <p>En appliquant un ensemble de bonnes pratiques de développement, nous parvenons à obtenir un score de 100% sur les 4 métriques Google Lighthouse, notamment sur la performance, qui a un impact direct sur la sobriété du site.</p>
+  - template: chapter
+    title: >
+      Précompiler les sites
+    position: 3
+    data:
+      text: >-
+        <p>Le back-office Osuny agit comme un "headless CMS", un gestionnaire de contenu sans front. Il publie les contenus créés sur un référentiel Git, que ce soit sur Github ou sur Gitlab. Le front-office s'appuie sur Hugo, un générateur de site statique. Le site est compilé à chaque nouveau contenu, et devient un paquet de fichiers HTML, CSS et JS. De cette façon, il n'y a pas de technologie gourmande sur le serveur : ni langage de programmation, comme PHP, Node ou Java, ni base de données, comme MySQL ou SQL Server. Un serveur très peu puissant peut héberger le site, ou mieux, un espace de stockage statique (Object Storage chez Scaleway, par exemple).</p>
   - template: chapter
     title: >
       Héberger au plus proche
     position: 4
     data:
       text: >-
-        <p>L'hébergement des sites est très ouvert : il est possible de mettre en ligne sur n'importe quelle infrastructure d'hébergement. Plus l'hébergement sera proche des personnes usagères, et plus la qualité écologique du data center sera bonne, moins l'empreinte écologique sera forte. Par ailleurs, nous intégrons en standard la solution KeyCDN, un réseau de distribution de contenu (Content Delivery Network) suisse qui délivre des images redimensionnées depuis des serveurs à proximité.<br></p>
+        <p>L'hébergement des sites produits avec Osuny est très ouvert : il est possible de mettre en ligne sur n'importe quelle infrastructure d'hébergement. Plus l'hébergement sera proche des personnes usagères, et plus la qualité écologique du data center sera bonne, moins l'empreinte écologique sera forte. Par ailleurs, nous intégrons en standard la solution KeyCDN, un réseau de distribution de contenu (Content Delivery Network) suisse qui délivre des images redimensionnées depuis des serveurs à proximité.<br></p>
 
 
 ---
