@@ -151,16 +151,16 @@
   target: "/passer-a-laction/"
   kind: page
   children:
-  - title: Réseau
-    target: "/passer-a-laction/reseau/"
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
     kind: page
     children: []
   - title: Budgets
     target: "/passer-a-laction/budgets/"
     kind: page
     children: []
-  - title: Exemples
-    target: "/passer-a-laction/exemples/"
+  - title: Réseau
+    target: "/passer-a-laction/reseau/"
     kind: page
     children: []
 
