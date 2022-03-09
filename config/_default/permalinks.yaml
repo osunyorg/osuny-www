@@ -1,4 +1,4 @@
 posts:          /actualites/:year/:month/:day/:slug/
 categories:     /actualites/:slug/
-persons:        /equipe/:slug/
-authors:        /equipe/:slug/actualites/
+persons:        /passer-a-laction/reseau/:slug/
+authors:        /passer-a-laction/reseau/:slug/actualites/
