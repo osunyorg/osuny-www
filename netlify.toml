@@ -6,3 +6,49 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+[[redirects]]
+  from = "/administration/admissions"
+  to = "/fonctionnalites/administration/admissions/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/communication/sites-web"
+  to = "/fonctionnalites/communication/sites-web/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/recherche/revues-scientifiques"
+  to = "/fonctionnalites/recherche/revues-scientifiques/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/enseignement"
+  to = "/fonctionnalites/enseignement/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/administration"
+  to = "/fonctionnalites/administration/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/enseignement/offre-de-formation"
+  to = "/fonctionnalites/enseignement/offre-de-formation-1/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/enseignement/equipe-de-recherche"
+  to = "/fonctionnalites/recherche/equipe-de-recherche/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/enseignement/equipe-pedagogique"
+  to = "/fonctionnalites/enseignement/equipe-pedagogique/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/administration/suivi-qualite"
+  to = "/fonctionnalites/administration/suivi-qualite/"
+  status = 301
+  force = true
+
