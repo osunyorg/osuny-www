@@ -131,6 +131,10 @@
       target: "/fonctionnalites/informations-techniques/infrastructure/"
       kind: page
       children: []
+    - title: Rétrocompatibilité
+      target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
