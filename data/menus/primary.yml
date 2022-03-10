@@ -127,7 +127,7 @@
     target: "/fonctionnalites/informations-techniques/"
     kind: page
     children:
-    - title: Infrastructure technique
+    - title: Infrastructure
       target: "/fonctionnalites/informations-techniques/infrastructure/"
       kind: page
       children: []
