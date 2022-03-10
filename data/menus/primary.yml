@@ -123,14 +123,14 @@
       target: "/fonctionnalites/administration/statistiques/"
       kind: page
       children: []
-  - title: Infrastructure technique
-    target: "/fonctionnalites/informations-techniques/infrastructure/"
-    kind: page
-    children: []
   - title: Informations techniques
     target: "/fonctionnalites/informations-techniques/"
     kind: page
-    children: []
+    children:
+    - title: Infrastructure technique
+      target: "/fonctionnalites/informations-techniques/infrastructure/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
