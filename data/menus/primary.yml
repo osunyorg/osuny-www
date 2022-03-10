@@ -124,7 +124,7 @@
       kind: page
       children: []
   - title: Infrastructure technique
-    target: "/fonctionnalites/infrastructure/"
+    target: "/fonctionnalites/informations-techniques/infrastructure/"
     kind: page
     children: []
 - title: Gouvernance
