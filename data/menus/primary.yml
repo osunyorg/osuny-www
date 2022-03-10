@@ -157,6 +157,6 @@
     children: []
   - title: Réseau
     target: "/passer-a-laction/reseau/"
-    kind: page
+    kind: staff
     children: []
 
