@@ -127,6 +127,10 @@
     target: "/fonctionnalites/informations-techniques/infrastructure/"
     kind: page
     children: []
+  - title: Informations techniques
+    target: "/fonctionnalites/informations-techniques/"
+    kind: page
+    children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
