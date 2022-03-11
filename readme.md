@@ -29,6 +29,7 @@ git pull --recurse-submodules
 Pour lancer le site
 ```
 yarn
+yarn upgrade
 yarn watch
 ```
 
