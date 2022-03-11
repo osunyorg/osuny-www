@@ -4,19 +4,7 @@
   {{- $category := site.GetPage (printf "/categories%s" .Params.category) -}}
   <div class="container">
 
-    <div id="page-informations">
-      {{ if (partial "GetTextFromHTML" .Content) }}
-        <section itemprop="articleBody">
-          {{
-            partial "PrepareHTML" (
-              partial "H2AddId" .Content
-            )
-          }}
-        </section>
-      {{ end }}
-
-      {{ partial "pages/children.html" .Pages }}
-    </div>
+    {{ partial "pages/body.html" . }}
 
     {{ partial "blocks/list.html" .Params.blocks }}
 
