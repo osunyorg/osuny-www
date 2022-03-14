@@ -13,6 +13,7 @@ module.exports = {
                     'collapsed',
                     /^dropdown/,
                     /^nav-level-/,
+                    /^splide_/,
                     /^is-/,
                     /^has-/,
                     /^js-/,
