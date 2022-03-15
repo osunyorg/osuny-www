@@ -48,12 +48,11 @@ footer[role="contentinfo"]
                     text-align: center
                     p
                         max-width: 59%
-    nav
+    [class^="nav-"]
+        @extend .nav
+        align-items: flex-start
+        flex-direction: column
         margin-left: -$nav-link-padding-x
-        > ul
-            @extend .nav
-            align-items: flex-start
-            flex-direction: column
         li
             @extend .nav-item
         a,
