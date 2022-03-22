@@ -1,7 +1,10 @@
 .menu
     @extend .menu-expand
     background: transparent
-
+    @include media-breakpoint-down(lg)
+        .nav-level-1
+            & > li
+                padding: px2rem(10)
     .dropdown-menu
         @include media-breakpoint-down(lg)
             background: transparent
@@ -15,10 +18,12 @@
                 font-size: $small-font-size
 
         .nav-level-2
+            @include media-breakpoint-down(lg)
+                padding-bottom: $grid-gutter-width/2
             & > li
                 position: relative
                 @include media-breakpoint-down(lg)
-                    padding: $navbar-padding-y $navbar-padding-x
+                    padding: px2rem(5) calc(#{$grid-gutter-width} / 2)
                 & > a,
                 & > span
                     font-weight: 700
