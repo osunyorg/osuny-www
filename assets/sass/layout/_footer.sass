@@ -1,5 +1,6 @@
 footer[role="contentinfo"]
     background-color: black
+    overflow: hidden
     padding-bottom: 0
     padding-top: px2rem(40)
     @include media-breakpoint-up(lg)
@@ -25,16 +26,13 @@ footer[role="contentinfo"]
 
     .content
         @include media-breakpoint-down(md)
-            background-image: url('../images/sun.svg')
-            background-position: center top
-            background-repeat: no-repeat
-            background-size: 1000px auto
             padding-top: px2rem(30)
         > div
             @include media-breakpoint-up(md)
                 width: 50%
                 &:last-child
                     text-align: right
+
             &:last-child
                 @extend .col-lg-3
                 @extend .offset-lg-3
@@ -45,9 +43,23 @@ footer[role="contentinfo"]
                     align-items: center
                     padding-bottom: px2rem(150)
                     padding-top: px2rem(240)
+                    position: relative
                     text-align: center
+                    &::before
+                        background-image: url('../images/sun.svg')
+                        background-position: center top
+                        background-repeat: no-repeat
+                        background-size: 1000px auto
+                        content: ''
+                        height: 1000px
+                        left: 50%
+                        position: absolute
+                        top: 0
+                        transform: translate(-50%, -250px)
+                        width: 1000px
                     p
                         max-width: 59%
+                        position: relative
     [class^="nav-"]
         @extend .nav
         align-items: flex-start
@@ -59,3 +71,18 @@ footer[role="contentinfo"]
         span
             @extend .nav-link
             font-size: px2rem(14)
+
+    .backtotop
+        @extend .icon-arrow
+        bottom: px2rem(30)
+        font-size: px2rem(14)
+        position: absolute
+        &::before
+            @include icon
+            bottom: 120%
+            font-size: px2rem(10)
+            left: 50%
+            position: absolute
+            transform: rotate(-90deg) translateY(-50%)
+        @include media-breakpoint-up(md)
+            display: none
