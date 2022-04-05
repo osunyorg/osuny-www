@@ -6,7 +6,7 @@
   {{- $ulClass = printf "%s " .class -}}
 {{- end -}}
 <ul class="{{ $ulClass }}{{ if $level }}nav-level-{{ $level }}{{ end }}">
-  {{ range .items -}}
+  {{- range .items -}}
     {{- $slug := urlize .title -}}
     {{- $itemClass := "" -}}
     {{- $linkClass := "" -}}
@@ -42,11 +42,11 @@
                 ) -}}
         {{- else -}}
           {{- if and (eq $level 2) -}}
-            {{ $page := partial "GetPageByUrl" .target }}
+            {{- $page := partial "GetPageByUrl" .target -}}
             {{ if $page }}
-              {{ if $page.Params.description }}
-                <p>{{ truncate 300 (safeHTML $page.Params.description) }}</p>
-              {{ end }}
+              {{- if $page.Params.description }}
+                <p>{{ partial "GetTruncateContent" $page.Params.description}}</p>
+              {{ end -}}
             {{ end }}
           {{- end -}}
         {{- end -}}
@@ -55,5 +55,5 @@
         {{- end -}}
       {{- end -}}
     </li>
-  {{ end -}}
+  {{- end -}}
 </ul>
