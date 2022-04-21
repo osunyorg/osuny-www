@@ -167,8 +167,4 @@
     target: "/passer-a-laction/budgets/"
     kind: page
     children: []
-  - title: Réseau
-    target: "/passer-a-laction/reseau/"
-    kind: staff
-    children: []
 
