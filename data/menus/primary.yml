@@ -168,7 +168,7 @@
     kind: page
     children: []
   - title: Réseau
-    target: "/passer-a-lactionreseau/"
+    target: "/passer-a-laction/reseau/"
     kind: staff
     children: []
 
