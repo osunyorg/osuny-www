@@ -1,8 +1,4 @@
 ---
-- title: Actualités
-  target: "/actualites/"
-  kind: news
-  children: []
 - title: Usages
   target: "/usages/"
   kind: page
