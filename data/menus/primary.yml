@@ -167,4 +167,8 @@
     target: "/passer-a-laction/reseau/"
     kind: staff
     children: []
+- title: Sécurité
+  target: "/fonctionnalites/informations-techniques/securite/"
+  kind: page
+  children: []
 
