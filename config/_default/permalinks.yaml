@@ -1,3 +1,3 @@
-posts:          /actualites//:year/:month/:day/:slug/
-persons:        /passer-a-laction/reseau//:slug/
-authors:        /passer-a-laction/reseau//:slug/actualites/
+posts:          /actualites/:year/:month/:day/:slug/
+persons:        /passer-a-laction/reseau/:slug/
+authors:        /passer-a-laction/reseau/:slug/actualites/

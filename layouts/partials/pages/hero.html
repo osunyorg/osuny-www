@@ -1,8 +1,8 @@
 <header class="hero">
   <div class="container">
     <div>
-      <p>{{ safeHTML (partial "CorrectPunctuation" .Title) }}</p>
-      <h1>{{ safeHTML (partial "CorrectPunctuation" .Params.description_short) }}</h1>
+      <p>{{ partial "PrepareHTML" .Title }}</p>
+      <h1>{{ partial "PrepareHTML" .Params.description_short }}</h1>
     </div>
     {{ partial "header/breadcrumbs.html" . }}
   </div>
