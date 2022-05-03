@@ -127,6 +127,10 @@
     target: "/fonctionnalites/informations-techniques/"
     kind: page
     children:
+    - title: Sécurité
+      target: "/fonctionnalites/informations-techniques/securite/"
+      kind: page
+      children: []
     - title: Infrastructure
       target: "/fonctionnalites/informations-techniques/infrastructure/"
       kind: page
@@ -167,8 +171,4 @@
     target: "/passer-a-laction/reseau/"
     kind: staff
     children: []
-- title: Sécurité
-  target: "/fonctionnalites/informations-techniques/securite/"
-  kind: page
-  children: []
 
