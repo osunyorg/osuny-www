@@ -100,7 +100,7 @@
       kind: page
       children: []
     - title: Alumni
-      target: "/fonctionnalites/communication/alumni/"
+      target: "/fonctionnalites/administration/alumni/"
       kind: page
       children: []
     - title: Extranets
