@@ -99,10 +99,6 @@
       target: "/fonctionnalites/communication/lettres-dinformation/"
       kind: page
       children: []
-    - title: Alumni
-      target: "/fonctionnalites/administration/alumni/"
-      kind: page
-      children: []
     - title: Extranets
       target: "/fonctionnalites/communication/extranets/"
       kind: page
@@ -113,6 +109,10 @@
     children:
     - title: Admissions
       target: "/fonctionnalites/administration/admissions/"
+      kind: page
+      children: []
+    - title: Alumni
+      target: "/fonctionnalites/administration/alumni/"
       kind: page
       children: []
     - title: Suivi qualité
