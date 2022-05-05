@@ -1,0 +1,24 @@
+.block-pages
+    .main-page > div
+        align-items: baseline
+        display: flex
+        justify-content: space-between
+        position: relative
+        a
+            @extend .stretched-link
+            @extend .h2
+            display: block
+            padding-bottom: 0.5rem
+            text-decoration: none
+            &::before
+                background-color: rgba(white, .3)
+                bottom: 0
+                content: ''
+                height: 1px
+                left: 0
+                position: absolute
+                transition: background-color .3s ease
+                width: 100%
+            &:hover
+                &::before
+                    background-color: white
