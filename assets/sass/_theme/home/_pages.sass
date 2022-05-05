@@ -3,3 +3,29 @@
         .block-content
             @include media-breakpoint-up(md)
                 max-width: $text-width-8
+    .block-call_to_action
+        .block-content
+            padding: 110px col(1)
+        .call_to_action
+            border-width: 0
+            column-gap: $grid-gutter-width
+            display: grid
+            grid-template-columns: repeat(10, 1fr)
+            position: relative
+            p
+                margin-bottom: 0
+            > *
+                grid-column: 1/6
+            a
+                @extend .link-more
+                align-self: center
+                grid-column: 6/11
+                grid-row: 1/3
+                vertical-align: middle
+                &::before
+                    margin-right: px2rem(15)
+                    text-decoration: none
+                    transition: transform 0.55s cubic-bezier(0, 0.55, 0.45, 1)
+                &:hover
+                    &::before
+                        transform: translateX(#{px2rem(10)})
