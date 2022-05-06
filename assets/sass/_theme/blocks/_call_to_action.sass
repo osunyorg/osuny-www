@@ -18,7 +18,7 @@
         @include media-breakpoint-up(md)
             padding: col(1.5)
         @include media-breakpoint-up(xl)
-            > div
+            > div > div
                 padding-right: col(4)
     @include media-breakpoint-down(sm)
         background: black
@@ -39,22 +39,23 @@
             .block-content
                 padding: 60px col(1)
             .call_to_action
-                column-gap: $grid-gutter-width
-                display: grid
-                grid-template-columns: repeat(10, 1fr)
                 padding: 0
-                h2
-                    padding-bottom: map-get($spacers, 3)
-                p
-                    margin-bottom: 0
-                > *
-                    grid-column: 1/5
-                > a, [role="group"]
-                    align-self: baseline
-                    grid-column: 6/11
-                    vertical-align: middle
-                > div
-                    padding-right: 0
+                > div 
+                    column-gap: $grid-gutter-width
+                    display: grid
+                    grid-template-columns: repeat(10, 1fr)
+                    h2
+                        padding-bottom: map-get($spacers, 3)
+                    p
+                        margin-bottom: 0
+                    > *
+                        grid-column: 1/5
+                    > a, [role="group"]
+                        align-self: baseline
+                        grid-column: 6/11
+                        vertical-align: middle
+                    > div
+                        padding-right: 0
         @include media-breakpoint-up(md)
             .block-content
                 padding: col(1.5)
