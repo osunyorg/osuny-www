@@ -32,8 +32,11 @@
                     align-self: baseline
                     grid-column: 6/11
                     vertical-align: middle
+                > div
+                    padding-right: 0
+        @include media-breakpoint-up(md)
+            .block-content
+                padding: col(1.5)
         @include media-breakpoint-up(lg)
             .block-content
                 padding: 110px col(1)
-        @include media-breakpoint-down(md)
-            background: black
