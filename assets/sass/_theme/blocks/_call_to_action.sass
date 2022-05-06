@@ -1,24 +1,24 @@
 .block-call_to_action
+    .block-content
+        margin-left: 0
     .call_to_action
         background: black
         border-width: 0
+        margin: auto
         padding: $grid-gutter-width
         position: relative
-        // column-gap: $grid-gutter-width
-        // display: grid
-        // grid-template-columns: repeat(8, 1fr)
-        // p
-        //     margin-bottom: 0
-        // > *
-            // grid-column: 1/5
-        // > a, [role="group"]
-            // align-self: center
-            // grid-column: 6/9
-            // grid-row: 1/3
-            // vertical-align: middle
+        h2
+            border-bottom-width: 0
+            margin-bottom: 0 !important
         a
             @include long-arrow
         [role="group"]
             a
                 display: block
-            
+        @include media-breakpoint-up(md)
+            padding: col(1.5)
+        @include media-breakpoint-up(xl)
+            > div
+                padding-right: col(4)
+    @include media-breakpoint-down(sm)
+        background: black
