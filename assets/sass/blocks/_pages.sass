@@ -1,14 +1,18 @@
 .block-pages
     .main-page > div
-        align-items: baseline
-        display: flex
-        justify-content: space-between
         position: relative
+        @include media-breakpoint-up(md)
+            align-items: baseline
+            display: flex
+            justify-content: space-between
+            a
+                padding-bottom: 0.5rem
+            > p:last-child
+                margin-bottom: 0
         a
             @extend .stretched-link
             @extend .h2
             display: block
-            padding-bottom: 0.5rem
             text-decoration: none
             &::before
                 background-color: rgba(white, .3)
@@ -22,6 +26,9 @@
             &:hover
                 &::before
                     background-color: white
+        > p:last-child
+            padding-bottom: map-get($spacers, 2)
+
     .pages
         .title a
             text-decoration-color: rgba($white, 0)
