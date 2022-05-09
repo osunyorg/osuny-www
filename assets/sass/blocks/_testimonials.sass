@@ -1,7 +1,4 @@
 .block-testimonials
-    @extend .col-md-10
-    @extend .offset-md-2
-
     .testimonials
         margin-left: auto
         padding-top: map-get($spacers, 5)
@@ -12,7 +9,7 @@
             font-size: px2rem(40)
             line-height: px2rem(60)
             margin-bottom: px2rem(-30)
-            margin-left: calc(20% + (#{$grid-gutter-width} / 4))
+            margin-left: col(3)
         &::before
             position: absolute
             transform: translate(-.65rem, -50%)
@@ -34,5 +31,5 @@
     .splide__pagination
         @include media-breakpoint-up(md)
             bottom: 0
-            left: calc(20% + (#{$grid-gutter-width} / 4) - 1rem)
+            left: calc(#{col(3)} - 1rem)
             position: absolute
