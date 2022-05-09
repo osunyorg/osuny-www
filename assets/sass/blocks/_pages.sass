@@ -1,0 +1,36 @@
+.block-pages
+    .main-page > div
+        position: relative
+        @include media-breakpoint-up(md)
+            align-items: baseline
+            display: flex
+            justify-content: space-between
+            a
+                padding-bottom: 0.5rem
+            > p:last-child
+                margin-bottom: 0
+        a
+            @extend .stretched-link
+            @extend .h2
+            display: block
+            text-decoration: none
+            &::before
+                background-color: rgba(white, .3)
+                bottom: 0
+                content: ''
+                height: 1px
+                left: 0
+                position: absolute
+                transition: background-color .3s ease
+                width: 100%
+            &:hover
+                &::before
+                    background-color: white
+        > p:last-child
+            padding-bottom: map-get($spacers, 2)
+
+    .pages
+        .title a
+            text-decoration-color: rgba($white, 0)
+            &:hover
+                text-decoration-color: $white

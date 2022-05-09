@@ -1,15 +1,23 @@
-@import "abstracts/functions"
-@import "abstracts/variables"
-@import "hugo-osuny"
-@import "components/stakeholder"
-@import "custom/base/defaults"
-@import "custom/base/fonts"
-@import "custom/components/avatar"
-@import "custom/components/menu"
-@import "custom/components/block-gallery"
-@import "custom/components/block-testimonials"
-@import "custom/components/contacts-list"
-@import "custom/components/menu-expand"
-@import "custom/layout/header"
-@import "custom/pages/page"
-@import "custom/pages/person"
+@import "_default/abstracts/mixins"
+
+@import "_theme/hugo-osuny"
+
+// Custom styles
+
+@import "_default/base/defaults"
+@import "_default/base/fonts"
+
+@import "_default/partials/avatar"
+@import "_default/partials/contacts-list"
+@import "_default/partials/menu"
+@import "_default/partials/menu-expand"
+@import "_default/partials/stakeholder"
+
+@import "_default/layouts/header"
+
+@import "blocks/gallery"
+@import "blocks/pages"
+@import "blocks/testimonials"
+
+@import "pages/pages"
+@import "persons/pages"

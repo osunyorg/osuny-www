@@ -1,0 +1,64 @@
+.block-call_to_action
+    .block-content
+        margin-left: 0
+    .call_to_action
+        background: black
+        border-width: 0
+        margin: auto
+        padding: $grid-gutter-width
+        position: relative
+        h2
+            border-bottom-width: 0
+            margin-bottom: 0 !important
+        a
+            @include long-arrow
+        [role="group"]
+            a
+                display: block
+        @include media-breakpoint-up(md)
+            padding: col(1.5)
+        @include media-breakpoint-up(xl)
+            > div > div
+                padding-right: col(4)
+    @include media-breakpoint-down(sm)
+        background: black
+
+    .page__home &, .persons__section &
+        .block-content
+            background: black
+        .call_to_action
+            border-width: 0
+            position: relative
+            
+            a
+                @include long-arrow
+            [role="group"]
+                a
+                    display: block
+        @include media-breakpoint-up(md)
+            .block-content
+                padding: 60px col(1)
+            .call_to_action
+                padding: 0
+                > div 
+                    column-gap: $grid-gutter-width
+                    display: grid
+                    grid-template-columns: repeat(10, 1fr)
+                    h2
+                        padding-bottom: map-get($spacers, 3)
+                    p
+                        margin-bottom: 0
+                    > *
+                        grid-column: 1/5
+                    > a, [role="group"]
+                        align-self: baseline
+                        grid-column: 6/11
+                        vertical-align: middle
+                    > div
+                        padding-right: 0
+        @include media-breakpoint-up(md)
+            .block-content
+                padding: col(1.5)
+        @include media-breakpoint-up(lg)
+            .block-content
+                padding: 110px col(1)
