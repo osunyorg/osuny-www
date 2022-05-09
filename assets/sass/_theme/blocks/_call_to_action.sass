@@ -4,9 +4,20 @@
     .call_to_action
         background: black
         border-width: 0
+        display: flex
+        flex-direction: column
         margin: auto
         padding: $grid-gutter-width
         position: relative
+        > div
+            order: 2
+        picture
+            margin-bottom: 50px
+            max-width: 100%
+            order: 1
+            position: relative
+        img
+            @extend .img-fluid
         h2
             border-bottom-width: 0
             margin-bottom: 0 !important
