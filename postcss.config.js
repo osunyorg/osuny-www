@@ -51,6 +51,12 @@ var devPlugins = {},
                     /^gclose/,
                     /^gbtn/,
                     /^gcontainer/
+                ],
+                greedy: [
+                    /__home/,
+                    /__page/,
+                    /__section/,
+                    /__term/
                 ]
             }
         }
