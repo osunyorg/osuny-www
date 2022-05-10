@@ -5,6 +5,12 @@
         h2
             @extend .subline
             margin-bottom: px2rem(30)
+    [class^='block'],
+    [class*=' block']
+        .top
+            margin-bottom: 0
+            h2
+                flex: 1
     [itemprop="articleBody"] ~ section .top
         h2
             @extend .subline
