@@ -15,6 +15,12 @@ var devPlugins = {},
                     'show',
                     'active',
                     'collapsed',
+                    'h1',
+                    'h2',
+                    'h3',
+                    'h4',
+                    'h5',
+                    'h6',
                     /^dropdown/,
                     /^nav-level-/,
                     /^splide_/,
@@ -56,7 +62,8 @@ var devPlugins = {},
                     /__home/,
                     /__page/,
                     /__section/,
-                    /__term/
+                    /__term/,
+                    /call_to_action/
                 ]
             }
         }
