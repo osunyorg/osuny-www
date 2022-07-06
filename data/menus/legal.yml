@@ -1,24 +1,4 @@
 ---
-- title: github
-  target: https://github.com/noesya/osuny/
-  kind: url
-  children: []
-- title: noesya
-  target: https://www.noesya.coop/
-  kind: url
-  children: []
-- title: support
-  target: https://support.osuny.org/
-  kind: url
-  children: []
-- title: développeurs
-  target: https://developers.osuny.org/
-  kind: url
-  children: []
-- title: statut du système
-  target: https://status.osuny.org/
-  kind: url
-  children: []
 - title: mentions légales
   target: "/mentions-legales/"
   kind: page
