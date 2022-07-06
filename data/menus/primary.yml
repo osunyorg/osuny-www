@@ -174,5 +174,9 @@
 - title: Actualités
   target: "/actualites/"
   kind: posts
-  children: []
+  children:
+  - title: Références
+    target: "/actualites/references/"
+    kind: category
+    children: []
 
