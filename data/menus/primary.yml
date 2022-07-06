@@ -179,4 +179,8 @@
     target: "/actualites/references/"
     kind: category
     children: []
+  - title: Fonctionnalités
+    target: "/actualites/fonctionnalites/"
+    kind: category
+    children: []
 
