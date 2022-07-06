@@ -15,10 +15,6 @@
   target: https://github.com/noesya/osuny/
   kind: url
   children: []
-- title: noesya
-  target: https://www.noesya.coop/
-  kind: url
-  children: []
 - title: linkedin
   target: https://www.linkedin.com/company/osuny/
   kind: url
