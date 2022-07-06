@@ -27,7 +27,7 @@
   target: "/politique-de-sobriete/"
   kind: page
   children: []
-- title: Accessibilité
+- title: accessibilité
   target: "/a11y/"
   kind: page
   children: []
