@@ -1,8 +1,4 @@
 ---
-- title: support
-  target: https://support.osuny.org/
-  kind: url
-  children: []
 - title: développeurs
   target: https://developers.osuny.org/
   kind: url
