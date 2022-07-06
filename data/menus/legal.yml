@@ -1,8 +1,4 @@
 ---
-- title: statut du système
-  target: https://status.osuny.org/
-  kind: url
-  children: []
 - title: mentions légales
   target: "/mentions-legales/"
   kind: page
