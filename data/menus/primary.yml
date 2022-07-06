@@ -171,4 +171,8 @@
     target: "/passer-a-laction/reseau/"
     kind: persons
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: posts
+  children: []
 
