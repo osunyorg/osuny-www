@@ -9,9 +9,9 @@
             font-size: px2rem(40)
             line-height: px2rem(60)
             margin-bottom: px2rem(30)
-        &::before
-            position: absolute
-            transform: translate(-.65rem, -50%)
+            padding-top: 0
+            &::before
+                content: none
 
     figcaption
         position: relative
@@ -35,6 +35,21 @@
         &__autoplay
             button
                 color: white
+
+        &__pagination
+            margin-bottom: px2rem(10)
+
+        &__slider
+            @include media-breakpoint-up(md)
+                &::before
+                    content: '“'
+                    font-family: $font-family-serif
+                    font-size: px2rem(120)
+                    font-style: italic
+                    line-height: 1
+                    position: absolute
+                    right: calc(100% + #{$grid-gutter-width})
+                    top: 5px
 
         &__slide:not(.is-visible)
             overflow: hidden
