@@ -27,14 +27,14 @@
                 margin-left: 0
                 margin-top: 0
 
-    .splide
-        &__toggle,
-        &__autoplay button
-            color: white
-            font-size: px2rem(14)
+    .avatar
         @include media-breakpoint-up(md)
-            padding-bottom: $grid-gutter-width
-            &__pagination
-                bottom: 0
-                left: calc(#{col(3)} - 1rem)
-                position: absolute
+            max-width: calc(100% / 8 - #{$grid-gutter-width} + (#{$grid-gutter-width} / 7))
+
+    .splide
+        &__autoplay
+            button
+                color: white
+
+        &__slide:not(.is-visible)
+            overflow: hidden
