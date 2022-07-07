@@ -26,3 +26,8 @@
     .avatar
         margin: 0 auto px2rem(20)
         max-width: 196px
+    nav
+        margin-top: auto
+        @include media-breakpoint-down(md)
+            margin-left: calc(#{$grid-gutter-width} / -2)
+            width: calc(100% + #{$grid-gutter-width})
