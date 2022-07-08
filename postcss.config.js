@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
-var devPlugins = {},
-    productionPlugins = {
+module.exports = {
+    plugins: {
         autoprefixer: {},
         cssnano: {
             preset: 'default'
@@ -20,6 +20,12 @@ var devPlugins = {},
                     'show',
                     'active',
                     'collapsed',
+                    'h1',
+                    'h2',
+                    'h3',
+                    'h4',
+                    'h5',
+                    'h6',
                     /^dropdown/,
                     /^nav-level-/,
                     /^splide_/,
@@ -40,6 +46,8 @@ var devPlugins = {},
                 ],
                 deep: [
                     // Glightbox
+                    /block-/,
+                    /ratio/,
                     /^glightbox/,
                     /^gslide/,
                     /^desc-top/,
@@ -62,14 +70,20 @@ var devPlugins = {},
                     /__page/,
                     /__section/,
                     /__term/,
+                    /__taxonomy/,
                     /posts/,
+                    /block-timeline/,
                     /call_to_action/,
-                    /block-timeline/
+                    /association/,
+                    /pleas/,
+                    /posts/,
+                    /challenges/,
+                    /point-de-vue/,
+                    /publications/,
+                    /actualites/,
+                    /agir-soutenir/
                 ]
             }
         }
-    };
-
-module.exports = {
-    plugins: process.env.HUGO_ENVIRONMENT === 'production' ? productionPlugins : devPlugins
+    }
 };
