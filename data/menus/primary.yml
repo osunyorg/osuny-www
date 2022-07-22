@@ -180,7 +180,7 @@
     kind: category
     children: []
   - title: Fonctionnalités
-    target: "/actualites/fonctionnalites/"
+    target: "/actualites/evenements/"
     kind: category
     children: []
   - title: Veille
