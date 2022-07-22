@@ -179,7 +179,7 @@
     target: "/actualites/references/"
     kind: category
     children: []
-  - title: Fonctionnalités
+  - title: Événements
     target: "/actualites/evenements/"
     kind: category
     children: []
