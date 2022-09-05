@@ -191,8 +191,4 @@
     target: "/actualites/veille/"
     kind: category
     children: []
-- title: Carnet de recherche
-  target: "/actualites/carnet-de-recherche/"
-  kind: category
-  children: []
 
