@@ -183,8 +183,16 @@
     target: "/actualites/evenements/"
     kind: category
     children: []
+  - title: Carnet de recherche
+    target: "/actualites/carnet-de-recherche/"
+    kind: category
+    children: []
   - title: Veille
     target: "/actualites/veille/"
     kind: category
     children: []
+- title: Carnet de recherche
+  target: "/actualites/carnet-de-recherche/"
+  kind: category
+  children: []
 
