@@ -18,6 +18,10 @@ Pour cloner avec le thème
 ```
 git clone git@github.com:noesya/osuny-www.git --recurse-submodules
 ```
+Pour clone le thème après 
+```
+git pull --recurse-submodules
+```
 Pour récupérer le thème
 ```
 git pull --recurse-submodules
