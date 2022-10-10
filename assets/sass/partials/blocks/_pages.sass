@@ -51,11 +51,12 @@
                     font-size: 1rem
                     margin-top: auto
 
-# Fix https://github.com/noesya/rebootcommunication/commit/3770b0c48eeb7efa3eafeac80e651632e387fcbb
+// Fix https://github.com/noesya/rebootcommunication/commit/3770b0c48eeb7efa3eafeac80e651632e387fcbb
 .block-pages
     @include in-page-without-aside
         &--cards
             .pages
+                margin-bottom: 2rem
                 > *
                     @include media-breakpoint-up(xl)
                         width: 33.33333%
