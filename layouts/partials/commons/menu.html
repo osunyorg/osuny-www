@@ -43,6 +43,15 @@
                   "items" .children
                   "level" $nextLevel
                 ) -}}
+        {{- else -}}
+          {{- if and (eq $level 2) -}}
+            {{- $page := partial "GetPageByUrl" .target -}}
+            {{ if $page }}
+              {{- if $page.Params.description_short }}
+                <p>{{ partial "PrepareText" $page.Params.description_short }}</p>
+              {{ end -}}
+            {{ end }}
+          {{- end -}}
         {{- end -}}
         {{- if $hasDropdown -}}
           </div>
