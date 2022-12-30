@@ -1,7 +1,19 @@
-.lead
-    color: $color-accent
+
+body
+    background-color: black
+    background-image: url('/assets/images/sun-top.svg'), linear-gradient(180deg, black 0%, $color-background 700px)
+    background-position-x: center
+    background-position-y: top
+    background-repeat: no-repeat
+    @include media-breakpoint-down(desktop)
+        background-size: 300%, auto
 
 #document-header
+    @include media-breakpoint-up(desktop)
+        .container
+            flex-direction: column
+            .logo
+                margin: 10px 0 30px
     .dropdown-menu
         .nav-level-2
             a
@@ -9,4 +21,57 @@
         li
             p
                 @extend .small
-                margin-top: 10px
+                @include media-breakpoint-down(desktop)
+                    margin-bottom: 10px
+                @include media-breakpoint-up(desktop)
+                    margin-top: 10px
+
+.lead
+    color: $color-accent
+
+.hero:not(.hero--with-image)
+    padding-bottom: 0
+    .content > h1
+        text-align: center
+        margin-bottom: $spacing2
+        margin-left: offset(2)
+        width: col(8)
+
+footer#document-footer
+    // .nav-legal, .nav-social
+    //     margin-bottom: px2rem(60)
+    //     @include media-breakpoint-up(lg)
+    //         flex-direction: row
+    // .credit
+    //     display: block
+    .stakeholder
+        p
+            font-size: px2rem(14)
+            margin-bottom: px2rem(30)
+        ul
+            // --bs-gutter-y: 1.5rem
+            // @extend .row
+            align-items: center
+            list-style: none
+            margin-bottom: px2rem(50)
+            padding: 0
+            // @include media-breakpoint-up(md)
+            //     --bs-gutter-y: 3rem
+            //     margin-bottom: px2rem(100)
+            // @include media-breakpoint-up(lg)
+            //     --bs-gutter-y: 4rem
+            //     margin-bottom: px2rem(150)
+            // @include media-breakpoint-up(xxl)
+            //     margin-bottom: px2rem(200)
+        // li
+        //     @extend .col-6
+        //     @extend .col-md-3
+        //     @extend .col-lg-2
+        a
+            transition: opacity .3s ease
+            &:hover
+                opacity: .7
+            &::after
+                content: none
+        img
+            max-width: 80%
