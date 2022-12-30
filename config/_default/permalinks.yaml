@@ -2,5 +2,6 @@
 
 categories: /actualites/:slug/
 posts: /actualites/:year-:month-:day-:slug/
+organizations: /organisations/:slug/
 persons: /passer-a-laction/reseau/:slug/
 authors: /passer-a-laction/reseau/:slug/actualites/
