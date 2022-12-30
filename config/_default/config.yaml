@@ -1,1 +1,10 @@
-theme: osuny-hugo-theme-aaa
+baseURL: /
+theme: osuny-hugo-theme
+
+## LANGUAGE
+defaultContentLanguage: fr
+languageCode: fr
+
+## ADVANCED
+paginate: 18
+enableRobotsTXT: true
