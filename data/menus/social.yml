@@ -19,4 +19,8 @@
   target: https://www.linkedin.com/company/osuny/
   kind: url
   children: []
+- title: thème
+  target: https://example.osuny.org/
+  kind: url
+  children: []
 
