@@ -53,6 +53,11 @@ header#document-header
         @include media-breakpoint-up(desktop)
             margin-left: offset(2)
             width: col(8)
+.hero
+    @include media-breakpoint-down(desktop)
+        .content > h1
+            text-align: center
+
 
 .block-pages--cards .card
     min-height: 200px
