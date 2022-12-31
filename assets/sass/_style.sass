@@ -69,6 +69,8 @@ header#document-header
                 aspect-ratio: 2
 
 footer#document-footer
+    .container
+        align-items: flex-end
     @include media-breakpoint-up(desktop)
         background: $color-background-alt
         .footer-site
@@ -80,7 +82,7 @@ footer#document-footer
         flex-flow: column-reverse
         background-image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
         background-position-x: center
-        background-position-y: 235px
+        background-position-y: 268px
         background-repeat: no-repeat
         background-size: 1000px auto
         .container:first-of-type
