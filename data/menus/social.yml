@@ -7,6 +7,10 @@
   target: https://support.osuny.org/
   kind: url
   children: []
+- title: thème
+  target: https://example.osuny.org/
+  kind: url
+  children: []
 - title: statut du système
   target: https://status.osuny.org/
   kind: url
@@ -17,10 +21,6 @@
   children: []
 - title: linkedin
   target: https://www.linkedin.com/company/osuny/
-  kind: url
-  children: []
-- title: thème
-  target: https://example.osuny.org/
   kind: url
   children: []
 
