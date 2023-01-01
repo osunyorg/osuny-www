@@ -1,0 +1,198 @@
+diff --git a/assets/sass/_configuration.sass b/assets/sass/_configuration.sass
+new file mode 100644
+index 0000000..323a281
+--- /dev/null
++++ b/assets/sass/_configuration.sass
+@@ -0,0 +1,18 @@
++$color-accent: #29e30c
++$color-text: #FFFFFF
++$color-text-alt: #CCCCCC
++$color-border: rgba(255, 255, 255, 0.3)
++$color-background-alt: #111111
++$color-background: #000000
++
++$body-font-family: "Aestetico", sans-serif
++$heading-font-family: $body-font-family
++$serif-font-family: "Big Moore", serif
++$h1-font-family: $serif-font-family
++$h1-weight: normal
++$h2-size-desktop: px2rem(30)
++$quote-font-family: $serif-font-family
++
++$header-background: $color-background
++$header-dropdown-full: true
++$hero-background-color: $color-background
+\ No newline at end of file
+diff --git a/assets/sass/_fonts.sass b/assets/sass/_fonts.sass
+new file mode 100644
+index 0000000..d160b9b
+--- /dev/null
++++ b/assets/sass/_fonts.sass
+@@ -0,0 +1,3 @@
++@include font-face("Aestetico", Aestetico-Light/font, $exts: (woff2 woff))
++@include font-face("Aestetico", Aestetico-Bold/font, $weight: bold, $exts: (woff2 woff))
++@include font-face("Big Moore", Big-Moore/font, $exts: (woff2 woff))
+diff --git a/assets/sass/_style.sass b/assets/sass/_style.sass
+new file mode 100644
+index 0000000..e69de29
+diff --git a/assets/sass/main.sass b/assets/sass/main.sass
+index db96cfa..ea23b7d 100644
+--- a/assets/sass/main.sass
++++ b/assets/sass/main.sass
+@@ -1,23 +1,5 @@
+ @import "_theme/utils"
+-@import "utils"
+-@import "config"
++@import "_fonts"
++@import "_configuration"
+ @import "_theme/hugo-osuny"
+-
+-/*! purgecss start ignore */
+-@import "partials/blocks/call_to_action"
+-@import "partials/blocks/gallery"
+-@import "partials/blocks/pages"
+-@import "partials/blocks/testimonials"
+-@import "partials/body/global"
+-@import "partials/body/typography"
+-@import "partials/footer/footer"
+-@import "partials/header/header"
+-@import "partials/nav/menu"
+-@import "partials/nav/menu-expand"
+-@import "partials/persons/avatar"
+-@import "partials/persons/contacts-list"
+-@import "home/pages"
+-@import "persons/pages"
+-@import "posts/pages"
+-@import "blocks"
+-/*! purgecss end ignore */
++@import "_style"
+diff --git a/config/_default/config.yaml b/config/_default/config.yaml
+index d4d1808..c448b4a 100644
+--- a/config/_default/config.yaml
++++ b/config/_default/config.yaml
+@@ -1,10 +1 @@
+-baseURL: /
+-theme: osuny-hugo-theme
+-
+-## LANGUAGE
+-defaultContentLanguage: fr
+-languageCode: fr
+-
+-## ADVANCED
+-paginate: 18
+-enableRobotsTXT: true
++theme: osuny-hugo-theme-aaa
+diff --git a/config/_default/params.yaml b/config/_default/params.yaml
+deleted file mode 100644
+index 6bd70f1..0000000
+--- a/config/_default/params.yaml
++++ /dev/null
+@@ -1,5 +0,0 @@
+-keycdn: https://osuny-1b4da.kxcdn.com
+-cookie_banner:
+-  enable: false
+-  blank: true
+-  page: https://gdpr.eu/cookies/
+diff --git a/content/fr/_index.html b/content/fr/_index.html
+index 98e3b5d..d7f5ce1 100644
+--- a/content/fr/_index.html
++++ b/content/fr/_index.html
+@@ -31,7 +31,7 @@ children:
+ description: >
+   
+ description_short: >
+-  
++  Open Source University, la plateforme numérique en source ouverte des Universités &amp; des Écoles
+ 
+ header_text: >-
+   Open Source University, la plateforme numérique en source ouverte des Universités &amp; des Écoles
+diff --git a/content/fr/posts/2022/2022-05-31-communication-democratie.html b/content/fr/posts/2022/2022-05-31-communication-democratie.html
+index 748fd10..72d70bd 100644
+--- a/content/fr/posts/2022/2022-05-31-communication-democratie.html
++++ b/content/fr/posts/2022/2022-05-31-communication-democratie.html
+@@ -26,32 +26,6 @@ description: >
+ description_short: >
+   
+ 
+-blocks:
+-  - template: chapter
+-    title: >-
+-      
+-    position: 1
+-    data:
+-      layout: no_background
+-      text: >-
+-        <p>Le site de l'association Communication et démocratie est développé avec Osuny !</p><p>L'association Communication et démocratie, « CODE » pour ses membres et ses sympathisants, offre un espace pour construire une analyse citoyenne des enjeux que soulèvent les activités de communication. Elle vise à promouvoir des propositions pour mieux réguler la communication et l'influence des grandes entreprises et soutenir le déploiement des discours de la société civile. Retrouvez notre vision politique et la mission que nous nous donnons, toutes deux extraites de notre texte fondateur. Retrouvez également des informations sur le fonctionnement de l'association, les documents de référence et les personnes actuellement impliquées dans les organes dirigeants.</p><p><a href="https://www.communication-democratie.org/fr/" target="_blank">https://www.communication-democratie.org/fr/</a></p>
+-
+-
+-      notes: >-
+-        
+-
+-
+-
+-
+-      alt: >-
+-        
+-
+-
+-      credit: >-
+-        
+-
+-
+-
+ 
+ ---
+-<div>   <div>    </div> </div>
++<div>   <p>Le site de l'association Communication et démocratie est développé avec Osuny !</p> <p>L'association Communication et démocratie, « CODE » pour ses membres et ses sympathisants, offre un espace pour construire une analyse citoyenne des enjeux que soulèvent les activités de communication. Elle vise à promouvoir des propositions pour mieux réguler la communication et l'influence des grandes entreprises et soutenir le déploiement des discours de la société civile. Retrouvez notre vision politique et la mission que nous nous donnons, toutes deux extraites de notre texte fondateur. Retrouvez également des informations sur le fonctionnement de l'association, les documents de référence et les personnes actuellement impliquées dans les organes dirigeants.</p> <p><a href="https://www.communication-democratie.org/fr/" target="_blank">https://www.communication-democratie.org/fr/</a><br></p> </div>
+diff --git a/layouts/partials/commons/menu.html b/layouts/-partials/commons/menu.html
+similarity index 100%
+rename from layouts/partials/commons/menu.html
+rename to layouts/-partials/commons/menu.html
+diff --git a/layouts/partials/footer/footer-simple.html b/layouts/-partials/footer/footer-simple.html
+similarity index 100%
+rename from layouts/partials/footer/footer-simple.html
+rename to layouts/-partials/footer/footer-simple.html
+diff --git a/layouts/partials/footer/script.html b/layouts/-partials/footer/script.html
+similarity index 100%
+rename from layouts/partials/footer/script.html
+rename to layouts/-partials/footer/script.html
+diff --git a/layouts/partials/footer/site.html b/layouts/-partials/footer/site.html
+similarity index 100%
+rename from layouts/partials/footer/site.html
+rename to layouts/-partials/footer/site.html
+diff --git a/layouts/partials/footer/stakeholder.html b/layouts/-partials/footer/stakeholder.html
+similarity index 100%
+rename from layouts/partials/footer/stakeholder.html
+rename to layouts/-partials/footer/stakeholder.html
+diff --git a/layouts/partials/header/button.html b/layouts/-partials/header/button.html
+similarity index 100%
+rename from layouts/partials/header/button.html
+rename to layouts/-partials/header/button.html
+diff --git a/layouts/partials/home/top.html b/layouts/-partials/home/top.html
+similarity index 100%
+rename from layouts/partials/home/top.html
+rename to layouts/-partials/home/top.html
+diff --git a/layouts/partials/pages/hero.html b/layouts/-partials/pages/hero.html
+similarity index 100%
+rename from layouts/partials/pages/hero.html
+rename to layouts/-partials/pages/hero.html
+diff --git a/layouts/partials/persons/hero.html b/layouts/-partials/persons/hero.html
+similarity index 100%
+rename from layouts/partials/persons/hero.html
+rename to layouts/-partials/persons/hero.html
+diff --git a/layouts/partials/posts/hero-single.html b/layouts/-partials/posts/hero-single.html
+similarity index 100%
+rename from layouts/partials/posts/hero-single.html
+rename to layouts/-partials/posts/hero-single.html
+diff --git a/layouts/partials/posts/hero.html b/layouts/-partials/posts/hero.html
+similarity index 100%
+rename from layouts/partials/posts/hero.html
+rename to layouts/-partials/posts/hero.html
+diff --git a/layouts/persons/single.html b/layouts/-persons/single.html
+similarity index 100%
+rename from layouts/persons/single.html
+rename to layouts/-persons/single.html
+diff --git a/static/assets/images/favicons/favicon.ico b/static/assets/images/favicons/favicon.ico
+deleted file mode 100644
+index 5a5bbd2..0000000
+Binary files a/static/assets/images/favicons/favicon.ico and /dev/null differ
