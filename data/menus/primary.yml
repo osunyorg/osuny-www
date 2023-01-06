@@ -169,11 +169,11 @@
     children: []
   - title: Réseau
     target: "/passer-a-laction/reseau/"
-    kind: persons
+    kind: page
     children: []
 - title: Actualités
   target: "/actualites/"
-  kind: posts
+  kind: page
   children:
   - title: Références
     target: "/actualites/references/"
@@ -189,6 +189,6 @@
     children: []
   - title: Toutes les actualités
     target: "/actualites/"
-    kind: posts
+    kind: page
     children: []
 
