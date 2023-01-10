@@ -4,19 +4,19 @@
   kind: url
   children: []
 - title: support
-  target: https://support.osuny.org/
+  target: https://support.osuny.org
   kind: url
   children: []
 - title: thème
-  target: https://example.osuny.org/
+  target: https://example.osuny.org
   kind: url
   children: []
 - title: statut du système
-  target: https://status.osuny.org/
+  target: https://status.osuny.org
   kind: url
   children: []
 - title: github
-  target: https://github.com/noesya/osuny/
+  target: https://github.com/noesya/osuny
   kind: url
   children: []
 - title: linkedin
