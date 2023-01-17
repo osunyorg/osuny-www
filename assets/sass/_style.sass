@@ -60,6 +60,12 @@ header#document-header
 .toc-cta
     background: none
 
+.block-pages
+    @include media-breakpoint-up(desktop)
+        @include in-page-without-sidebar
+            padding-top: $spacing4
+            padding-bottom: $spacing4
+
 .block-pages--cards .card
     min-height: 200px
 
