@@ -8,7 +8,7 @@ full_width: false
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 authors:
@@ -44,6 +44,30 @@ blocks:
 
       notes: >-
         <ol><li> <a href="https://home.cern/fr/science/computing/birth-web" target="_blank">La naissance du web | CERN</a><br> </li></ol>
+
+
+
+
+      alt: >-
+        
+
+
+      credit: >-
+        
+
+
+  - template: chapter
+    title: >-
+      Le problème de la sécurité
+    position: 2
+    data:
+      layout: no_background
+      text: >-
+        <p>Les sites Web dynamiques sont formidables, mais ce sont des objets technologiques bien plus sophistiqués qu’une simple collection de pages, qui présentent beaucoup plus de risques de sécurité<sup>1</sup>. Prenons l’exemple de WordPress. Il faut que le serveur dispose d’un moteur PHP, d’une base de données SQL, du logiciel WordPress, du thème (l’apparence graphique) utilisé pour le site et des extensions. Chacun de ces composants peut présenter des failles de sécurité. Dès qu’une vulnérabilité est décelée, elle fait l’objet d’un correctif, qui doit être déployé aussi vite que possible. Il faut donc administrer le serveur en mettant à jour rapidement ses diverses couches applicatives, sans quoi on s’expose à tous les risques cyber : déni de services, défiguration, vol de données, utilisation frauduleuse du serveur... Les sites statiques n’utilisent aucune de ces couches technologiques. Cela ne signifie pas qu’ils sont immunisés à toute attaque, mais la surface est bien moindre<sup>2</sup> : il n’y a que le système d’exploitation (souvent GNU/Linux), le serveur Web (souvent NGINX) et l’accès pour déployer les fichiers (souvent SSH). C’est moins, donc c’est mieux.</p>
+
+
+      notes: >-
+        <ol> <li> <a href="https://www.ssi.gouv.fr/actualite/proteger-son-site-internet-des-cyberattaques/">Protéger son site Internet des cyberattaques</a><br> </li> <li> <a href="https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_Securite_Web_NoteTech.pdf">Recommandations pour la sécurisation des sites web (pdf)</a> page 18<br> </li> </ol>
 
 
 
