@@ -139,6 +139,10 @@
       target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
       kind: page
       children: []
+    - title: Schéma architectural
+      target: "/fonctionnalites/informations-techniques/schema-architectural/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
