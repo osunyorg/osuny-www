@@ -127,20 +127,20 @@
     target: "/fonctionnalites/informations-techniques/"
     kind: page
     children:
-    - title: Sécurité
-      target: "/fonctionnalites/informations-techniques/securite/"
+    - title: Schéma architectural
+      target: "/fonctionnalites/informations-techniques/schema-architectural/"
       kind: page
       children: []
     - title: Infrastructure
       target: "/fonctionnalites/informations-techniques/infrastructure/"
       kind: page
       children: []
-    - title: Rétrocompatibilité
-      target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
+    - title: Sécurité
+      target: "/fonctionnalites/informations-techniques/securite/"
       kind: page
       children: []
-    - title: Schéma architectural
-      target: "/fonctionnalites/informations-techniques/schema-architectural/"
+    - title: Rétrocompatibilité
+      target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
       kind: page
       children: []
 - title: Gouvernance
