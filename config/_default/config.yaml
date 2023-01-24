@@ -9,3 +9,5 @@ params:
   posts:
     list:
       layout: list
+  organizations:
+    dark_logo_background: true
