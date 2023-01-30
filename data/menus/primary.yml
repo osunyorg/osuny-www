@@ -146,7 +146,11 @@
   - title: Thème Osuny
     target: "/fonctionnalites/theme-osuny/"
     kind: page
-    children: []
+    children:
+    - title: Design System
+      target: "/fonctionnalites/theme-osuny/design-system/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
