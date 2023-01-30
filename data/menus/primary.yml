@@ -155,6 +155,10 @@
       target: "/fonctionnalites/theme-osuny/blocs/"
       kind: page
       children: []
+    - title: Sections
+      target: "/fonctionnalites/theme-osuny/sections/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
