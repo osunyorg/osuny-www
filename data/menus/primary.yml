@@ -128,7 +128,7 @@
     kind: page
     children:
     - title: Schémas
-      target: "/fonctionnalites/informations-techniques/schemas/"
+      target: "/fonctionnalites/informations-techniques/schema/"
       kind: page
       children: []
     - title: Infrastructure
