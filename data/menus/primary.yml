@@ -147,7 +147,7 @@
     target: "/fonctionnalites/theme-osuny/"
     kind: page
     children:
-    - title: Schémas
+    - title: Schéma
       target: "/fonctionnalites/theme-osuny/schemas-1/"
       kind: page
       children: []
