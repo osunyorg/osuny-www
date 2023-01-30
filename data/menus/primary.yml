@@ -148,7 +148,7 @@
     kind: page
     children:
     - title: Schéma
-      target: "/fonctionnalites/theme-osuny/schemas-1/"
+      target: "/fonctionnalites/theme-osuny/schema-1/"
       kind: page
       children: []
     - title: Design System
