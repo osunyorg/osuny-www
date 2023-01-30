@@ -147,6 +147,10 @@
     target: "/fonctionnalites/theme-osuny/"
     kind: page
     children:
+    - title: Schémas
+      target: "/fonctionnalites/theme-osuny/schemas-1/"
+      kind: page
+      children: []
     - title: Design System
       target: "/fonctionnalites/theme-osuny/design-system/"
       kind: page
@@ -157,10 +161,6 @@
       children: []
     - title: Sections
       target: "/fonctionnalites/theme-osuny/sections/"
-      kind: page
-      children: []
-    - title: Schémas
-      target: "/fonctionnalites/theme-osuny/schemas-1/"
       kind: page
       children: []
 - title: Gouvernance
