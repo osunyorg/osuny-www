@@ -159,6 +159,10 @@
       target: "/fonctionnalites/theme-osuny/sections/"
       kind: page
       children: []
+    - title: Schémas
+      target: "/fonctionnalites/theme-osuny/schemas-1/"
+      kind: page
+      children: []
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
