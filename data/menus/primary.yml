@@ -127,7 +127,7 @@
     target: "/fonctionnalites/informations-techniques/"
     kind: page
     children:
-    - title: Schéma architectural
+    - title: Schémas
       target: "/fonctionnalites/informations-techniques/schemas/"
       kind: page
       children: []
