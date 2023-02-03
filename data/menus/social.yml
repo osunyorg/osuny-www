@@ -11,6 +11,10 @@
   target: https://example.osuny.org
   kind: url
   children: []
+- title: thème Figma
+  target: https://www.figma.com/community/file/1176490763864113451
+  kind: url
+  children: []
 - title: statut du système
   target: https://status.osuny.org
   kind: url
@@ -21,10 +25,6 @@
   children: []
 - title: linkedin
   target: https://www.linkedin.com/company/osuny/
-  kind: url
-  children: []
-- title: thème Figma
-  target: https://www.figma.com/community/file/1176490763864113451
   kind: url
   children: []
 
