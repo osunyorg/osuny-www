@@ -1,7 +1,7 @@
 [context.branch-deploy.environment]
   HUGO_ENV = "staging"
 [build.environment]
-  HUGO_VERSION = "0.93.0"
+  HUGO_VERSION = "0.110.0"
 [[headers]]
   for = "/*"
   [headers.values]
