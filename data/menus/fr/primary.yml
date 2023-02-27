@@ -1,4 +1,6 @@
 ---
+title: Primary
+items:
 - title: Usages
   target: "/usages/"
   kind: page
