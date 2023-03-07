@@ -1,4 +1,6 @@
 ---
+title: Legal
+items:
 - title: mentions légales
   target: "/mentions-legales/"
   kind: page
@@ -9,6 +11,10 @@
   children: []
 - title: accessibilité
   target: "/a11y/"
+  kind: page
+  children: []
+- title: espace presse
+  target: "/espace-presse/"
   kind: page
   children: []
 
