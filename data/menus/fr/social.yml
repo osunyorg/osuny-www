@@ -9,6 +9,10 @@ items:
   target: https://support.osuny.org
   kind: url
   children: []
+- title: slack
+  target: https://join.slack.com/t/osunysupport/shared_invite/zt-18m912cwz-s4UvB8qYgts9YHFebmeCKQ
+  kind: url
+  children: []
 - title: thème
   target: https://example.osuny.org
   kind: url
@@ -27,10 +31,6 @@ items:
   children: []
 - title: linkedin
   target: https://www.linkedin.com/company/osuny/
-  kind: url
-  children: []
-- title: slack
-  target: https://join.slack.com/t/osunysupport/shared_invite/zt-18m912cwz-s4UvB8qYgts9YHFebmeCKQ
   kind: url
   children: []
 
