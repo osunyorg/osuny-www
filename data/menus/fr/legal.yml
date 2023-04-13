@@ -17,4 +17,8 @@ items:
   target: "/espace-presse/"
   kind: page
   children: []
+- title: conditions d'utilisation
+  target: "/conditions-d-utilisation/"
+  kind: page
+  children: []
 
