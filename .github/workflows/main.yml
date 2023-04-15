@@ -9,7 +9,10 @@ jobs:
     name: Compilation du site Hugo et déploiement sur Scaleway Object Storage
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - name: Récupération des données
+      uses: actions/checkout@v3
+      with:
+        submodules: true
     - name: Mise en place de Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
