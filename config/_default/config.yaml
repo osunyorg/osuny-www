@@ -3,6 +3,11 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 
+deployment:
+  targets:
+    name: "org.osuny.www"
+    URL: "s3://org.osuny.www?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
+
 params:
   breadcrumb:
     position: after-hero

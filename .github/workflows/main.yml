@@ -19,7 +19,5 @@ jobs:
     - name: deploy to s3
       run: hugo deploy --force --maxDeletes -1
       env:
-        name: "org.osuny.www"
-        URL: "s3://org.osuny.www?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
         AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_ACCESS_KEY }}
