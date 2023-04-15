@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: setup hugo
+    - name: Mise en place de Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
-        hugo-version: '0.111.3'
+        hugo-version: 'latest'
         extended: true
-    - name: build site
+    - name: Compilation du site
       run: hugo
-    - name: deploy to s3
+    - name: Déploiement sur Scaleway Object Storage
       run: hugo deploy --force --maxDeletes -1
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY_ID }}
