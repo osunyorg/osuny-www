@@ -9,17 +9,30 @@ jobs:
     name: Compilation du site Hugo et déploiement sur Scaleway Object Storage
     runs-on: ubuntu-latest
     steps:
+
     - name: Récupération des données
       uses: actions/checkout@v3
       with:
         submodules: true
-    - name: Mise en place de Hugo
+
+    - name: Installation de Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        cache: 'yarn'
+
+    - name: Installation des dépendances JavaScript
+      run: yarn install --frozen-lockfile
+
+    - name: Installation de Hugo
       uses: peaceiris/actions-hugo@v2.6.0
       with:
         hugo-version: 'latest'
         extended: true
+
     - name: Compilation du site
       run: hugo
+
     - name: Déploiement sur Scaleway Object Storage
       run: hugo deploy --force --maxDeletes -1
       env:
