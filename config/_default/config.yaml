@@ -5,8 +5,8 @@ removePathAccents: true
 
 deployment:
   targets:
-    name: "org.osuny.www"
-    URL: "s3://org.osuny.www?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
+    name: "scaleway.osuny.org"
+    URL: "s3://scaleway.osuny.org?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
 
 params:
   breadcrumb:
