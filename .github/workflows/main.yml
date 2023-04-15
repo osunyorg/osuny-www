@@ -1,4 +1,4 @@
-name: Build and Deploy Hugo
+name: Compilation et déploiement
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_and_deploy:
-    name: Deploy Hugo Website
+    name: Compilation du site Hugo et déploiement sur Scaleway Object Storage
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
