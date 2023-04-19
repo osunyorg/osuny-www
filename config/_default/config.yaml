@@ -5,9 +5,11 @@ removePathAccents: true
 
 deployment:
   targets:
-    name: scaleway.osuny.org
-    # URL: "s3://scaleway.osuny.org?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
-    URL: https://scaleway.osuny.org.s3.fr-par.scw.cloud
+    - name: "production"
+      URL: "s3://20949edb96ba493842246ee4c6d17088c622adbc00b708a9784d4255c4661607?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"  targets:
+    # - name: scaleway.osuny.org
+    #   # URL: "s3://scaleway.osuny.org?endpoint=https://s3.fr-par.scw.cloud&region=fr-par"
+    #   URL: https://scaleway.osuny.org.s3.fr-par.scw.cloud
 
 params:
   breadcrumb:
