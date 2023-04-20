@@ -105,17 +105,19 @@ footer#document-footer
                 display: none // Pas de lien haut de page en desktop 
     @include media-breakpoint-down(desktop)
         align-items: center
-        display: flex
-        flex-flow: column-reverse
         background-image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
         background-position-x: center
         background-position-y: 300px
         background-repeat: no-repeat
         background-size: 1000px auto
+        display: flex
+        flex-flow: column-reverse
+        padding-bottom: half($grid-gutter-sm)
         .container:first-of-type
             text-align: center
-            padding: $spacing5 0 0
+            padding: $spacing4 0 0
         .footer-site
+            padding-top: $spacing3
             p
                 font-family: $serif-font-family
                 font-style: italic
@@ -123,3 +125,5 @@ footer#document-footer
                 line-height: px2rem(34)
                 max-width: 300px
                 margin: $spacing4 auto
+            a
+                margin-top: $spacing4
