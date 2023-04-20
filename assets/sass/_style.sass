@@ -58,7 +58,9 @@ header#document-header
             text-align: center
 
 .toc-cta
-    background: none
+    @include media-breakpoint-up(desktop)
+        @include in-page-without-sidebar
+            background: none
 
 .block-pages
     @include media-breakpoint-up(desktop)
