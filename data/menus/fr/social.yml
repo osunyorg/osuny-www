@@ -37,4 +37,8 @@ items:
   target: https://www.linkedin.com/company/osuny/
   kind: url
   children: []
+- title: gitlab
+  target: https://gitlab.com/osuny/osuny
+  kind: url
+  children: []
 
