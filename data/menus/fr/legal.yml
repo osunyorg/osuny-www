@@ -17,7 +17,7 @@ items:
   target: "/a11y/"
   kind: page
   children: []
-- title: Plan du site
+- title: plan du site
   target: "/plan-du-site/"
   kind: page
   children: []
