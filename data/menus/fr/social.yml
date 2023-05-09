@@ -9,14 +9,6 @@ items:
   target: https://github.com/noesya/osuny
   kind: url
   children: []
-- title: développeurs
-  target: https://developers.osuny.org/
-  kind: url
-  children: []
-- title: statut du système
-  target: https://status.osuny.org
-  kind: url
-  children: []
 - title: gitlab
   target: https://gitlab.com/osuny/osuny
   kind: url
