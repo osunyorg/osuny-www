@@ -13,4 +13,8 @@ items:
   target: https://status.osuny.org/
   kind: url
   children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
+  children: []
 
