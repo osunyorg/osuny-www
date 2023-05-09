@@ -98,16 +98,17 @@ header#document-header
 footer#document-footer
     .container
         position: relative
+        &:first-of-type 
+            > * 
+                line-height: px2rem(28)
+            ul li 
+                margin-top: $spacing0
     .footer-title
         font-family: $serif-font-family
         font-style: italic
         font-size: px2rem(20)
         line-height: px2rem(34)
         margin-top: $spacing1
-    .footer-site
-        position: absolute
-        bottom: $grid-gutter
-        right: $grid-gutter
     .footer-social
         order: unset
         text-align: left
@@ -115,34 +116,19 @@ footer#document-footer
         background: $color-background-alt
         .container:first-of-type
             @include grid(4)
-            > * 
-                line-height: px2rem(28)
             ul li
                 @include meta
-                margin-top: $spacing0
         .container:last-of-type
             @include grid(2)
             align-items: flex-end
             margin-top: $spacing1
-        .footer-site a
-            display: none // Pas de lien haut de page en desktop 
+        .footer-site
+            &, a    
+                display: none // Pas de lien haut de page en desktop 
         .footer-logo
             text-align: right
             margin-left: auto
             width: col(4, 6)
-    @include media-breakpoint-down(desktop)
-        align-items: center
-        background-image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
-        background-position-x: center
-        background-position-y: 300px
-        background-repeat: no-repeat
-        background-size: 1000px auto
-        display: flex
-        flex-flow: column-reverse
-        padding-bottom: half($grid-gutter-sm)
-        .container:first-of-type
-            text-align: center
-            padding: $spacing4 0 0
     @include media-breakpoint-down(xxl)
         h2, 
         .footer-credit,
@@ -152,5 +138,24 @@ footer#document-footer
         h2, 
         .footer-credit
             @include meta
+    @include media-breakpoint-down(desktop)
+        background: 
+            image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
+            position: center 680px
+            repeat: no-repeat
+            size: 1000px auto
+        padding-bottom: half($grid-gutter-sm)
+        .container:first-of-type > * + *
+            margin-top: $spacing2
+        .footer-title
+            display: none
+        .footer-site,
+        .footer-logo
+            text-align: center
+        .footer-logo
+            margin-top: $spacing4
+            margin-bottom: $spacing3
+            padding-bottom: $spacing1
+
     h2
         font-weight: bold
