@@ -5,7 +5,7 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
-- title: conditions d'utilisation
+- title: Conditions d'utilisation
   target: "/conditions-d-utilisation/"
   kind: page
   children: []
