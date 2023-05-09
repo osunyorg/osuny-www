@@ -5,6 +5,10 @@ items:
   target: https://www.linkedin.com/company/osuny/
   kind: url
   children: []
+- title: github
+  target: https://github.com/noesya/osuny
+  kind: url
+  children: []
 - title: support
   target: https://support.osuny.org
   kind: url
@@ -23,10 +27,6 @@ items:
   children: []
 - title: statut du système
   target: https://status.osuny.org
-  kind: url
-  children: []
-- title: github
-  target: https://github.com/noesya/osuny
   kind: url
   children: []
 - title: gitlab
