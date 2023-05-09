@@ -17,4 +17,8 @@ items:
   target: "/espace-presse/"
   kind: page
   children: []
+- title: Sur contact@osuny.org
+  target: mailto:contact@osuny.org
+  kind: url
+  children: []
 
