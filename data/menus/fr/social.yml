@@ -9,7 +9,7 @@ items:
   target: https://github.com/noesya/osuny
   kind: url
   children: []
-- title: gitlab
+- title: Sur Gitlab
   target: https://gitlab.com/osuny/osuny
   kind: url
   children: []
