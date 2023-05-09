@@ -33,7 +33,7 @@ items:
   target: https://www.linkedin.com/company/osuny/
   kind: url
   children: []
-- title: Espace presse
+- title: Sur l'espace presse
   target: "/espace-presse/"
   kind: page
   children: []
