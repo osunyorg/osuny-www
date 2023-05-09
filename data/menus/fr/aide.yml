@@ -9,4 +9,8 @@ items:
   target: https://developers.osuny.org/
   kind: url
   children: []
+- title: En chat (Slack)
+  target: https://join.slack.com/t/osunysupport/shared_invite/zt-18m912cwz-s4UvB8qYgts9YHFebmeCKQ
+  kind: url
+  children: []
 
