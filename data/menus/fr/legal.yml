@@ -17,8 +17,4 @@ items:
   target: "/a11y/"
   kind: page
   children: []
-- title: espace presse
-  target: "/espace-presse/"
-  kind: page
-  children: []
 
