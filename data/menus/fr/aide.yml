@@ -1,4 +1,8 @@
 ---
 title: Aide
-items: []
+items:
+- title: Pour la contribution
+  target: https://support.osuny.org/
+  kind: url
+  children: []
 
