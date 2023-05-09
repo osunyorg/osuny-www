@@ -9,4 +9,8 @@ items:
   target: https://www.figma.com/community/file/1176490763864113451
   kind: url
   children: []
+- title: État du système
+  target: https://status.osuny.org/
+  kind: url
+  children: []
 
