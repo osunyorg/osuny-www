@@ -1,4 +1,8 @@
 ---
 title: Outils techniques
-items: []
+items:
+- title: Site d'exemple
+  target: https://example.osuny.org/
+  kind: url
+  children: []
 
