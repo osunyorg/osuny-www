@@ -17,4 +17,8 @@ items:
   target: "/a11y/"
   kind: page
   children: []
+- title: Licence MIT
+  target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
+  kind: url
+  children: []
 
