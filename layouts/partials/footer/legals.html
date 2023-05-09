@@ -1,0 +1,11 @@
+{{ $menu := partial "GetMenu" "legal" }}
+{{ if $menu }}
+  {{ $menu_title := $menu.title }}
+  <h2>{{$menu.title}}</h2>
+  {{ partial "commons/menu.html"
+    (dict
+      "kind"        "legal"
+      "level"       1
+      "class"       "nav-legal"
+    )}}
+{{ end }}

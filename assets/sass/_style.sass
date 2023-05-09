@@ -97,12 +97,39 @@ header#document-header
 
 footer#document-footer
     .container
-        align-items: flex-end
+        position: relative
+    .footer-title
+        font-family: $serif-font-family
+        font-style: italic
+        font-size: px2rem(20)
+        line-height: px2rem(34)
+        margin-top: $spacing1
+    .footer-site
+        position: absolute
+        bottom: $grid-gutter
+        right: $grid-gutter
+    .footer-social
+        order: unset
+        text-align: left
     @include media-breakpoint-up(desktop)
         background: $color-background-alt
-        .footer-site
-            a
-                display: none // Pas de lien haut de page en desktop 
+        .container:first-of-type
+            @include grid(4)
+            > * 
+                line-height: px2rem(28)
+            ul li
+                @include meta
+                margin-top: $spacing0
+        .container:last-of-type
+            @include grid(2)
+            align-items: flex-end
+            margin-top: $spacing1
+        .footer-site a
+            display: none // Pas de lien haut de page en desktop 
+        .footer-logo
+            text-align: right
+            margin-left: auto
+            width: col(4, 6)
     @include media-breakpoint-down(desktop)
         align-items: center
         background-image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
@@ -116,12 +143,14 @@ footer#document-footer
         .container:first-of-type
             text-align: center
             padding: $spacing4 0 0
-        .footer-site
-            padding-top: $spacing3
-            p
-                font-family: $serif-font-family
-                font-style: italic
-                font-size: px2rem(20)
-                line-height: px2rem(34)
-                max-width: 300px
-                margin: $spacing4 auto
+    @include media-breakpoint-down(xxl)
+        h2, 
+        .footer-credit,
+        .container:first-of-type ul li
+            font-size: $meta-size
+    @include media-breakpoint-up(xxl)
+        h2, 
+        .footer-credit
+            @include meta
+    h2
+        font-weight: bold

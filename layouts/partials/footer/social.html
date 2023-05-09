@@ -1,0 +1,12 @@
+{{ $menu := partial "GetMenu" "social" }}
+{{ if $menu }}
+  {{ $menu_title := $menu.title }}
+  <h2>{{$menu.title}}</h2>
+  {{ partial "commons/menu.html"
+    (dict
+      "kind"        "social"
+      "level"       1
+      "class"       "nav-social"
+    )}}
+{{ end }}
+
