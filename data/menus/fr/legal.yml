@@ -13,7 +13,7 @@ items:
   target: "/politique-de-sobriete/"
   kind: page
   children: []
-- title: accessibilité
+- title: Déclaration d'accessibilité
   target: "/a11y/"
   kind: page
   children: []
