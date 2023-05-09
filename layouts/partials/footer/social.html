@@ -1,7 +1,6 @@
 {{ $menu := partial "GetMenu" "social" }}
 {{ if $menu }}
-  {{ $menu_title := $menu.title }}
-  <h2>{{$menu.title}}</h2>
+  {{ partial "commons/menu-title.html" (dict "menu" $menu)}}
   {{ partial "commons/menu.html"
     (dict
       "kind"        "social"
