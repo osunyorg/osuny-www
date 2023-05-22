@@ -9,7 +9,7 @@ items:
   target: "/conditions-d-utilisation/"
   kind: page
   children: []
-- title: politique de sobriété
+- title: Politique de sobriété
   target: "/politique-de-sobriete/"
   kind: page
   children: []
