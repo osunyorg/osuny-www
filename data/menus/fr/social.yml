@@ -1,24 +1,4 @@
 ---
-title: Réseaux sociaux
-items:
-- title: Sur Linkedin
-  target: https://www.linkedin.com/company/osuny/
-  kind: url
-  children: []
-- title: Sur Github
-  target: https://github.com/noesya/osuny
-  kind: url
-  children: []
-- title: Sur Gitlab
-  target: https://gitlab.com/osuny/osuny
-  kind: url
-  children: []
-- title: Sur l'espace presse
-  target: "/espace-presse/"
-  kind: page
-  children: []
-- title: Sur contact@osuny.org
-  target: mailto:contact@osuny.org
-  kind: url
-  children: []
+title: Liens sociaux
+items: []
 
