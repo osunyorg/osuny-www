@@ -1,12 +1,220 @@
 ---
 title: Menu principal
 items:
-- title: Formations
-  target: "/formations/"
+- title: Usages
+  target: "/usages/"
   kind: page
-  children: []
-- title: Extranet
-  target: https://extranet.osuny.org/
-  kind: url
-  children: []
+  children:
+  - title: Universités & écoles publiques
+    target: "/usages/universites/"
+    kind: page
+    children: []
+  - title: Laboratoires de recherche
+    target: "/usages/laboratoires/"
+    kind: page
+    children: []
+  - title: Directions des Systèmes d’Information
+    target: "/usages/dsi/"
+    kind: page
+    children: []
+  - title: Écoles privées
+    target: "/usages/ecoles-privees/"
+    kind: page
+    children: []
+- title: Valeurs
+  target: "/valeurs/"
+  kind: page
+  children:
+  - title: Accessibilité
+    target: "/valeurs/accessibilite/"
+    kind: page
+    children: []
+  - title: Sobriété
+    target: "/valeurs/sobriete/"
+    kind: page
+    children: []
+  - title: Qualité
+    target: "/valeurs/qualite/"
+    kind: page
+    children: []
+  - title: Souveraineté
+    target: "/valeurs/souverainete/"
+    kind: page
+    children: []
+  - title: Liberté
+    target: "/valeurs/liberte/"
+    kind: page
+    children: []
+  - title: Communauté
+    target: "/valeurs/communaute/"
+    kind: page
+    children: []
+- title: Fonctionnalités
+  target: "/fonctionnalites/"
+  kind: page
+  children:
+  - title: Enseignement
+    target: "/fonctionnalites/enseignement/"
+    kind: page
+    children:
+    - title: Offre de formation
+      target: "/fonctionnalites/enseignement/offre-de-formation-1/"
+      kind: page
+      children: []
+    - title: Équipe pédagogique
+      target: "/fonctionnalites/enseignement/equipe-pedagogique/"
+      kind: page
+      children: []
+    - title: Feedbacks étudiants
+      target: "/fonctionnalites/enseignement/feedbacks-etudiants/"
+      kind: page
+      children: []
+    - title: Ressources éducatives libres
+      target: "/fonctionnalites/enseignement/ressources-educatives-libres/"
+      kind: page
+      children: []
+  - title: Recherche
+    target: "/fonctionnalites/recherche/"
+    kind: page
+    children:
+    - title: Équipe de recherche
+      target: "/fonctionnalites/recherche/equipe-de-recherche/"
+      kind: page
+      children: []
+    - title: Revues scientifiques
+      target: "/fonctionnalites/recherche/revues-scientifiques/"
+      kind: page
+      children: []
+    - title: Veille scientifique
+      target: "/fonctionnalites/recherche/veille-scientifique/"
+      kind: page
+      children: []
+  - title: Communication
+    target: "/fonctionnalites/communication/"
+    kind: page
+    children:
+    - title: Sites Web
+      target: "/fonctionnalites/communication/sites-web/"
+      kind: page
+      children: []
+    - title: Lettres d’information
+      target: "/fonctionnalites/communication/lettres-dinformation/"
+      kind: page
+      children: []
+    - title: Extranets
+      target: "/fonctionnalites/communication/extranets/"
+      kind: page
+      children: []
+  - title: Administration
+    target: "/fonctionnalites/administration/"
+    kind: page
+    children:
+    - title: Admissions
+      target: "/fonctionnalites/administration/admissions/"
+      kind: page
+      children: []
+    - title: Alumni
+      target: "/fonctionnalites/administration/alumni/"
+      kind: page
+      children: []
+    - title: Suivi qualité
+      target: "/fonctionnalites/administration/suivi-qualite/"
+      kind: page
+      children: []
+    - title: Statistiques
+      target: "/fonctionnalites/administration/statistiques/"
+      kind: page
+      children: []
+  - title: Informations techniques
+    target: "/fonctionnalites/informations-techniques/"
+    kind: page
+    children:
+    - title: Schéma
+      target: "/fonctionnalites/informations-techniques/schema/"
+      kind: page
+      children: []
+    - title: Infrastructure
+      target: "/fonctionnalites/informations-techniques/infrastructure/"
+      kind: page
+      children: []
+    - title: Sécurité
+      target: "/fonctionnalites/informations-techniques/securite/"
+      kind: page
+      children: []
+    - title: Rétrocompatibilité
+      target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
+      kind: page
+      children: []
+  - title: Thème Osuny
+    target: "/fonctionnalites/theme-osuny/"
+    kind: page
+    children:
+    - title: Schéma
+      target: "/fonctionnalites/theme-osuny/schema-1/"
+      kind: page
+      children: []
+    - title: Design System
+      target: "/fonctionnalites/theme-osuny/design-system/"
+      kind: page
+      children: []
+    - title: Blocs
+      target: "/fonctionnalites/theme-osuny/blocs/"
+      kind: page
+      children: []
+    - title: Sections
+      target: "/fonctionnalites/theme-osuny/sections/"
+      kind: page
+      children: []
+- title: Gouvernance
+  target: "/gouvernance/"
+  kind: page
+  children:
+  - title: Incubation
+    target: "/gouvernance/incubation/"
+    kind: page
+    children: []
+  - title: Éclosion
+    target: "/gouvernance/eclosion/"
+    kind: page
+    children: []
+  - title: Stabilisation
+    target: "/gouvernance/stabilisation/"
+    kind: page
+    children: []
+- title: Passer à l'action
+  target: "/passer-a-laction/"
+  kind: page
+  children:
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
+    kind: page
+    children: []
+  - title: Budgets
+    target: "/passer-a-laction/budgets/"
+    kind: page
+    children: []
+  - title: Réseau
+    target: "/passer-a-laction/reseau/"
+    kind: page
+    children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children:
+  - title: Références
+    target: "/actualites/references/"
+    kind: category
+    children: []
+  - title: Événements
+    target: "/actualites/evenements/"
+    kind: category
+    children: []
+  - title: Veille
+    target: "/actualites/veille/"
+    kind: category
+    children: []
+  - title: Toutes les actualités
+    target: "/actualites/"
+    kind: page
+    children: []
 
