@@ -1,0 +1,24 @@
+---
+title: Informations légales
+items:
+- title: Mentions légales
+  target: "/mentions-legales/"
+  kind: page
+  children: []
+- title: Conditions d'utilisation
+  target: "/conditions-d-utilisation/"
+  kind: page
+  children: []
+- title: Politique de sobriété
+  target: "/politique-de-sobriete/"
+  kind: page
+  children: []
+- title: Déclaration d'accessibilité
+  target: "/a11y/"
+  kind: page
+  children: []
+- title: Licence MIT
+  target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
+  kind: url
+  children: []
+
