@@ -29,6 +29,8 @@ header#document-header
         li
             p
                 @extend .small
+                line-height: 150%
+                display: block
                 @include media-breakpoint-down(desktop)
                     margin-bottom: 10px
                 @include media-breakpoint-up(desktop)
@@ -101,6 +103,13 @@ header#document-header
 
 .organizations
     grid-row-gap: $spacing0
+.persons__page
+    .hero
+        hgroup
+            margin-left: 0 !important
+            h1,
+            p
+                text-align: left
 
 footer#document-footer
     .container
