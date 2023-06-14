@@ -21,4 +21,8 @@ items:
   target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
   kind: url
   children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
+  children: []
 
