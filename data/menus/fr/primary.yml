@@ -181,6 +181,10 @@ items:
     target: "/gouvernance/stabilisation/"
     kind: page
     children: []
+  - title: Comité scientifique
+    target: "/gouvernance/comite-scientifique/"
+    kind: page
+    children: []
 - title: Passer à l'action
   target: "/passer-a-laction/"
   kind: page
