@@ -1,6 +1,10 @@
 ---
 title: Réseaux sociaux
 items:
+- title: Sur Mastodon
+  target: https://mastodon.social/@osuny
+  kind: url
+  children: []
 - title: Sur Linkedin
   target: https://www.linkedin.com/company/osuny/
   kind: url
