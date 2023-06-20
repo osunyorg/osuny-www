@@ -217,12 +217,12 @@ items:
     target: "/actualites/veille/"
     kind: category
     children: []
-  - title: Toutes les actualités
-    target: "/actualites/"
-    kind: page
-    children: []
   - title: Carnet de recherche
     target: "/actualites/carnet-de-recherche/"
     kind: category
+    children: []
+  - title: Toutes les actualités
+    target: "/actualites/"
+    kind: page
     children: []
 
