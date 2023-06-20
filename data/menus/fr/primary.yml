@@ -198,7 +198,7 @@ items:
     kind: page
     children: []
   - title: Réseau
-    target: "/personnes/"
+    target: "/passer-a-laction/reseau/"
     kind: page
     children: []
 - title: Actualités
