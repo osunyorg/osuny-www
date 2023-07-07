@@ -7,3 +7,6 @@ deployment:
   targets:
     - name: "production"
       URL: "s3://20949edb96ba493842246ee4c6d17088c622adbc00b708a9784d4255c4661607?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
+
+params:
+  plausible: osuny.org
