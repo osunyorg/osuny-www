@@ -1,0 +1,65 @@
+
+footer#document-footer
+    .container
+        position: relative
+        &:first-of-type 
+            > * 
+                line-height: px2rem(28)
+            ul li 
+                margin-top: $spacing0
+    .footer-title
+        font-family: $serif-font-family
+        font-style: italic
+        font-size: px2rem(20)
+        line-height: px2rem(34)
+        margin-top: $spacing1
+    .footer-social
+        order: unset
+        text-align: left
+    @include media-breakpoint-up(desktop)
+        background: $color-background-alt
+        .container:first-of-type
+            @include grid(4)
+            ul li
+                @include meta
+        .container:last-of-type
+            @include grid(2)
+            align-items: flex-end
+            margin-top: $spacing1
+        .footer-site
+            &, a    
+                display: none // Pas de lien haut de page en desktop 
+        .footer-logo
+            text-align: right
+            margin-left: auto
+            width: col(4, 6)
+    @include media-breakpoint-down(xxl)
+        h2, 
+        .footer-credit,
+        .container:first-of-type ul li
+            font-size: $meta-size
+    @include media-breakpoint-up(xxl)
+        h2, 
+        .footer-credit
+            @include meta
+    @include media-breakpoint-down(desktop)
+        background: 
+            image: url('/assets/images/sun.svg'), linear-gradient($color-background, black)
+            position: center 680px
+            repeat: no-repeat
+            size: 1000px auto
+        padding-bottom: half($grid-gutter-sm)
+        .container:first-of-type > * + *
+            margin-top: $spacing2
+        .footer-title
+            display: none
+        .footer-site,
+        .footer-logo
+            text-align: center
+        .footer-logo
+            margin-top: $spacing4
+            margin-bottom: $spacing3
+            padding-bottom: $spacing1
+
+    h2
+        font-weight: bold
