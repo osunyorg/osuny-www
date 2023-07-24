@@ -1,2 +1,14 @@
 title: >
   Osuny
+external_domains:
+  - "osuny-1b4da.kxcdn.com"
+  - "demo.osuny.org"
+  - "osuny.s3.fr-par.scw.cloud"
+  - "plausible.io"
+  - "vimeo.com"
+  - "www.youtube.com"
+  - "youtu.be"
+  - "www.figma.com"
+  - "videos.lescommuns.org"
+  - "calendly.com"
+  - "assets.calendly.com"
