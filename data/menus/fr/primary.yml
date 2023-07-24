@@ -201,6 +201,10 @@ items:
     target: "/passer-a-laction/reseau/"
     kind: page
     children: []
+  - title: Osuny as a Service
+    target: "/passer-a-laction/osuny-as-a-service/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
