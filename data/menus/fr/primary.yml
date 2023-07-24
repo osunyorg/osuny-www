@@ -193,12 +193,12 @@ items:
     target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
     children: []
-  - title: Budgets
-    target: "/passer-a-laction/budgets/"
-    kind: page
-    children: []
   - title: Réseau
     target: "/passer-a-laction/reseau/"
+    kind: page
+    children: []
+  - title: Budgets
+    target: "/passer-a-laction/budgets/"
     kind: page
     children: []
   - title: Exemples
