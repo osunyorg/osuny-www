@@ -189,8 +189,8 @@ items:
   target: "/passer-a-laction/"
   kind: page
   children:
-  - title: Exemples
-    target: "/passer-a-laction/exemples/"
+  - title: Osuny as a Service
+    target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
     children: []
   - title: Budgets
@@ -201,8 +201,8 @@ items:
     target: "/passer-a-laction/reseau/"
     kind: page
     children: []
-  - title: Osuny as a Service
-    target: "/passer-a-laction/osuny-as-a-service/"
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
     kind: page
     children: []
 - title: Actualités
