@@ -154,7 +154,7 @@ items:
       kind: page
       children: []
     - title: Design System
-      target: "/fonctionnalites/theme-osuny/design-system/"
+      target: "/fonctionnalites/theme-osuny/theme-figma/"
       kind: page
       children: []
 - title: Gouvernance
