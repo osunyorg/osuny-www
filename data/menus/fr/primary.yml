@@ -150,7 +150,7 @@ items:
     kind: page
     children:
     - title: Schéma
-      target: "/fonctionnalites/theme-osuny/schema-1/"
+      target: "/fonctionnalites/theme-osuny/schema-systeme-de-design/"
       kind: page
       children: []
     - title: Design System
