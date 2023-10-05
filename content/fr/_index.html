@@ -1,7 +1,8 @@
 ---
-title: >
-  Accueil
+title: "Accueil"
 breadcrumb_title: "Accueil"
+breadcrumbs:
+  - title: "Accueil"
 url: "/"
 
 full_width: true
@@ -18,17 +19,17 @@ translation_key: communication-website-page-3d703057-556d-4854-b116-bc2a87aaa701
 bodyclass: 
 
 children:
-  - /actualites/
-  - /usages/
-  - /personnes/
-  - /valeurs/
-  - /fonctionnalites/
-  - /gouvernance/
-  - /passer-a-laction/
-  - /espace-presse/
-  - /politique-de-sobriete/
-  - /conditions-d-utilisation/
-  - /organisations/
+  - "content/fr/posts/_index.html"
+  - "content/fr/pages/usages/_index.html"
+  - "content/fr/persons/_index.html"
+  - "content/fr/pages/valeurs/_index.html"
+  - "content/fr/pages/fonctionnalites/_index.html"
+  - "content/fr/pages/gouvernance/_index.html"
+  - "content/fr/pages/passer-a-laction/_index.html"
+  - "content/fr/pages/espace-presse/_index.html"
+  - "content/fr/pages/politique-de-sobriete/_index.html"
+  - "content/fr/pages/conditions-d-utilisation/_index.html"
+  - "content/fr/organizations/_index.html"
 meta_description: >
   Un commun numérique libre, sobre et accessible pour l'Enseignement Supérieur et la Recherche
 description: >
@@ -80,64 +81,6 @@ contents:
         - "2022/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies"
         - "2022/2022-07-06-l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise"
         - "2022/2022-05-31-communication-democratie"
-      elements:
-        - title: >-
-            noesya produit le site Web du Dictionnaire du Climat, pour les Nations Unies
-          summary: >-
-            Nous sommes très heureux d'avoir produit le site Web du Dictionnaire du Climat des Nations Unies pour l'Europe occidentale.
-          slug: "noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies"
-          path: "/2022/11/21/noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies"
-          url: "/actualites/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/"
-          image:
-            id: "ef55d0a1-5e04-4424-a321-4b72168bd5ed"
-            alt: >-
-              Dico du Climat
-            credit: >-
-              
-          categories:
-            - title: >-
-                Références
-              slug: "references"
-              path: "/references/"
-              url: "/actualites/references/"
-        - title: >-
-            L'IUT Bordeaux Montaigne se dote d'un site sobre, accessible et sécurisé
-          summary: >-
-            Nous sommes très heureux de vous annoncer la mise en ligne du nouveau site de l'IUT Bordeaux Montaigne ! Sécurité, accessibilité, sobriété, qualité, souveraineté, liberté, communauté, découvrez comment Osuny répond à tous ces impératifs, concrètement.
-          slug: "l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise"
-          path: "/2022/07/06/l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise"
-          url: "/actualites/2022-07-06-l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/"
-          image:
-            id: "8822896d-ff5f-4c29-9653-fa2b9e4a7535"
-            alt: >-
-              
-            credit: >-
-              
-          categories:
-            - title: >-
-                Références
-              slug: "references"
-              path: "/references/"
-              url: "/actualites/references/"
-        - title: >-
-            Communication &amp; démocratie
-          summary: >-
-            Le site de l'association Communication et démocratie est développé avec Osuny !
-          slug: "communication-democratie"
-          path: "/2022/05/31/communication-democratie"
-          url: "/actualites/2022-05-31-communication-democratie/"
-          image:
-            id: "2083bb9f-1604-4e50-9ee8-c6d149e7490d"
-            alt: >-
-              
-            credit: >-
-              
-          categories:
-            - title: >-
-                Références
-              slug: "references"
-              path: "/references/"
-              url: "/actualites/references/"
 
 
   - kind: block
@@ -173,57 +116,31 @@ contents:
       Usages
     position: 4
     data:
-      page: /usages/
+      page: 
+        path: "/usages/"
+        slug: "usages"
+        file: "content/fr/pages/usages/_index.html"
       show_main_description: true
       show_descriptions: true
       show_images: false
       layout: grid
       pages:
-        - page: "/usages/universites/"
-          slug: "/usages/universites/"
-        - page: "/usages/laboratoires/"
-          slug: "/usages/laboratoires/"
-        - page: "/usages/dsi/"
-          slug: "/usages/dsi/"
-        - page: "/usages/ecoles-privees/"
-          slug: "/usages/ecoles-privees/"
-      elements:
-        - title: >-
-            Universités &amp; écoles publiques
-          summary: >-
-            Décarboner les sites Web et améliorer l'accessibilité
+        - path: "/usages/universites/"
           slug: "universites"
-          path: "/usages/universites/"
-          url: "/usages/universites/"
-          bodyclass: >-
-            
-        - title: >-
-            Laboratoires de recherche
-          summary: >-
-            Favoriser l'open science, l'inclusion et la sobriété
+          file: "content/fr/pages/usages/universites/_index.html"
+          external: false
+        - path: "/usages/laboratoires/"
           slug: "laboratoires"
-          path: "/usages/laboratoires/"
-          url: "/usages/laboratoires/"
-          bodyclass: >-
-            
-        - title: >-
-            DSI
-          summary: >-
-            Alléger l’empreinte écologique du SI &amp; diminuer le Shadow IT
+          file: "content/fr/pages/usages/laboratoires/_index.html"
+          external: false
+        - path: "/usages/dsi/"
           slug: "dsi"
-          path: "/usages/dsi/"
-          url: "/usages/dsi/"
-          bodyclass: >-
-            
-        - title: >-
-            Écoles privées
-          summary: >-
-            Améliorer la performance des sites par la sobriété et l'accessibilité
+          file: "content/fr/pages/usages/dsi/_index.html"
+          external: false
+        - path: "/usages/ecoles-privees/"
           slug: "ecoles-privees"
-          path: "/usages/ecoles-privees/"
-          url: "/usages/ecoles-privees/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/usages/ecoles-privees/_index.html"
+          external: false
 
 
   - kind: block
@@ -232,79 +149,39 @@ contents:
       Valeurs
     position: 5
     data:
-      page: /valeurs/
+      page: 
+        path: "/valeurs/"
+        slug: "valeurs"
+        file: "content/fr/pages/valeurs/_index.html"
       show_main_description: true
       show_descriptions: true
       show_images: false
       layout: grid
       pages:
-        - page: "/valeurs/accessibilite/"
-          slug: "/valeurs/accessibilite/"
-        - page: "/valeurs/sobriete/"
-          slug: "/valeurs/sobriete/"
-        - page: "/valeurs/qualite/"
-          slug: "/valeurs/qualite/"
-        - page: "/valeurs/souverainete/"
-          slug: "/valeurs/souverainete/"
-        - page: "/valeurs/liberte/"
-          slug: "/valeurs/liberte/"
-        - page: "/valeurs/communaute/"
-          slug: "/valeurs/communaute/"
-      elements:
-        - title: >-
-            Accessibilité
-          summary: >-
-            Inclure tous les publics
+        - path: "/valeurs/accessibilite/"
           slug: "accessibilite"
-          path: "/valeurs/accessibilite/"
-          url: "/valeurs/accessibilite/"
-          bodyclass: >-
-            
-        - title: >-
-            Sobriété
-          summary: >-
-            Économiser les ressources
+          file: "content/fr/pages/valeurs/accessibilite/_index.html"
+          external: false
+        - path: "/valeurs/sobriete/"
           slug: "sobriete"
-          path: "/valeurs/sobriete/"
-          url: "/valeurs/sobriete/"
-          bodyclass: >-
-            
-        - title: >-
-            Qualité
-          summary: >-
-            Soigner l'expérience
+          file: "content/fr/pages/valeurs/sobriete/_index.html"
+          external: false
+        - path: "/valeurs/qualite/"
           slug: "qualite"
-          path: "/valeurs/qualite/"
-          url: "/valeurs/qualite/"
-          bodyclass: >-
-            
-        - title: >-
-            Souveraineté
-          summary: >-
-            Héberger en France
+          file: "content/fr/pages/valeurs/qualite/_index.html"
+          external: false
+        - path: "/valeurs/souverainete/"
           slug: "souverainete"
-          path: "/valeurs/souverainete/"
-          url: "/valeurs/souverainete/"
-          bodyclass: >-
-            
-        - title: >-
-            Liberté
-          summary: >-
-            Partager le code
+          file: "content/fr/pages/valeurs/souverainete/_index.html"
+          external: false
+        - path: "/valeurs/liberte/"
           slug: "liberte"
-          path: "/valeurs/liberte/"
-          url: "/valeurs/liberte/"
-          bodyclass: >-
-            
-        - title: >-
-            Communauté
-          summary: >-
-            Co-construire un commun numérique
+          file: "content/fr/pages/valeurs/liberte/_index.html"
+          external: false
+        - path: "/valeurs/communaute/"
           slug: "communaute"
-          path: "/valeurs/communaute/"
-          url: "/valeurs/communaute/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/valeurs/communaute/_index.html"
+          external: false
 
 
   - kind: block
@@ -313,79 +190,39 @@ contents:
       Fonctionnalités
     position: 6
     data:
-      page: /fonctionnalites/
+      page: 
+        path: "/fonctionnalites/"
+        slug: "fonctionnalites"
+        file: "content/fr/pages/fonctionnalites/_index.html"
       show_main_description: true
       show_descriptions: true
       show_images: false
       layout: grid
       pages:
-        - page: "/fonctionnalites/enseignement/"
-          slug: "/fonctionnalites/enseignement/"
-        - page: "/fonctionnalites/recherche/"
-          slug: "/fonctionnalites/recherche/"
-        - page: "/fonctionnalites/communication/"
-          slug: "/fonctionnalites/communication/"
-        - page: "/fonctionnalites/administration/"
-          slug: "/fonctionnalites/administration/"
-        - page: "/fonctionnalites/informations-techniques/"
-          slug: "/fonctionnalites/informations-techniques/"
-        - page: "/fonctionnalites/theme-osuny/"
-          slug: "/fonctionnalites/theme-osuny/"
-      elements:
-        - title: >-
-            Enseignement
-          summary: >-
-            Faciliter les missions pédagogiques
+        - path: "/fonctionnalites/enseignement/"
           slug: "enseignement"
-          path: "/fonctionnalites/enseignement/"
-          url: "/fonctionnalites/enseignement/"
-          bodyclass: >-
-            
-        - title: >-
-            Recherche
-          summary: >-
-            Favoriser la recherche ouverte
+          file: "content/fr/pages/fonctionnalites/enseignement/_index.html"
+          external: false
+        - path: "/fonctionnalites/recherche/"
           slug: "recherche"
-          path: "/fonctionnalites/recherche/"
-          url: "/fonctionnalites/recherche/"
-          bodyclass: >-
-            
-        - title: >-
-            Communication
-          summary: >-
-            Communiquer avec transparence
+          file: "content/fr/pages/fonctionnalites/recherche/_index.html"
+          external: false
+        - path: "/fonctionnalites/communication/"
           slug: "communication"
-          path: "/fonctionnalites/communication/"
-          url: "/fonctionnalites/communication/"
-          bodyclass: >-
-            
-        - title: >-
-            Administration
-          summary: >-
-            Gérer simplement le quotidien
+          file: "content/fr/pages/fonctionnalites/communication/_index.html"
+          external: false
+        - path: "/fonctionnalites/administration/"
           slug: "administration"
-          path: "/fonctionnalites/administration/"
-          url: "/fonctionnalites/administration/"
-          bodyclass: >-
-            
-        - title: >-
-            Informations techniques
-          summary: >-
-            Découvrir les détails d'implémentation
+          file: "content/fr/pages/fonctionnalites/administration/_index.html"
+          external: false
+        - path: "/fonctionnalites/informations-techniques/"
           slug: "informations-techniques"
-          path: "/fonctionnalites/informations-techniques/"
-          url: "/fonctionnalites/informations-techniques/"
-          bodyclass: >-
-            
-        - title: >-
-            Thème Osuny
-          summary: >-
-            Découvrir l'ensemble des composants et des modèles de conception
+          file: "content/fr/pages/fonctionnalites/informations-techniques/_index.html"
+          external: false
+        - path: "/fonctionnalites/theme-osuny/"
           slug: "theme-osuny"
-          path: "/fonctionnalites/theme-osuny/"
-          url: "/fonctionnalites/theme-osuny/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/fonctionnalites/theme-osuny/_index.html"
+          external: false
 
 
   - kind: block
@@ -394,57 +231,31 @@ contents:
       Passer à l'action
     position: 7
     data:
-      page: /passer-a-laction/
+      page: 
+        path: "/passer-a-laction/"
+        slug: "passer-a-laction"
+        file: "content/fr/pages/passer-a-laction/_index.html"
       show_main_description: true
       show_descriptions: true
       show_images: false
       layout: grid
       pages:
-        - page: "/passer-a-laction/exemples/"
-          slug: "/passer-a-laction/exemples/"
-        - page: "/passer-a-laction/budgets/"
-          slug: "/passer-a-laction/budgets/"
-        - page: "/passer-a-laction/osuny-as-a-service/"
-          slug: "/passer-a-laction/osuny-as-a-service/"
-        - page: "/passer-a-laction/reseau/"
-          slug: "/passer-a-laction/reseau/"
-      elements:
-        - title: >-
-            Exemples
-          summary: >-
-            Découvrir des sites produits avec Osuny
+        - path: "/passer-a-laction/exemples/"
           slug: "exemples"
-          path: "/passer-a-laction/exemples/"
-          url: "/passer-a-laction/exemples/"
-          bodyclass: >-
-            
-        - title: >-
-            Budget
-          summary: >-
-            Comprendre les coûts initiaux et récurrents de la solution
+          file: "content/fr/pages/passer-a-laction/exemples/_index.html"
+          external: false
+        - path: "/passer-a-laction/budgets/"
           slug: "budgets"
-          path: "/passer-a-laction/budgets/"
-          url: "/passer-a-laction/budgets/"
-          bodyclass: >-
-            
-        - title: >-
-            Osuny as a Service
-          summary: >-
-            Utiliser le back-office mutualisé, sécurisé et efficace écologiquement
+          file: "content/fr/pages/passer-a-laction/budgets/_index.html"
+          external: false
+        - path: "/passer-a-laction/osuny-as-a-service/"
           slug: "osuny-as-a-service"
-          path: "/passer-a-laction/osuny-as-a-service/"
-          url: "/passer-a-laction/osuny-as-a-service/"
-          bodyclass: >-
-            
-        - title: >-
-            Réseau
-          summary: >-
-            Solliciter des personnes engagées sur tout le territoire
+          file: "content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html"
+          external: false
+        - path: "/passer-a-laction/reseau/"
           slug: "reseau"
-          path: "/passer-a-laction/reseau/"
-          url: "/passer-a-laction/reseau/"
-          bodyclass: >-
-            
+          file: "content/fr/pages/passer-a-laction/reseau/_index.html"
+          external: false
 
 
   - kind: heading
@@ -465,268 +276,53 @@ contents:
       with_link: false
       organizations:
         - slug: "african-futures-lab"
+          external: false
         - slug: "classcode"
+          external: false
         - slug: "communication-democratie"
+          external: false
         - slug: "ctrl-s"
+          external: false
         - slug: "degrowth-journal"
+          external: false
         - slug: "mica"
+          external: false
         - slug: "mit-anthropology"
+          external: false
         - slug: "nations-unies"
+          external: false
         - slug: "noesya"
+          external: false
         - slug: "opcd"
+          external: false
         - slug: "pixelis"
+          external: false
         - slug: "post-growth-innovation-lab"
+          external: false
         - slug: "ran-coper"
+          external: false
         - slug: "re-akt"
+          external: false
         - slug: "region-nouvelle-aquitaine"
+          external: false
         - slug: "rose-primaire"
+          external: false
         - slug: "scaleway"
+          external: false
         - slug: "scalingo"
+          external: false
         - slug: "sinon-virgule"
+          external: false
         - slug: "tactic"
+          external: false
         - slug: "universite-bordeaux-montaigne"
+          external: false
         - slug: "universite-clermont-auvergne"
+          external: false
         - slug: "universite-de-bordeaux"
+          external: false
         - slug: "universite-de-vigo"
-      elements:
-        - title: >-
-            
-          kind: "osuny"
-          slug: "african-futures-lab"
-          url: "/organisations/african-futures-lab/"
-          logo:
-            light_background:
-              id: "34469ae1-8956-499e-81a8-2acc1d608543"
-            dark_background:
-              id: "b40dfc7e-ec6d-4d63-9e81-8401629981a3"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "classcode"
-          url: "/organisations/classcode/"
-          logo:
-            light_background:
-              id: "f06ab315-bd7a-47f6-a65c-573833a4290f"
-            dark_background:
-              id: "b6e29efe-d102-49e0-883f-4c80f0fee107"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "communication-democratie"
-          url: "/organisations/communication-democratie/"
-          logo:
-            light_background:
-              id: "7561494f-ac04-4ec6-92a4-960a5f85f051"
-            dark_background:
-              id: "f457bc22-0446-4e2e-9c95-0e1a40064ae7"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "ctrl-s"
-          url: "/organisations/ctrl-s/"
-          logo:
-            light_background:
-              id: "fd07b395-ec47-4325-a4a3-a3dd96132e3b"
-            dark_background:
-              id: "9bafd35a-7ba1-461a-b1e9-e16bd1ff6376"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "degrowth-journal"
-          url: "/organisations/degrowth-journal/"
-          logo:
-            light_background:
-              id: "51b55fa8-c527-45f2-a628-58d3878c7210"
-            dark_background:
-              id: "1917e8ec-f2f9-4b4c-b7a6-6bba95805cde"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "mica"
-          url: "/organisations/mica/"
-          logo:
-            light_background:
-              id: "55080e08-1a69-4cda-9533-35945b6f5d42"
-            dark_background:
-              id: "a4cb20ce-5373-4e65-8804-76972d18c7be"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "mit-anthropology"
-          url: "/organisations/mit-anthropology/"
-          logo:
-            light_background:
-              id: "3dd4d155-d649-4d22-ba28-53f7dad5f0c1"
-            dark_background:
-              id: "16e028f2-8656-4e86-9fc3-1f517f7cc715"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "nations-unies"
-          url: "/organisations/nations-unies/"
-          logo:
-            light_background:
-              id: "9a72a6d9-6525-47e7-bade-3d0f213b9b11"
-            dark_background:
-              id: "91cc767e-ece9-403e-b3b1-986b88784c77"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "noesya"
-          url: "/organisations/noesya/"
-          logo:
-            light_background:
-              id: "ffc7bfd9-4650-49aa-9f89-c700c8eed7db"
-            dark_background:
-              id: "e54229f0-d8e5-4ea8-9d0e-a7e98243dc5f"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "opcd"
-          url: "/organisations/opcd/"
-          logo:
-            light_background:
-              id: "4c0d7e7a-8060-4384-b416-d85ebfa52a30"
-            dark_background:
-              id: "2876e483-328f-426b-9078-d317cefaa81d"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "pixelis"
-          url: "/organisations/pixelis/"
-          logo:
-            light_background:
-              id: "293f8eb1-5588-4e1d-84b4-f9ffccefc58b"
-            dark_background:
-              id: "10e9e07d-b98a-46b8-8e1d-65e959e64e5a"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "post-growth-innovation-lab"
-          url: "/organisations/post-growth-innovation-lab/"
-          logo:
-            light_background:
-              id: "5adba66b-38c7-4981-a3d6-17724fa3fdfd"
-            dark_background:
-              id: "9af5168f-60c8-45e7-b7ba-94e5e2e4a522"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "ran-coper"
-          url: "/organisations/ran-coper/"
-          logo:
-            light_background:
-              id: "802415c9-5606-499a-9569-6ec23414ebc8"
-            dark_background:
-              id: "383ad3c2-c4fe-4886-8833-fe7dc7e5ec69"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "re-akt"
-          url: "/organisations/re-akt/"
-          logo:
-            light_background:
-              id: "7f275c7a-6038-41e6-8c3e-feb9d14cca55"
-            dark_background:
-              id: "ba7a078b-d03b-4139-9e29-6f8cdf6810fd"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "region-nouvelle-aquitaine"
-          url: "/organisations/region-nouvelle-aquitaine/"
-          logo:
-            light_background:
-              id: "7bea6214-e49b-4a80-b480-9ddcc010f133"
-            dark_background:
-              id: "e5cae486-5436-4102-bfdc-69d21cde6f5a"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "rose-primaire"
-          url: "/organisations/rose-primaire/"
-          logo:
-            light_background:
-              id: "dfe138d8-c347-4de1-a3f3-339fcc993d28"
-            dark_background:
-              id: "2a814dc7-1ff8-40dc-85ce-f7bfa22486da"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "scaleway"
-          url: "/organisations/scaleway/"
-          logo:
-            light_background:
-              id: "3ca867af-7a70-440b-abdf-11a427e840b4"
-            dark_background:
-              id: "24da8bec-58c5-472c-a458-951afe7b9164"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "scalingo"
-          url: "/organisations/scalingo/"
-          logo:
-            light_background:
-              id: "5c0771ef-f947-4418-a771-6d727d7b8869"
-            dark_background:
-              id: "b1a10c4b-2aff-468e-82a8-a4a3adc94626"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "sinon-virgule"
-          url: "/organisations/sinon-virgule/"
-          logo:
-            light_background:
-              id: "df9ff5c4-93a5-4887-b757-40f876b22733"
-            dark_background:
-              id: "4539d021-d2b7-481d-a2eb-977ca2693ca4"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "tactic"
-          url: "/organisations/tactic/"
-          logo:
-            dark_background:
-              id: "58f9c93a-10aa-4324-8f15-16c490c2529f"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "universite-bordeaux-montaigne"
-          url: "/organisations/universite-bordeaux-montaigne/"
-          logo:
-            light_background:
-              id: "111d4c36-b0cd-4520-925e-19427251494a"
-            dark_background:
-              id: "350ebe80-8864-43c6-b2b5-f7b65dc2a790"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "universite-clermont-auvergne"
-          url: "/organisations/universite-clermont-auvergne/"
-          logo:
-            light_background:
-              id: "1dae6d8b-4fbe-4032-82bb-b9533c6bb826"
-            dark_background:
-              id: "e35cabb7-14c8-49dc-bd0b-e229b20e69c2"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "universite-de-bordeaux"
-          url: "/organisations/universite-de-bordeaux/"
-          logo:
-            light_background:
-              id: "9dc4c1ac-487d-4c80-8798-42c7a81d375d"
-            dark_background:
-              id: "9afa7742-8b1e-48a1-b7c0-43dd33a81e3c"
-        - title: >-
-            
-          kind: "osuny"
-          slug: "universite-de-vigo"
-          url: "/organisations/universite-de-vigo/"
-          logo:
-            light_background:
-              id: "5037084b-45c9-4062-963f-600479eda662"
-            dark_background:
-              id: "4e014364-2c01-4a27-a122-4722b6392cc3"
+          external: false
 
 
 
