@@ -6,8 +6,13 @@ external_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "plausible.io"
+  - "vimeo.com"
   - "player.vimeo.com"
+  - "vumbnail.com"
+  - "youtube.com"
   - "www.youtube.com"
+  - "img.youtube.com"
+  - "youtu.be"
   - "www.figma.com"
   - "videos.lescommuns.org"
 social:
