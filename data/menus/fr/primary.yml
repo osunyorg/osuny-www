@@ -21,6 +21,10 @@ items:
     target: "/usages/ecoles-privees/"
     kind: page
     children: []
+- title: Événements
+  target: "/agenda/"
+  kind: page
+  children: []
 - title: Valeurs
   target: "/valeurs/"
   kind: page
@@ -203,10 +207,6 @@ items:
   children:
   - title: Références
     target: "/actualites/references/"
-    kind: category
-    children: []
-  - title: Événements
-    target: "/actualites/evenements/"
     kind: category
     children: []
   - title: Veille
