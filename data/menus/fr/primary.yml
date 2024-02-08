@@ -206,8 +206,8 @@ items:
     kind: category
     children: []
   - title: Événements
-    target: "/agenda/"
-    kind: page
+    target: "/actualites/evenements/"
+    kind: category
     children: []
   - title: Veille
     target: "/actualites/veille/"
