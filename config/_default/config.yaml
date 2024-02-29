@@ -4,3 +4,5 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   plausible: osuny.org
+  debug:
+    productionUrl: https://osuny.org
