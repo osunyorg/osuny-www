@@ -72,9 +72,9 @@ summary: >
   
 
 contents_reading_time:
-  seconds: 420
+  seconds: 551
   text: >-
-    7 minutes
+    9 minutes
 contents:
   - kind: block
     template: chapter
@@ -308,7 +308,7 @@ contents:
     data:
       layout: no_background
       text: >-
-        
+        <p>Pierre-André et Sébastien présente les releases côté back.</p><p><a href="https://github.com/osunyorg/admin/releases/tag/v2.2">https://github.com/osunyorg/admin/releases/tag/v2.2</a><br></p><p>  </p><ul>  <li>Principalement, il s'agit de nettoyage et d'amélioration de la performance.</li>  <li>Un gros travail sur la performance a été effectué car Osuny est en train de grossir. Nous avons une charge plus importante, ce qui implique des relations plus complexes. La durée de calcul empiète dans la journée, passant de 1 à 2 heures à 10 heures. Par conséquent, nous devons repenser notre manière d'optimiser les choses. Arnaud précise que l'augmentation brutale des serveurs n'est pas une solution responsable. Nous devons donc mettre plus d'intelligence dans les calculs.</li>  <li>Travail sur le bloc portfolio</li>  <li>Nouvelle gestion des classes de body. Les enfants peuvent maintenant avoir une classe de body différente.</li>  <li>Les campus : suite au besoin du site de l'IUT de Bordeaux, le multi-campus a été créé</li>  <li>Des problèmes techniques avec le slug ont été corrigés.</li>  <li>Quelques problèmes d'images par défaut</li>  <li>Problème de time zone pour les événements, doit être géré à l'international</li>  <li>Problème avec les caractères HAL qui bloquaient les compilations Hugo</li>  <li>L'éditeur de texte : remis en place de manière plus intelligente</li>  <li>Travail sur le content security policy</li>  </ul><p><a href="https://github.com/osunyorg/admin/releases/tag/v2.2.1" target="_blank">https://github.com/osunyorg/admin/releases/tag/v2.2.1</a><a href="https://github.com/osunyorg/admin/releases/tag/v2.2.1"></a></p><ul>  <li>Travail sur les breadcrumbs et les permalinks : On enlève des choses à Hugo pour les calculer avec Ruby. On fait un précalcul sur les fils d'Ariane, on les fournit au thème qui n'a qu'à les afficher. Mais il y a le problème des parents non publiés qui peut arriver. On se pose la question si on dépublie un parent ne pourrait-on pas dépublier des enfants pour éviter des choses étranges, on hésite là-dessus.</li>  <li>Problèmes liés à la quantité de code, il faut ranger de manière intelligente. <a href="https://codeclimate.com/github/osunyorg/admin">https://codeclimate.com/github/osunyorg/admin</a> : 1651 fichiers qui ont un niveau de maintenabilité. Il y a encore des choses à régler, 23 code smells et 99 issues</li>  <li>Présentation de l’analyse Git. Sébastien nous explique qu’on s'est retrouvé avec Osuny qui avait beaucoup de tâches de fond. Osuny gardait des fichiers qui devaient être supprimés. Quand on met à jour le thème on a besoin de savoir. On a donc développé un outil pour savoir s'il y a des sites à vérifier avant de mettre à jour le thème. Une analyse est faite pour avoir tous les fichiers sur git, les fichiers orphelins. Il y a une passe manuelle pour supprimer les fichiers côtés github. Ça veut dire qu'il y a des trous chez nous, c’est souvent un problème de robustesse. Cela traduit malheureusement des imperfections dans notre code mais on peut aller corriger et modifier cela. On a réglé une source qui a pu engendrer ce problème là. Si le problème se reproduit, on aura une partie de débugage et de correctifs.</li>  </ul><ul>  </ul>
 
       notes: >-
         
