@@ -14,9 +14,9 @@ fr:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /personnes/:slug/
-    persons_categories: /personnes/:slug/
+    persons_categories: /personnes/categories/:slug/
     authors: /personnes/:slug/actualites/
   taxonomies:
     administrator: administrators
