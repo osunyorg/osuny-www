@@ -25,4 +25,8 @@ items:
   target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
   kind: url
   children: []
+- title: Transparence financière
+  target: https://transparence.osuny.org
+  kind: url
+  children: []
 
