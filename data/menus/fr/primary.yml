@@ -145,6 +145,10 @@ items:
       target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
       kind: page
       children: []
+    - title: Réversibilité
+      target: "/fonctionnalites/informations-techniques/reversibilite/"
+      kind: page
+      children: []
   - title: Thème Osuny
     target: "/fonctionnalites/theme-osuny/"
     kind: page
