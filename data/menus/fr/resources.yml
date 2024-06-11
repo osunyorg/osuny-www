@@ -13,4 +13,8 @@ items:
   target: https://status.osuny.org/
   kind: url
   children: []
+- title: Showcase
+  target: https://showcase.osuny.org
+  kind: url
+  children: []
 
