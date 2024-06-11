@@ -13,6 +13,10 @@ items:
   target: "/politique-de-sobriete/"
   kind: page
   children: []
+- title: Transparence financière
+  target: https://transparence.osuny.org
+  kind: url
+  children: []
 - title: Déclaration d'accessibilité
   target: "/a11y/"
   kind: page
@@ -23,10 +27,6 @@ items:
   children: []
 - title: Licence MIT
   target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
-  kind: url
-  children: []
-- title: Transparence financière
-  target: https://transparence.osuny.org
   kind: url
   children: []
 
