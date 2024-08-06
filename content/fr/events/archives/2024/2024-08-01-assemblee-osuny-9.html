@@ -417,9 +417,69 @@ contents:
 
   - kind: heading
     title: >-
+      Questionnements sur LanguageTool
+    slug: "questionnements-sur-languagetool"
+    position: 10
+    rank: 2
+  - kind: block
+    template: chapter
+    title: >-
+      
+    ranks:
+      self: false
+    data:
+      layout: no_background
+      text: >-
+        <p>Laisse-t-on LanguageTool comme cela ou est-ce qu’on le déclenche au clic d’un bouton ?</p><p>LanguageTool permet d’analyser le texte et de voir la liste des problèmes. Il est capable de détecter des erreurs de grammaire, d’orthographe, de typographie, et des lourdeurs stylistiques.<br>Nous avons un abonnement pour 100 requêtes par jour pour 29 euros par mois. Cela fait de la pédagogie en expliquant les problèmes rencontrés. Le problème, c'est que cela se fait automatiquement, ce qui incite à corriger. Mais, certains jours, nous avons 2000 requêtes par jour. Nous avons demandé à ajuster les tarifs : il faudrait passer à 1000 requêtes par jour pour 100€ par mois.</p><p>Choix :<br>- Bouton dans le menu : faire une analyse. On choisit de lancer l’analyse. C’est mieux au niveau écologique<br>- Non, on le fait automatiquement, cela aide les personnes à produire un meilleur texte. Si la personne ne voit pas les erreurs, cela imposera aux lecteurs un style peut être lourd à lire.<br>Qu'est-ce que nous choisissons ?</p><p>Dianela pense que si une personne connaît la fonctionnalité et que ça lui sert, elle va l'activer.<br>Yuna propose d’activer en fonction des contenus, comme pour des longs articles. Ça peut aussi se faire la première fois et après avoir un message qui indique : "Voulez-vous encore bénéficier de cette fonctionnalité ?"<br>Nous avons deux états pour le moment : publié ou brouillon. Peut-être ajouter un état avec cette analyse.<br>Yuna précise que pour la balance écologie, Osuny fait déjà beaucoup sur ce point, donc la balance sociale l'emporte ici, mais il y a moyen d'impacter le côté écologique avec une certaine granularité. Il faut affiner l'utilisation de cet outil, trouver les bons moments ou contextes d'utilisation.</p><p>Yuna se pose la question : “En tant que contributeur.rice, a-t-on envie de dire aux personnes "Vous pouvez faire mieux" ou "on vous laisse tranquille ?” Il y a une limite entre ce qu'on suggère et ce qu'on laisse faire. Arnaud précise que les gens qui n'utilisent pas les outils, c'est à eux qu'il faut donner cet outil. C’est une question de qualité : est-ce que la qualité est bonne ? Pour l'instant, on ne bouge pas, mais on continue à réfléchir sur la gestion de la qualité.</p><p>Yuna demande si on a accès aux statistiques de l'outil ? Une des pistes serait l’usage, est-ce que les personnes acceptent les suggestions ? Ce sont des questions à se poser avant de choisir. Peut-être faire quelques shadowing pour observer cette fonctionnalité en train d'être utilisée par les utilisateurs du BO, est-ce qu'ils l'utilisent ?</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+
+  - kind: heading
+    title: >-
+      Key CDN
+    slug: "key-cdn"
+    position: 11
+    rank: 2
+  - kind: block
+    template: chapter
+    title: >-
+      
+    ranks:
+      self: false
+    data:
+      layout: no_background
+      text: >-
+        <p>Actuellement, nous utilisons un CDN pour redimensionner automatiquement les images à la volée, avec 13 formats générés. Ces formats offrent un grand avantage en termes d'accessibilité sans compromettre la qualité. De plus, il est très rapide, mais cet outil n'est pas libre.</p><p>Nous étions à 50 euros par mois (ratio trafic et traitement d'images), et maintenant, nous en sommes à 50 euros par semaine. Cela va encore augmenter, car nous prévoyons beaucoup de trafic. Pour donner un exemple, lors des dernières 24 heures, nous avons eu 6 gigas de trafic, 7 000 requêtes et 18 000 images traitées. Pour le mois de juillet : 113 gigas, 1 million de requêtes et 535 000 images.</p><p>Nous subissons une certaine pression sur ce sujet : devons-nous payer plus pour KeyCDN ou mettre en place notre propre service, notamment avec l'équipe de Deux Fleurs ?<br></p><p>L’idée serait de travailler sur un CDN libre, mais cela demande beaucoup de ressources machines. C’est un projet de grande envergure nécessitant des langages très performants. Il faut créer un système très résilient avec un affichage rapide pour les utilisateurs.</p><p>         </p><p>Nous souhaitons que toute la chaîne soit libre. Nous avions eu des discussions avec les Chatons l’année dernière, mais aucune solution n’en est ressortie.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+
+  - kind: heading
+    title: >-
       Replay
     slug: "replay"
-    position: 10
+    position: 12
     rank: 2
   - kind: block
     template: video
@@ -450,66 +510,6 @@ contents:
         iframe: >-
           <iframe class="vimeo" loading="lazy" src="https://player.vimeo.com/video/995303729" title="Assemblée Osuny #9"></iframe>
       transcription: >-
-        
-
-
-
-
-  - kind: heading
-    title: >-
-      Questionnements sur LanguageTool
-    slug: "questionnements-sur-languagetool"
-    position: 11
-    rank: 2
-  - kind: block
-    template: chapter
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      layout: no_background
-      text: >-
-        <p>Laisse-t-on LanguageTool comme cela ou est-ce qu’on le déclenche au clic d’un bouton ?</p><p>LanguageTool permet d’analyser le texte et de voir la liste des problèmes. Il est capable de détecter des erreurs de grammaire, d’orthographe, de typographie, et des lourdeurs stylistiques.<br>Nous avons un abonnement pour 100 requêtes par jour pour 29 euros par mois. Cela fait de la pédagogie en expliquant les problèmes rencontrés. Le problème, c'est que cela se fait automatiquement, ce qui incite à corriger. Mais, certains jours, nous avons 2000 requêtes par jour. Nous avons demandé à ajuster les tarifs : il faudrait passer à 1000 requêtes par jour pour 100€ par mois.</p><p>Choix :<br>- Bouton dans le menu : faire une analyse. On choisit de lancer l’analyse. C’est mieux au niveau écologique<br>- Non, on le fait automatiquement, cela aide les personnes à produire un meilleur texte. Si la personne ne voit pas les erreurs, cela imposera aux lecteurs un style peut être lourd à lire.<br>Qu'est-ce que nous choisissons ?</p><p>Dianela pense que si une personne connaît la fonctionnalité et que ça lui sert, elle va l'activer.<br>Yuna propose d’activer en fonction des contenus, comme pour des longs articles. Ça peut aussi se faire la première fois et après avoir un message qui indique : "Voulez-vous encore bénéficier de cette fonctionnalité ?"<br>Nous avons deux états pour le moment : publié ou brouillon. Peut-être ajouter un état avec cette analyse.<br>Yuna précise que pour la balance écologie, Osuny fait déjà beaucoup sur ce point, donc la balance sociale l'emporte ici, mais il y a moyen d'impacter le côté écologique avec une certaine granularité. Il faut affiner l'utilisation de cet outil, trouver les bons moments ou contextes d'utilisation.</p><p>Yuna se pose la question : “En tant que contributeur.rice, a-t-on envie de dire aux personnes "Vous pouvez faire mieux" ou "on vous laisse tranquille ?” Il y a une limite entre ce qu'on suggère et ce qu'on laisse faire. Arnaud précise que les gens qui n'utilisent pas les outils, c'est à eux qu'il faut donner cet outil. C’est une question de qualité : est-ce que la qualité est bonne ? Pour l'instant, on ne bouge pas, mais on continue à réfléchir sur la gestion de la qualité.</p><p>Yuna demande si on a accès aux statistiques de l'outil ? Une des pistes serait l’usage, est-ce que les personnes acceptent les suggestions ? Ce sont des questions à se poser avant de choisir. Peut-être faire quelques shadowing pour observer cette fonctionnalité en train d'être utilisée par les utilisateurs du BO, est-ce qu'ils l'utilisent ?</p>
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-
-
-
-  - kind: heading
-    title: >-
-      Key CDN
-    slug: "key-cdn"
-    position: 12
-    rank: 2
-  - kind: block
-    template: chapter
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      layout: no_background
-      text: >-
-        <p>Actuellement, nous utilisons un CDN pour redimensionner automatiquement les images à la volée, avec 13 formats générés. Ces formats offrent un grand avantage en termes d'accessibilité sans compromettre la qualité. De plus, il est très rapide, mais cet outil n'est pas libre.</p><p>Nous étions à 50 euros par mois (ratio trafic et traitement d'images), et maintenant, nous en sommes à 50 euros par semaine. Cela va encore augmenter, car nous prévoyons beaucoup de trafic. Pour donner un exemple, lors des dernières 24 heures, nous avons eu 6 gigas de trafic, 7 000 requêtes et 18 000 images traitées. Pour le mois de juillet : 113 gigas, 1 million de requêtes et 535 000 images.</p><p>Nous subissons une certaine pression sur ce sujet : devons-nous payer plus pour KeyCDN ou mettre en place notre propre service, notamment avec l'équipe de Deux Fleurs ?<br></p><p>L’idée serait de travailler sur un CDN libre, mais cela demande beaucoup de ressources machines. C’est un projet de grande envergure nécessitant des langages très performants. Il faut créer un système très résilient avec un affichage rapide pour les utilisateurs.</p><p>         </p><p>Nous souhaitons que toute la chaîne soit libre. Nous avions eu des discussions avec les Chatons l’année dernière, mais aucune solution n’en est ressortie.</p>
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
         
 
 
