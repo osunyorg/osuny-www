@@ -13,7 +13,7 @@ meta:
     slug: "assemblee-osuny-12"
   dates:
     created_at: 2024-05-06T10:18:20+02:00
-    updated_at: 2024-11-12T17:23:59+01:00
+    updated_at: 2024-11-12T17:32:18+01:00
     published_at: 2024-05-06T10:20:03+02:00
 
 breadcrumbs:
@@ -77,9 +77,9 @@ summary: >-
 
 
 contents_reading_time:
-  seconds: 28
+  seconds: 228
   text: >-
-    moins d'une minute
+    4 minutes
 contents:
   - kind: block
     template: chapter
@@ -159,15 +159,15 @@ contents:
   - kind: block
     template: chapter
     title: >-
-      
+      Releases Front
     slug: >-
-      
+      releases-front
     ranks:
-      self: 2
+      self: 3
     data:
       layout: no_background
       text: >-
-        
+        <p>Nous avons réalisé une mise à jour du thème, nous en sommes à la V7 du thème, ce qui représente 2 mois de travail.</p><p>Nous avons reçu le résultat de notre premier audit d'accessibilité réalisé par <a href="https://www.temesis.com/" target="_blank">Temesis<span class="sr-only"> - lien externe</span></a>, agence de conseil en numérique responsable, spécialisée en accessibilité numérique, écoconception et conformité RGPD, avec un score initial de 53 %. Cette note décevante s'explique principalement par l'audit du site <a href="https://example.osuny.org/fr/" target="_blank">Example<span class="sr-only"> - lien externe</span></a>, qui contenait des éléments non pertinents tels que des PDF d'exemples, faisant ainsi baisser la note d'accessibilité. Par la suite, nous avons résolu de nombreux points soulevés par l'audit et un contre-audit a été effectué. Nous avons atteint un résultat de 97 %. Nous poursuivons les corrections et échangeons avec Temesis pour finaliser les derniers points et atteindre les 100 %. <br>Estelle Solleillant, cheffe de projet innovation numérique à Rennes Métropole, s'interroge sur le déroulement des prochains audits. Arnaud explique que nous discutons actuellement de la méthodologie avec Temesis et <a href="https://www.numerik-ea.fr/" target="_blank">Numerikea<span class="sr-only"> - lien externe</span></a>, agence digitale inclusive. Certains aspects dépendent du design, tandis que d'autres peuvent être traités en HTML/CSS. Notre priorité est de nous assurer que le thème Osuny n'a pas été techniquement compromis par des spécificités de design. L'étape suivante sera l'audit du contenu. Notre objectif est de développer une méthode conforme au RGAA qui soit rigoureuse et sans faille. Yuna Orsinu, UX designeuse, s'interroge sur la dépendance potentielle avec Temesis. Arnaud précise que l'idée est de publier la méthodologie sous licence Creative Common, puis de la partager comme une partie d'Osuny. Yuna souligne : « Il faut sensibiliser et faire comprendre que l'accessibilité n'est qu'un aspect de la qualité et ne doit pas se faire au détriment d'autres points de qualité. » Alexis Benoit rebondit en indiquant qu'en termes de sémantique, nous avons constaté des surcouches et un peu de bruit dans le balisage HTML, que Temesis juge nécessaire. C'est limité et visible uniquement dans le code, pas pour les utilisateur.rice.s. Nous avons un peu plus de balisage HTML qu'avant l'audit.</p><p>Nous avons supprimé les dépendances JavaScript pour la visionneuse et les défilements horizontaux, comme les témoignages. Les librairies JS externes ont donc été éliminées. Une réécriture complète des fonctionnalités JS a été effectuée pour améliorer l'accessibilité, car les librairies externes ne la prenaient pas toujours en compte. Bien que tout soit fonctionnel, il reste du travail d'optimisation du code. Seule la recherche dépend encore d'une librairie externe, mais sa réécriture est en cours (un correctif temporaire est en place). Cette réécriture a été réalisée en ES5 pour assurer la rétrocompatibilité, ce qui explique une légère lourdeur syntaxique.</p><p>Nous avons mis en place de nouvelles fonctionnalités :</p><ul> <li>Bloc titre pliable : c'est le bloc titre lui-même qui va embarquer tous ses enfants</li> <li>Ajout de formations : nombreux correctifs</li> <li>Nouvelle lightbox pour la criée : avoir des volumes de contenus importants </li> </ul><p>Estelle Solleillant soulève la question de la communication de ces évolutions. Arnaud explique que pour le site de la Criée, par exemple, ils dialoguent avec Thibaut via les releases et les assemblées, mais ils réfléchissent à l'idée d'une newsletter. Un système d'e-mails existe dans la plateforme pour les avertissements, mais il n'est pas utilisé pour les mises à jour. Estelle suggère de mettre en avant les nouveautés sur le tableau de bord. Justin Puyo de l'IUT de Bordeaux Montaigne et Laura Fernandez de l'IUT de Bordeaux abondent dans ce sens. Laura précise : « On prend des habitudes de travail, et quand ça change, c'est perturbant. Il faut s'adapter à de nouvelles méthodes. Avoir les nouveautés sur le tableau de bord serait plus pratique pour les utilisateurs. Savoir qu'il y a eu des changements est déjà très utile. » <br>Alexis approuve cette idée, soulignant qu'il faudrait effectivement un espace dans l'interface d'administration avec une ou deux lignes indiquant les changements. Arnaud propose de s'appuyer sur un flux RSS avec des publications via un blog des nouveautés. Alexis ajoute qu'il serait judicieux de dupliquer l'information sur le site Osuny et dans l'interface d'administration, avec une indication visuelle pour les nouveautés.</p><p><a href="https://developers.osuny.org/docs/theme/components/carousel/">https://developers.osuny.org/docs/theme/components/carousel/</a><a href="https://developers.osuny.org/docs/theme/components/lightbox/">https://developers.osuny.org/docs/theme/components/lightbox/</a><a href="https://github.com/osunyorg/theme/releases/tag/v7.0.0">https://github.com/osunyorg/theme/releases/tag/v7.0.0</a><br></p>
 
       notes: >-
         
