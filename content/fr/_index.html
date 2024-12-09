@@ -4,13 +4,14 @@ breadcrumb_title: >-
 title: >-
   Accueil
 url: "/"
+slug: ""
 date: 2023-12-26T09:32:42+01:00
 lastmod: 2024-09-29T10:50:48+02:00
 meta:
   hugo:
     permalink: "/"
+    path: "/"
     file: "content/fr/_index.html"
-    path: ""
     slug: ""
   dates:
     created_at: 2022-04-08T12:05:39+02:00
@@ -121,12 +122,19 @@ contents:
 
       title_link: "/agenda/"
       events:
-        - path: "/agenda/2025-01-02-assemblee-osuny-14/"
-          file: "events/2025-01-02-assemblee-osuny-14.html"
-        - path: "/agenda/2025-01-23-comite-scientifique-3/"
-          file: "events/2025-01-23-comite-scientifique-3.html"
-        - path: "/agenda/2025-02-06-assemblee-osuny-15/"
-          file: "events/2025-02-06-assemblee-osuny-15.html"
+        - permalink: "/agenda/2025-01-02-assemblee-osuny-14/"
+          path: "/events/2025-01-02-assemblee-osuny-14"
+          slug: "assemblee-osuny-14"
+          file: "content/fr/events/2025-01-02-assemblee-osuny-14.html"
+        - permalink: "/agenda/2025-01-23-comite-scientifique-3/"
+          path: "/events/2025-01-23-comite-scientifique-3"
+          slug: "comite-scientifique-3"
+          file: "content/fr/events/2025-01-23-comite-scientifique-3.html"
+        - permalink: "/agenda/2025-02-06-assemblee-osuny-15/"
+          path: "/events/2025-02-06-assemblee-osuny-15"
+          slug: "assemblee-osuny-15"
+          file: "content/fr/events/2025-02-06-assemblee-osuny-15.html"
+
 
 
   - kind: block
@@ -140,7 +148,7 @@ contents:
       children: 3
     data:
       mode: category
-      category: "/references/"
+      category: "references"
       layout: grid
       options:
         author: true
@@ -152,9 +160,19 @@ contents:
         summary: true
 
       posts:
-        - "2024/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon"
-        - "2024/2024-01-17-a-org"
-        - "2024/2024-01-17-a11y-universites"
+        - permalink: "/actualites/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon/"
+          path: "/posts/2024/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon"
+          slug: "l-application-osuny-presente-le-niveau-de-securite-bon"
+          file: "content/fr/posts/2024/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon.html"
+        - permalink: "/actualites/2024-01-17-a-org/"
+          path: "/posts/2024/2024-01-17-a-org"
+          slug: "a-org"
+          file: "content/fr/posts/2024/2024-01-17-a-org.html"
+        - permalink: "/actualites/2024-01-17-a11y-universites/"
+          path: "/posts/2024/2024-01-17-a11y-universites"
+          slug: "a11y-universites"
+          file: "content/fr/posts/2024/2024-01-17-a11y-universites.html"
+
 
 
   - kind: block
@@ -199,9 +217,10 @@ contents:
       children: 3
     data:
       page:
-        path: "/usages/"
+        permalink: "/usages/"
+        path: "/pages/usages"
         slug: "usages"
-        file: "pages/usages/_index.html"
+        file: "content/fr/pages/usages/_index.html"
       options:
         image: false
         main_summary: true
@@ -209,22 +228,23 @@ contents:
 
       layout: grid
       pages:
-        - path: "/usages/universites/"
+        - permalink: "/usages/universites/"
+          path: "/pages/usages/universites"
           slug: "universites"
-          file: "pages/usages/universites/_index.html"
-          external: false
-        - path: "/usages/laboratoires/"
+          file: "content/fr/pages/usages/universites/_index.html"
+        - permalink: "/usages/laboratoires/"
+          path: "/pages/usages/laboratoires"
           slug: "laboratoires"
-          file: "pages/usages/laboratoires/_index.html"
-          external: false
-        - path: "/usages/dsi/"
+          file: "content/fr/pages/usages/laboratoires/_index.html"
+        - permalink: "/usages/dsi/"
+          path: "/pages/usages/dsi"
           slug: "dsi"
-          file: "pages/usages/dsi/_index.html"
-          external: false
-        - path: "/usages/ecoles-privees/"
+          file: "content/fr/pages/usages/dsi/_index.html"
+        - permalink: "/usages/ecoles-privees/"
+          path: "/pages/usages/ecoles-privees"
           slug: "ecoles-privees"
-          file: "pages/usages/ecoles-privees/_index.html"
-          external: false
+          file: "content/fr/pages/usages/ecoles-privees/_index.html"
+
 
 
   - kind: block
@@ -238,9 +258,10 @@ contents:
       children: 3
     data:
       page:
-        path: "/valeurs/"
+        permalink: "/valeurs/"
+        path: "/pages/valeurs"
         slug: "valeurs"
-        file: "pages/valeurs/_index.html"
+        file: "content/fr/pages/valeurs/_index.html"
       options:
         image: false
         main_summary: true
@@ -248,30 +269,31 @@ contents:
 
       layout: grid
       pages:
-        - path: "/valeurs/accessibilite/"
+        - permalink: "/valeurs/accessibilite/"
+          path: "/pages/valeurs/accessibilite"
           slug: "accessibilite"
-          file: "pages/valeurs/accessibilite/_index.html"
-          external: false
-        - path: "/valeurs/sobriete/"
+          file: "content/fr/pages/valeurs/accessibilite/_index.html"
+        - permalink: "/valeurs/sobriete/"
+          path: "/pages/valeurs/sobriete"
           slug: "sobriete"
-          file: "pages/valeurs/sobriete/_index.html"
-          external: false
-        - path: "/valeurs/qualite/"
+          file: "content/fr/pages/valeurs/sobriete/_index.html"
+        - permalink: "/valeurs/qualite/"
+          path: "/pages/valeurs/qualite"
           slug: "qualite"
-          file: "pages/valeurs/qualite/_index.html"
-          external: false
-        - path: "/valeurs/souverainete/"
+          file: "content/fr/pages/valeurs/qualite/_index.html"
+        - permalink: "/valeurs/souverainete/"
+          path: "/pages/valeurs/souverainete"
           slug: "souverainete"
-          file: "pages/valeurs/souverainete/_index.html"
-          external: false
-        - path: "/valeurs/liberte/"
+          file: "content/fr/pages/valeurs/souverainete/_index.html"
+        - permalink: "/valeurs/liberte/"
+          path: "/pages/valeurs/liberte"
           slug: "liberte"
-          file: "pages/valeurs/liberte/_index.html"
-          external: false
-        - path: "/valeurs/communaute/"
+          file: "content/fr/pages/valeurs/liberte/_index.html"
+        - permalink: "/valeurs/communaute/"
+          path: "/pages/valeurs/communaute"
           slug: "communaute"
-          file: "pages/valeurs/communaute/_index.html"
-          external: false
+          file: "content/fr/pages/valeurs/communaute/_index.html"
+
 
 
   - kind: block
@@ -285,9 +307,10 @@ contents:
       children: 3
     data:
       page:
-        path: "/fonctionnalites/"
+        permalink: "/fonctionnalites/"
+        path: "/pages/fonctionnalites"
         slug: "fonctionnalites"
-        file: "pages/fonctionnalites/_index.html"
+        file: "content/fr/pages/fonctionnalites/_index.html"
       options:
         image: false
         main_summary: true
@@ -295,30 +318,31 @@ contents:
 
       layout: grid
       pages:
-        - path: "/fonctionnalites/enseignement/"
+        - permalink: "/fonctionnalites/enseignement/"
+          path: "/pages/fonctionnalites/enseignement"
           slug: "enseignement"
-          file: "pages/fonctionnalites/enseignement/_index.html"
-          external: false
-        - path: "/fonctionnalites/recherche/"
+          file: "content/fr/pages/fonctionnalites/enseignement/_index.html"
+        - permalink: "/fonctionnalites/recherche/"
+          path: "/pages/fonctionnalites/recherche"
           slug: "recherche"
-          file: "pages/fonctionnalites/recherche/_index.html"
-          external: false
-        - path: "/fonctionnalites/communication/"
+          file: "content/fr/pages/fonctionnalites/recherche/_index.html"
+        - permalink: "/fonctionnalites/communication/"
+          path: "/pages/fonctionnalites/communication"
           slug: "communication"
-          file: "pages/fonctionnalites/communication/_index.html"
-          external: false
-        - path: "/fonctionnalites/administration/"
+          file: "content/fr/pages/fonctionnalites/communication/_index.html"
+        - permalink: "/fonctionnalites/administration/"
+          path: "/pages/fonctionnalites/administration"
           slug: "administration"
-          file: "pages/fonctionnalites/administration/_index.html"
-          external: false
-        - path: "/fonctionnalites/informations-techniques/"
+          file: "content/fr/pages/fonctionnalites/administration/_index.html"
+        - permalink: "/fonctionnalites/informations-techniques/"
+          path: "/pages/fonctionnalites/informations-techniques"
           slug: "informations-techniques"
-          file: "pages/fonctionnalites/informations-techniques/_index.html"
-          external: false
-        - path: "/fonctionnalites/theme-osuny/"
+          file: "content/fr/pages/fonctionnalites/informations-techniques/_index.html"
+        - permalink: "/fonctionnalites/theme-osuny/"
+          path: "/pages/fonctionnalites/theme-osuny"
           slug: "theme-osuny"
-          file: "pages/fonctionnalites/theme-osuny/_index.html"
-          external: false
+          file: "content/fr/pages/fonctionnalites/theme-osuny/_index.html"
+
 
 
   - kind: block
@@ -332,9 +356,10 @@ contents:
       children: 3
     data:
       page:
-        path: "/passer-a-laction/"
+        permalink: "/passer-a-laction/"
+        path: "/pages/passer-a-laction"
         slug: "passer-a-laction"
-        file: "pages/passer-a-laction/_index.html"
+        file: "content/fr/pages/passer-a-laction/_index.html"
       options:
         image: false
         main_summary: true
@@ -342,22 +367,23 @@ contents:
 
       layout: grid
       pages:
-        - path: "/passer-a-laction/budgets/"
+        - permalink: "/passer-a-laction/budgets/"
+          path: "/pages/passer-a-laction/budgets"
           slug: "budgets"
-          file: "pages/passer-a-laction/budgets/_index.html"
-          external: false
-        - path: "/passer-a-laction/reseau/"
+          file: "content/fr/pages/passer-a-laction/budgets/_index.html"
+        - permalink: "/passer-a-laction/reseau/"
+          path: "/pages/passer-a-laction/reseau"
           slug: "reseau"
-          file: "pages/passer-a-laction/reseau/_index.html"
-          external: false
-        - path: "/passer-a-laction/exemples/"
+          file: "content/fr/pages/passer-a-laction/reseau/_index.html"
+        - permalink: "/passer-a-laction/exemples/"
+          path: "/pages/passer-a-laction/exemples"
           slug: "exemples"
-          file: "pages/passer-a-laction/exemples/_index.html"
-          external: false
-        - path: "/passer-a-laction/osuny-as-a-service/"
+          file: "content/fr/pages/passer-a-laction/exemples/_index.html"
+        - permalink: "/passer-a-laction/osuny-as-a-service/"
+          path: "/pages/passer-a-laction/osuny-as-a-service"
           slug: "osuny-as-a-service"
-          file: "pages/passer-a-laction/osuny-as-a-service/_index.html"
-          external: false
+          file: "content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html"
+
 
 
   - kind: block
@@ -380,30 +406,102 @@ contents:
         summary: false
 
       organizations:
-        - slug: "african-futures-lab"
-        - slug: "class-code"
-        - slug: "communication-democratie"
-        - slug: "ctrl-s"
-        - slug: "degrowth-journal"
-        - slug: "mica"
-        - slug: "mit-anthropology"
-        - slug: "nations-unies"
-        - slug: "noesya"
-        - slug: "observatoire-de-la-decroissance-et-de-la-post-croissance-opcd"
-        - slug: "pixelis"
-        - slug: "post-growth-innovation-lab"
-        - slug: "ran-coper"
-        - slug: "re-akt"
-        - slug: "region-nouvelle-aquitaine"
-        - slug: "rose-primaire"
-        - slug: "scaleway"
-        - slug: "scalingo"
-        - slug: "sinon-virgule"
-        - slug: "tactic"
-        - slug: "universite-bordeaux-montaigne"
-        - slug: "universite-clermont-auvergne"
-        - slug: "universite-de-bordeaux"
-        - slug: "universite-de-vigo"
+        - permalink: "/organisations/african-futures-lab/"
+          path: "/organizations/african-futures-lab"
+          slug: "african-futures-lab"
+          file: "content/fr/organizations/african-futures-lab.html"
+        - permalink: "/organisations/class-code/"
+          path: "/organizations/class-code"
+          slug: "class-code"
+          file: "content/fr/organizations/class-code.html"
+        - permalink: "/organisations/communication-democratie/"
+          path: "/organizations/communication-democratie"
+          slug: "communication-democratie"
+          file: "content/fr/organizations/communication-democratie.html"
+        - permalink: "/organisations/ctrl-s/"
+          path: "/organizations/ctrl-s"
+          slug: "ctrl-s"
+          file: "content/fr/organizations/ctrl-s.html"
+        - permalink: "/organisations/degrowth-journal/"
+          path: "/organizations/degrowth-journal"
+          slug: "degrowth-journal"
+          file: "content/fr/organizations/degrowth-journal.html"
+        - permalink: "/organisations/mica/"
+          path: "/organizations/mica"
+          slug: "mica"
+          file: "content/fr/organizations/mica.html"
+        - permalink: "/organisations/mit-anthropology/"
+          path: "/organizations/mit-anthropology"
+          slug: "mit-anthropology"
+          file: "content/fr/organizations/mit-anthropology.html"
+        - permalink: "/organisations/nations-unies/"
+          path: "/organizations/nations-unies"
+          slug: "nations-unies"
+          file: "content/fr/organizations/nations-unies.html"
+        - permalink: "/organisations/noesya/"
+          path: "/organizations/noesya"
+          slug: "noesya"
+          file: "content/fr/organizations/noesya.html"
+        - permalink: "/organisations/observatoire-de-la-decroissance-et-de-la-post-croissance-opcd/"
+          path: "/organizations/observatoire-de-la-decroissance-et-de-la-post-croissance-opcd"
+          slug: "observatoire-de-la-decroissance-et-de-la-post-croissance-opcd"
+          file: "content/fr/organizations/observatoire-de-la-decroissance-et-de-la-post-croissance-opcd.html"
+        - permalink: "/organisations/pixelis/"
+          path: "/organizations/pixelis"
+          slug: "pixelis"
+          file: "content/fr/organizations/pixelis.html"
+        - permalink: "/organisations/post-growth-innovation-lab/"
+          path: "/organizations/post-growth-innovation-lab"
+          slug: "post-growth-innovation-lab"
+          file: "content/fr/organizations/post-growth-innovation-lab.html"
+        - permalink: "/organisations/ran-coper/"
+          path: "/organizations/ran-coper"
+          slug: "ran-coper"
+          file: "content/fr/organizations/ran-coper.html"
+        - permalink: "/organisations/re-akt/"
+          path: "/organizations/re-akt"
+          slug: "re-akt"
+          file: "content/fr/organizations/re-akt.html"
+        - permalink: "/organisations/region-nouvelle-aquitaine/"
+          path: "/organizations/region-nouvelle-aquitaine"
+          slug: "region-nouvelle-aquitaine"
+          file: "content/fr/organizations/region-nouvelle-aquitaine.html"
+        - permalink: "/organisations/rose-primaire/"
+          path: "/organizations/rose-primaire"
+          slug: "rose-primaire"
+          file: "content/fr/organizations/rose-primaire.html"
+        - permalink: "/organisations/scaleway/"
+          path: "/organizations/scaleway"
+          slug: "scaleway"
+          file: "content/fr/organizations/scaleway.html"
+        - permalink: "/organisations/scalingo/"
+          path: "/organizations/scalingo"
+          slug: "scalingo"
+          file: "content/fr/organizations/scalingo.html"
+        - permalink: "/organisations/sinon-virgule/"
+          path: "/organizations/sinon-virgule"
+          slug: "sinon-virgule"
+          file: "content/fr/organizations/sinon-virgule.html"
+        - permalink: "/organisations/tactic/"
+          path: "/organizations/tactic"
+          slug: "tactic"
+          file: "content/fr/organizations/tactic.html"
+        - permalink: "/organisations/universite-bordeaux-montaigne/"
+          path: "/organizations/universite-bordeaux-montaigne"
+          slug: "universite-bordeaux-montaigne"
+          file: "content/fr/organizations/universite-bordeaux-montaigne.html"
+        - permalink: "/organisations/universite-clermont-auvergne/"
+          path: "/organizations/universite-clermont-auvergne"
+          slug: "universite-clermont-auvergne"
+          file: "content/fr/organizations/universite-clermont-auvergne.html"
+        - permalink: "/organisations/universite-de-bordeaux/"
+          path: "/organizations/universite-de-bordeaux"
+          slug: "universite-de-bordeaux"
+          file: "content/fr/organizations/universite-de-bordeaux.html"
+        - permalink: "/organisations/universite-de-vigo/"
+          path: "/organizations/universite-de-vigo"
+          slug: "universite-de-vigo"
+          file: "content/fr/organizations/universite-de-vigo.html"
 
 
 
