@@ -21,6 +21,7 @@ items:
   target: "/espace-presse/"
   kind: page
   children: []
+  path: "/pages/espace-presse"
   file: content/fr/pages/espace-presse/_index.html
 - title: Sur contact@osuny.org
   target: mailto:contact@osuny.org
