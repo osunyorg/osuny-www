@@ -4,28 +4,33 @@ items:
 - title: Usages
   target: "/usages/"
   kind: page
+  new_tab: false
   children:
   - title: Universités & écoles publiques
     target: "/usages/universites/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/usages/universites"
     file: content/fr/pages/usages/universites/_index.html
   - title: Laboratoires de recherche
     target: "/usages/laboratoires/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/usages/laboratoires"
     file: content/fr/pages/usages/laboratoires/_index.html
   - title: Directions des Systèmes d’Information
     target: "/usages/dsi/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/usages/dsi"
     file: content/fr/pages/usages/dsi/_index.html
   - title: Écoles privées
     target: "/usages/ecoles-privees/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/usages/ecoles-privees"
     file: content/fr/pages/usages/ecoles-privees/_index.html
@@ -34,40 +39,47 @@ items:
 - title: Valeurs
   target: "/valeurs/"
   kind: page
+  new_tab: false
   children:
   - title: Accessibilité
     target: "/valeurs/accessibilite/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/accessibilite"
     file: content/fr/pages/valeurs/accessibilite/_index.html
   - title: Sobriété
     target: "/valeurs/sobriete/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/sobriete"
     file: content/fr/pages/valeurs/sobriete/_index.html
   - title: Qualité
     target: "/valeurs/qualite/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/qualite"
     file: content/fr/pages/valeurs/qualite/_index.html
   - title: Souveraineté
     target: "/valeurs/souverainete/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/souverainete"
     file: content/fr/pages/valeurs/souverainete/_index.html
   - title: Liberté
     target: "/valeurs/liberte/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/liberte"
     file: content/fr/pages/valeurs/liberte/_index.html
   - title: Communauté
     target: "/valeurs/communaute/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/valeurs/communaute"
     file: content/fr/pages/valeurs/communaute/_index.html
@@ -76,32 +88,38 @@ items:
 - title: Fonctionnalités
   target: "/fonctionnalites/"
   kind: page
+  new_tab: false
   children:
   - title: Enseignement
     target: "/fonctionnalites/enseignement/"
     kind: page
+    new_tab: false
     children:
     - title: Offre de formation
       target: "/fonctionnalites/enseignement/offre-de-formation-1/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/enseignement/offre-de-formation-1"
       file: content/fr/pages/fonctionnalites/enseignement/offre-de-formation-1/_index.html
     - title: Équipe pédagogique
       target: "/fonctionnalites/enseignement/equipe-pedagogique/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/enseignement/equipe-pedagogique"
       file: content/fr/pages/fonctionnalites/enseignement/equipe-pedagogique/_index.html
     - title: Feedbacks étudiants
       target: "/fonctionnalites/enseignement/feedbacks-etudiants/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/enseignement/feedbacks-etudiants"
       file: content/fr/pages/fonctionnalites/enseignement/feedbacks-etudiants/_index.html
     - title: Ressources éducatives libres
       target: "/fonctionnalites/enseignement/ressources-educatives-libres/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/enseignement/ressources-educatives-libres"
       file: content/fr/pages/fonctionnalites/enseignement/ressources-educatives-libres/_index.html
@@ -110,22 +128,26 @@ items:
   - title: Recherche
     target: "/fonctionnalites/recherche/"
     kind: page
+    new_tab: false
     children:
     - title: Équipe de recherche
       target: "/fonctionnalites/recherche/equipe-de-recherche/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/recherche/equipe-de-recherche"
       file: content/fr/pages/fonctionnalites/recherche/equipe-de-recherche/_index.html
     - title: Revues scientifiques
       target: "/fonctionnalites/recherche/revues-scientifiques/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/recherche/revues-scientifiques"
       file: content/fr/pages/fonctionnalites/recherche/revues-scientifiques/_index.html
     - title: Veille scientifique
       target: "/fonctionnalites/recherche/veille-scientifique/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/recherche/veille-scientifique"
       file: content/fr/pages/fonctionnalites/recherche/veille-scientifique/_index.html
@@ -134,22 +156,26 @@ items:
   - title: Communication
     target: "/fonctionnalites/communication/"
     kind: page
+    new_tab: false
     children:
     - title: Sites Web
       target: "/fonctionnalites/communication/sites-web/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/communication/sites-web"
       file: content/fr/pages/fonctionnalites/communication/sites-web/_index.html
     - title: Lettres d’information
       target: "/fonctionnalites/communication/lettres-dinformation/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/communication/lettres-dinformation"
       file: content/fr/pages/fonctionnalites/communication/lettres-dinformation/_index.html
     - title: Extranets
       target: "/fonctionnalites/communication/extranets/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/communication/extranets"
       file: content/fr/pages/fonctionnalites/communication/extranets/_index.html
@@ -158,28 +184,33 @@ items:
   - title: Administration
     target: "/fonctionnalites/administration/"
     kind: page
+    new_tab: false
     children:
     - title: Admissions
       target: "/fonctionnalites/administration/admissions/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/administration/admissions"
       file: content/fr/pages/fonctionnalites/administration/admissions/_index.html
     - title: Alumni
       target: "/fonctionnalites/administration/alumni/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/administration/alumni"
       file: content/fr/pages/fonctionnalites/administration/alumni/_index.html
     - title: Suivi qualité
       target: "/fonctionnalites/administration/suivi-qualite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/administration/suivi-qualite"
       file: content/fr/pages/fonctionnalites/administration/suivi-qualite/_index.html
     - title: Statistiques
       target: "/fonctionnalites/administration/statistiques/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/administration/statistiques"
       file: content/fr/pages/fonctionnalites/administration/statistiques/_index.html
@@ -188,34 +219,40 @@ items:
   - title: Informations techniques
     target: "/fonctionnalites/informations-techniques/"
     kind: page
+    new_tab: false
     children:
     - title: Schéma
       target: "/fonctionnalites/informations-techniques/schema/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/informations-techniques/schema"
       file: content/fr/pages/fonctionnalites/informations-techniques/schema/_index.html
     - title: Infrastructure
       target: "/fonctionnalites/informations-techniques/infrastructure/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/informations-techniques/infrastructure"
       file: content/fr/pages/fonctionnalites/informations-techniques/infrastructure/_index.html
     - title: Sécurité
       target: "/fonctionnalites/informations-techniques/securite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/informations-techniques/securite"
       file: content/fr/pages/fonctionnalites/informations-techniques/securite/_index.html
     - title: Rétrocompatibilité
       target: "/fonctionnalites/informations-techniques/retrocompatibilite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/informations-techniques/retrocompatibilite"
       file: content/fr/pages/fonctionnalites/informations-techniques/retrocompatibilite/_index.html
     - title: Réversibilité
       target: "/fonctionnalites/informations-techniques/reversibilite/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/informations-techniques/reversibilite"
       file: content/fr/pages/fonctionnalites/informations-techniques/reversibilite/_index.html
@@ -224,16 +261,19 @@ items:
   - title: Thème Osuny
     target: "/fonctionnalites/theme-osuny/"
     kind: page
+    new_tab: false
     children:
     - title: Schéma
       target: "/fonctionnalites/theme-osuny/schema-systeme-de-design/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/theme-osuny/schema-systeme-de-design"
       file: content/fr/pages/fonctionnalites/theme-osuny/schema-systeme-de-design/_index.html
     - title: Design System
       target: "/fonctionnalites/theme-osuny/theme-figma/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/fonctionnalites/theme-osuny/theme-figma"
       file: content/fr/pages/fonctionnalites/theme-osuny/theme-figma/_index.html
@@ -244,28 +284,33 @@ items:
 - title: Gouvernance
   target: "/gouvernance/"
   kind: page
+  new_tab: false
   children:
   - title: Incubation
     target: "/gouvernance/incubation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/gouvernance/incubation"
     file: content/fr/pages/gouvernance/incubation/_index.html
   - title: Éclosion
     target: "/gouvernance/eclosion/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/gouvernance/eclosion"
     file: content/fr/pages/gouvernance/eclosion/_index.html
   - title: Stabilisation
     target: "/gouvernance/stabilisation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/gouvernance/stabilisation"
     file: content/fr/pages/gouvernance/stabilisation/_index.html
   - title: Comité scientifique
     target: "/gouvernance/comite-scientifique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/gouvernance/comite-scientifique"
     file: content/fr/pages/gouvernance/comite-scientifique/_index.html
@@ -274,28 +319,33 @@ items:
 - title: Passer à l'action
   target: "/passer-a-laction/"
   kind: page
+  new_tab: false
   children:
   - title: Budgets
     target: "/passer-a-laction/budgets/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/passer-a-laction/budgets"
     file: content/fr/pages/passer-a-laction/budgets/_index.html
   - title: Réseau
     target: "/passer-a-laction/reseau/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/passer-a-laction/reseau"
     file: content/fr/pages/passer-a-laction/reseau/_index.html
   - title: Exemples
     target: "/passer-a-laction/exemples/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/passer-a-laction/exemples"
     file: content/fr/pages/passer-a-laction/exemples/_index.html
   - title: Osuny as a Service
     target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/passer-a-laction/osuny-as-a-service"
     file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
@@ -304,34 +354,40 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children:
   - title: Références
     target: "/actualites/references/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/references"
     file: content/fr/posts_categories/references/_index.html
   - title: Événements
     target: "/agenda/"
     kind: page
+    new_tab: false
     children: []
     path: "/events"
     file: content/fr/events/_index.html
   - title: Veille
     target: "/actualites/veille/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/veille"
     file: content/fr/posts_categories/veille/_index.html
   - title: Carnet de recherche
     target: "/actualites/carnet-de-recherche/"
     kind: category
+    new_tab: false
     children: []
     path: "/posts_categories/carnet-de-recherche"
     file: content/fr/posts_categories/carnet-de-recherche/_index.html
   - title: Toutes les actualités
     target: "/actualites/"
     kind: page
+    new_tab: false
     children: []
     path: "/posts"
     file: content/fr/posts/_index.html

@@ -4,39 +4,46 @@ items:
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Conditions d'utilisation
   target: "/conditions-d-utilisation/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/conditions-d-utilisation"
   file: content/fr/pages/conditions-d-utilisation/_index.html
 - title: Politique de sobriété
   target: "/politique-de-sobriete/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/politique-de-sobriete"
   file: content/fr/pages/politique-de-sobriete/_index.html
 - title: Transparence financière
   target: https://transparence.osuny.org
   kind: url
+  new_tab: true
   children: []
 - title: Déclaration d'accessibilité
   target: "/a11y/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/a11y"
   file: content/fr/pages/a11y/_index.html
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
 - title: Licence MIT
   target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
   kind: url
+  new_tab: true
   children: []
 

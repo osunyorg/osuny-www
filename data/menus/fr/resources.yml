@@ -4,17 +4,21 @@ items:
 - title: Site d'exemple
   target: https://example.osuny.org/
   kind: url
+  new_tab: true
   children: []
 - title: Thème Figma
   target: https://www.figma.com/community/file/1176490763864113451
   kind: url
+  new_tab: true
   children: []
 - title: État du système
   target: https://status.osuny.org/
   kind: url
+  new_tab: true
   children: []
 - title: Showcase
   target: https://showcase.osuny.org
   kind: url
+  new_tab: true
   children: []
 
