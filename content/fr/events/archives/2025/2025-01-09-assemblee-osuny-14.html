@@ -15,7 +15,7 @@ meta:
     slug: "assemblee-osuny-14"
   dates:
     created_at: 2024-05-06T10:23:50+02:00
-    updated_at: 2025-01-20T11:12:40+01:00
+    updated_at: 2025-01-20T11:12:52+01:00
     published_at: 2024-05-06T10:25:08+02:00
 
 breadcrumbs:
@@ -340,6 +340,33 @@ contents:
 
 
   - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p>Réflexions sur la médiathèque : <a href="https://developers.osuny.org/docs/admin/composants/media-library/" target="_blank">https://developers.osuny.org/docs/admin/composants/media-library/ <span class="sr-only">(lien externe)</span></a><a href="https://developers.osuny.org/docs/admin/composants/media-library/"></a><br>L'INSEAMM finance la médiathèque dans Osuny. De nombreux utilisateurs, particulièrement ceux habitués à Wordpress, la réclamaient. Bien que son absence ne soit pas toujours problématique, certains cas d'usage la rendent pertinente, notamment pour les collections de photos appartenant à une organisation. L'objectif est de permettre un accès à ses propres photos via la médiathèque. Cette fonctionnalité est particulièrement utile pour les Beaux-Arts, permettant d'illustrer articles et contenus en puisant dans leurs médias.<br>Dans le back-office, un nouvel onglet Médiathèque permettra de modifier le nom, le texte alternatif, et de gérer des collections pour l'envoi de séries d'images avec des catégories. Le fonctionnement évolue : en plus du bouton d'import d'image existant, un nouveau bouton permet d'importer une collection, offrant des fonctionnalités de DAM (digital asset management) pour une photothèque simple. Cette fonction n'est pour l'instant disponible qu'en back-office.<br>Pour l'INSEAMM, le périmètre initial permet de créer une collection de photos fonctionnelle, avec une gestion des droits prévue ultérieurement. La collection de photos est actuellement la fonctionnalité principale. Concernant le poids des images, Arnaud précise que celui-ci est visible dans la fiche média. Osuny gère l'optimisation des images dès le départ, utilisant une balise HTML (source set) avec 6 formats, des versions retina et non retina, ainsi que des breakpoints.<br>La question du nettoyage soulève des interrogations. Les fichiers sont stockés sur Scaleway, et une sécurité est déjà en place pour préserver les données. L'objectif est surtout d'éviter que les utilisateurs n'uploadent des images inutilement, c'est donc principalement une question pratique.<br>Concernant l'approche, similaire à Wordpress : faut-il que l'ajout d'une image l'affiche automatiquement dans la bibliothèque de médias, ou doit-on passer par celle-ci pour ajouter une image ?<br>Les deux options seront disponibles, mais les images devront obligatoirement intégrer une collection. Lors de l'ajout d'une image, il faudra la classer et l'organiser, évitant ainsi l'accumulation désordonnée d'images comme sur Wordpress.</p><p>Remarque de Yuna : cette approche s'inscrit dans une démarche d'éco-conception, évitant les uploads multiples d'images. Osuny fonctionne beaucoup par référencement, privilégiant la non-duplication des images. Bien que le système ne détecte pas encore les doublons, la médiathèque permettra de réutiliser les images sans nouvel upload, apportant une solution partielle. L'objectif est de trouver un équilibre entre un système natif robuste et un système développé en interne. Notre approche n'est pas d'imposer ou de donner une apparence éco-conçue.</p><p>Pour Justin Peyo, de l'IUT Bordeaux Montaigne, cette fonctionnalité l'intéresse depuis le début et lui manque beaucoup. Il n'attend pas quelque chose de semblable à Wordpress, car certaines fonctionnalités ne sont pas souhaitables et ne correspondent pas à la philosophie d'Osuny. Pouvoir accéder à une bibliothèque d'images pour un article est indispensable pour un établissement. À l'échelle universitaire, avec de nombreux contributeurs qui ne sont ni communicants ni techniciens, c'est particulièrement important. Sans avoir toutes les ressources sous la main et face à des images parfois inadaptées, disposer d'une solution clé en main est essentiel. <br>Pour Laura Fernandez, de l'IUT de Bordeaux, l'intérêt est d'avoir une visualisation globale de toutes les images et de leur emplacement sur les différentes pages, afin d'éviter l'utilisation répétée d'une même image.nSebastien explique que cette fonctionnalité sera disponible.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
     template: title
     title: >-
       Nouveaux sites
@@ -494,33 +521,6 @@ contents:
         heading: 2
     data:
       layout: classic
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 3
-    top:
-      active: false
-    data:
-      layout: no_background
-      text: >-
-        <p>Réflexions sur la médiathèque : <a href="https://developers.osuny.org/docs/admin/composants/media-library/" target="_blank">https://developers.osuny.org/docs/admin/composants/media-library/ <span class="sr-only">(lien externe)</span></a><a href="https://developers.osuny.org/docs/admin/composants/media-library/"></a><br>L'INSEAMM finance la médiathèque dans Osuny. De nombreux utilisateurs, particulièrement ceux habitués à Wordpress, la réclamaient. Bien que son absence ne soit pas toujours problématique, certains cas d'usage la rendent pertinente, notamment pour les collections de photos appartenant à une organisation. L'objectif est de permettre un accès à ses propres photos via la médiathèque. Cette fonctionnalité est particulièrement utile pour les Beaux-Arts, permettant d'illustrer articles et contenus en puisant dans leurs médias.<br>Dans le back-office, un nouvel onglet Médiathèque permettra de modifier le nom, le texte alternatif, et de gérer des collections pour l'envoi de séries d'images avec des catégories. Le fonctionnement évolue : en plus du bouton d'import d'image existant, un nouveau bouton permet d'importer une collection, offrant des fonctionnalités de DAM (digital asset management) pour une photothèque simple. Cette fonction n'est pour l'instant disponible qu'en back-office.<br>Pour l'INSEAMM, le périmètre initial permet de créer une collection de photos fonctionnelle, avec une gestion des droits prévue ultérieurement. La collection de photos est actuellement la fonctionnalité principale. Concernant le poids des images, Arnaud précise que celui-ci est visible dans la fiche média. Osuny gère l'optimisation des images dès le départ, utilisant une balise HTML (source set) avec 6 formats, des versions retina et non retina, ainsi que des breakpoints.<br>La question du nettoyage soulève des interrogations. Les fichiers sont stockés sur Scaleway, et une sécurité est déjà en place pour préserver les données. L'objectif est surtout d'éviter que les utilisateurs n'uploadent des images inutilement, c'est donc principalement une question pratique.<br>Concernant l'approche, similaire à Wordpress : faut-il que l'ajout d'une image l'affiche automatiquement dans la bibliothèque de médias, ou doit-on passer par celle-ci pour ajouter une image ?<br>Les deux options seront disponibles, mais les images devront obligatoirement intégrer une collection. Lors de l'ajout d'une image, il faudra la classer et l'organiser, évitant ainsi l'accumulation désordonnée d'images comme sur Wordpress.</p><p>Remarque de Yuna : cette approche s'inscrit dans une démarche d'éco-conception, évitant les uploads multiples d'images. Osuny fonctionne beaucoup par référencement, privilégiant la non-duplication des images. Bien que le système ne détecte pas encore les doublons, la médiathèque permettra de réutiliser les images sans nouvel upload, apportant une solution partielle. L'objectif est de trouver un équilibre entre un système natif robuste et un système développé en interne. Notre approche n'est pas d'imposer ou de donner une apparence éco-conçue.</p><p>Pour Justin Peyo, de l'IUT Bordeaux Montaigne, cette fonctionnalité l'intéresse depuis le début et lui manque beaucoup. Il n'attend pas quelque chose de semblable à Wordpress, car certaines fonctionnalités ne sont pas souhaitables et ne correspondent pas à la philosophie d'Osuny. Pouvoir accéder à une bibliothèque d'images pour un article est indispensable pour un établissement. À l'échelle universitaire, avec de nombreux contributeurs qui ne sont ni communicants ni techniciens, c'est particulièrement important. Sans avoir toutes les ressources sous la main et face à des images parfois inadaptées, disposer d'une solution clé en main est essentiel. <br>Pour Laura Fernandez, de l'IUT de Bordeaux, l'intérêt est d'avoir une visualisation globale de toutes les images et de leur emplacement sur les différentes pages, afin d'éviter l'utilisation répétée d'une même image.nSebastien explique que cette fonctionnalité sera disponible.</p>
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
 
 
   - kind: block
