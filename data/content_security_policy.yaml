@@ -15,5 +15,6 @@ allowed_domains:
   - "vimeo.com"
   - "player.vimeo.com"
   - "vumbnail.com"
+  - "peertube.designersethiques.org"
   - "www.figma.com"
   - "videos.lescommuns.org"
