@@ -27,7 +27,7 @@ search:
   summary: >-
     
   body: >-
-    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence Jitsi</p>  <p> Releases Front  </p>
+    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence Jitsi</p>  <p> Releases Front  <br>   <br>7.9  <br> Suppression d'un double attribut rel  <br> Amélioration des micro data des schémas des organisations  <br> Homogénéisation des headings (nettoyage)  <br> Bloc campus rendu lisible  <br> Possibilité d'inverser le sens de navigation suivant et précédent, le sens par défaut reste le même- Ajustement du bloc de volumes  <br> Correctifs et résolution des erreurs d'accessibilité  <br> Possibilité d'autoriser des CSP via une option  <br> Ajustement des blocs CTA  <br> Ajout d'options d'affichage à une actualité (la page même). Il s'agit d'une nouveauté qui à terme pourrait être configurable via l'admin.  Note : cela correspond à une reflexion plus globale sur les possibilités offertes aux administrateurs du site, qui a déjà été discutée lors d'une précédente assemblée  <br>  <br> Les filtres d'agenda sont désormais calculés à partir des données du statique  <br> Question : est ce qu'un utilisateur peut choisir de mettre un titre en H3 ou H4 ? Réponse : non ce n'etait que du nettoyage, ça ne change rien ; Avez-vous reçu une issue sur Github pour laisser à l'utilisateur la possibilité de faire un changement de titre ; Réponse Arnaud : C plutot hors de question, la liberté de l'utilisateur lui laisse la possibilité de mettre un h4 sous un H1, et ca ce n'est pas conforme RGAA donc non ; Après il y a la question d'aller plus bas que H2 : quand on mest des blocas sous des titres qui sont h2, Chaque élément du bloc devient h3, h4 etc (par exemple les actus sont balisées h3 si elles sont sous un titre ), tout se fait de façon automatique pour éviter les erreurs humaines ; Par contre ça ne permet pas de faire des H3 et H4 dans un bloc chapitre ; on a posé le sujet de mettre des titres dans des blocs de titres (titres imbriqués) ; mais comment osuny pourrait savoir ce qui est un titre ou un sous titre ; il faudrait essayer de comprendre quel est le besoin réel pour ce type de fonctionnalité ;  https://lab.noesya.coop/publications/2023-12-07-accessibilite-numerique-un-bon-plan/ 7.10  <br> Sur l'agenda, les dates vont rester collées en haut normalement et les heures se mettent en dessous ; cela suppose que les heures se superposent aux dates lors du scroll ; on a permis de désactiver le caractère collé.  <br> On pouvait afficher des événements passés, ce qui n'était pas très logique, on a nettoyé ça  <br> Sur les éléments de "pagefind", on a permis d'éviter l'indexation automatique d'éléments non référencés  https://github.com/osunyorg/admin/pull/3444  <br>  <br> Ajout de nouvelles sections : écoles, laboratoires et revues, ce qui permet de lier les vraies données en pied de page, ce qui permet de créer une page.  <br> Nettoyages  <br> 7.11-beta  <br> Un changement majeur : nouvelle fonctionnalité de blocs de pied de page qui peut s'afficher au-dessus du footer ; il faudrait vérifier ce bloc avant la release finale, notamment sur les jeux de pleine largeur et largeur partielle.  <br> Le plan du site autorise désormais d'ignorer une section complète (on ne voit plus le titre non plus sur le nom du site).  <br> 7.12 Elle permettra une grosse amélioration sur l'accessibilité, des modifications importantes préparées par Olivia. Elle sera révélée progressivement du fait de son importance. </p>  <p> Releases Back  </p>
 
 date: "2025-10-02"
 dates:
@@ -79,7 +79,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 current_time_slot:
@@ -143,9 +143,9 @@ notes: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 27
+  seconds: 173
   text: >-
-    moins d'une minute
+    3 minutes
 contents:
   - kind: block
     template: chapter
@@ -188,6 +188,52 @@ contents:
       title: 
         value: >-
           Releases Front
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p>7.9</p><ul> <li>Suppression d'un double attribut rel</li> <li>Amélioration des micro data des schémas des organisations</li> <li>Homogénéisation des headings (nettoyage)</li> <li>Bloc campus rendu lisible</li> <li>Possibilité d'inverser le sens de navigation suivant et précédent, le sens par défaut reste le même- Ajustement du bloc de volumes</li> <li>Correctifs et résolution des erreurs d'accessibilité</li> <li>Possibilité d'autoriser des CSP via une option</li> <li>Ajustement des blocs CTA</li> <li>Ajout d'options d'affichage à une actualité (la page même). Il s'agit d'une nouveauté qui à terme pourrait être configurable via l'admin. <i>Note : cela correspond à une reflexion plus globale sur les possibilités offertes aux administrateurs du site, qui a déjà été discutée lors d'une précédente assemblée</i> </li> <li>Les filtres d'agenda sont désormais calculés à partir des données du statique</li> </ul><p>Question : est ce qu'un utilisateur peut choisir de mettre un titre en H3 ou H4 ? Réponse : non ce n'etait que du nettoyage, ça ne change rien ; Avez-vous reçu une issue sur Github pour laisser à l'utilisateur la possibilité de faire un changement de titre ; Réponse Arnaud : C plutot hors de question, la liberté de l'utilisateur lui laisse la possibilité de mettre un h4 sous un H1, et ca ce n'est pas conforme RGAA donc non ; Après il y a la question d'aller plus bas que H2 : quand on mest des blocas sous des titres qui sont h2, Chaque élément du bloc devient h3, h4 etc (par exemple les actus sont balisées h3 si elles sont sous un titre ), tout se fait de façon automatique pour éviter les erreurs humaines ; Par contre ça ne permet pas de faire des H3 et H4 dans un bloc chapitre ; on a posé le sujet de mettre des titres dans des blocs de titres (titres imbriqués) ; mais comment osuny pourrait savoir ce qui est un titre ou un sous titre ; il faudrait essayer de comprendre quel est le besoin réel pour ce type de fonctionnalité ; <a href="https://lab.noesya.coop/publications/2023-12-07-accessibilite-numerique-un-bon-plan/" target="_blank" rel="noreferrer">https://lab.noesya.coop/publications/2023-12-07-accessibilite-numerique-un-bon-plan/ <span class="sr-only">(lien externe)</span></a></p><p>7.10</p><ul> <li>Sur l'agenda, les dates vont rester collées en haut normalement et les heures se mettent en dessous ; cela suppose que les heures se superposent aux dates lors du scroll ; on a permis de désactiver le caractère collé.</li> <li>On pouvait afficher des événements passés, ce qui n'était pas très logique, on a nettoyé ça</li> <li>Sur les éléments de "pagefind", on a permis d'éviter l'indexation automatique d'éléments non référencés <a href="https://github.com/osunyorg/admin/pull/3444" target="_blank" rel="noreferrer">https://github.com/osunyorg/admin/pull/3444 <span class="sr-only">(lien externe)</span></a><a href="https://github.com/osunyorg/admin/pull/3444" target="_blank" rel="noreferrer"> <span class="sr-only">(lien externe)</span></a> </li> <li>Ajout de nouvelles sections : écoles, laboratoires et revues, ce qui permet de lier les vraies données en pied de page, ce qui permet de créer une page.</li> <li>Nettoyages</li> </ul><p>7.11-beta</p><ul> <li>Un changement majeur : nouvelle fonctionnalité de blocs de pied de page qui peut s'afficher au-dessus du footer ; il faudrait vérifier ce bloc avant la release finale, notamment sur les jeux de pleine largeur et largeur partielle.</li> <li>Le plan du site autorise désormais d'ignorer une section complète (on ne voit plus le titre non plus sur le nom du site).</li> </ul><p>7.12</p><ul><li>Elle permettra une grosse amélioration sur l'accessibilité, des modifications importantes préparées par Olivia. Elle sera révélée progressivement du fait de son importance.<br> </li></ul>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Back
+    slug: >-
+      releases-back
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Back
         heading: 2
     data:
       layout: classic
