@@ -286,27 +286,37 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Incubation
-    target: "/gouvernance/incubation/"
-    kind: page
+  - title: Un commun numérique
+    target: ''
+    kind: blank
     new_tab: false
     children: []
-    path: "/pages/gouvernance/incubation"
-    file: content/fr/pages/gouvernance/incubation/_index.html
-  - title: Éclosion
-    target: "/gouvernance/eclosion/"
-    kind: page
+  - title: Cycle de vie prévisionnel
+    target: ''
+    kind: blank
     new_tab: false
-    children: []
-    path: "/pages/gouvernance/eclosion"
-    file: content/fr/pages/gouvernance/eclosion/_index.html
-  - title: Stabilisation
-    target: "/gouvernance/stabilisation/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/gouvernance/stabilisation"
-    file: content/fr/pages/gouvernance/stabilisation/_index.html
+    children:
+    - title: Incubation
+      target: "/gouvernance/incubation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/incubation"
+      file: content/fr/pages/gouvernance/incubation/_index.html
+    - title: Éclosion
+      target: "/gouvernance/eclosion/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/eclosion"
+      file: content/fr/pages/gouvernance/eclosion/_index.html
+    - title: Stabilisation
+      target: "/gouvernance/stabilisation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/stabilisation"
+      file: content/fr/pages/gouvernance/stabilisation/_index.html
   - title: Comité scientifique
     target: "/gouvernance/comite-scientifique/"
     kind: page
@@ -423,9 +433,4 @@ items:
     kind: url
     new_tab: false
     children: []
-- title: Cycle de vie prévisionnel
-  target: ''
-  kind: blank
-  new_tab: false
-  children: []
 
