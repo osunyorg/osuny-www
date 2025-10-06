@@ -36,11 +36,177 @@ items:
     file: content/fr/pages/usages/associatif/_index.html
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
+- title: Valeurs
+  target: "/valeurs/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Accessibilité
+    target: "/valeurs/accessibilite/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/accessibilite"
+    file: content/fr/pages/valeurs/accessibilite/_index.html
+  - title: Sobriété
+    target: "/valeurs/sobriete/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/sobriete"
+    file: content/fr/pages/valeurs/sobriete/_index.html
+  - title: Qualité
+    target: "/valeurs/qualite/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/qualite"
+    file: content/fr/pages/valeurs/qualite/_index.html
+  - title: Souveraineté
+    target: "/valeurs/souverainete/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/souverainete"
+    file: content/fr/pages/valeurs/souverainete/_index.html
+  - title: Liberté
+    target: "/valeurs/liberte/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/liberte"
+    file: content/fr/pages/valeurs/liberte/_index.html
+  - title: Communauté
+    target: "/valeurs/communaute/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/valeurs/communaute"
+    file: content/fr/pages/valeurs/communaute/_index.html
+  path: "/pages/valeurs"
+  file: content/fr/pages/valeurs/_index.html
+- title: Gouvernance
+  target: "/gouvernance/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Un commun numérique
+    target: "/quest-ce-quun-commun-numerique/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/quest-ce-quun-commun-numerique"
+    file: content/fr/pages/quest-ce-quun-commun-numerique/_index.html
+  - title: Cycle de vie prévisionnel
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Incubation
+      target: "/gouvernance/incubation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/incubation"
+      file: content/fr/pages/gouvernance/incubation/_index.html
+    - title: Éclosion
+      target: "/gouvernance/eclosion/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/eclosion"
+      file: content/fr/pages/gouvernance/eclosion/_index.html
+    - title: Stabilisation
+      target: "/gouvernance/stabilisation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/stabilisation"
+      file: content/fr/pages/gouvernance/stabilisation/_index.html
+  - title: Comité scientifique
+    target: "/gouvernance/comite-scientifique/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/gouvernance/comite-scientifique"
+    file: content/fr/pages/gouvernance/comite-scientifique/_index.html
+  path: "/pages/gouvernance"
+  file: content/fr/pages/gouvernance/_index.html
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Références
+    target: "/actualites/references/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/references"
+    file: content/fr/posts_categories/references/_index.html
+  - title: Événements
+    target: "/agenda/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/events"
+    file: content/fr/events/_index.html
+  - title: Veille
+    target: "/actualites/veille/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/veille"
+    file: content/fr/posts_categories/veille/_index.html
+  - title: Carnet de recherche
+    target: "/actualites/carnet-de-recherche/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/carnet-de-recherche"
+    file: content/fr/posts_categories/carnet-de-recherche/_index.html
+  - title: Toutes les actualités
+    target: "/actualites/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Passer à l'action
   target: "/passer-a-laction/"
   kind: page
   new_tab: false
   children:
+  - title: Budgets
+    target: "/passer-a-laction/budgets/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/passer-a-laction/budgets"
+    file: content/fr/pages/passer-a-laction/budgets/_index.html
+  - title: Réseau
+    target: "/passer-a-laction/reseau/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/passer-a-laction/reseau"
+    file: content/fr/pages/passer-a-laction/reseau/_index.html
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/passer-a-laction/exemples"
+    file: content/fr/pages/passer-a-laction/exemples/_index.html
+  - title: Osuny as a Service
+    target: "/passer-a-laction/osuny-as-a-service/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/passer-a-laction/osuny-as-a-service"
+    file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
   - title: Fonctionnalités
     target: "/fonctionnalites/"
     kind: page
@@ -237,167 +403,8 @@ items:
       file: content/fr/pages/fonctionnalites/theme-osuny/_index.html
     path: "/pages/fonctionnalites"
     file: content/fr/pages/fonctionnalites/_index.html
-  - title: Budgets
-    target: "/passer-a-laction/budgets/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/budgets"
-    file: content/fr/pages/passer-a-laction/budgets/_index.html
-  - title: Réseau
-    target: "/passer-a-laction/reseau/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/reseau"
-    file: content/fr/pages/passer-a-laction/reseau/_index.html
-  - title: Exemples
-    target: "/passer-a-laction/exemples/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/exemples"
-    file: content/fr/pages/passer-a-laction/exemples/_index.html
-  - title: Osuny as a Service
-    target: "/passer-a-laction/osuny-as-a-service/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/osuny-as-a-service"
-    file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
   path: "/pages/passer-a-laction"
   file: content/fr/pages/passer-a-laction/_index.html
-- title: Valeurs
-  target: "/valeurs/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Accessibilité
-    target: "/valeurs/accessibilite/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/accessibilite"
-    file: content/fr/pages/valeurs/accessibilite/_index.html
-  - title: Sobriété
-    target: "/valeurs/sobriete/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/sobriete"
-    file: content/fr/pages/valeurs/sobriete/_index.html
-  - title: Qualité
-    target: "/valeurs/qualite/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/qualite"
-    file: content/fr/pages/valeurs/qualite/_index.html
-  - title: Souveraineté
-    target: "/valeurs/souverainete/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/souverainete"
-    file: content/fr/pages/valeurs/souverainete/_index.html
-  - title: Liberté
-    target: "/valeurs/liberte/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/liberte"
-    file: content/fr/pages/valeurs/liberte/_index.html
-  - title: Communauté
-    target: "/valeurs/communaute/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/communaute"
-    file: content/fr/pages/valeurs/communaute/_index.html
-  path: "/pages/valeurs"
-  file: content/fr/pages/valeurs/_index.html
-- title: Gouvernance
-  target: "/gouvernance/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Cycle de vie prévisionnel
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: Incubation
-      target: "/gouvernance/incubation/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gouvernance/incubation"
-      file: content/fr/pages/gouvernance/incubation/_index.html
-    - title: Éclosion
-      target: "/gouvernance/eclosion/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gouvernance/eclosion"
-      file: content/fr/pages/gouvernance/eclosion/_index.html
-    - title: Stabilisation
-      target: "/gouvernance/stabilisation/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gouvernance/stabilisation"
-      file: content/fr/pages/gouvernance/stabilisation/_index.html
-  - title: Comité scientifique
-    target: "/gouvernance/comite-scientifique/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/gouvernance/comite-scientifique"
-    file: content/fr/pages/gouvernance/comite-scientifique/_index.html
-  path: "/pages/gouvernance"
-  file: content/fr/pages/gouvernance/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Références
-    target: "/actualites/references/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/references"
-    file: content/fr/posts_categories/references/_index.html
-  - title: Événements
-    target: "/agenda/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/events"
-    file: content/fr/events/_index.html
-  - title: Veille
-    target: "/actualites/veille/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/veille"
-    file: content/fr/posts_categories/veille/_index.html
-  - title: Carnet de recherche
-    target: "/actualites/carnet-de-recherche/"
-    kind: category
-    new_tab: false
-    children: []
-    path: "/posts_categories/carnet-de-recherche"
-    file: content/fr/posts_categories/carnet-de-recherche/_index.html
-  - title: Toutes les actualités
-    target: "/actualites/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/posts"
-    file: content/fr/posts/_index.html
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Aller plus loin
   target: ''
   kind: blank
