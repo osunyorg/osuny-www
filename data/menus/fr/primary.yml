@@ -6,34 +6,34 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Universités & écoles publiques
-    target: "/usages/universites/"
+  - title: Culture
+    target: "/usages/culture/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/universites"
-    file: content/fr/pages/usages/universites/_index.html
-  - title: Laboratoires de recherche
-    target: "/usages/laboratoires/"
+    path: "/pages/usages/culture"
+    file: content/fr/pages/usages/culture/_index.html
+  - title: Enseignement
+    target: "/usages/enseignement-1/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/laboratoires"
-    file: content/fr/pages/usages/laboratoires/_index.html
-  - title: Directions des Systèmes d’Information
-    target: "/usages/dsi/"
+    path: "/pages/usages/enseignement-1"
+    file: content/fr/pages/usages/enseignement-1/_index.html
+  - title: Recherche
+    target: "/usages/recherche-1/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/dsi"
-    file: content/fr/pages/usages/dsi/_index.html
-  - title: Écoles privées
-    target: "/usages/ecoles-privees/"
+    path: "/pages/usages/recherche-1"
+    file: content/fr/pages/usages/recherche-1/_index.html
+  - title: Associatif
+    target: "/usages/associatif/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/ecoles-privees"
-    file: content/fr/pages/usages/ecoles-privees/_index.html
+    path: "/pages/usages/associatif"
+    file: content/fr/pages/usages/associatif/_index.html
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
 - title: Valeurs
