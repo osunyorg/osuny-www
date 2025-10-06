@@ -393,4 +393,39 @@ items:
     file: content/fr/posts/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Aller plus loin
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Sites fièrement produits avec Osuny
+    target: https://showcase.osuny.org/
+    kind: url
+    new_tab: false
+    children: []
+  - title: Support technique
+    target: https://support.osuny.org/
+    kind: url
+    new_tab: false
+    children: []
+  - title: Site témoin
+    target: https://example.osuny.org/fr/
+    kind: url
+    new_tab: false
+    children: []
+  - title: Recherches portées par Osuny
+    target: https://recherche.osuny.org/
+    kind: url
+    new_tab: false
+    children: []
+  - title: Découvrir notre bilan comptable
+    target: https://transparence.osuny.org/
+    kind: url
+    new_tab: false
+    children: []
+- title: Cycle de vie prévisionnel
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
