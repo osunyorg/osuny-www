@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/"
 slug: ""
 date: 2023-12-26T09:32:42+01:00
-lastmod: 2025-10-09T17:22:04+02:00
+lastmod: 2025-10-09T17:22:41+02:00
 meta:
   hugo:
     permalink: "/"
@@ -17,7 +17,7 @@ meta:
     slug: ""
   dates:
     created_at: 2022-04-08T12:05:39+02:00
-    updated_at: 2025-10-09T17:22:04+02:00
+    updated_at: 2025-10-09T17:22:41+02:00
     published_at: 2023-12-26T09:32:42+01:00
 search:
   id: "53817c36-48b7-47f2-9a08-2cfaf0247afb"
@@ -235,7 +235,7 @@ contents:
 
 
   - kind: block
-    template: posts
+    template: projects
     title: >-
       
     slug: >-
@@ -246,52 +246,37 @@ contents:
     top:
       active: false
     data:
-      mode: category
-      category: "site-web"
+      mode: all
+      all: true
       layout: grid
       options:
-        author: false
-        categories: false
-        date: false
+        categories: true
         image: true
-        reading_time: false
         subtitle: true
-        summary: true
+        summary: false
+        year: true
 
-      posts:
-        - permalink: "/actualites/2025-10-02-le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny/"
-          path: "/posts/2025/2025-10-02-le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny"
-          slug: "le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny"
-          file: "content/fr/posts/2025/2025-10-02-le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny.html"
+      projects:
+        - permalink: "/projets/2025-campus-de-la-transition/"
+          path: "/projects/2025-campus-de-la-transition"
+          slug: "campus-de-la-transition"
+          file: "content/fr/projects/2025-campus-de-la-transition.html"
           name: >-
             Campus de la transition
-        - permalink: "/actualites/2024-01-17-a-org/"
-          path: "/posts/2024/2024-01-17-a-org"
+        - permalink: "/projets/2024-a-org/"
+          path: "/projects/2024-a-org"
           slug: "a-org"
-          file: "content/fr/posts/2024/2024-01-17-a-org.html"
+          file: "content/fr/projects/2024-a-org.html"
           name: >-
             A Org
-        - permalink: "/actualites/2024-01-17-a11y-universites/"
-          path: "/posts/2024/2024-01-17-a11y-universites"
-          slug: "a11y-universites"
-          file: "content/fr/posts/2024/2024-01-17-a11y-universites.html"
-          name: >-
-            A11Y Universités
-        - permalink: "/actualites/2024-01-17-elodie-chardon/"
-          path: "/posts/2024/2024-01-17-elodie-chardon"
+        - permalink: "/projets/2024-elodie-chardon/"
+          path: "/projects/2024-elodie-chardon"
           slug: "elodie-chardon"
-          file: "content/fr/posts/2024/2024-01-17-elodie-chardon.html"
+          file: "content/fr/projects/2024-elodie-chardon.html"
           name: >-
             Élodie Chardon
-        - permalink: "/actualites/2023-12-08-re-akt/"
-          path: "/posts/2023/2023-12-08-re-akt"
-          slug: "re-akt"
-          file: "content/fr/posts/2023/2023-12-08-re-akt.html"
-          name: >-
-            re-akt
 
-      quantity: 5
-
+      quantity: 3
 
   - kind: block
     template: chapter
@@ -703,44 +688,6 @@ contents:
 
       quantity: 4
 
-
-  - kind: block
-    template: projects
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 3
-      children: 3
-    top:
-      active: false
-    data:
-      mode: all
-      all: true
-      layout: grid
-      options:
-        categories: true
-        image: true
-        subtitle: true
-        summary: false
-        year: true
-
-      projects:
-        - permalink: "/projets/2025-campus-de-la-transition/"
-          path: "/projects/2025-campus-de-la-transition"
-          slug: "campus-de-la-transition"
-          file: "content/fr/projects/2025-campus-de-la-transition.html"
-          name: >-
-            Campus de la transition
-        - permalink: "/projets/2024-a-org/"
-          path: "/projects/2024-a-org"
-          slug: "a-org"
-          file: "content/fr/projects/2024-a-org.html"
-          name: >-
-            A Org
-
-      quantity: 2
 
   - kind: block
     template: organizations
