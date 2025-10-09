@@ -207,4 +207,11 @@ items:
     file: content/fr/posts/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Personnes
+  target: "/personnes/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
