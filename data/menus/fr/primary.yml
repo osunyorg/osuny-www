@@ -1,41 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Passer à l'action
-  target: "/passer-a-laction/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Budgets
-    target: "/passer-a-laction/budgets/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/budgets"
-    file: content/fr/pages/passer-a-laction/budgets/_index.html
-  - title: Réseau
-    target: "/passer-a-laction/reseau/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/reseau"
-    file: content/fr/pages/passer-a-laction/reseau/_index.html
-  - title: Exemples
-    target: "/passer-a-laction/exemples/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/exemples"
-    file: content/fr/pages/passer-a-laction/exemples/_index.html
-  - title: Osuny as a Service
-    target: "/passer-a-laction/osuny-as-a-service/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/osuny-as-a-service"
-    file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
-  path: "/pages/passer-a-laction"
-  file: content/fr/pages/passer-a-laction/_index.html
 - title: Usages
   target: "/usages/"
   kind: page
@@ -71,102 +36,142 @@ items:
     file: content/fr/pages/usages/associatif/_index.html
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
-- title: Valeurs
-  target: "/valeurs/"
+- title: Passer à l'action
+  target: "/passer-a-laction/"
   kind: page
   new_tab: false
   children:
-  - title: Accessibilité
-    target: "/valeurs/accessibilite/"
+  - title: Budgets
+    target: "/passer-a-laction/budgets/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/valeurs/accessibilite"
-    file: content/fr/pages/valeurs/accessibilite/_index.html
-  - title: Sobriété
-    target: "/valeurs/sobriete/"
+    path: "/pages/passer-a-laction/budgets"
+    file: content/fr/pages/passer-a-laction/budgets/_index.html
+  - title: Réseau
+    target: "/passer-a-laction/reseau/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/valeurs/sobriete"
-    file: content/fr/pages/valeurs/sobriete/_index.html
-  - title: Qualité
-    target: "/valeurs/qualite/"
+    path: "/pages/passer-a-laction/reseau"
+    file: content/fr/pages/passer-a-laction/reseau/_index.html
+  - title: Exemples
+    target: "/passer-a-laction/exemples/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/valeurs/qualite"
-    file: content/fr/pages/valeurs/qualite/_index.html
-  - title: Souveraineté
-    target: "/valeurs/souverainete/"
+    path: "/pages/passer-a-laction/exemples"
+    file: content/fr/pages/passer-a-laction/exemples/_index.html
+  - title: Osuny as a Service
+    target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/valeurs/souverainete"
-    file: content/fr/pages/valeurs/souverainete/_index.html
-  - title: Liberté
-    target: "/valeurs/liberte/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/liberte"
-    file: content/fr/pages/valeurs/liberte/_index.html
-  - title: Communauté
-    target: "/valeurs/communaute/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/valeurs/communaute"
-    file: content/fr/pages/valeurs/communaute/_index.html
-  path: "/pages/valeurs"
-  file: content/fr/pages/valeurs/_index.html
-- title: Gouvernance
-  target: "/gouvernance/"
-  kind: page
+    path: "/pages/passer-a-laction/osuny-as-a-service"
+    file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
+  path: "/pages/passer-a-laction"
+  file: content/fr/pages/passer-a-laction/_index.html
+- title: Valeurs et modèle organisationnel
+  target: ''
+  kind: blank
   new_tab: false
   children:
-  - title: Un commun numérique
-    target: "/osuny-est-un-commun-numerique-dinteret-general/"
+  - title: Gouvernance
+    target: "/gouvernance/"
     kind: page
-    new_tab: false
-    children: []
-    path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
-    file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
-  - title: Cycle de vie prévisionnel
-    target: ''
-    kind: blank
     new_tab: false
     children:
-    - title: Incubation
-      target: "/gouvernance/incubation/"
+    - title: Un commun numérique
+      target: "/osuny-est-un-commun-numerique-dinteret-general/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gouvernance/incubation"
-      file: content/fr/pages/gouvernance/incubation/_index.html
-    - title: Éclosion
-      target: "/gouvernance/eclosion/"
+      path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
+      file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
+    - title: Cycle de vie prévisionnel
+      target: ''
+      kind: blank
+      new_tab: false
+      children:
+      - title: Incubation
+        target: "/gouvernance/incubation/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/incubation"
+        file: content/fr/pages/gouvernance/incubation/_index.html
+      - title: Éclosion
+        target: "/gouvernance/eclosion/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/eclosion"
+        file: content/fr/pages/gouvernance/eclosion/_index.html
+      - title: Stabilisation
+        target: "/gouvernance/stabilisation/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/stabilisation"
+        file: content/fr/pages/gouvernance/stabilisation/_index.html
+    - title: Comité scientifique
+      target: "/gouvernance/comite-scientifique/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/gouvernance/eclosion"
-      file: content/fr/pages/gouvernance/eclosion/_index.html
-    - title: Stabilisation
-      target: "/gouvernance/stabilisation/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gouvernance/stabilisation"
-      file: content/fr/pages/gouvernance/stabilisation/_index.html
-  - title: Comité scientifique
-    target: "/gouvernance/comite-scientifique/"
+      path: "/pages/gouvernance/comite-scientifique"
+      file: content/fr/pages/gouvernance/comite-scientifique/_index.html
+    path: "/pages/gouvernance"
+    file: content/fr/pages/gouvernance/_index.html
+  - title: Valeurs
+    target: "/valeurs/"
     kind: page
     new_tab: false
-    children: []
-    path: "/pages/gouvernance/comite-scientifique"
-    file: content/fr/pages/gouvernance/comite-scientifique/_index.html
-  path: "/pages/gouvernance"
-  file: content/fr/pages/gouvernance/_index.html
+    children:
+    - title: Accessibilité
+      target: "/valeurs/accessibilite/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/accessibilite"
+      file: content/fr/pages/valeurs/accessibilite/_index.html
+    - title: Sobriété
+      target: "/valeurs/sobriete/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/sobriete"
+      file: content/fr/pages/valeurs/sobriete/_index.html
+    - title: Qualité
+      target: "/valeurs/qualite/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/qualite"
+      file: content/fr/pages/valeurs/qualite/_index.html
+    - title: Souveraineté
+      target: "/valeurs/souverainete/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/souverainete"
+      file: content/fr/pages/valeurs/souverainete/_index.html
+    - title: Liberté
+      target: "/valeurs/liberte/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/liberte"
+      file: content/fr/pages/valeurs/liberte/_index.html
+    - title: Communauté
+      target: "/valeurs/communaute/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/valeurs/communaute"
+      file: content/fr/pages/valeurs/communaute/_index.html
+    path: "/pages/valeurs"
+    file: content/fr/pages/valeurs/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -209,34 +214,4 @@ items:
     file: content/fr/posts/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Aller plus loin
-  target: ''
-  kind: blank
-  new_tab: false
-  children:
-  - title: Sites fièrement produits avec Osuny
-    target: https://showcase.osuny.org/
-    kind: url
-    new_tab: false
-    children: []
-  - title: Support technique
-    target: https://support.osuny.org/
-    kind: url
-    new_tab: false
-    children: []
-  - title: Site exemple
-    target: https://example.osuny.org/fr/
-    kind: url
-    new_tab: false
-    children: []
-  - title: Recherches portées par Osuny
-    target: https://recherche.osuny.org/
-    kind: url
-    new_tab: false
-    children: []
-  - title: Transparence financière
-    target: https://transparence.osuny.org/
-    kind: url
-    new_tab: false
-    children: []
 
