@@ -126,12 +126,12 @@ items:
   new_tab: false
   children:
   - title: Un commun numérique
-    target: "/un-commun-numerique/"
+    target: "/osuny-est-un-commun-numerique-dinteret-general/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/un-commun-numerique"
-    file: content/fr/pages/un-commun-numerique/_index.html
+    path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
+    file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
   - title: Cycle de vie prévisionnel
     target: ''
     kind: blank
