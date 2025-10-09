@@ -118,6 +118,32 @@ items:
       file: content/fr/pages/valeurs/communaute/_index.html
     path: "/pages/valeurs"
     file: content/fr/pages/valeurs/_index.html
+  - title: Cycle de vie prévisionnel
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Incubation
+      target: "/gouvernance/incubation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/incubation"
+      file: content/fr/pages/gouvernance/incubation/_index.html
+    - title: Éclosion
+      target: "/gouvernance/eclosion/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/eclosion"
+      file: content/fr/pages/gouvernance/eclosion/_index.html
+    - title: Stabilisation
+      target: "/gouvernance/stabilisation/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/stabilisation"
+      file: content/fr/pages/gouvernance/stabilisation/_index.html
   - title: Gouvernance
     target: "/gouvernance/"
     kind: page
@@ -130,32 +156,6 @@ items:
       children: []
       path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
       file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
-    - title: Cycle de vie prévisionnel
-      target: ''
-      kind: blank
-      new_tab: false
-      children:
-      - title: Incubation
-        target: "/gouvernance/incubation/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/incubation"
-        file: content/fr/pages/gouvernance/incubation/_index.html
-      - title: Éclosion
-        target: "/gouvernance/eclosion/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/eclosion"
-        file: content/fr/pages/gouvernance/eclosion/_index.html
-      - title: Stabilisation
-        target: "/gouvernance/stabilisation/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/stabilisation"
-        file: content/fr/pages/gouvernance/stabilisation/_index.html
     - title: Comité scientifique
       target: "/gouvernance/comite-scientifique/"
       kind: page
