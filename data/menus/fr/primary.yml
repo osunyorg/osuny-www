@@ -55,13 +55,6 @@ items:
     children: []
     path: "/pages/passer-a-laction/reseau"
     file: content/fr/pages/passer-a-laction/reseau/_index.html
-  - title: Exemples
-    target: "/passer-a-laction/exemples/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/passer-a-laction/exemples"
-    file: content/fr/pages/passer-a-laction/exemples/_index.html
   - title: Osuny as a Service
     target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
@@ -71,58 +64,11 @@ items:
     file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
   path: "/pages/passer-a-laction"
   file: content/fr/pages/passer-a-laction/_index.html
-- title: Valeurs et modèle organisationnel
+- title: Nos valeurs et notre structure
   target: ''
   kind: blank
   new_tab: false
   children:
-  - title: Gouvernance
-    target: "/gouvernance/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Un commun numérique
-      target: "/osuny-est-un-commun-numerique-dinteret-general/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
-      file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
-    - title: Cycle de vie prévisionnel
-      target: ''
-      kind: blank
-      new_tab: false
-      children:
-      - title: Incubation
-        target: "/gouvernance/incubation/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/incubation"
-        file: content/fr/pages/gouvernance/incubation/_index.html
-      - title: Éclosion
-        target: "/gouvernance/eclosion/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/eclosion"
-        file: content/fr/pages/gouvernance/eclosion/_index.html
-      - title: Stabilisation
-        target: "/gouvernance/stabilisation/"
-        kind: page
-        new_tab: false
-        children: []
-        path: "/pages/gouvernance/stabilisation"
-        file: content/fr/pages/gouvernance/stabilisation/_index.html
-    - title: Comité scientifique
-      target: "/gouvernance/comite-scientifique/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/gouvernance/comite-scientifique"
-      file: content/fr/pages/gouvernance/comite-scientifique/_index.html
-    path: "/pages/gouvernance"
-    file: content/fr/pages/gouvernance/_index.html
   - title: Valeurs
     target: "/valeurs/"
     kind: page
@@ -172,6 +118,53 @@ items:
       file: content/fr/pages/valeurs/communaute/_index.html
     path: "/pages/valeurs"
     file: content/fr/pages/valeurs/_index.html
+  - title: Gouvernance
+    target: "/gouvernance/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Un commun numérique
+      target: "/osuny-est-un-commun-numerique-dinteret-general/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
+      file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
+    - title: Cycle de vie prévisionnel
+      target: ''
+      kind: blank
+      new_tab: false
+      children:
+      - title: Incubation
+        target: "/gouvernance/incubation/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/incubation"
+        file: content/fr/pages/gouvernance/incubation/_index.html
+      - title: Éclosion
+        target: "/gouvernance/eclosion/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/eclosion"
+        file: content/fr/pages/gouvernance/eclosion/_index.html
+      - title: Stabilisation
+        target: "/gouvernance/stabilisation/"
+        kind: page
+        new_tab: false
+        children: []
+        path: "/pages/gouvernance/stabilisation"
+        file: content/fr/pages/gouvernance/stabilisation/_index.html
+    - title: Comité scientifique
+      target: "/gouvernance/comite-scientifique/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/gouvernance/comite-scientifique"
+      file: content/fr/pages/gouvernance/comite-scientifique/_index.html
+    path: "/pages/gouvernance"
+    file: content/fr/pages/gouvernance/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
