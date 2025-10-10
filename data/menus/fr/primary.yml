@@ -7,33 +7,33 @@ items:
   new_tab: false
   children:
   - title: Culture
-    target: "/usages/culture/"
+    target: "/secteurs/culture/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/culture"
-    file: content/fr/pages/usages/culture/_index.html
+    path: "/pages/secteurs/culture"
+    file: content/fr/pages/secteurs/culture/_index.html
   - title: Enseignement
-    target: "/usages/enseignement-1/"
+    target: "/secteurs/enseignement-1/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/enseignement-1"
-    file: content/fr/pages/usages/enseignement-1/_index.html
+    path: "/pages/secteurs/enseignement-1"
+    file: content/fr/pages/secteurs/enseignement-1/_index.html
   - title: Recherche
-    target: "/usages/recherche-1/"
+    target: "/secteurs/recherche-1/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/recherche-1"
-    file: content/fr/pages/usages/recherche-1/_index.html
+    path: "/pages/secteurs/recherche-1"
+    file: content/fr/pages/secteurs/recherche-1/_index.html
   - title: Associatif
-    target: "/usages/associatif/"
+    target: "/secteurs/associatif/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/usages/associatif"
-    file: content/fr/pages/usages/associatif/_index.html
+    path: "/pages/secteurs/associatif"
+    file: content/fr/pages/secteurs/associatif/_index.html
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
 - title: Passer à l'action
@@ -221,4 +221,9 @@ items:
     file: content/fr/posts/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Profils
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
