@@ -150,12 +150,12 @@ items:
     new_tab: false
     children:
     - title: Un commun numérique
-      target: "/osuny-est-un-commun-numerique-dinteret-general/"
+      target: "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/osuny-est-un-commun-numerique-dinteret-general"
-      file: content/fr/pages/osuny-est-un-commun-numerique-dinteret-general/_index.html
+      path: "/pages/gouvernance/osuny-est-un-commun-numerique-dinteret-general"
+      file: content/fr/pages/gouvernance/osuny-est-un-commun-numerique-dinteret-general/_index.html
     - title: Comité scientifique
       target: "/gouvernance/comite-scientifique/"
       kind: page
