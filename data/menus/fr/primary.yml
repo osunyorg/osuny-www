@@ -225,5 +225,26 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: designe·r·euse
+    target: "/profils/dev/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/profils/dev"
+    file: content/fr/pages/profils/dev/_index.html
+  - title: Usager·e·s
+    target: "/profils/usageres/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/profils/usageres"
+    file: content/fr/pages/profils/usageres/_index.html
+  - title: developpeu·r·se·s
+    target: "/profils/dev/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/profils/dev"
+    file: content/fr/pages/profils/dev/_index.html
 
