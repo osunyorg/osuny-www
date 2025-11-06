@@ -27,7 +27,7 @@ search:
   summary: >-
     
   body: >-
-    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Releases Front  <br>   <br>7.12 https://github.com/osunyorg/theme/releases/tag/v7.12.0 Le bloc de lien a désormais des mises en page, ce qui n'était pas le cas avant : format cartes, grille ou liste. Les icônes peuvent dorénavant être définies par les contributeurs. Voir un  exemple ici . Correction du double clic dans le dropdown de sélection des langues. Ajout de flèches sur tous les blocs qui ont des liens. Mise à jour du template après les release. On peut désormais choisir la qualité de compression des images par keycdn. Développement d'une single page application pour certains sites spécifiques, comme le  site d'histoires de noesya  . Cette fonctionnalité permet d'assurer la continuité de certaines fonctions (comme le bloc son), lors de la navigation du site. Nouveau concept de  plugins  : pour ajouter des fonctionnalités sur des sites, on crée un nouveau répertoire github qui peut être appelé sur différents sites. Le single page application est un plugin. Cela permet de ne pas alourdir le thème. Les plugins ne concernent que le front, et n'ont aucune incidence sur le back. Nettoyages et corrections. V8 Développement de la v8 en cours. Elle assurera entre autre :   <br> Un contrôle plus automatisé de l'unification des sites.   <br> Une gestion rangée des expositions.   <br> Ajout des images lorsque les équipes sont en format liste.   <br> Fédération de contenu des actualités.  <br> Appel à avis sur le positionnement des catégories/sous-titres/résumé dans les blocs. </p>  <p> Releases Back  </p>
+    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Releases Front  <br>   <br>7.12 https://github.com/osunyorg/theme/releases/tag/v7.12.0 Le bloc de lien a désormais des mises en page, ce qui n'était pas le cas avant : format cartes, grille ou liste. Les icônes peuvent dorénavant être définies par les contributeurs. Voir un  exemple ici . Correction du double clic dans le dropdown de sélection des langues. Ajout de flèches sur tous les blocs qui ont des liens. Mise à jour du template après les release. On peut désormais choisir la qualité de compression des images par keycdn. Développement d'une single page application pour certains sites spécifiques, comme le  site d'histoires de noesya  . Cette fonctionnalité permet d'assurer la continuité de certaines fonctions (comme le bloc son), lors de la navigation du site. Nouveau concept de  plugins  : pour ajouter des fonctionnalités sur des sites, on crée un nouveau répertoire github qui peut être appelé sur différents sites. Le single page application est un plugin. Cela permet de ne pas alourdir le thème. Les plugins ne concernent que le front, et n'ont aucune incidence sur le back. Nettoyages et corrections. V8 Développement de la v8 en cours. Elle assurera entre autre :   <br> Un contrôle plus automatisé de l'unification des sites.   <br> Une gestion rangée des expositions.   <br> Ajout des images lorsque les équipes sont en format liste.   <br> Fédération de contenu des actualités.  <br> Appel à avis sur le positionnement des catégories/sous-titres/résumé dans les blocs. </p>  <p> Releases Back  <br>   <br>7.6 https://github.com/osunyorg/admin/releases/tag/v3.7.6 Pages spéciales améliorées : beaucoup d'usagers ne comprenaient pas que les pages spéciales avaient déjà des contenus, désormais leur contenu est montré et expliqué depuis le back-office. Cette nouveauté n'est pas encore déployée pour les actualités car cette fonction demande de réfléchir à la pagination. Deux nouvelles mises en page du bloc lien. Correction d'un bug des API. Suppression de la télémétrie Bugsnag : ça ne donnait pas d'info pertinente. Indiquez dans le Slack quand ça ne fonctionne pas, ça aidera l'équipe à prioriser. Envoi des mails lors de l'import d'alumni pour prévenir les personnes qui sont connectées à un extranet, il y a encore du travail pour rendre les extranets fluides. Aujourd'hui, le CIDS et le MIDS utilisent cette fonction. On peut désormais gérer des projets et catégories de projets depuis l'API. Événements dans les sites multilingues : réparation et correction d'une incohérence sur les horaires dans l'agenda. Youtubenocookie exigeait de nouvelles infos, et les liens ne marchaient plus. Ce qui pose la question des couches logicielles extérieures dans Osuny. Réparation des bugs d'index. Possibilité de supprimer des promotions. Corrections et nettoyages.</p>  <p> Nouvelles fonctionnalités  <br>   <br>Corbeille La fonction corbeille agit comme un filet de sécurité, les contenus y sont placés pendant 30 jours avant suppression définitive. La fonction sera en ligne dans les jours qui viennent. C'est une corbeille par objets qui va concerner :   <br> Actualités  <br> Événements  <br> Expositions  <br> Projets  <br> Offres d'emplois  <br> Pages  <br> Organisations  <br> Personnes  <br> Formations  <br> Nouveau filtre Nouvel élément de filtre pour avoir en vue : ce qui est publié, planifié, en brouillon. La planification sera disponible sur les pages, elle ne l'est actuellement que sur les actualités. Actualités fédérées Ça arrive Accélération Deuxfleurs Depuis fin juillet, le nombre de synchronisations était limité grâce à l'itération 12, on a allégé la charge, ce qui a fait ralentir la vitesse du déploiement. On a doublé aujourd'hui le nombre de workers, on verra ce que ça donne sur l'infra deuxfleurs, L'idée est de trouver un rythme confortable qui ne les surcharge pas.</p>  <p> Nouveautés sites  <br>   <br>  <br> https://degoogle.online  : Matt de postgrowth.co a permis le projet degoogle, assez proche du projet de framasoft mais avec une visée internationale  <br>  <br> https://prototype.frenchcraftguild.fr   : la frenchcraftguilde organise un evt sur ce site  <br>  <br> https://recherche.osuny.org   : tout le travail de Magali a été déplacé sur ce site, c'est une démarche de simplification  <br>  <br> https://experience.terapolis.fr  (désolé c'est lourd) : pour un salon agricole, une maquette 3D en ligne, osuny sert la gestion du contenu, mais pas très éco-conçu  <br>  <br> https://www.memecartouche.com  : un collectif de dessinateurs qui font des dessins en direct pendant des concerts, on a mis en place son site perso et memecartouche. La typo est elle accessible (question) ? Pas vraiment pour des personnes atteintes de dyslexie (réponse)  <br>  <br> https://lechecdunumeriqueeducatif.arnaudlevy.com   : site de la bibliographie du livre publié par Arnaud  <br>  <br> https://www.senrgies.fr  : un projet fait avec   <br>  <br> https://www.otempora.com , qui a réalisé le site, accompagné par Olivia  <br>  <br> https://www.sufficiencyforbusiness.osuny.site  (domaine définitif ?) : une équipe qui essaye de rendre les enjeux de sufficiency/sobriété compréhensible et appropriable pour les entreprises. Toute la partie graphique a été faite par Benjamin  <br>  <br> https://histoires.noesya.coop  (presque fini :) : site des histoires de noesya  <br> </p>  <p> Discussions  </p>
 
 date: "2025-11-06"
 dates:
@@ -143,9 +143,9 @@ notes: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 93
+  seconds: 247
   text: >-
-    2 minutes
+    4 minutes
 contents:
   - kind: block
     template: chapter
@@ -234,6 +234,144 @@ contents:
       title: 
         value: >-
           Releases Back
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p><b>7.6</b></p><p><a href="https://github.com/osunyorg/admin/releases/tag/v3.7.6" target="_blank" rel="noreferrer">https://github.com/osunyorg/admin/releases/tag/v3.7.6 <span class="sr-only">(lien externe)</span></a><a href="https://github.com/osunyorg/admin/releases/tag/v3.7.6" target="_blank" rel="noreferrer"> <span class="sr-only">(lien externe)</span></a></p><ul><li>Pages spéciales améliorées : beaucoup d'usagers ne comprenaient pas que les pages spéciales avaient déjà des contenus, désormais leur contenu est montré et expliqué depuis le back-office. Cette nouveauté n'est pas encore déployée pour les actualités car cette fonction demande de réfléchir à la pagination.</li></ul><ul><li>Deux nouvelles mises en page du bloc lien.</li></ul><ul><li>Correction d'un bug des API.</li></ul><ul><li>Suppression de la télémétrie Bugsnag : ça ne donnait pas d'info pertinente. Indiquez dans le Slack quand ça ne fonctionne pas, ça aidera l'équipe à prioriser.</li></ul><ul><li>Envoi des mails lors de l'import d'alumni pour prévenir les personnes qui sont connectées à un extranet, il y a encore du travail pour rendre les extranets fluides. Aujourd'hui, le CIDS et le MIDS utilisent cette fonction.</li></ul><ul><li>On peut désormais gérer des projets et catégories de projets depuis l'API.</li></ul><ul><li>Événements dans les sites multilingues : réparation et correction d'une incohérence sur les horaires dans l'agenda.</li></ul><ul><li>Youtubenocookie exigeait de nouvelles infos, et les liens ne marchaient plus. Ce qui pose la question des couches logicielles extérieures dans Osuny.</li></ul><ul><li>Réparation des bugs d'index.</li></ul><ul><li>Possibilité de supprimer des promotions.</li></ul><ul><li>Corrections et nettoyages.</li></ul>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Nouvelles fonctionnalités
+    slug: >-
+      nouvelles-fonctionnalites
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Nouvelles fonctionnalités
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p><b>Corbeille</b></p><p>La fonction corbeille agit comme un filet de sécurité, les contenus y sont placés pendant 30 jours avant suppression définitive. La fonction sera en ligne dans les jours qui viennent. C'est une corbeille par objets qui va concerner : </p><ul> <li>Actualités</li> <li>Événements</li> <li>Expositions</li> <li>Projets</li> <li>Offres d'emplois</li> <li>Pages</li> <li>Organisations</li> <li>Personnes</li> <li>Formations</li> </ul><p><b>Nouveau filtre</b></p><p>Nouvel élément de filtre pour avoir en vue : ce qui est publié, planifié, en brouillon. La planification sera disponible sur les pages, elle ne l'est actuellement que sur les actualités.</p><p><b>Actualités fédérées</b></p><p>Ça arrive</p><p><b>Accélération Deuxfleurs</b></p><p>Depuis fin juillet, le nombre de synchronisations était limité grâce à l'itération 12, on a allégé la charge, ce qui a fait ralentir la vitesse du déploiement. On a doublé aujourd'hui le nombre de workers, on verra ce que ça donne sur l'infra deuxfleurs, L'idée est de trouver un rythme confortable qui ne les surcharge pas.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Nouveautés sites
+    slug: >-
+      nouveautes-sites
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Nouveautés sites
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <ul> <li> <a href="https://degoogle.online/">https://degoogle.online</a> : Matt de postgrowth.co a permis le projet degoogle, assez proche du projet de framasoft mais avec une visée internationale</li> <li> <a href="https://prototype.frenchcraftguild.fr/">https://prototype.frenchcraftguild.fr</a>  : la frenchcraftguilde organise un evt sur ce site</li> <li> <a href="https://recherche.osuny.org/">https://recherche.osuny.org</a>  : tout le travail de Magali a été déplacé sur ce site, c'est une démarche de simplification</li> <li> <a href="https://experience.terapolis.fr/">https://experience.terapolis.fr</a> (désolé c'est lourd) : pour un salon agricole, une maquette 3D en ligne, osuny sert la gestion du contenu, mais pas très éco-conçu</li> <li> <a href="https://www.memecartouche.com/">https://www.memecartouche.com</a> : un collectif de dessinateurs qui font des dessins en direct pendant des concerts, on a mis en place son site perso et memecartouche. La typo est elle accessible (question) ? Pas vraiment pour des personnes atteintes de dyslexie (réponse)</li> <li> <a href="https://lechecdunumeriqueeducatif.arnaudlevy.com/">https://lechecdunumeriqueeducatif.arnaudlevy.com</a>  : site de la bibliographie du livre publié par Arnaud</li> <li> <a href="https://www.senrgies.fr/">https://www.senrgies.fr</a> : un projet fait avec </li> <li> <a href="https://www.otempora.com/">https://www.otempora.com</a>, qui a réalisé le site, accompagné par Olivia</li> <li> <a href="https://www.sufficiencyforbusiness.osuny.site/">https://www.sufficiencyforbusiness.osuny.site</a> (domaine définitif ?) : une équipe qui essaye de rendre les enjeux de sufficiency/sobriété compréhensible et appropriable pour les entreprises. Toute la partie graphique a été faite par Benjamin</li> <li> <a href="https://histoires.noesya.coop/">https://histoires.noesya.coop</a> (presque fini :) : site des histoires de noesya<br> </li> </ul>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Discussions
+    slug: >-
+      discussions
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Discussions
         heading: 2
     data:
       layout: classic
