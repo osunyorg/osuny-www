@@ -4,3 +4,6 @@ params:
   plausible: osuny.org
   debug:
     productionUrl: https://osuny.org
+  home:
+    head:
+      title: both
