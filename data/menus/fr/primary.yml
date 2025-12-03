@@ -21,12 +21,12 @@ items:
     path: "/pages/secteurs/enseignement-1"
     file: content/fr/pages/secteurs/enseignement-1/_index.html
   - title: Recherche
-    target: "/secteurs/recherche-1/"
+    target: "/secteurs/recherche-2/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/secteurs/recherche-1"
-    file: content/fr/pages/secteurs/recherche-1/_index.html
+    path: "/pages/secteurs/recherche-2"
+    file: content/fr/pages/secteurs/recherche-2/_index.html
   - title: Associatif
     target: "/secteurs/associatif/"
     kind: page
