@@ -11,9 +11,4 @@ items:
   kind: url
   new_tab: true
   children: []
-- title: Forum (Discourse)
-  target: https://forum.osuny.org
-  kind: url
-  new_tab: true
-  children: []
 
