@@ -25,7 +25,7 @@ search:
   summary: >-
     
   body: >-
-    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>
+    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Releases Front  <br>   <br>V8.1 Doc Developers :  https://developers.osuny.org/docs/theme/versions/v8 (voir assemblée #25) – Gain de quelques pixels sur les notes (rythme vertical régulier) – Nouvelles options pour « forcer » les éléments « en savoir plus», pour les rendre disponibles pour tous types de mises en page. – Filtres de catégories et de taxonomie améliorés (voir   https://www.reseauexcellence.fr/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/ ). Cela permet d'organiser l'information de manère assez dense – Correction des duplications – Possibilité de mettre un lieu sous l'horaire d'un événement. V8.1.1 – Réparations, ajouts de métadonnées V8.1.2  – Dans la logique de rationalisation, pour que tous les objets aient les mêmes possibilités de mise en page, les témoignages ont été améliorés : possibilité d'affichage en liste, en grille, en large sans carrousel, sans table des matières... – Le bouton d'inscription peut être ajouté dans le hero. – On peut choisir ce qui s'inscrit dans la sidebar, pour les actus et les offres d'emploi – Correctifs. V8.1.2 - beta – Ajout d'un paramètre par Malika d'ecedi – Nettoyage, rangement, soin – Correctifs d'affichage des mises en page liste. - Ajustements V8.1.3 - beta – L'ordre des événements en fonction de leur heure (sur une même journée) ne s'affichait pas par horaire mais par ordre alphabétique, c'est corrigé ( https://prototype.frenchcraftguild.fr/fr/ ) – L'erreur de lecture de vidéos sur Safari est corrigée ( https://lab.noesya.coop/publications/2023-10-11-linsoutenable-poids-des-videos-quon-ne-regarde-pas/ ) – Ajustement des priorités de chargement pour les navigateurs. – Ajout des sous-titres aux pages, toutes les autres natures éditoriales l'avaient.</p>  <p> Releases Back  <br>   <br>V3.9.0 https://github.com/osunyorg/admin/releases/tag/v3.9.0 – Ajout de la fédération de contenu aux actualités – Harmonisation des catégories pour faciliter sous Hugo. – Enjeu concernant la sélection de Taiwan, qui est présenté comme "province de Chine". Désormais c'est harmonisé et Taiwan s'affiche simplement "Taiwan". Cela permet d'éviter les enjeux diplomatiques côté Taiwan et côté RPC. – Harmonisation côté alumni. – Gestion de la suppression de sites webs, dans le back office. Cela est possible uniquement par les "super admins" : le site sera supprimé des serveurs mais le dépot github/gitlab restera à des fins d'archivage. – Le thème de traduction automatique prévient dorénavant si un texte est trop long et ne peut pas être traduit (limite à 5 000 caractères par Libre Translate). – Ajustement du back-office, amélioration de la stabilité globale. – Amélioration de toutes les pages spéciales, évitant ainsi que les personnes mettent des blocs en trop en ajoutant une information déjà contenue dans la page spéciale. – Ajout de règles typographiques pour améliorer le passage de l'écriture par quelqu'un à la présentation sur un site. Cela avait déjà été mis en place mais la librairie créait des problèmes. – Amélioration des prévisualisations. – Amélioration du fonctionnement de l'API Osuny, notamment par rapport à la corbeille, qui a été supprimée. Cela a généré un grand nombre de tâches de fond, bloquant les mises à jour de contenus lundi 5 janvier. – On définit si oui ou non on a besoin de mener une tâche spéciale pour un site. – Au niveau de l'API, les identifiants de migration sont désormais vérifiés pour éviter des doublons. – Nouvelles prévisualisations : elles sont à présent plus proches de ce qui sera présenté sur les sites, plus fiables.</p>
 
 date: "2026-02-05T10:00:00+01:00"
 dates:
@@ -92,7 +92,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 current_time_slot:
@@ -156,9 +156,9 @@ notes: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 27
+  seconds: 181
   text: >-
-    moins d'une minute
+    3 minutes
 contents:
   - kind: block
     template: chapter
@@ -174,6 +174,98 @@ contents:
       layout: no_background
       text: >-
         <p>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions.</p><p><a href="https://visio.liiib.re/twy-azyr-gac" target="_blank" rel="noreferrer">Accéder à la vidéoconférence <span class="sr-only">(lien externe)</span></a></p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Front
+    slug: >-
+      releases-front
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Front
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p><b>V8.1</b></p><p>Doc Developers : <a href="https://developers.osuny.org/docs/theme/versions/v8" target="_blank" rel="noreferrer">https://developers.osuny.org/docs/theme/versions/v8 <span class="sr-only">(lien externe)</span></a><a href="https://developers.osuny.org/docs/theme/versions/v8" target="_blank" rel="noreferrer"> <span class="sr-only">(lien externe)</span></a></p><p>(voir assemblée #25)</p><p>– Gain de quelques pixels sur les notes (rythme vertical régulier)</p><p>– Nouvelles options pour « forcer » les éléments « en savoir plus», pour les rendre disponibles pour tous types de mises en page.</p><p>– Filtres de catégories et de taxonomie améliorés (voir  <a href="https://www.reseauexcellence.fr/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/">https://www.reseauexcellence.fr/fr/organisations/categories/type-dorganisation/entreprises-du-patrimoine-vivant/</a>). Cela permet d'organiser l'information de manère assez dense</p><p>– Correction des duplications</p><p>– Possibilité de mettre un lieu sous l'horaire d'un événement.</p><p><b>V8.1.1</b></p><p>– Réparations, ajouts de métadonnées</p><p><br><b>V8.1.2 </b><br>– Dans la logique de rationalisation, pour que tous les objets aient les mêmes possibilités de mise en page, les témoignages ont été améliorés : possibilité d'affichage en liste, en grille, en large sans carrousel, sans table des matières...</p><p>– Le bouton d'inscription peut être ajouté dans le hero.</p><p>– On peut choisir ce qui s'inscrit dans la sidebar, pour les actus et les offres d'emploi</p><p>– Correctifs.</p><p><b>V8.1.2 - beta</b><br>– Ajout d'un paramètre par Malika d'ecedi</p><p>– Nettoyage, rangement, soin</p><p>– Correctifs d'affichage des mises en page liste.</p><p>- Ajustements</p><p><b>V8.1.3 - beta</b></p><p>– L'ordre des événements en fonction de leur heure (sur une même journée) ne s'affichait pas par horaire mais par ordre alphabétique, c'est corrigé (<a href="https://prototype.frenchcraftguild.fr/fr/">https://prototype.frenchcraftguild.fr/fr/</a>)</p><p>– L'erreur de lecture de vidéos sur Safari est corrigée (<a href="https://lab.noesya.coop/publications/2023-10-11-linsoutenable-poids-des-videos-quon-ne-regarde-pas/">https://lab.noesya.coop/publications/2023-10-11-linsoutenable-poids-des-videos-quon-ne-regarde-pas/</a>)</p><p>– Ajustement des priorités de chargement pour les navigateurs.</p><p>– Ajout des sous-titres aux pages, toutes les autres natures éditoriales l'avaient.</p>
+
+      notes: >-
+        
+
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Back
+    slug: >-
+      releases-back
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Back
+        heading: 2
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 3
+    top:
+      active: false
+    data:
+      layout: no_background
+      text: >-
+        <p><br><b>V3.9.0</b></p><p><a href="https://github.com/osunyorg/admin/releases/tag/v3.9.0" target="_blank" rel="noreferrer">https://github.com/osunyorg/admin/releases/tag/v3.9.0 <span class="sr-only">(lien externe)</span></a></p><p>– Ajout de la fédération de contenu aux actualités</p><p>– Harmonisation des catégories pour faciliter sous Hugo.</p><p>– Enjeu concernant la sélection de Taiwan, qui est présenté comme "province de Chine". Désormais c'est harmonisé et Taiwan s'affiche simplement "Taiwan". Cela permet d'éviter les enjeux diplomatiques côté Taiwan et côté RPC.</p><p>– Harmonisation côté alumni.</p><p>– Gestion de la suppression de sites webs, dans le back office. Cela est possible uniquement par les "super admins" : le site sera supprimé des serveurs mais le dépot github/gitlab restera à des fins d'archivage.</p><p>– Le thème de traduction automatique prévient dorénavant si un texte est trop long et ne peut pas être traduit (limite à 5 000 caractères par Libre Translate).</p><p>– Ajustement du back-office, amélioration de la stabilité globale.</p><p>– Amélioration de toutes les pages spéciales, évitant ainsi que les personnes mettent des blocs en trop en ajoutant une information déjà contenue dans la page spéciale.</p><p>– Ajout de règles typographiques pour améliorer le passage de l'écriture par quelqu'un à la présentation sur un site. Cela avait déjà été mis en place mais la librairie créait des problèmes.</p><p>– Amélioration des prévisualisations.</p><p>– Amélioration du fonctionnement de l'API Osuny, notamment par rapport à la corbeille, qui a été supprimée. Cela a généré un grand nombre de tâches de fond, bloquant les mises à jour de contenus lundi 5 janvier.</p><p>– On définit si oui ou non on a besoin de mener une tâche spéciale pour un site.</p><p>– Au niveau de l'API, les identifiants de migration sont désormais vérifiés pour éviter des doublons.</p><p>– Nouvelles prévisualisations : elles sont à présent plus proches de ce qui sera présenté sur les sites, plus fiables.</p>
 
       notes: >-
         
