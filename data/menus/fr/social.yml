@@ -2,35 +2,47 @@
 title: Réseaux sociaux
 items:
 - title: Sur Mastodon
+  slug: sur-mastodon
   target: https://mastodon.social/@osuny
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Sur Linkedin
+  slug: sur-linkedin
   target: https://www.linkedin.com/company/osuny/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Sur Github
+  slug: sur-github
   target: https://github.com/noesya/osuny
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Sur Gitlab
+  slug: sur-gitlab
   target: https://gitlab.com/osuny/osuny
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Sur l'espace presse
+  slug: sur-l-espace-presse
   target: "/espace-presse/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/espace-presse"
   file: content/fr/pages/espace-presse/_index.html
 - title: Sur contact@osuny.org
+  slug: sur-contact-osuny-org
   target: mailto:contact@osuny.org
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 

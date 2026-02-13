@@ -2,263 +2,386 @@
 title: Menu principal
 items:
 - title: Usages
+  slug: usages
   target: "/usages/"
   kind: page
   new_tab: false
   children:
   - title: Culture
+    slug: culture
     target: "/secteurs/culture/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/secteurs/culture"
     file: content/fr/pages/secteurs/culture/_index.html
   - title: Enseignement
+    slug: enseignement
     target: "/secteurs/enseignement-1/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/secteurs/enseignement-1"
     file: content/fr/pages/secteurs/enseignement-1/_index.html
   - title: Recherche
+    slug: recherche
     target: "/secteurs/recherche-2/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/secteurs/recherche-2"
     file: content/fr/pages/secteurs/recherche-2/_index.html
   - title: Associatif
+    slug: associatif
     target: "/secteurs/associatif/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/secteurs/associatif"
     file: content/fr/pages/secteurs/associatif/_index.html
+  descendants_targets:
+  - "/secteurs/associatif/"
+  - "/secteurs/culture/"
+  - "/secteurs/enseignement-1/"
+  - "/secteurs/recherche-2/"
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
 - title: Profils
+  slug: profils
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Usager·e·s
+    slug: usager-e-s
     target: "/profils/usageres/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/profils/usageres"
     file: content/fr/pages/profils/usageres/_index.html
   - title: Designers
+    slug: designers
     target: "/profils/design/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/profils/design"
     file: content/fr/pages/profils/design/_index.html
   - title: Développeu·r·se·s
+    slug: developpeu-r-se-s
     target: "/profils/dev/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/profils/dev"
     file: content/fr/pages/profils/dev/_index.html
+  descendants_targets:
+  - "/profils/design/"
+  - "/profils/dev/"
+  - "/profils/usageres/"
 - title: Passer à l'action
+  slug: passer-a-l-action
   target: "/passer-a-laction/"
   kind: page
   new_tab: false
   children:
   - title: Budgets
+    slug: budgets
     target: "/passer-a-laction/budgets/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/passer-a-laction/budgets"
     file: content/fr/pages/passer-a-laction/budgets/_index.html
   - title: Réseau
+    slug: reseau
     target: "/passer-a-laction/reseau/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/passer-a-laction/reseau"
     file: content/fr/pages/passer-a-laction/reseau/_index.html
   - title: Osuny as a Service
+    slug: osuny-as-a-service
     target: "/passer-a-laction/osuny-as-a-service/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/passer-a-laction/osuny-as-a-service"
     file: content/fr/pages/passer-a-laction/osuny-as-a-service/_index.html
+  descendants_targets:
+  - "/passer-a-laction/budgets/"
+  - "/passer-a-laction/osuny-as-a-service/"
+  - "/passer-a-laction/reseau/"
   path: "/pages/passer-a-laction"
   file: content/fr/pages/passer-a-laction/_index.html
 - title: Nos valeurs et notre structure
+  slug: nos-valeurs-et-notre-structure
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Valeurs
+    slug: valeurs
     target: "/valeurs/"
     kind: page
     new_tab: false
     children:
     - title: Accessibilité
+      slug: accessibilite
       target: "/valeurs/accessibilite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/accessibilite"
       file: content/fr/pages/valeurs/accessibilite/_index.html
     - title: Sobriété
+      slug: sobriete
       target: "/valeurs/sobriete/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/sobriete"
       file: content/fr/pages/valeurs/sobriete/_index.html
     - title: Qualité
+      slug: qualite
       target: "/valeurs/qualite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/qualite"
       file: content/fr/pages/valeurs/qualite/_index.html
     - title: Souveraineté
+      slug: souverainete
       target: "/valeurs/souverainete/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/souverainete"
       file: content/fr/pages/valeurs/souverainete/_index.html
     - title: Liberté
+      slug: liberte
       target: "/valeurs/liberte/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/liberte"
       file: content/fr/pages/valeurs/liberte/_index.html
     - title: Communauté
+      slug: communaute
       target: "/valeurs/communaute/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/valeurs/communaute"
       file: content/fr/pages/valeurs/communaute/_index.html
+    descendants_targets:
+    - "/valeurs/accessibilite/"
+    - "/valeurs/communaute/"
+    - "/valeurs/liberte/"
+    - "/valeurs/qualite/"
+    - "/valeurs/sobriete/"
+    - "/valeurs/souverainete/"
     path: "/pages/valeurs"
     file: content/fr/pages/valeurs/_index.html
   - title: Cycle de vie prévisionnel
+    slug: cycle-de-vie-previsionnel
     target: ''
     kind: blank
     new_tab: false
     children:
     - title: Incubation
+      slug: incubation
       target: "/gouvernance/incubation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/incubation"
       file: content/fr/pages/gouvernance/incubation/_index.html
     - title: Éclosion
+      slug: eclosion
       target: "/gouvernance/eclosion/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/eclosion"
       file: content/fr/pages/gouvernance/eclosion/_index.html
     - title: Stabilisation
+      slug: stabilisation
       target: "/gouvernance/stabilisation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/stabilisation"
       file: content/fr/pages/gouvernance/stabilisation/_index.html
+    descendants_targets:
+    - "/gouvernance/eclosion/"
+    - "/gouvernance/incubation/"
+    - "/gouvernance/stabilisation/"
   - title: Gouvernance
+    slug: gouvernance
     target: "/gouvernance/"
     kind: page
     new_tab: false
     children:
     - title: Un commun numérique
+      slug: un-commun-numerique
       target: "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/osuny-est-un-commun-numerique-dinteret-general"
       file: content/fr/pages/gouvernance/osuny-est-un-commun-numerique-dinteret-general/_index.html
     - title: Comité scientifique
+      slug: comite-scientifique
       target: "/gouvernance/comite-scientifique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/comite-scientifique"
       file: content/fr/pages/gouvernance/comite-scientifique/_index.html
     - title: Personnes
+      slug: personnes
       target: "/personnes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/persons"
       file: content/fr/persons/_index.html
+    descendants_targets:
+    - "/gouvernance/comite-scientifique/"
+    - "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
+    - "/personnes/"
     path: "/pages/gouvernance"
     file: content/fr/pages/gouvernance/_index.html
   - title: Réseau
+    slug: reseau
     target: "/passer-a-laction/reseau/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/passer-a-laction/reseau"
     file: content/fr/pages/passer-a-laction/reseau/_index.html
+  descendants_targets:
+  - ''
+  - "/gouvernance/"
+  - "/gouvernance/comite-scientifique/"
+  - "/gouvernance/eclosion/"
+  - "/gouvernance/incubation/"
+  - "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
+  - "/gouvernance/stabilisation/"
+  - "/passer-a-laction/reseau/"
+  - "/personnes/"
+  - "/valeurs/"
+  - "/valeurs/accessibilite/"
+  - "/valeurs/communaute/"
+  - "/valeurs/liberte/"
+  - "/valeurs/qualite/"
+  - "/valeurs/sobriete/"
+  - "/valeurs/souverainete/"
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children:
   - title: Références
+    slug: references
     target: "/actualites/references/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/references"
     file: content/fr/posts_categories/references/_index.html
   - title: Événements
+    slug: evenements
     target: "/agenda/"
     kind: page
     new_tab: false
     children:
     - title: Assemblées Osuny
+      slug: assemblees-osuny
       target: "/assemblees-osuny/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/assemblees-osuny"
       file: content/fr/pages/assemblees-osuny/_index.html
     - title: Comité scientifique
+      slug: comite-scientifique
       target: "/gouvernance/comite-scientifique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/gouvernance/comite-scientifique"
       file: content/fr/pages/gouvernance/comite-scientifique/_index.html
+    descendants_targets:
+    - "/assemblees-osuny/"
+    - "/gouvernance/comite-scientifique/"
     path: "/events"
     file: content/fr/events/_index.html
   - title: Veille
+    slug: veille
     target: "/actualites/veille/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/veille"
     file: content/fr/posts_categories/veille/_index.html
   - title: Carnet de recherche
+    slug: carnet-de-recherche
     target: "/actualites/carnet-de-recherche/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/carnet-de-recherche"
     file: content/fr/posts_categories/carnet-de-recherche/_index.html
   - title: Toutes les actualités
+    slug: toutes-les-actualites
     target: "/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
+  descendants_targets:
+  - "/actualites/"
+  - "/actualites/carnet-de-recherche/"
+  - "/actualites/references/"
+  - "/actualites/veille/"
+  - "/agenda/"
+  - "/assemblees-osuny/"
+  - "/gouvernance/comite-scientifique/"
   path: "/posts"
   file: content/fr/posts/_index.html
 

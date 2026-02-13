@@ -2,13 +2,17 @@
 title: Aide
 items:
 - title: Pour l'utilisation
+  slug: pour-l-utilisation
   target: https://support.osuny.org/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Pour le code
+  slug: pour-le-code
   target: https://developers.osuny.org/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

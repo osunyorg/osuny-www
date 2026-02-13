@@ -2,23 +2,31 @@
 title: Outils techniques
 items:
 - title: Site d'exemple
+  slug: site-d-exemple
   target: https://example.osuny.org/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Thème Figma
+  slug: theme-figma
   target: https://www.figma.com/community/file/1176490763864113451
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: État du système
+  slug: etat-du-systeme
   target: https://status.osuny.org/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Showcase
+  slug: showcase
   target: https://showcase.osuny.org
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

@@ -2,48 +2,62 @@
 title: Informations légales
 items:
 - title: Mentions légales
+  slug: mentions-legales
   target: "/mentions-legales/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
 - title: Conditions d'utilisation
+  slug: conditions-d-utilisation
   target: "/conditions-d-utilisation/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/conditions-d-utilisation"
   file: content/fr/pages/conditions-d-utilisation/_index.html
 - title: Politique de sobriété
+  slug: politique-de-sobriete
   target: "/politique-de-sobriete/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/politique-de-sobriete"
   file: content/fr/pages/politique-de-sobriete/_index.html
 - title: Transparence financière
+  slug: transparence-financiere
   target: https://transparence.osuny.org
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Déclaration d'accessibilité
+  slug: declaration-d-accessibilite
   target: "/a11y/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a11y"
   file: content/fr/pages/a11y/_index.html
 - title: Plan du site
+  slug: plan-du-site
   target: "/plan-du-site/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
 - title: Licence MIT
+  slug: licence-mit
   target: https://gitlab.com/osuny/osuny/-/blob/main/LICENSE
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
