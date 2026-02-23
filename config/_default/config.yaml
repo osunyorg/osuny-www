@@ -1,7 +1,6 @@
 theme: osuny-www-design-system
 _merge: deep
 params:
-  plausible: osuny.org
   debug:
     productionUrl: https://osuny.org
   home:
