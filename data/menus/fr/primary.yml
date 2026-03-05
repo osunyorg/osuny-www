@@ -54,73 +54,73 @@ items:
     children:
     - title: Valeurs
       slug: valeurs
-      target: "/valeurs/"
+      target: "/engagements/"
       kind: page
       new_tab: false
       children:
       - title: Accessibilité
         slug: accessibilite
-        target: "/valeurs/accessibilite/"
+        target: "/engagements/accessibilite/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/accessibilite"
-        file: content/fr/pages/valeurs/accessibilite/_index.html
+        path: "/pages/engagements/accessibilite"
+        file: content/fr/pages/engagements/accessibilite/_index.html
       - title: Sobriété
         slug: sobriete
-        target: "/valeurs/sobriete/"
+        target: "/engagements/sobriete/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/sobriete"
-        file: content/fr/pages/valeurs/sobriete/_index.html
+        path: "/pages/engagements/sobriete"
+        file: content/fr/pages/engagements/sobriete/_index.html
       - title: Qualité
         slug: qualite
-        target: "/valeurs/qualite/"
+        target: "/engagements/qualite/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/qualite"
-        file: content/fr/pages/valeurs/qualite/_index.html
+        path: "/pages/engagements/qualite"
+        file: content/fr/pages/engagements/qualite/_index.html
       - title: Souveraineté
         slug: souverainete
-        target: "/valeurs/souverainete/"
+        target: "/engagements/souverainete/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/souverainete"
-        file: content/fr/pages/valeurs/souverainete/_index.html
+        path: "/pages/engagements/souverainete"
+        file: content/fr/pages/engagements/souverainete/_index.html
       - title: Liberté
         slug: liberte
-        target: "/valeurs/liberte/"
+        target: "/engagements/liberte/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/liberte"
-        file: content/fr/pages/valeurs/liberte/_index.html
+        path: "/pages/engagements/liberte"
+        file: content/fr/pages/engagements/liberte/_index.html
       - title: Communauté
         slug: communaute
-        target: "/valeurs/communaute/"
+        target: "/engagements/communaute/"
         kind: page
         new_tab: false
         children: []
         descendants_targets: []
-        path: "/pages/valeurs/communaute"
-        file: content/fr/pages/valeurs/communaute/_index.html
+        path: "/pages/engagements/communaute"
+        file: content/fr/pages/engagements/communaute/_index.html
       descendants_targets:
-      - "/valeurs/accessibilite/"
-      - "/valeurs/communaute/"
-      - "/valeurs/liberte/"
-      - "/valeurs/qualite/"
-      - "/valeurs/sobriete/"
-      - "/valeurs/souverainete/"
-      path: "/pages/valeurs"
-      file: content/fr/pages/valeurs/_index.html
+      - "/engagements/accessibilite/"
+      - "/engagements/communaute/"
+      - "/engagements/liberte/"
+      - "/engagements/qualite/"
+      - "/engagements/sobriete/"
+      - "/engagements/souverainete/"
+      path: "/pages/engagements"
+      file: content/fr/pages/engagements/_index.html
     - title: Cycle de vie prévisionnel
       slug: cycle-de-vie-previsionnel
       target: ''
@@ -208,6 +208,13 @@ items:
       file: content/fr/pages/passer-a-laction/reseau/_index.html
     descendants_targets:
     - ''
+    - "/engagements/"
+    - "/engagements/accessibilite/"
+    - "/engagements/communaute/"
+    - "/engagements/liberte/"
+    - "/engagements/qualite/"
+    - "/engagements/sobriete/"
+    - "/engagements/souverainete/"
     - "/gouvernance/"
     - "/gouvernance/comite-scientifique/"
     - "/gouvernance/eclosion/"
@@ -216,13 +223,6 @@ items:
     - "/gouvernance/stabilisation/"
     - "/passer-a-laction/reseau/"
     - "/personnes/"
-    - "/valeurs/"
-    - "/valeurs/accessibilite/"
-    - "/valeurs/communaute/"
-    - "/valeurs/liberte/"
-    - "/valeurs/qualite/"
-    - "/valeurs/sobriete/"
-    - "/valeurs/souverainete/"
   - title: Secteurs
     slug: secteurs
     target: "/usages/"
@@ -402,6 +402,13 @@ items:
   - "/actualites/veille/"
   - "/agenda/"
   - "/assemblees-osuny/"
+  - "/engagements/"
+  - "/engagements/accessibilite/"
+  - "/engagements/communaute/"
+  - "/engagements/liberte/"
+  - "/engagements/qualite/"
+  - "/engagements/sobriete/"
+  - "/engagements/souverainete/"
   - "/gouvernance/"
   - "/gouvernance/comite-scientifique/"
   - "/gouvernance/eclosion/"
@@ -422,11 +429,4 @@ items:
   - "/secteurs/enseignement-1/"
   - "/secteurs/recherche-2/"
   - "/usages/"
-  - "/valeurs/"
-  - "/valeurs/accessibilite/"
-  - "/valeurs/communaute/"
-  - "/valeurs/liberte/"
-  - "/valeurs/qualite/"
-  - "/valeurs/sobriete/"
-  - "/valeurs/souverainete/"
 
