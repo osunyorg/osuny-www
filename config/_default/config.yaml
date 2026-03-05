@@ -2,7 +2,4 @@ theme: osuny-www-design-system
 _merge: deep
 params:
   debug:
-    productionUrl: https://osuny.org
-  home:
-    head:
-      title: both
+    productionUrl: https://www.osuny.org
