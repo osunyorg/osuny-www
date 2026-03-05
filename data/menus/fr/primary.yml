@@ -52,39 +52,39 @@ items:
     kind: blank
     new_tab: false
     children:
+    - title: Accessibilité
+      slug: accessibilite
+      target: "/engagements/accessibilite/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/engagements/accessibilite"
+      file: content/fr/pages/engagements/accessibilite/_index.html
+    - title: Sobriété
+      slug: sobriete
+      target: "/engagements/sobriete/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/engagements/sobriete"
+      file: content/fr/pages/engagements/sobriete/_index.html
+    - title: Qualité
+      slug: qualite
+      target: "/engagements/qualite/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/engagements/qualite"
+      file: content/fr/pages/engagements/qualite/_index.html
     - title: Valeurs
       slug: valeurs
       target: "/engagements/"
       kind: page
       new_tab: false
       children:
-      - title: Accessibilité
-        slug: accessibilite
-        target: "/engagements/accessibilite/"
-        kind: page
-        new_tab: false
-        children: []
-        descendants_targets: []
-        path: "/pages/engagements/accessibilite"
-        file: content/fr/pages/engagements/accessibilite/_index.html
-      - title: Sobriété
-        slug: sobriete
-        target: "/engagements/sobriete/"
-        kind: page
-        new_tab: false
-        children: []
-        descendants_targets: []
-        path: "/pages/engagements/sobriete"
-        file: content/fr/pages/engagements/sobriete/_index.html
-      - title: Qualité
-        slug: qualite
-        target: "/engagements/qualite/"
-        kind: page
-        new_tab: false
-        children: []
-        descendants_targets: []
-        path: "/pages/engagements/qualite"
-        file: content/fr/pages/engagements/qualite/_index.html
       - title: Souveraineté
         slug: souverainete
         target: "/engagements/souverainete/"
@@ -113,11 +113,8 @@ items:
         path: "/pages/engagements/communaute"
         file: content/fr/pages/engagements/communaute/_index.html
       descendants_targets:
-      - "/engagements/accessibilite/"
       - "/engagements/communaute/"
       - "/engagements/liberte/"
-      - "/engagements/qualite/"
-      - "/engagements/sobriete/"
       - "/engagements/souverainete/"
       path: "/pages/engagements"
       file: content/fr/pages/engagements/_index.html
