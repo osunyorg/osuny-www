@@ -9,8 +9,8 @@ items:
   children:
   - title: Fonctionnalités
     slug: fonctionnalites
-    target: ''
-    kind: blank
+    target: "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
+    kind: page
     new_tab: false
     children:
     - title: Pour les Usager·e·s
@@ -44,6 +44,8 @@ items:
     - "/profils/design/"
     - "/profils/dev/"
     - "/profils/usageres/"
+    path: "/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms"
+    file: content/fr/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/_index.html
   - title: Engagements
     slug: engagements
     target: ''
@@ -406,6 +408,7 @@ items:
   - "/gouvernance/incubation/"
   - "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
   - "/gouvernance/stabilisation/"
+  - "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
   - "/passer-a-laction/"
   - "/passer-a-laction/budgets/"
   - "/passer-a-laction/osuny-as-a-service/"
