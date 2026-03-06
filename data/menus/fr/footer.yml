@@ -86,13 +86,71 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Transparence
+    slug: transparence
+    target: https://transparence.osuny.org
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://transparence.osuny.org
 - title: Suivre
   slug: suivre
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Mastodon
+    slug: mastodon
+    target: https://mastodon.social/@osuny
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: Github
+    slug: github
+    target: https://github.com/osunyorg/
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: Gitlab
+    slug: gitlab
+    target: https://gitlab.com/osuny
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: LinkedIn
+    slug: linkedin
+    target: https://www.linkedin.com/company/osuny/
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: Presse
+    slug: presse
+    target: "/espace-presse/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/espace-presse"
+    file: content/fr/pages/espace-presse/_index.html
+  - title: Statut
+    slug: statut
+    target: https://status.osuny.org
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - "/espace-presse/"
+  - https://github.com/osunyorg/
+  - https://gitlab.com/osuny
+  - https://mastodon.social/@osuny
+  - https://status.osuny.org
+  - https://www.linkedin.com/company/osuny/
 
