@@ -9,13 +9,13 @@ items:
   children:
   - title: Fonctionnalités
     slug: fonctionnalites
-    target: "/fonctionnalites/"
+    target: "/fonctionnalites-old/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/fonctionnalites"
-    file: content/fr/pages/fonctionnalites/_index.html
+    path: "/pages/fonctionnalites-old"
+    file: content/fr/pages/fonctionnalites-old/_index.html
   - title: Engagements
     slug: engagements
     target: "/engagements/"
@@ -54,7 +54,7 @@ items:
     file: content/fr/pages/tester/_index.html
   descendants_targets:
   - "/engagements/"
-  - "/fonctionnalites/"
+  - "/fonctionnalites-old/"
   - "/secteurs/"
   - "/tarifs/"
   - "/tester/"
