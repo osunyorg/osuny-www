@@ -1,188 +1,115 @@
 ---
 title: Menu principal
 items:
-- title: Navigation
-  slug: navigation
-  target: ''
-  kind: blank
+- title: Fonctionnalités
+  slug: fonctionnalites
+  target: "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
+  kind: page
   new_tab: false
   children:
-  - title: Fonctionnalités
-    slug: fonctionnalites
-    target: "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Pour les Usager·e·s
-      slug: pour-les-usager-e-s
-      target: "/profils/usageres/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/profils/usageres"
-      file: content/fr/pages/profils/usageres/_index.html
-    - title: Pour les Designers
-      slug: pour-les-designers
-      target: "/profils/design/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/profils/design"
-      file: content/fr/pages/profils/design/_index.html
-    - title: Pour les Développeu·r·se·s
-      slug: pour-les-developpeu-r-se-s
-      target: "/profils/dev/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/profils/dev"
-      file: content/fr/pages/profils/dev/_index.html
-    descendants_targets:
-    - "/profils/design/"
-    - "/profils/dev/"
-    - "/profils/usageres/"
-    path: "/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms"
-    file: content/fr/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/_index.html
-  - title: Engagements
-    slug: engagements
-    target: ''
-    kind: blank
-    new_tab: false
-    children:
-    - title: Accessibilité
-      slug: accessibilite
-      target: "/engagements/accessibilite/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/accessibilite"
-      file: content/fr/pages/engagements/accessibilite/_index.html
-    - title: Sobriété
-      slug: sobriete
-      target: "/engagements/sobriete/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/sobriete"
-      file: content/fr/pages/engagements/sobriete/_index.html
-    - title: Qualité
-      slug: qualite
-      target: "/engagements/qualite/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/qualite"
-      file: content/fr/pages/engagements/qualite/_index.html
-    - title: Souveraineté
-      slug: souverainete
-      target: "/engagements/souverainete/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/souverainete"
-      file: content/fr/pages/engagements/souverainete/_index.html
-    - title: Liberté
-      slug: liberte
-      target: "/engagements/liberte/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/liberte"
-      file: content/fr/pages/engagements/liberte/_index.html
-    - title: Communauté
-      slug: communaute
-      target: "/engagements/communaute/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/engagements/communaute"
-      file: content/fr/pages/engagements/communaute/_index.html
-    - title: Sécurité
-      slug: securite
-      target: "/fonctionnalites/informations-techniques/securite/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/fonctionnalites/informations-techniques/securite"
-      file: content/fr/pages/fonctionnalites/informations-techniques/securite/_index.html
-    descendants_targets:
-    - "/engagements/accessibilite/"
-    - "/engagements/communaute/"
-    - "/engagements/liberte/"
-    - "/engagements/qualite/"
-    - "/engagements/sobriete/"
-    - "/engagements/souverainete/"
-    - "/fonctionnalites/informations-techniques/securite/"
-  - title: Secteurs
-    slug: secteurs
-    target: "/usages/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Culture
-      slug: culture
-      target: "/secteurs/culture/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/culture"
-      file: content/fr/pages/secteurs/culture/_index.html
-    - title: Enseignement
-      slug: enseignement
-      target: "/secteurs/enseignement-1/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/enseignement-1"
-      file: content/fr/pages/secteurs/enseignement-1/_index.html
-    - title: Recherche
-      slug: recherche
-      target: "/secteurs/recherche-2/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/recherche-2"
-      file: content/fr/pages/secteurs/recherche-2/_index.html
-    - title: Associatif
-      slug: associatif
-      target: "/secteurs/associatif/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/associatif"
-      file: content/fr/pages/secteurs/associatif/_index.html
-    descendants_targets:
-    - "/secteurs/associatif/"
-    - "/secteurs/culture/"
-    - "/secteurs/enseignement-1/"
-    - "/secteurs/recherche-2/"
-    path: "/pages/usages"
-    file: content/fr/pages/usages/_index.html
-  - title: Tarifs
-    slug: tarifs
-    target: "/passer-a-laction/budgets/"
+  - title: Pour les Usager·e·s
+    slug: pour-les-usager-e-s
+    target: "/profils/usageres/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/passer-a-laction/budgets"
-    file: content/fr/pages/passer-a-laction/budgets/_index.html
+    path: "/pages/profils/usageres"
+    file: content/fr/pages/profils/usageres/_index.html
+  - title: Pour les Designers
+    slug: pour-les-designers
+    target: "/profils/design/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/profils/design"
+    file: content/fr/pages/profils/design/_index.html
+  - title: Pour les Développeu·r·se·s
+    slug: pour-les-developpeu-r-se-s
+    target: "/profils/dev/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/profils/dev"
+    file: content/fr/pages/profils/dev/_index.html
   descendants_targets:
-  - ''
+  - "/profils/design/"
+  - "/profils/dev/"
+  - "/profils/usageres/"
+  path: "/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms"
+  file: content/fr/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/_index.html
+- title: Engagements
+  slug: engagements
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Accessibilité
+    slug: accessibilite
+    target: "/engagements/accessibilite/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/accessibilite"
+    file: content/fr/pages/engagements/accessibilite/_index.html
+  - title: Sobriété
+    slug: sobriete
+    target: "/engagements/sobriete/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/sobriete"
+    file: content/fr/pages/engagements/sobriete/_index.html
+  - title: Qualité
+    slug: qualite
+    target: "/engagements/qualite/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/qualite"
+    file: content/fr/pages/engagements/qualite/_index.html
+  - title: Souveraineté
+    slug: souverainete
+    target: "/engagements/souverainete/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/souverainete"
+    file: content/fr/pages/engagements/souverainete/_index.html
+  - title: Liberté
+    slug: liberte
+    target: "/engagements/liberte/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/liberte"
+    file: content/fr/pages/engagements/liberte/_index.html
+  - title: Communauté
+    slug: communaute
+    target: "/engagements/communaute/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements/communaute"
+    file: content/fr/pages/engagements/communaute/_index.html
+  - title: Sécurité
+    slug: securite
+    target: "/fonctionnalites/informations-techniques/securite/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/fonctionnalites/informations-techniques/securite"
+    file: content/fr/pages/fonctionnalites/informations-techniques/securite/_index.html
+  descendants_targets:
   - "/engagements/accessibilite/"
   - "/engagements/communaute/"
   - "/engagements/liberte/"
@@ -190,14 +117,62 @@ items:
   - "/engagements/sobriete/"
   - "/engagements/souverainete/"
   - "/fonctionnalites/informations-techniques/securite/"
-  - "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
-  - "/passer-a-laction/budgets/"
-  - "/profils/design/"
-  - "/profils/dev/"
-  - "/profils/usageres/"
+- title: Secteurs
+  slug: secteurs
+  target: "/usages/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Culture
+    slug: culture
+    target: "/secteurs/culture/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/culture"
+    file: content/fr/pages/secteurs/culture/_index.html
+  - title: Enseignement
+    slug: enseignement
+    target: "/secteurs/enseignement-1/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/enseignement-1"
+    file: content/fr/pages/secteurs/enseignement-1/_index.html
+  - title: Recherche
+    slug: recherche
+    target: "/secteurs/recherche-2/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/recherche-2"
+    file: content/fr/pages/secteurs/recherche-2/_index.html
+  - title: Associatif
+    slug: associatif
+    target: "/secteurs/associatif/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/associatif"
+    file: content/fr/pages/secteurs/associatif/_index.html
+  descendants_targets:
   - "/secteurs/associatif/"
   - "/secteurs/culture/"
   - "/secteurs/enseignement-1/"
   - "/secteurs/recherche-2/"
-  - "/usages/"
+  path: "/pages/usages"
+  file: content/fr/pages/usages/_index.html
+- title: Tarifs
+  slug: tarifs
+  target: "/passer-a-laction/budgets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/passer-a-laction/budgets"
+  file: content/fr/pages/passer-a-laction/budgets/_index.html
 
