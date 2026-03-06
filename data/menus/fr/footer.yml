@@ -110,7 +110,15 @@ items:
     new_tab: true
     children: []
     descendants_targets: []
+  - title: Sites créés
+    slug: sites-crees
+    target: https://showcase.osuny.org
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
   descendants_targets:
+  - https://showcase.osuny.org
   - https://transparence.osuny.org
 - title: Suivre
   slug: suivre
