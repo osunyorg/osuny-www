@@ -102,21 +102,21 @@ items:
     file: content/fr/pages/engagements/communaute/_index.html
   - title: Sécurité
     slug: securite
-    target: "/fonctionnalites-old/informations-techniques/securite/"
+    target: "/engagements/securite/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/fonctionnalites-old/informations-techniques/securite"
-    file: content/fr/pages/fonctionnalites-old/informations-techniques/securite/_index.html
+    path: "/pages/engagements/securite"
+    file: content/fr/pages/engagements/securite/_index.html
   descendants_targets:
   - "/engagements/accessibilite/"
   - "/engagements/communaute/"
   - "/engagements/liberte/"
   - "/engagements/qualite/"
+  - "/engagements/securite/"
   - "/engagements/sobriete/"
   - "/engagements/souverainete/"
-  - "/fonctionnalites-old/informations-techniques/securite/"
   path: "/pages/engagements"
   file: content/fr/pages/engagements/_index.html
 - title: Secteurs
