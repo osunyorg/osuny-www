@@ -1,0 +1,98 @@
+---
+title: Footer
+items:
+- title: Découvrir
+  slug: decouvrir
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Fonctionnalités
+    slug: fonctionnalites
+    target: "/fonctionnalites/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/fonctionnalites"
+    file: content/fr/pages/fonctionnalites/_index.html
+  - title: Engagements
+    slug: engagements
+    target: "/engagements/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/engagements"
+    file: content/fr/pages/engagements/_index.html
+  - title: Secteurs
+    slug: secteurs
+    target: "/secteurs/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs"
+    file: content/fr/pages/secteurs/_index.html
+  - title: Tarifs
+    slug: tarifs
+    target: "/tarifs/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/tarifs"
+    file: content/fr/pages/tarifs/_index.html
+  - title: Tester Osuny
+    slug: tester-osuny
+    target: "/tester/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/tester"
+    file: content/fr/pages/tester/_index.html
+  descendants_targets:
+  - "/engagements/"
+  - "/fonctionnalites/"
+  - "/secteurs/"
+  - "/tarifs/"
+  - "/tester/"
+- title: Faire
+  slug: faire
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Dev
+    slug: dev
+    target: https://developers.osuny.org
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: Aide
+    slug: aide
+    target: https://support.osuny.org
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://developers.osuny.org
+  - https://support.osuny.org
+- title: Prendre soin
+  slug: prendre-soin
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: Suivre
+  slug: suivre
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+
