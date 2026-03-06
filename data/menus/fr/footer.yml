@@ -64,6 +64,20 @@ items:
   kind: blank
   new_tab: false
   children:
+  - title: Thème Figma
+    slug: theme-figma
+    target: https://www.figma.com/community/file/1176490763864113451
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
+  - title: Composants Figma
+    slug: composants-figma
+    target: https://www.figma.com/community/file/1603458462925139458
+    kind: url
+    new_tab: true
+    children: []
+    descendants_targets: []
   - title: Dev
     slug: dev
     target: https://developers.osuny.org
@@ -81,6 +95,8 @@ items:
   descendants_targets:
   - https://developers.osuny.org
   - https://support.osuny.org
+  - https://www.figma.com/community/file/1176490763864113451
+  - https://www.figma.com/community/file/1603458462925139458
 - title: Prendre soin
   slug: prendre-soin
   target: ''
