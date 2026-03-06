@@ -177,4 +177,14 @@ items:
   descendants_targets: []
   path: "/pages/tarifs"
   file: content/fr/pages/tarifs/_index.html
+- title: Tester osuny
+  slug: tester-osuny
+  target: "/tester/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  html_class: menu-class-cta
+  path: "/pages/tester"
+  file: content/fr/pages/tester/_index.html
 
