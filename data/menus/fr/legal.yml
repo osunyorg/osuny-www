@@ -26,24 +26,6 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
-- title: Conditions d'utilisation
-  slug: conditions-d-utilisation
-  target: "/conditions-d-utilisation/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/conditions-d-utilisation"
-  file: content/fr/pages/conditions-d-utilisation/_index.html
-- title: Politique de sobriété
-  slug: politique-de-sobriete
-  target: "/politique-de-sobriete/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/politique-de-sobriete"
-  file: content/fr/pages/politique-de-sobriete/_index.html
 - title: Déclaration d'accessibilité
   slug: declaration-d-accessibilite
   target: "/declaration-d-accessibilite/"
