@@ -42,8 +42,8 @@ items:
   file: content/fr/pages/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/_index.html
 - title: Engagements
   slug: engagements
-  target: ''
-  kind: blank
+  target: "/engagements/"
+  kind: page
   new_tab: false
   children:
   - title: Accessibilité
@@ -117,6 +117,8 @@ items:
   - "/engagements/sobriete/"
   - "/engagements/souverainete/"
   - "/fonctionnalites/informations-techniques/securite/"
+  path: "/pages/engagements"
+  file: content/fr/pages/engagements/_index.html
 - title: Secteurs
   slug: secteurs
   target: "/usages/"
@@ -168,11 +170,11 @@ items:
   file: content/fr/pages/usages/_index.html
 - title: Tarifs
   slug: tarifs
-  target: "/passer-a-laction/budgets/"
+  target: "/passer-a-laction/tarifs/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/passer-a-laction/budgets"
-  file: content/fr/pages/passer-a-laction/budgets/_index.html
+  path: "/pages/passer-a-laction/tarifs"
+  file: content/fr/pages/passer-a-laction/tarifs/_index.html
 
