@@ -19,15 +19,8 @@ items:
   descendants_targets: []
   path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
-- title: Déclaration NIG
-  slug: declaration-nig
-  target: https://www.numeriqueinteretgeneral.org/declarations/2023-osuny/
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
-- title: Déclaration d'accessibilité
-  slug: declaration-d-accessibilite
+- title: Accessibilité
+  slug: accessibilite
   target: "/declaration-d-accessibilite/"
   kind: page
   new_tab: false
@@ -35,4 +28,11 @@ items:
   descendants_targets: []
   path: "/pages/declaration-d-accessibilite"
   file: content/fr/pages/declaration-d-accessibilite/_index.html
+- title: Déclaration NIG
+  slug: declaration-nig
+  target: https://www.numeriqueinteretgeneral.org/declarations/2023-osuny/
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
 
