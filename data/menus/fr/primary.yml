@@ -136,13 +136,13 @@ items:
     file: content/fr/pages/secteurs/culture/_index.html
   - title: Enseignement
     slug: enseignement
-    target: "/secteurs/enseignement-1/"
+    target: "/secteurs/enseignement/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/secteurs/enseignement-1"
-    file: content/fr/pages/secteurs/enseignement-1/_index.html
+    path: "/pages/secteurs/enseignement"
+    file: content/fr/pages/secteurs/enseignement/_index.html
   - title: Recherche
     slug: recherche
     target: "/secteurs/recherche-2/"
@@ -164,7 +164,7 @@ items:
   descendants_targets:
   - "/secteurs/associatif/"
   - "/secteurs/culture/"
-  - "/secteurs/enseignement-1/"
+  - "/secteurs/enseignement/"
   - "/secteurs/recherche-2/"
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
