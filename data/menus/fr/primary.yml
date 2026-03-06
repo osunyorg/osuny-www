@@ -170,11 +170,11 @@ items:
   file: content/fr/pages/usages/_index.html
 - title: Tarifs
   slug: tarifs
-  target: "/passer-a-laction/tarifs/"
+  target: "/tarifs/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/passer-a-laction/tarifs"
-  file: content/fr/pages/passer-a-laction/tarifs/_index.html
+  path: "/pages/tarifs"
+  file: content/fr/pages/tarifs/_index.html
 
