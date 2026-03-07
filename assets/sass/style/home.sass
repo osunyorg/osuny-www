@@ -2,16 +2,45 @@
     .hero
         background: $color-background-alt
         padding-bottom: var(--grid-gutter)
-        @include media-breakpoint-up(desktop)
+        @include media-breakpoint-down(desktop)
             .container
                 .content
+                    display: flex
                     flex-direction: column-reverse
+                    figure
+                        margin-top: 30px
+                        width: 100vw
+                        overflow: hidden
+                        picture
+                            margin-left: -34px
+                            margin-right: -70px
+                    .hero-text
+                        margin-top: -70px
+                        margin-bottom: 0
+                        hgroup
+                            // text-align: center
+                            p
+                                @include meta
+                                margin-top: $spacing-1
+                        .hero-actions
+                            text-align: right
+        @include media-breakpoint-up(desktop)
+            height: 100vh
+            position: relative
+            overflow: hidden
+            .container
+                height: 100%
+                .content
+                    height: 100%
+                    align-items: end
+                    padding-top: 0
                     .hero-text
                         display: flex
                         justify-content: space-between
                         align-items: end
                         width: 100%
                         margin-top: 0
+                        z-index: 1
                         hgroup
                             display: block
                             margin-bottom: 0
@@ -24,9 +53,21 @@
                                 margin-top: $spacing-2
                                 margin-bottom: pxToRem(-5)
                     figure
+                        position: absolute
+                        top: 90px
+                        right: 0
+                        bottom: 0
+                        left: 0
                         width: 100%
-                        padding-left: 0
-                        img
-                            height: 60vh
-                            width: auto
-                            margin: 0 auto
+                        z-index: 0
+                        margin-top: 0
+                        picture
+                            height: 120%
+                            width: 100%
+                            img
+                                width: 100%
+                                height: 100%
+                                object-fit: scale-down 
+                                object-position: center top
+                            // @media max-height(800px)
+                            //     si

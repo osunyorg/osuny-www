@@ -3,3 +3,15 @@ _merge: deep
 params:
   debug:
     productionUrl: https://www.osuny.org
+  image_sizes:
+    _default:
+      hero:
+        mobile:   400
+        tablet:   800
+        desktop:  1000
+    sections:
+      home:
+        hero:
+          mobile:   400
+          tablet:   800
+          desktop:  1200
