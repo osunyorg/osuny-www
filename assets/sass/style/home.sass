@@ -1,0 +1,32 @@
+.page__home
+    .hero
+        background: $color-background-alt
+        padding-bottom: var(--grid-gutter)
+        @include media-breakpoint-up(desktop)
+            .container
+                .content
+                    flex-direction: column-reverse
+                    .hero-text
+                        display: flex
+                        justify-content: space-between
+                        align-items: end
+                        width: 100%
+                        margin-top: 0
+                        hgroup
+                            display: block
+                            margin-bottom: 0
+                            h1,
+                            p
+                                width: 100%
+                                text-align: left
+                            p
+                                @include meta
+                                margin-top: $spacing-2
+                                margin-bottom: pxToRem(-5)
+                    figure
+                        width: 100%
+                        padding-left: 0
+                        img
+                            height: 60vh
+                            width: auto
+                            margin: 0 auto
