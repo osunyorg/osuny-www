@@ -161,11 +161,21 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/associations"
     file: content/fr/pages/secteurs/associations/_index.html
+  - title: Service public
+    slug: service-public
+    target: "/secteurs/service-public/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/service-public"
+    file: content/fr/pages/secteurs/service-public/_index.html
   descendants_targets:
   - "/secteurs/associations/"
   - "/secteurs/culture/"
   - "/secteurs/enseignement/"
   - "/secteurs/recherche-2/"
+  - "/secteurs/service-public/"
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
 - title: Tarifs
