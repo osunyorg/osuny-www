@@ -1,0 +1,24 @@
+.engagements
+    background: $color-background-alt
+    padding-bottom: $spacing-5
+    padding-top: $spacing-5
+    margin-bottom: -4rem
+    .container
+        h2
+            @include h3
+        ul
+            list-style: none
+            padding-left: 0
+            li
+                @include h2
+                a
+                    text-decoration: none
+        @include media-breakpoint-up(desktop)
+            display: flex
+            flex-direction: row
+            justify-content: space-between
+            h1
+                width: columns(4)
+            ul
+                width: columns(8)
+                margin: 0
