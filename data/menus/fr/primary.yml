@@ -152,8 +152,8 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/recherche-2"
     file: content/fr/pages/secteurs/recherche-2/_index.html
-  - title: Associatif
-    slug: associatif
+  - title: Associations
+    slug: associations
     target: "/secteurs/associations/"
     kind: page
     new_tab: false
