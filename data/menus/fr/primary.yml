@@ -125,6 +125,15 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Service public
+    slug: service-public
+    target: "/secteurs/service-public/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/service-public"
+    file: content/fr/pages/secteurs/service-public/_index.html
   - title: Culture
     slug: culture
     target: "/secteurs/culture/"
@@ -134,6 +143,15 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/culture"
     file: content/fr/pages/secteurs/culture/_index.html
+  - title: Associations
+    slug: associations
+    target: "/secteurs/associations/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/associations"
+    file: content/fr/pages/secteurs/associations/_index.html
   - title: Enseignement
     slug: enseignement
     target: "/secteurs/enseignement/"
@@ -152,24 +170,6 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/recherche-2"
     file: content/fr/pages/secteurs/recherche-2/_index.html
-  - title: Associations
-    slug: associations
-    target: "/secteurs/associations/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/associations"
-    file: content/fr/pages/secteurs/associations/_index.html
-  - title: Service public
-    slug: service-public
-    target: "/secteurs/service-public/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/service-public"
-    file: content/fr/pages/secteurs/service-public/_index.html
   descendants_targets:
   - "/secteurs/associations/"
   - "/secteurs/culture/"
