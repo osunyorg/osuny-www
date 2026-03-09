@@ -1,2 +1,4 @@
 custom:
-  engagements: Autres engagements
+  related:
+    commitments: Autres engagements
+    sectors: Autres secteurs
