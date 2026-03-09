@@ -7,8 +7,8 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Pour les Usager·e·s
-    slug: pour-les-usager-e-s
+  - title: usager·e·s
+    slug: usager-e-s
     target: "/profils/usageres/"
     kind: page
     new_tab: false
@@ -16,8 +16,8 @@ items:
     descendants_targets: []
     path: "/pages/profils/usageres"
     file: content/fr/pages/profils/usageres/_index.html
-  - title: Pour les Designers
-    slug: pour-les-designers
+  - title: designers
+    slug: designers
     target: "/profils/design/"
     kind: page
     new_tab: false
@@ -25,8 +25,8 @@ items:
     descendants_targets: []
     path: "/pages/profils/design"
     file: content/fr/pages/profils/design/_index.html
-  - title: Pour les Développeu·r·se·s
-    slug: pour-les-developpeu-r-se-s
+  - title: développeu·r·se·s
+    slug: developpeu-r-se-s
     target: "/profils/dev/"
     kind: page
     new_tab: false
