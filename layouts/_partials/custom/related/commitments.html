@@ -1,0 +1,21 @@
+{{ $currentPage := . }}
+<div class="related">
+  <div class="related__links">
+    <div class="container">
+      <h2>{{ i18n "custom.related.commitments" }}</h2>
+      {{ $engagements := site.GetPage "engagements" }}
+      <ul>
+        {{ range $engagements.Params.children }}
+          {{ $page := site.GetPage . }}
+          {{ if ne $page $currentPage }}
+            <li>
+              <a href="{{ $page.Permalink }}">
+                {{ $page.Title }}
+              </a>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
