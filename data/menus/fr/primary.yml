@@ -6,38 +6,8 @@ items:
   target: "/fonctionnalites/"
   kind: page
   new_tab: false
-  children:
-  - title: usager·e·s
-    slug: usager-e-s
-    target: "/profils/usageres/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/profils/usageres"
-    file: content/fr/pages/profils/usageres/_index.html
-  - title: designers
-    slug: designers
-    target: "/profils/design/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/profils/design"
-    file: content/fr/pages/profils/design/_index.html
-  - title: développeu·r·se·s
-    slug: developpeu-r-se-s
-    target: "/profils/dev/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/profils/dev"
-    file: content/fr/pages/profils/dev/_index.html
-  descendants_targets:
-  - "/profils/design/"
-  - "/profils/dev/"
-  - "/profils/usageres/"
+  children: []
+  descendants_targets: []
   path: "/pages/fonctionnalites"
   file: content/fr/pages/fonctionnalites/_index.html
 - title: Engagements
