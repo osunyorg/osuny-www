@@ -15,39 +15,19 @@ items:
   target: "/engagements/"
   kind: page
   new_tab: false
-  children:
-  - title: Communauté
-    slug: communaute
-    target: "/engagements/communaute/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/communaute"
-    file: content/fr/pages/engagements/communaute/_index.html
-  - title: Sécurité
-    slug: securite
-    target: "/engagements/securite/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/securite"
-    file: content/fr/pages/engagements/securite/_index.html
-  descendants_targets:
-  - "/engagements/communaute/"
-  - "/engagements/securite/"
+  children: []
+  descendants_targets: []
   path: "/pages/engagements"
   file: content/fr/pages/engagements/_index.html
 - title: Secteurs
   slug: secteurs
-  target: "/usages/"
+  target: "/secteurs/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/usages"
-  file: content/fr/pages/usages/_index.html
+  path: "/pages/secteurs"
+  file: content/fr/pages/secteurs/_index.html
 - title: Tarifs
   slug: tarifs
   target: "/tarifs/"
