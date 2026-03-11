@@ -16,51 +16,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Accessibilité
-    slug: accessibilite
-    target: "/engagements/accessibilite/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/accessibilite"
-    file: content/fr/pages/engagements/accessibilite/_index.html
-  - title: Sobriété
-    slug: sobriete
-    target: "/engagements/sobriete/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/sobriete"
-    file: content/fr/pages/engagements/sobriete/_index.html
-  - title: Qualité
-    slug: qualite
-    target: "/engagements/qualite/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/qualite"
-    file: content/fr/pages/engagements/qualite/_index.html
-  - title: Souveraineté
-    slug: souverainete
-    target: "/engagements/souverainete/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/souverainete"
-    file: content/fr/pages/engagements/souverainete/_index.html
-  - title: Liberté
-    slug: liberte
-    target: "/engagements/liberte/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/engagements/liberte"
-    file: content/fr/pages/engagements/liberte/_index.html
   - title: Communauté
     slug: communaute
     target: "/engagements/communaute/"
@@ -80,13 +35,8 @@ items:
     path: "/pages/engagements/securite"
     file: content/fr/pages/engagements/securite/_index.html
   descendants_targets:
-  - "/engagements/accessibilite/"
   - "/engagements/communaute/"
-  - "/engagements/liberte/"
-  - "/engagements/qualite/"
   - "/engagements/securite/"
-  - "/engagements/sobriete/"
-  - "/engagements/souverainete/"
   path: "/pages/engagements"
   file: content/fr/pages/engagements/_index.html
 - title: Secteurs
@@ -94,58 +44,8 @@ items:
   target: "/usages/"
   kind: page
   new_tab: false
-  children:
-  - title: Service public
-    slug: service-public
-    target: "/secteurs/service-public/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/service-public"
-    file: content/fr/pages/secteurs/service-public/_index.html
-  - title: Culture
-    slug: culture
-    target: "/secteurs/culture/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/culture"
-    file: content/fr/pages/secteurs/culture/_index.html
-  - title: Associations
-    slug: associations
-    target: "/secteurs/associations/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/associations"
-    file: content/fr/pages/secteurs/associations/_index.html
-  - title: Enseignement
-    slug: enseignement
-    target: "/secteurs/enseignement/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/enseignement"
-    file: content/fr/pages/secteurs/enseignement/_index.html
-  - title: Recherche
-    slug: recherche
-    target: "/secteurs/recherche-2/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/recherche-2"
-    file: content/fr/pages/secteurs/recherche-2/_index.html
-  descendants_targets:
-  - "/secteurs/associations/"
-  - "/secteurs/culture/"
-  - "/secteurs/enseignement/"
-  - "/secteurs/recherche-2/"
-  - "/secteurs/service-public/"
+  children: []
+  descendants_targets: []
   path: "/pages/usages"
   file: content/fr/pages/usages/_index.html
 - title: Tarifs
