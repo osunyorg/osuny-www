@@ -1,0 +1,15 @@
+header#document-header
+    @include media-breakpoint-down(desktop)
+        #navigation
+            .nav-level-1
+                li
+                    border-bottom: 0
+                    a
+                        font-size: pxToRem(30)
+                        font-weight: 300
+                        padding-top: pxToRem(10)
+                        padding-bottom: 0
+                    &.menu-class-cta
+                        margin-top: pxToRem(20)
+                        a
+                            padding: pxToRem(5) pxToRem(15) pxToRem(8)
