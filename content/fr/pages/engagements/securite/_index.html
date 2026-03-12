@@ -11,7 +11,7 @@ slug: "securite"
 aliases:
   - /../fonctionnalites/informations-techniques/securite/
 date: 2023-06-26T17:57:52+02:00
-lastmod: 2026-03-06T16:20:35+01:00
+lastmod: 2026-03-12T15:21:10+01:00
 meta:
   hugo:
     permalink: "/engagements/securite/"
@@ -20,7 +20,7 @@ meta:
     slug: "securite"
   dates:
     created_at: 2022-05-03T16:49:44+02:00
-    updated_at: 2026-03-06T16:20:35+01:00
+    updated_at: 2026-03-12T15:21:10+01:00
     published_at: 2023-06-26T17:57:52+02:00
 search:
   id: "a93bacd6-e6c0-4cdb-8fc3-3561c41727fd"
@@ -33,7 +33,7 @@ search:
   summary: >-
     <p>Protéger les données</p>
   body: >-
-    <p>Le site précompilé, sécurisé par défaut  <br>   <br>Les sites Web produits avec Osuny sont des sites précompilés, générés avec  Hugo . Cela signifie qu'il n'y a ni langage serveur, ni base de données, mais juste un ensemble de fichiers HTML, CSS et JS à héberger. On utilise un serveur NGINX ou Apache pour servir les fichiers, au sein de l'infrastructure de l'Université ou de l'École. Le site statique ne présente pas de vulnérabilité au niveau applicative, parce qu'il n'y a pas de couche applicative. </p>  <p> Un hébergement sobre  <br>   <br>Là où un site produit avec une autre solution nécessite une base de données (Postgresql, Mysql...) et un langage serveur (PHP, Java...), éventuellement un système de cache pour accélérer les traitements, les sites précompilés diminuent l'empreinte écologique et le poids financier de l'hébergement.</p>  <p> Protection intégrée de la vie privée  <br>   <br>Les  comptes à privilèges sont techniquement séparés des sites Web, et concernent uniquement l'outil de gestion de contenu (back-office). Cet outil intègre par défaut l'authentification multi-factorielle (MFA), et le respect du règlement général sur la protection des données (RGPD).</p>  <p> Une qualité de code sous surveillance  <br>   <br>Nous surveillons en continu  la qualité du code d'Osuny  avec l'outil Code Climate. Nous veillons à maintenir la dette technique aussi proche de zéro que possible. Par ailleurs, nous utilisons Github pour déceler en continu  les vulnérabilités des composants logiciels  que nous utilisons.</p>  <p> Une expérience de la sécurité en SaaS  <br>   <br>Nous avons conçu, développé et nous maintenons la plateforme web Software as a Service (SaaS)  B2bylon , utilisée par de nombreuses marques de cosmétique (Guerlain, Shiseido, Filorga...). Dans ce contexte, nous avons bénéficié de plusieurs audits de sécurité avec tests de pénétration, qui nous ont permis d'améliorer nos méthodes de développement.</p>
+    <p>  <br>Les sites Web statiques n'utilisent pas de langage serveur ni de base de données. C'est à <br>la fois facile à héberger et très rassurant, puisqu'il n'y a que très peu de composants à <br>sécuriser. C'est une préconisation de l'ANSSI. Le back-office est lui aussi sécurisé : nous <br>mettons en oeuvre les bonnes pratiques évitant le Top Ten OWASP, notamment <br>l'authentification multi-factorielle. Un audit de sécurité avec tests d'intrusion a été <br>financé par la Région Nouvelle-Aquitaine et mené par la société Synacktiv fin 2023, et <br>atteste du bon niveau de sécurité de l'application.</p>  <p> Nos actions et résultats  <br>   <br>Sécurité des sites statiques <br>Les sites produits avec Osuny sont statiques, c'est-à-dire qu'il s'agit d'un <br>ensemble de fichiers, comprenant principalement des pages HTML, et <br>aussi quelques fichiers CSS et JS. Il n'y a pas de base de données à <br>pirater, pas de données confidentielles, pas de langage serveur (ni PHP, <br>ni Java, ni Ruby, ni Node, ni Python...), ce qui fait d'autant moins de <br>failles de sécurité possibles. L'utilisation de sites statiques quand cela <br>est possible est une préconisation de l'Agence Nationale de la Sécurité <br>des Systèmes d'Information (ANSSI). <br> www.osuny.org/actualites/2023-01-16-quels-sont-les-avantages-des-sitesstatiques/</p>  <p>Sécurité du back-office <br>Le back-office est une application multi-tenant développée en Ruby on <br>Rails. Nous avons bénéficié par le passé de plusieurs audits de sécurité <br>sur des systèmes que nous avons développés. Ceci nous a permis de <br>durcir Ruby on Rails en déployant des bonnes pratiques de sécurité audelà <br>de celles déjà intégrées au framework, notamment <br>l'authentification multifactorielle. <br>Suite à un audit de sécurité réalisé par Synacktiv et financé par la <br>Région Nouvelle-Aquitaine, Osuny atteint le plus haut niveau de <br>sécurité (niveau de sécurité "Bon"). https://www.osuny.org/actualites/2024-04-30-l-application-osuny-presente-leniveau-de-securite-bon/ www.synacktiv.com</p>
 
 breadcrumbs:
   - title: >-
@@ -71,43 +71,23 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 86
+  seconds: 85
   text: >-
     1 minute
 contents:
   - kind: block
-    template: title
-    title: >-
-      Le site précompilé, sécurisé par défaut
-    slug: >-
-      le-site-precompile-securise-par-defaut
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Le site précompilé, sécurisé par défaut
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
     template: chapter
 
 
     ranks:
-      base: 3
+      base: 2
     top:
       active: false
 
     data:
       layout: no_background
       text: >-
-        <p>Les sites Web produits avec Osuny sont des sites précompilés, générés avec <a href="https://gohugo.io" target="_blank" rel="noreferrer">Hugo <span class="sr-only">(lien externe)</span></a>. Cela signifie qu'il n'y a ni langage serveur, ni base de données, mais juste un ensemble de fichiers HTML, CSS et JS à héberger. On utilise un serveur NGINX ou Apache pour servir les fichiers, au sein de l'infrastructure de l'Université ou de l'École. Le site statique ne présente pas de vulnérabilité au niveau applicative, parce qu'il n'y a pas de couche applicative. </p>
+        <p>Les sites Web statiques n'utilisent pas de langage serveur ni de base de données. C'est à la fois facile à héberger et très rassurant, puisqu'il n'y a que très peu de composants à sécuriser. C'est une préconisation de l'ANSSI. Le back-office est lui aussi sécurisé : nous mettons en oeuvre les bonnes pratiques évitant le Top Ten OWASP, notamment l'authentification multi-factorielle. Un audit de sécurité avec tests d'intrusion a été financé par la Région Nouvelle-Aquitaine et mené par la société Synacktiv fin 2023, et atteste du bon niveau de sécurité de l'application.</p>
 
 
 
@@ -117,9 +97,9 @@ contents:
   - kind: block
     template: title
     title: >-
-      Un hébergement sobre
+      Nos actions et résultats
     slug: >-
-      un-hebergement-sobre
+      nos-actions-et-resultats
     ranks:
       base: 2
       self: 2
@@ -127,7 +107,7 @@ contents:
       active: true
       title: 
         value: >-
-          Un hébergement sobre
+          Nos actions et résultats
         heading: 2
 
     data:
@@ -135,143 +115,7 @@ contents:
 
 
   - kind: block
-    template: chapter
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Là où un site produit avec une autre solution nécessite une base de données (Postgresql, Mysql...) et un langage serveur (PHP, Java...), éventuellement un système de cache pour accélérer les traitements, les sites précompilés diminuent l'empreinte écologique et le poids financier de l'hébergement.</p>
-
-
-
-
-
-
-  - kind: block
-    template: title
-    title: >-
-      Protection intégrée de la vie privée
-    slug: >-
-      protection-integree-de-la-vie-privee
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Protection intégrée de la vie privée
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Les  comptes à privilèges sont techniquement séparés des sites Web, et concernent uniquement l'outil de gestion de contenu (back-office). Cet outil intègre par défaut l'authentification multi-factorielle (MFA), et le respect du règlement général sur la protection des données (RGPD).</p>
-
-
-
-
-
-
-  - kind: block
-    template: title
-    title: >-
-      Une qualité de code sous surveillance
-    slug: >-
-      une-qualite-de-code-sous-surveillance
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Une qualité de code sous surveillance
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Nous surveillons en continu <a href="https://codeclimate.com/github/noesya/osuny" target="_blank" rel="noreferrer">la qualité du code d'Osuny <span class="sr-only">(lien externe)</span></a> avec l'outil Code Climate. Nous veillons à maintenir la dette technique aussi proche de zéro que possible. Par ailleurs, nous utilisons Github pour déceler en continu <a href="https://github.com/noesya/osuny/security" target="_blank" rel="noreferrer">les vulnérabilités des composants logiciels <span class="sr-only">(lien externe)</span></a> que nous utilisons.</p>
-
-
-
-
-
-
-  - kind: block
-    template: title
-    title: >-
-      Une expérience de la sécurité en SaaS
-    slug: >-
-      une-experience-de-la-securite-en-saas
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Une expérience de la sécurité en SaaS
-        heading: 2
-
-    data:
-      layout: classic
-
-
-  - kind: block
-    template: chapter
-
-
-    ranks:
-      base: 3
-    top:
-      active: false
-
-    data:
-      layout: no_background
-      text: >-
-        <p>Nous avons conçu, développé et nous maintenons la plateforme web Software as a Service (SaaS) <a href="https://b2bylon.com" target="_blank" rel="noreferrer">B2bylon <span class="sr-only">(lien externe)</span></a>, utilisée par de nombreuses marques de cosmétique (Guerlain, Shiseido, Filorga...). Dans ce contexte, nous avons bénéficié de plusieurs audits de sécurité avec tests de pénétration, qui nous ont permis d'améliorer nos méthodes de développement.</p>
-
-
-
-
-
-
-  - kind: block
-    template: posts
+    template: features
 
 
     ranks:
@@ -281,26 +125,24 @@ contents:
       active: false
 
     data:
-      mode: selection
-      layout: large
-      options:
-        author: false
-        categories: false
-        date: true
-        image: true
-        reading_time: false
-        subtitle: true
-        summary: true
 
-      posts:
-        - permalink: "/actualites/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon/"
-          path: "/posts/2024/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon"
-          slug: "l-application-osuny-presente-le-niveau-de-securite-bon"
-          file: "content/fr/posts/2024/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon.html"
-          name: >-
-            L’application Osuny présente le niveau de sécurité "Bon"
+      elements:
+        - 
+          title: >-
+            Sécurité des sites statiques
+          description: >-
+            <p>Les sites produits avec Osuny sont statiques, c'est-à-dire qu'il s'agit d'un ensemble de fichiers, comprenant principalement des pages HTML, et aussi quelques fichiers CSS et JS. Il n'y a pas de base de données à pirater, pas de données confidentielles, pas de langage serveur (ni PHP, ni Java, ni Ruby, ni Node, ni Python...), ce qui fait d'autant moins de failles de sécurité possibles. L'utilisation de sites statiques quand cela est possible est une préconisation de l'Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI). </p><p><a href="http://www.osuny.org/actualites/2023-01-16-quels-sont-les-avantages-des-sitesstatiques/" target="_blank" rel="noreferrer">www.osuny.org/actualites/2023-01-16-quels-sont-les-avantages-des-sitesstatiques/ <span class="sr-only">(lien externe)</span></a></p>
 
-      quantity: 1
+
+
+        - 
+          title: >-
+            Sécurité du back-office
+          description: >-
+            <p>Le back-office est une application multi-tenant développée en Ruby on Rails. Nous avons bénéficié par le passé de plusieurs audits de sécurité sur des systèmes que nous avons développés. Ceci nous a permis de durcir Ruby on Rails en déployant des bonnes pratiques de sécurité audelà de celles déjà intégrées au framework, notamment l'authentification multifactorielle. Suite à un audit de sécurité réalisé par Synacktiv et financé par la Région Nouvelle-Aquitaine, Osuny atteint le plus haut niveau de sécurité (niveau de sécurité "Bon").</p><p><a href="https://www.osuny.org/actualites/2024-04-30-l-application-osuny-presente-leniveau-de-securite-bon/" target="_blank" rel="noreferrer">https://www.osuny.org/actualites/2024-04-30-l-application-osuny-presente-leniveau-de-securite-bon/ <span class="sr-only">(lien externe)</span></a></p><p><a href="http://www.synacktiv.com" target="_blank" rel="noreferrer">www.synacktiv.com <span class="sr-only">(lien externe)</span></a></p>
+
+
+
 
 
 
