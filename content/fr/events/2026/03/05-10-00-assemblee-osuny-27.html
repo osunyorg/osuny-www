@@ -27,7 +27,7 @@ search:
     Assemblée Osuny #27 Réunion mensuelle ouverte
 
   body: >-
-    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Releases Front  </p>
+    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Releases Front  <br>   <br>Gros chantier de rangement en cours V8.1.3 https://github.com/osunyorg/theme/releases/tag/v8.1.3      – Soin de la configuration agenda     – Configuration des ajustements des avatars (espaces sur grand écran)     – Nouvelles mises en pages possibles dans les blocs liens     – Ajout des sous-titres aux pages     – Cas particulier sur les événements, les heures servent désormais à trier     – Problème lié au navigateur safari : les vidéos youtube ne se chargeaient plus, désormais un correctif a été fait mais le fonctionnement n'est pas parfait pour autant (il faut cliquer deux fois, une solution est en cours de recherche). – Nettoyage, améliorations du code. V8.1.4 https://github.com/osunyorg/theme/releases/tag/v8.1.4 – Ajout du lieu des expositions dans le bloc expo, avant c'était juste dans la page- correction d'interlignage du style de texte "meta" V8.1.5 https://github.com/osunyorg/theme/releases/tag/v8.1.5 – Par défaut, affichage des archives désactivées pour l'agenda - Correctifs – Nouvelle fonctionnalité : possibilité d'afficher la dernière mise à jour de la page information. V9.0 https://github.com/osunyorg/theme/releases/tag/v9.0.0 – Travail pour s'adapter à la nouvelle version d'Hugo – Correctifs. v9.1.0-hugo-0.154.5 à venir (beta) – Développement d'outils de qualité de code : nombre maximum de lignes par fichier, vérifier que des morceaux de templates ne soient pas utilisés, pour identifier et ranger le code qui peut être rangé. Les analyseurs statiques du code existent en ingénieurie logicielle et permettent de s'assurer d'un code de qualité. En back, des outils existent, en front, on a pas trouvé d'outils. Ainsi on a adapté les outils du back pour le front. – Rangement du code : découpage des fichiers trop lourds, renommage. Exemple : complexité cyclomatique, un outil qui permet d'analyser la complexité du code (voir livre coder proprement). Plus les algos sont compliqués, plus il y a de comportements imprévisibles : en back, la complexité maximum est à 5, en front on ne sait pas encore vraiment.  - Désormais, le front affichera la version hugo correspondante Nouveau contributeur : Sander, qui a fait un correctif de variable de style, merci à lui. Il s'occupe dorénavant de faire la version anglaise de Developers. – Note sur les pages imprimables : Cette fonction est toujours disponible mais est dorénavant en plugin, car tous les sites n'en ont pas besoin, et ça double le nombre de pages générées.</p>  <p> Releases Back  <br>   <br>V3.11 https://github.com/osunyorg/admin/releases/tag/v3.11.0 – Une erreur liée à l'importeur pexels a été corrigée. – Filtres pour les sites hébergés avec Deux fleurs. – Une nouvelle version de garage sera mise en ligne. Elle assurera notamment une compatibilité avec une version récente d'Hugo. – Il est enfin possible de supprimer un site. – Nettoyage et réparations. – Gros sujet sur la gestion des allias et des redirections. – Activation automatique de la mesure d'audience plausible.</p>  <p> Nouveautés sites  <br>   <br>Déjà-vu https://www.deja-vu-ass.fr Refonte d'un site pour le rendre plus en adéquation avec les besoins de l'association et ce qu'elle renvoie en termes d'image (refonte graphique) : un site simple épuré, facile d'utilisation. Un travail mené par Léonie dans le cadre de son stage. Ecocean https://www.ecocean.fr Du vert dans les rouages https://www.duvertdanslesrouages.fr Nouveau showcase https://showcase.osuny.org Importeur Medium Désormais, les pages de blog medium peuvent être importées. https://github.com/osunyorg/importers/tree/main/medium https://apres-la-biere.jeanloufourquet.osuny.site/</p>  <p> Discussions  <br>   <br>V10 du thème à venir Alex :  Il y aura des modifications fondamentales notamment au niveau des classes du CSS. Actuellement on classe de manière sémantique, et on va aller vers quelque chose de plus design system, p-donc des classes génériques, plus faciles à modifier. Par exemple, quand on va modifier la mise en page "liste" des blocs, on aura juste à viser une classe et pas une classe et les natures éditoriales.  ArnaudL :  On cherche à avoir le meilleur balisage possible, on a commencé avec le standard AAA, très exigeant mais qui faisait un CSS difficile à comprendre. On choisi de partir sur ce qu'on a appelé du AA, plus léger. On a fait l'erreur d'utiliser beaucoup d'extend, ce qui crée un CSS trop compliqué et trop lourd. On va donc ajouter des classes html pour alléger le CSS. On espère trouver un équilibre. On va gagner en cohérence avec cette version.On préviendra toute la communauté au moment du passage en v10 pour éviter tous les effets de bords. Alex :  C'est l'année de la robustesse pour le thème Sebastien Rufer :  Je vais préciser un point lié à la certification RGESN pour Rennes. Le RGESN est exigeant sur les preuves à avancer. Il y a peut être une réflexion à avoir de comment on justifie ces engagements vis-à-vis de l'écoconception, de l'accessibilité : comment tel ou tel engagement est justifié avec des vraies réponses par exemple au RGESN, avec des vrais éléments tangibles : des preuves trop complexes à appréhender. Il serait intéressant d'avoir un "pack clé en main" des différents engagements. ArnaudL :  Oui, il faudrait caler avec un socle d'audit  SebastienR :  Avoir des copiers-collers possibles pour directement remplir les conditions du RGESN. Un côté facilitant pourrait-être assuré  ArnaudL :  Comme on a fait avec le RGAA :  https://developers.osuny.org/docs/audit/accessibilite/audit-site/     Sebastien : Oui ArnaudL :  Dans le cas d'un prochain audit RGESN, on pourrait reprendre les éléments. Aboutir à un audit de socle RGESN SebastienR :  C'est même un point qui peut jouer dans le choix d'un CMS, ce n'est pas un départ à zéro. Le sujet est présent en collectivités. SebastienR :  On manque d'éléments tangibles pour expliquer le caractère éco-conçu, par exemple sur les maquettes qu'on voyait du futur site on ne sait pas si c'est un effet d'annonce. Il y a un gros enjeu sur Osuny sur ce sujet là, ce serait dommage d'avoir une mauvaise appréciation en appel d'offre, alors que vous cochez plus de cases que d'autres outils. Je me dis simplement que d'aborder sous l'angle du RGESN, on amène une matière qui va faciliter l'analyse de l'appel d'offre.</p>  <p> Nouvelle identité et nouveaux sites Osuny  </p>
 
 date: "2026-03-05T10:00:00+01:00"
 dates:
@@ -94,7 +94,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 current_time_slot:
@@ -153,9 +153,9 @@ meta_description: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 27
+  seconds: 305
   text: >-
-    moins d'une minute
+    5 minutes
 contents:
   - kind: block
     template: chapter
@@ -190,6 +190,162 @@ contents:
       title: 
         value: >-
           Releases Front
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p>Gros chantier de rangement en cours</p><p><b>V8.1.3</b></p><p><a href="https://github.com/osunyorg/theme/releases/tag/v8.1.3">https://github.com/osunyorg/theme/releases/tag/v8.1.3</a>    </p><p>– Soin de la configuration agenda    </p><p>– Configuration des ajustements des avatars (espaces sur grand écran)    </p><p>– Nouvelles mises en pages possibles dans les blocs liens   </p><p> – Ajout des sous-titres aux pages    </p><p>– Cas particulier sur les événements, les heures servent désormais à trier    </p><p>– Problème lié au navigateur safari : les vidéos youtube ne se chargeaient plus, désormais un correctif a été fait mais le fonctionnement n'est pas parfait pour autant (il faut cliquer deux fois, une solution est en cours de recherche).</p><p>– Nettoyage, améliorations du code.</p><p><b>V8.1.4</b></p><p><a href="https://github.com/osunyorg/theme/releases/tag/v8.1.4">https://github.com/osunyorg/theme/releases/tag/v8.1.4</a><br>– Ajout du lieu des expositions dans le bloc expo, avant c'était juste dans la page- correction d'interlignage du style de texte "meta"</p><p><br><b>V8.1.5</b></p><p><a href="https://github.com/osunyorg/theme/releases/tag/v8.1.5" target="_blank" rel="noreferrer">https://github.com/osunyorg/theme/releases/tag/v8.1.5 <span class="sr-only">(lien externe)</span></a><a href="https://github.com/osunyorg/theme/releases/tag/v8.1.5"></a></p><p>– Par défaut, affichage des archives désactivées pour l'agenda</p><p>- Correctifs</p><p>– Nouvelle fonctionnalité : possibilité d'afficher la dernière mise à jour de la page information.</p><p><b>V9.0</b></p><p><a href="https://github.com/osunyorg/theme/releases/tag/v9.0.0" target="_blank" rel="noreferrer">https://github.com/osunyorg/theme/releases/tag/v9.0.0 <span class="sr-only">(lien externe)</span></a><a href="https://github.com/osunyorg/theme/releases/tag/v9.0.0"></a></p><p>– Travail pour s'adapter à la nouvelle version d'Hugo</p><p>– Correctifs.</p><p><br><b>v9.1.0-hugo-0.154.5 à venir (beta)</b></p><p>– Développement d'outils de qualité de code : nombre maximum de lignes par fichier, vérifier que des morceaux de templates ne soient pas utilisés, pour identifier et ranger le code qui peut être rangé. Les analyseurs statiques du code existent en ingénieurie logicielle et permettent de s'assurer d'un code de qualité. En back, des outils existent, en front, on a pas trouvé d'outils. Ainsi on a adapté les outils du back pour le front.</p><p>– Rangement du code : découpage des fichiers trop lourds, renommage. Exemple : complexité cyclomatique, un outil qui permet d'analyser la complexité du code (voir livre coder proprement). Plus les algos sont compliqués, plus il y a de comportements imprévisibles : en back, la complexité maximum est à 5, en front on ne sait pas encore vraiment. </p><p>- Désormais, le front affichera la version hugo correspondante<br>Nouveau contributeur : Sander, qui a fait un correctif de variable de style, merci à lui. Il s'occupe dorénavant de faire la version anglaise de Developers.</p><p>– Note sur les pages imprimables : Cette fonction est toujours disponible mais est dorénavant en plugin, car tous les sites n'en ont pas besoin, et ça double le nombre de pages générées.</p>
+
+
+
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Back
+    slug: >-
+      releases-back
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Back
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p><b>V3.11</b></p><p><a href="https://github.com/osunyorg/admin/releases/tag/v3.11.0" target="_blank" rel="noreferrer">https://github.com/osunyorg/admin/releases/tag/v3.11.0 <span class="sr-only">(lien externe)</span></a><a href="https://github.com/osunyorg/admin/releases/tag/v3.11.0"></a></p><p>– Une erreur liée à l'importeur pexels a été corrigée.</p><p>– Filtres pour les sites hébergés avec Deux fleurs.</p><p>– Une nouvelle version de garage sera mise en ligne. Elle assurera notamment une compatibilité avec une version récente d'Hugo.</p><p>– Il est enfin possible de supprimer un site.</p><p>– Nettoyage et réparations.</p><p>– Gros sujet sur la gestion des allias et des redirections.</p><p>– Activation automatique de la mesure d'audience plausible.</p>
+
+
+
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Nouveautés sites
+    slug: >-
+      nouveautes-sites
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Nouveautés sites
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p><b>Déjà-vu</b></p><p><a href="https://www.deja-vu-ass.fr/">https://www.deja-vu-ass.fr</a></p><p>Refonte d'un site pour le rendre plus en adéquation avec les besoins de l'association et ce qu'elle renvoie en termes d'image (refonte graphique) : un site simple épuré, facile d'utilisation. Un travail mené par Léonie dans le cadre de son stage.</p><p><b>Ecocean</b></p><p><a href="https://www.ecocean.fr" target="_blank" rel="noreferrer">https://www.ecocean.fr <span class="sr-only">(lien externe)</span></a></p><p><b>Du vert dans les rouages</b></p><p><a href="https://www.duvertdanslesrouages.fr" target="_blank" rel="noreferrer">https://www.duvertdanslesrouages.fr <span class="sr-only">(lien externe)</span></a><a href="https://www.duvertdanslesrouages.fr/"></a></p><p><b>Nouveau showcase</b></p><p><a href="https://showcase.osuny.org" target="_blank" rel="noreferrer">https://showcase.osuny.org <span class="sr-only">(lien externe)</span></a></p><p><b>Importeur Medium</b></p><p>Désormais, les pages de blog medium peuvent être importées.</p><p><a href="https://github.com/osunyorg/importers/tree/main/medium">https://github.com/osunyorg/importers/tree/main/medium</a><a href="https://apres-la-biere.jeanloufourquet.osuny.site/">https://apres-la-biere.jeanloufourquet.osuny.site/</a></p>
+
+
+
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Discussions
+    slug: >-
+      discussions
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Discussions
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p><b>V10 du thème à venir</b></p><p><i>Alex :</i> Il y aura des modifications fondamentales notamment au niveau des classes du CSS. Actuellement on classe de manière sémantique, et on va aller vers quelque chose de plus design system, p-donc des classes génériques, plus faciles à modifier. Par exemple, quand on va modifier la mise en page "liste" des blocs, on aura juste à viser une classe et pas une classe et les natures éditoriales. <br><i>ArnaudL :</i> On cherche à avoir le meilleur balisage possible, on a commencé avec le standard AAA, très exigeant mais qui faisait un CSS difficile à comprendre. On choisi de partir sur ce qu'on a appelé du AA, plus léger. On a fait l'erreur d'utiliser beaucoup d'extend, ce qui crée un CSS trop compliqué et trop lourd. On va donc ajouter des classes html pour alléger le CSS. On espère trouver un équilibre. On va gagner en cohérence avec cette version.On préviendra toute la communauté au moment du passage en v10 pour éviter tous les effets de bords.<br><i>Alex :</i> C'est l'année de la robustesse pour le thème<br><i>Sebastien Rufer :</i> Je vais préciser un point lié à la certification RGESN pour Rennes. Le RGESN est exigeant sur les preuves à avancer. Il y a peut être une réflexion à avoir de comment on justifie ces engagements vis-à-vis de l'écoconception, de l'accessibilité : comment tel ou tel engagement est justifié avec des vraies réponses par exemple au RGESN, avec des vrais éléments tangibles : des preuves trop complexes à appréhender. Il serait intéressant d'avoir un "pack clé en main" des différents engagements.<br><i>ArnaudL :</i> Oui, il faudrait caler avec un socle d'audit <br><i>SebastienR : </i>Avoir des copiers-collers possibles pour directement remplir les conditions du RGESN. Un côté facilitant pourrait-être assuré <br><i>ArnaudL :</i> Comme on a fait avec le RGAA : <a href="https://developers.osuny.org/docs/audit/accessibilite/audit-site/">https://developers.osuny.org/docs/audit/accessibilite/audit-site/</a>    Sebastien : Oui<br><i>ArnaudL :</i> Dans le cas d'un prochain audit RGESN, on pourrait reprendre les éléments. Aboutir à un audit de socle RGESN<br><i>SebastienR : </i>C'est même un point qui peut jouer dans le choix d'un CMS, ce n'est pas un départ à zéro. Le sujet est présent en collectivités.<br><i>SebastienR : </i>On manque d'éléments tangibles pour expliquer le caractère éco-conçu, par exemple sur les maquettes qu'on voyait du futur site on ne sait pas si c'est un effet d'annonce. Il y a un gros enjeu sur Osuny sur ce sujet là, ce serait dommage d'avoir une mauvaise appréciation en appel d'offre, alors que vous cochez plus de cases que d'autres outils. Je me dis simplement que d'aborder sous l'angle du RGESN, on amène une matière qui va faciliter l'analyse de l'appel d'offre.</p>
+
+
+
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Nouvelle identité et nouveaux sites Osuny
+    slug: >-
+      nouvelle-identite-et-nouveaux-sites-osuny
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Nouvelle identité et nouveaux sites Osuny
         heading: 2
 
     data:
