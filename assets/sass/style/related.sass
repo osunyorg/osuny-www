@@ -4,17 +4,21 @@
             display: none
 .related
     background: $color-background-alt
-    padding-bottom: $spacing-5
-    padding-top: $spacing-3
+    margin-top: 0
     margin-bottom: -4rem
     &__blocks
         .block
+            margin-bottom: 0
+            padding-bottom: 0
             .container
                 .block-content
+                    padding-top: $spacing-5
                     padding-bottom: $spacing-5
                     border-bottom: 1px solid $color-border
     &__links
         .container
+            padding-top: $spacing-5
+            padding-bottom: $spacing-5
             h2
                 @include h3
             ul
