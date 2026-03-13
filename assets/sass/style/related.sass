@@ -27,7 +27,11 @@
                 li
                     @include h2
                     a
+                        @include arrow-right-hover
+                        justify-content: start !important
                         text-decoration: none
+                        &::after
+                            position: relative !important
             @include media-breakpoint-up(desktop)
                 display: flex
                 flex-direction: row
