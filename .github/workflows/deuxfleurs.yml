@@ -47,3 +47,4 @@ jobs:
       if: failure()
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+        SLACK_TITLE: ${{ github.event.repository.name }}
