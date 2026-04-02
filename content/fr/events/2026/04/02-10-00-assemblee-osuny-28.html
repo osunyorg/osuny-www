@@ -27,7 +27,7 @@ search:
     Assemblée Osuny #28 Réunion mensuelle ouverte
 
   body: >-
-    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>
+    <p>  <br>Nous organisons une réunion mensuelle ouverte, le premier jeudi de chaque mois, dans le but de rassembler toute la communauté Osuny. Cet événement est un moment d'échange et de discussions, pendant lequel l'équipe noesya présente les avancées fonctionnelles. Cet événement est ouvert, vous êtes libre de venir quand vous le souhaitez, il n'y a aucune obligation d'être présent·e chaque mois, c'est à votre convenance. Nous souhaitons co-construire l'ordre du jour de cette réunion mensuelle avec vous, donc nous sommes à l'écoute de vos remarques et/ou questions. Accéder à la vidéoconférence</p>  <p> Présences </p>  <p> Releases Front  <br>   <br>V9.1 https://github.com/osunyorg/theme/releases/tag/v9.1.0 Dans la suite de ce qui avait été parcouru lors de la précédente assemblée, la version 9.1 du thème a été déployée  <br> Outils pour mesurer la qualité et la robustesse des fichiers, environ 800 fichiers rangés : les sites bougent à la marge mais sont plus robustes ; comme évoqué lors de la précédente assemblée, cela a demandé d'ajuster la manière dont était envisagée la complexité des fichiers.   <br> Une nouvelle contribution pour corriger une couleur sur les sites en dark mode.  <br> En mobile, la table des matières est désormais placée en haut, après le menu, car la mise à jour d'IOS et les nouvelles interfaces Iphone, tout l'espace en bas est occupé.  <br> Désormais lorsque la page est en largeur pleine ou partielle, les listes de personnes le sont aussi (beta).  <br> Prochaine fois : suite et fin du rangement de tous les fichiers html.</p>  <p> Releases Back  </p>
 
 date: "2026-04-02T10:00:00+02:00"
 dates:
@@ -97,7 +97,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 current_time_slot:
@@ -156,9 +156,9 @@ meta_description: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 27
+  seconds: 71
   text: >-
-    moins d'une minute
+    1 minute
 contents:
   - kind: block
     template: chapter
@@ -177,6 +177,160 @@ contents:
 
 
 
+
+
+  - kind: block
+    template: persons
+    title: >-
+      Présences
+    slug: >-
+      presences
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Présences
+        heading: 2
+
+    data:
+
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: true
+        contact: false
+
+      persons:
+        - permalink: "/personnes/sacha-andre/"
+          path: "/persons/sacha-andre"
+          slug: "sacha-andre"
+          file: "content/fr/persons/sacha-andre.html"
+
+        - permalink: "/personnes/alexis-benoit/"
+          path: "/persons/alexis-benoit"
+          slug: "alexis-benoit"
+          file: "content/fr/persons/alexis-benoit.html"
+
+        - permalink: "/personnes/pierre-andre-boissinot/"
+          path: "/persons/pierre-andre-boissinot"
+          slug: "pierre-andre-boissinot"
+          file: "content/fr/persons/pierre-andre-boissinot.html"
+
+        - permalink: "/personnes/arnaud-bridou/"
+          path: "/persons/arnaud-bridou"
+          slug: "arnaud-bridou"
+          file: "content/fr/persons/arnaud-bridou.html"
+
+        - permalink: "/personnes/louis-derrac/"
+          path: "/persons/louis-derrac"
+          slug: "louis-derrac"
+          file: "content/fr/persons/louis-derrac.html"
+
+        - permalink: "/personnes/laurent-devernay/"
+          path: "/persons/laurent-devernay"
+          slug: "laurent-devernay"
+          file: "content/fr/persons/laurent-devernay.html"
+
+        - permalink: "/personnes/julie-durand/"
+          path: "/persons/julie-durand"
+          slug: "julie-durand"
+          file: "content/fr/persons/julie-durand.html"
+
+        - permalink: "/personnes/anthony-ferretti/"
+          path: "/persons/anthony-ferretti"
+          slug: "anthony-ferretti"
+          file: "content/fr/persons/anthony-ferretti.html"
+
+        - permalink: "/personnes/sebastien-gaya/"
+          path: "/persons/sebastien-gaya"
+          slug: "sebastien-gaya"
+          file: "content/fr/persons/sebastien-gaya.html"
+
+        - permalink: "/personnes/marion-lecointre/"
+          path: "/persons/marion-lecointre"
+          slug: "marion-lecointre"
+          file: "content/fr/persons/marion-lecointre.html"
+
+        - permalink: "/personnes/arnaud-levy/"
+          path: "/persons/arnaud-levy"
+          slug: "arnaud-levy"
+          file: "content/fr/persons/arnaud-levy.html"
+
+        - permalink: "/personnes/sebastien-rufer/"
+          path: "/persons/sebastien-rufer"
+          slug: "sebastien-rufer"
+          file: "content/fr/persons/sebastien-rufer.html"
+
+        - permalink: "/personnes/olivia-simonet/"
+          path: "/persons/olivia-simonet"
+          slug: "olivia-simonet"
+          file: "content/fr/persons/olivia-simonet.html"
+
+      quantity: 13
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Front
+    slug: >-
+      releases-front
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Front
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p><b>V9.1</b></p><p><a href="https://github.com/osunyorg/theme/releases/tag/v9.1.0">https://github.com/osunyorg/theme/releases/tag/v9.1.0</a><br>Dans la suite de ce qui avait été parcouru lors de la précédente assemblée, la version 9.1 du thème a été déployée</p><ul> <li>Outils pour mesurer la qualité et la robustesse des fichiers, environ 800 fichiers rangés : les sites bougent à la marge mais sont plus robustes ; comme évoqué lors de la précédente assemblée, cela a demandé d'ajuster la manière dont était envisagée la complexité des fichiers. </li> <li>Une nouvelle contribution pour corriger une couleur sur les sites en dark mode.</li> <li>En mobile, la table des matières est désormais placée en haut, après le menu, car la mise à jour d'IOS et les nouvelles interfaces Iphone, tout l'espace en bas est occupé.</li> <li>Désormais lorsque la page est en largeur pleine ou partielle, les listes de personnes le sont aussi (beta).</li> </ul><p>Prochaine fois : suite et fin du rangement de tous les fichiers html.</p>
+
+
+
+
+
+
+  - kind: block
+    template: title
+    title: >-
+      Releases Back
+    slug: >-
+      releases-back
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Releases Back
+        heading: 2
+
+    data:
+      layout: classic
 
 
 
