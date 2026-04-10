@@ -78,6 +78,28 @@
                                 height: 100%
                                 object-fit: scale-down 
                                 object-position: center top
+    // Bloc fonctionnalités
+    .block-pages--large
+        .container
+            .block-content
+                .pages
+                    .page
+                        @include media-breakpoint-up(desktop)
+                            .page-title
+                                position: absolute
+                            .page-description,
+                            .more
+                                margin-left: offset(4)
+                                width: columns(8)
+                        .page-title
+                            a
+                                @include h5
+                        .page-description
+                            @include lead
+                        .more
+                            margin-top: $spacing-3
+                            @include h2
+    
 // ios top bar color
 html
     &:not(.has-menu-sticky)
