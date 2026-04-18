@@ -46,8 +46,8 @@ items:
   descendants_targets: []
   path: "/pages/tarifs"
   file: content/fr/pages/tarifs/_index.html
-- title: Tester osuny
-  slug: tester-osuny
+- title: Commencer
+  slug: commencer
   target: "/tester/"
   kind: page
   new_tab: false
