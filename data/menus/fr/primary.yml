@@ -48,12 +48,12 @@ items:
   file: content/fr/pages/tarifs/_index.html
 - title: Commencer
   slug: commencer
-  target: "/tester/"
+  target: "/commencer/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
   html_class: menu-class-cta
-  path: "/pages/tester"
-  file: content/fr/pages/tester/_index.html
+  path: "/pages/commencer"
+  file: content/fr/pages/commencer/_index.html
 

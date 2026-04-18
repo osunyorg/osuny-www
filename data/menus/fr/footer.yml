@@ -45,19 +45,19 @@ items:
     file: content/fr/pages/tarifs/_index.html
   - title: Tester osuny
     slug: tester-osuny
-    target: "/tester/"
+    target: "/commencer/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/tester"
-    file: content/fr/pages/tester/_index.html
+    path: "/pages/commencer"
+    file: content/fr/pages/commencer/_index.html
   descendants_targets:
+  - "/commencer/"
   - "/engagements/"
   - "/fonctionnalites/"
   - "/secteurs/"
   - "/tarifs/"
-  - "/tester/"
 - title: Faire
   slug: faire
   target: ''
