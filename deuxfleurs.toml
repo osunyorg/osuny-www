@@ -15,1366 +15,1366 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/secteurs/osuny-pour-la-recherche/"
+from = "/secteurs/osuny-pour-la-recherche/index.html"
 to = "/secteurs/recherche/"
 
 [[redirects]]
-from = "/actualites/2023-06-27-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
+from = "/actualites/2023-06-27-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/index.html"
 to = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
 
 [[redirects]]
-from = "/personnes/categories/comite/dev-front/"
+from = "/personnes/categories/comite/dev-front/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-front/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/"
+from = "/fonctionnalites/informations-techniques/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/"
 
 [[redirects]]
-from = "/quest-ce-quun-commun-numerique/"
+from = "/quest-ce-quun-commun-numerique/index.html"
 to = "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
 
 [[redirects]]
-from = "/actualites/2022/08/30/les-communs-definitions-et-courants-de-pensee/"
+from = "/actualites/2022/08/30/les-communs-definitions-et-courants-de-pensee/index.html"
 to = "/actualites/2022-08-30-les-communs-definitions-et-courants-de-pensee/"
 
 [[redirects]]
-from = "/agenda/2023-11-09-comite-scientifique-2/"
+from = "/agenda/2023-11-09-comite-scientifique-2/index.html"
 to = "/agenda/2023/comite-scientifique-2/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/soufiane-rouissi/"
+from = "/passer-a-laction/reseau/soufiane-rouissi/index.html"
 to = "/personnes/soufiane-rouissi/"
 
 [[redirects]]
-from = "/personnes/categories/comites/dev-front/"
+from = "/personnes/categories/comites/dev-front/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-front/"
 
 [[redirects]]
-from = "/personnes/categories/commoners/makers/"
+from = "/personnes/categories/commoners/makers/index.html"
 to = "/personnes/categories/implication/makers/"
 
 [[redirects]]
-from = "/agenda/2023-02-23-retour-sur-le-comite-scientifique-1/"
+from = "/agenda/2023-02-23-retour-sur-le-comite-scientifique-1/index.html"
 to = "/agenda/2023/comite-scientifique-1/"
 
 [[redirects]]
-from = "/actualites/2022/07/18/revue-de-litterature-du-18-juillet/"
+from = "/actualites/2022/07/18/revue-de-litterature-du-18-juillet/index.html"
 to = "/actualites/2022-07-18-revue-de-litterature-du-18-juillet/"
 
 [[redirects]]
-from = "/recherche-1/"
+from = "/recherche-1/index.html"
 to = "/secteurs/recherche/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/enseignement-1/"
+from = "/organisations/categories/secteurs/enseignement-1/index.html"
 to = "/organisations/categories/secteurs-organisation/enseignement/"
 
 [[redirects]]
-from = "/agenda/2025-04-03-assemblee-osuny-17/"
+from = "/agenda/2025-04-03-assemblee-osuny-17/index.html"
 to = "/agenda/2025/assemblee-osuny-17/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/feedbacks-etudiants/"
+from = "/fonctionnalites-roadmap/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/valentin-leblanc/"
+from = "/passer-a-laction/reseau/valentin-leblanc/index.html"
 to = "/personnes/valentin-leblanc/"
 
 [[redirects]]
-from = "/passer-a-laction/budgets/"
+from = "/passer-a-laction/budgets/index.html"
 to = "/tarifs/"
 
 [[redirects]]
-from = "/actualites/2023-06-26-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
+from = "/actualites/2023-06-26-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/index.html"
 to = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
 
 [[redirects]]
-from = "/organisations/categories/implication/organisations-contributrices/"
+from = "/organisations/categories/implication/organisations-contributrices/index.html"
 to = "/organisations/categories/implication/contribs-osuny/"
 
 [[redirects]]
-from = "/usages/enseignement/"
+from = "/usages/enseignement/index.html"
 to = "/secteurs/enseignement/"
 
 [[redirects]]
-from = "/organisations/categories/region/"
+from = "/organisations/categories/region/index.html"
 to = "/organisations/categories/lieu/"
 
 [[redirects]]
-from = "/agenda/2022-06-23-presentation-dosuny-a-levenement-jinnov/"
+from = "/agenda/2022-06-23-presentation-dosuny-a-levenement-jinnov/index.html"
 to = "/agenda/2022/presentation-dosuny-a-levenement-jinnov/"
 
 [[redirects]]
-from = "/personnes/categories/comites-osuny/"
+from = "/personnes/categories/comites-osuny/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
 
 [[redirects]]
-from = "/actualites/2022/07/11/revue-de-litterature-du-11-juillet/"
+from = "/actualites/2022/07/11/revue-de-litterature-du-11-juillet/index.html"
 to = "/actualites/2022-07-11-revue-de-litterature-du-11-juillet/"
 
 [[redirects]]
-from = "/agenda/2025-03-06-assemblee-osuny-16/"
+from = "/agenda/2025-03-06-assemblee-osuny-16/index.html"
 to = "/agenda/2025/assemblee-osuny-16/"
 
 [[redirects]]
-from = "/fonctionnalites/offre-de-formation-1/"
+from = "/fonctionnalites/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 
 [[redirects]]
-from = "/fonctionnalites-old/communication/"
+from = "/fonctionnalites-old/communication/index.html"
 to = "/fonctionnalites-roadmap/communication/"
 
 [[redirects]]
-from = "/actualites/2022/09/27/osuny-plausible/"
+from = "/actualites/2022/09/27/osuny-plausible/index.html"
 to = "/actualites/2022-09-27-osuny-plausible/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/jade-vincent/"
+from = "/passer-a-laction/reseau/jade-vincent/index.html"
 to = "/personnes/jade-vincent/"
 
 [[redirects]]
-from = "/agenda/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
+from = "/agenda/2022-06-14-osuny-au-colloque-scientifique-digital-natives/index.html"
 to = "/agenda/2022/confiance-et-publics/"
 
 [[redirects]]
-from = "/fonctionnalites-old/informations-techniques/infrastructure/"
+from = "/fonctionnalites-old/informations-techniques/infrastructure/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/infrastructure/"
 
 [[redirects]]
-from = "/fonctionnalites-old/recherche/revues-scientifiques/"
+from = "/fonctionnalites-old/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
-from = "/agenda/2024-01-04-assemblee-osuny-2/"
+from = "/agenda/2024-01-04-assemblee-osuny-2/index.html"
 to = "/agenda/2024/assemblee-osuny-2/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/elodie-herisson/"
+from = "/passer-a-laction/reseau/elodie-herisson/index.html"
 to = "/personnes/elodie-herisson/"
 
 [[redirects]]
-from = "/personnes/categories/region/"
+from = "/personnes/categories/region/index.html"
 to = "/personnes/categories/regions/"
 
 [[redirects]]
-from = "/agenda/2024-11-27-communs-numerique-et-interet-general/"
+from = "/agenda/2024-11-27-communs-numerique-et-interet-general/index.html"
 to = "/agenda/2024/communs-numerique-et-interet-general/"
 
 [[redirects]]
-from = "/organisations/categories/ile-de-france/"
+from = "/organisations/categories/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
-from = "/agenda/2025/assemblee-osuny-20-1/"
+from = "/agenda/2025/assemblee-osuny-20-1/index.html"
 to = "/agenda/2025/assemblee-osuny-21/"
 
 [[redirects]]
-from = "/organisations/ile-de-france/"
+from = "/organisations/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
-from = "/personnes/categories/comites/infrastructure/"
+from = "/personnes/categories/comites/infrastructure/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
-from = "/projets/2022-nations-unies/"
+from = "/projets/2022-nations-unies/index.html"
 to = "/references/2022-nations-unies/"
 
 [[redirects]]
-from = "/agenda/2025-05-02-assemblee-osuny-18/"
+from = "/agenda/2025-05-02-assemblee-osuny-18/index.html"
 to = "/agenda/2025/assemblee-osuny-18/"
 
 [[redirects]]
-from = "/personnes/gestion-de-projet/"
+from = "/personnes/gestion-de-projet/index.html"
 to = "/personnes/categories/metiers/gestion-de-projet/"
 
 [[redirects]]
-from = "/personnes/categories/gestion-de-projet/"
+from = "/personnes/categories/gestion-de-projet/index.html"
 to = "/personnes/categories/metiers/gestion-de-projet/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/recherche/veille-scientifique/"
+from = "/fonctionnalites-roadmap/recherche/veille-scientifique/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/pierre-andre-boissinot/actualites/"
+from = "/passer-a-laction/reseau/pierre-andre-boissinot/actualites/index.html"
 to = "/personnes/pierre-andre-boissinot/actualites/"
 
 [[redirects]]
-from = "/actualites/2022/04/05/african-futures-action-lab/"
+from = "/actualites/2022/04/05/african-futures-action-lab/index.html"
 to = "/actualites/2022-04-05-african-futures-action-lab/"
 
 [[redirects]]
-from = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-/"
+from = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-/index.html"
 to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
-from = "/organisations/categories/mediation/"
+from = "/organisations/categories/mediation/index.html"
 to = "/organisations/categories/secteurs-organisation/mediation/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/pene-sophie/"
+from = "/passer-a-laction/reseau/pene-sophie/index.html"
 to = "/personnes/pene-sophie/"
 
 [[redirects]]
-from = "/actualites/2022/08/29/revue-de-litterature-du-29-aout/"
+from = "/actualites/2022/08/29/revue-de-litterature-du-29-aout/index.html"
 to = "/actualites/2022-08-29-revue-de-litterature-du-29-aout/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/schemas-1/"
+from = "/fonctionnalites/theme-osuny/schemas-1/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/agenda/2022-06-28-lancement-officiel-dosuny/"
+from = "/agenda/2022-06-28-lancement-officiel-dosuny/index.html"
 to = "/agenda/2022/lancement-officiel-dosuny/"
 
 [[redirects]]
-from = "/fonctionnalites-old/administration/admissions/"
+from = "/fonctionnalites-old/administration/admissions/index.html"
 to = "/fonctionnalites-roadmap/administration/admissions/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/edouard-jourdain/"
+from = "/passer-a-laction/reseau/edouard-jourdain/index.html"
 to = "/personnes/edouard-jourdain/"
 
 [[redirects]]
-from = "/actualites/2023-06-27-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
+from = "/actualites/2023-06-27-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/index.html"
 to = "/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/associations/"
+from = "/organisations/categories/secteurs/associations/index.html"
 to = "/organisations/categories/secteurs-organisation/associations/"
 
 [[redirects]]
-from = "/personnes/categories/comites/dev-back/"
+from = "/personnes/categories/comites/dev-back/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-back/"
 
 [[redirects]]
-from = "/enseignement-1/"
+from = "/enseignement-1/index.html"
 to = "/secteurs/enseignement/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/securite/"
+from = "/fonctionnalites/informations-techniques/securite/index.html"
 to = "/engagements/securite/"
 
 [[redirects]]
-from = "/actualites/2022/10/03/14-revue-de-litterature-du-3-octobre/"
+from = "/actualites/2022/10/03/14-revue-de-litterature-du-3-octobre/index.html"
 to = "/actualites/2022-10-03-14-revue-de-litterature-du-3-octobre/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/samuel-attia/"
+from = "/passer-a-laction/reseau/samuel-attia/index.html"
 to = "/personnes/samuel-attia/"
 
 [[redirects]]
-from = "/fonctionnalites/enseignement/ressources-educatives-libres/"
+from = "/fonctionnalites/enseignement/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
-from = "/tester/"
+from = "/tester/index.html"
 to = "/commencer/"
 
 [[redirects]]
-from = "/developpeurs/"
+from = "/developpeurs/index.html"
 to = "/profils/dev/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/"
+from = "/fonctionnalites/design-system/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
-from = "/actualites/2022/12/12/revue-de-litterature-23/"
+from = "/actualites/2022/12/12/revue-de-litterature-23/index.html"
 to = "/actualites/2022-12-12-revue-de-litterature-23/"
 
 [[redirects]]
-from = "/organisations/categories/region/ile-de-france/"
+from = "/organisations/categories/region/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
-from = "/agenda/2024-05-02-assemblee-osuny-6/"
+from = "/agenda/2024-05-02-assemblee-osuny-6/index.html"
 to = "/agenda/2024/assemblee-osuny-6/"
 
 [[redirects]]
-from = "/associatif/"
+from = "/associatif/index.html"
 to = "/secteurs/associations/"
 
 [[redirects]]
-from = "/organisations/opcd/"
+from = "/organisations/opcd/index.html"
 to = "/organisations/observatoire-de-la-decroissance-et-de-la-post-croissance-opcd/"
 
 [[redirects]]
-from = "/agenda/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+from = "/agenda/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
 to = "/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
 
 [[redirects]]
-from = "/actualites/2022/08/01/revue-de-litterature-du-1er-aout/"
+from = "/actualites/2022/08/01/revue-de-litterature-du-1er-aout/index.html"
 to = "/actualites/2022-08-01-revue-de-litterature-du-1er-aout/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/references/"
 
 [[redirects]]
-from = "/actualites/2022/06/28/lancement-officiel-dosuny/"
+from = "/actualites/2022/06/28/lancement-officiel-dosuny/index.html"
 to = "/actualites/2022-06-28-lancement-officiel-dosuny/"
 
 [[redirects]]
-from = "/secteurs/recherche-2/"
+from = "/secteurs/recherche-2/index.html"
 to = "/secteurs/recherche/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/pierre-andre-boissinot/"
+from = "/passer-a-laction/reseau/pierre-andre-boissinot/index.html"
 to = "/personnes/pierre-andre-boissinot/"
 
 [[redirects]]
-from = "/fonctionnalites-old/recherche/veille-scientifique/"
+from = "/fonctionnalites-old/recherche/veille-scientifique/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
 
 [[redirects]]
-from = "/actualites/2022/10/10/revue-de-litterature-15/"
+from = "/actualites/2022/10/10/revue-de-litterature-15/index.html"
 to = "/actualites/2022-10-10-revue-de-litterature-15/"
 
 [[redirects]]
-from = "/agenda/2024-09-05-assemblee-osuny-10/"
+from = "/agenda/2024-09-05-assemblee-osuny-10/index.html"
 to = "/agenda/2024/assemblee-osuny-10/"
 
 [[redirects]]
-from = "/actualites/2024-01-16-les-communs-essais-de-definitions/"
+from = "/actualites/2024-01-16-les-communs-essais-de-definitions/index.html"
 to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
-from = "/organisations/categories/secteur/public/"
+from = "/organisations/categories/secteur/public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
-from = "/projets/2021-iut-bordeaux-montaigne/"
+from = "/projets/2021-iut-bordeaux-montaigne/index.html"
 to = "/references/2021-iut-bordeaux-montaigne/"
 
 [[redirects]]
-from = "/personnes/categories/comites/design-1/"
+from = "/personnes/categories/comites/design-1/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-design/"
 
 [[redirects]]
-from = "/fonctionnalites/administration/admissions/"
+from = "/fonctionnalites/administration/admissions/index.html"
 to = "/fonctionnalites-roadmap/administration/admissions/"
 
 [[redirects]]
-from = "/organisations/categories/commoners/agences-osuny/"
+from = "/organisations/categories/commoners/agences-osuny/index.html"
 to = "/organisations/categories/implication/agences-osuny/"
 
 [[redirects]]
-from = "/personnes/categories/comite/scientifique/"
+from = "/personnes/categories/comite/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/alexis-benoit/"
+from = "/passer-a-laction/reseau/alexis-benoit/index.html"
 to = "/personnes/alexis-benoit/"
 
 [[redirects]]
-from = "/actualites/2022/09/05/revue-de-litterature-du-5-septembre/"
+from = "/actualites/2022/09/05/revue-de-litterature-du-5-septembre/index.html"
 to = "/actualites/2022-09-05-revue-de-litterature-du-5-septembre/"
 
 [[redirects]]
-from = "/fonctionnalites/administration/statistiques/"
+from = "/fonctionnalites/administration/statistiques/index.html"
 to = "/fonctionnalites-roadmap/administration/statistiques/"
 
 [[redirects]]
-from = "/organisations/categories/secteur/prive/"
+from = "/organisations/categories/secteur/prive/index.html"
 to = "/organisations/categories/secteurs-organisation/culture/"
 
 [[redirects]]
-from = "/fonctionnalites-old/administration/suivi-qualite/"
+from = "/fonctionnalites-old/administration/suivi-qualite/index.html"
 to = "/fonctionnalites-roadmap/administration/suivi-qualite/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/recherche/"
+from = "/organisations/categories/secteurs/recherche/index.html"
 to = "/organisations/categories/secteurs-organisation/recherche/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/jonathan-serafini/"
+from = "/passer-a-laction/reseau/jonathan-serafini/index.html"
 to = "/personnes/jonathan-serafini/"
 
 [[redirects]]
-from = "/actualites/2024-01-07-accessibilite-conformite-a-100-pour-le-socle-front-osuny/"
+from = "/actualites/2024-01-07-accessibilite-conformite-a-100-pour-le-socle-front-osuny/index.html"
 to = "/actualites/2025-01-07-accessibilite-conformite-a-100-pour-le-socle-front-osuny/"
 
 [[redirects]]
-from = "/a11y/"
+from = "/a11y/index.html"
 to = "/declaration-d-accessibilite/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/laurent-devernay/"
+from = "/passer-a-laction/reseau/laurent-devernay/index.html"
 to = "/personnes/laurent-devernay/"
 
 [[redirects]]
-from = "/fonctionnalites-old/theme-osuny/theme-figma/"
+from = "/fonctionnalites-old/theme-osuny/theme-figma/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/"
+from = "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/index.html"
 to = "/fonctionnalites/"
 
 [[redirects]]
-from = "/fonctionnalites/communication/sites-web/comparatif/"
+from = "/fonctionnalites/communication/sites-web/comparatif/index.html"
 to = "/fonctionnalites-roadmap/communication/sites-web/comparatif/"
 
 [[redirects]]
-from = "/personnes/categories/comite/dev-back/"
+from = "/personnes/categories/comite/dev-back/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-back/"
 
 [[redirects]]
-from = "/projets/2025-city-orchestra/"
+from = "/projets/2025-city-orchestra/index.html"
 to = "/references/2025-city-orchestra/"
 
 [[redirects]]
-from = "/actualites/2022/08/30/les-communs-numeriques/"
+from = "/actualites/2022/08/30/les-communs-numeriques/index.html"
 to = "/actualites/2022-08-30-les-communs-numeriques/"
 
 [[redirects]]
-from = "/actualites/2022/08/16/revue-de-litterature-du-16-aout/"
+from = "/actualites/2022/08/16/revue-de-litterature-du-16-aout/index.html"
 to = "/actualites/2022-08-16-revue-de-litterature-du-16-aout/"
 
 [[redirects]]
-from = "/agenda/2024-06-06-assemblee-osuny-7/"
+from = "/agenda/2024-06-06-assemblee-osuny-7/index.html"
 to = "/agenda/2024/assemblee-osuny-7/"
 
 [[redirects]]
-from = "/agenda/2024-07-04-assemblee-osuny-8/"
+from = "/agenda/2024-07-04-assemblee-osuny-8/index.html"
 to = "/agenda/2024/assemblee-osuny-8/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/infrastructure/"
+from = "/personnes/categories/implication/comites-osuny/infrastructure/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
-from = "/fonctionnalites-old/ressources-educatives-libres/"
+from = "/fonctionnalites-old/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
-from = "/organisations/categories/commoners/"
+from = "/organisations/categories/commoners/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
 
 [[redirects]]
-from = "/actualites/2023-08-03-retour-sur-le-seminaire-3s-soutenabilite-des-systemes-socio-techniques/"
+from = "/actualites/2023-08-03-retour-sur-le-seminaire-3s-soutenabilite-des-systemes-socio-techniques/index.html"
 to = "/actualites/2023-08-03-les-communs-une-alternative-pertinente-pour-aider-a-effectuer-nos-transitions-vers-des-societes-huma/"
 
 [[redirects]]
-from = "/actualites/2022/12/05/revue-de-litterature-22/"
+from = "/actualites/2022/12/05/revue-de-litterature-22/index.html"
 to = "/actualites/2022-12-05-revue-de-litterature-22/"
 
 [[redirects]]
-from = "/personnes/design/"
+from = "/personnes/design/index.html"
 to = "/personnes/categories/metiers/design/"
 
 [[redirects]]
-from = "/actualites/2022/06/14/osuny-au-colloque-scientifique-digital-natives/"
+from = "/actualites/2022/06/14/osuny-au-colloque-scientifique-digital-natives/index.html"
 to = "/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
 
 [[redirects]]
-from = "/personnes/categories/design/"
+from = "/personnes/categories/design/index.html"
 to = "/personnes/categories/metiers/design/"
 
 [[redirects]]
-from = "/usages/design/"
+from = "/usages/design/index.html"
 to = "/profils/design/"
 
 [[redirects]]
-from = "/actualites/2022/05/31/communication-democratie/"
+from = "/actualites/2022/05/31/communication-democratie/index.html"
 to = "/actualites/2022-05-31-communication-democratie/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/yuna-orsini/"
+from = "/passer-a-laction/reseau/yuna-orsini/index.html"
 to = "/personnes/yuna-orsini/"
 
 [[redirects]]
-from = "/usages/associatif/"
+from = "/usages/associatif/index.html"
 to = "/secteurs/associations/"
 
 [[redirects]]
-from = "/secteurs/enseignement-1/"
+from = "/secteurs/enseignement-1/index.html"
 to = "/secteurs/enseignement/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/ressources-educatives-libres/"
+from = "/fonctionnalites-roadmap/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
-from = "/actualites/2022/08/22/revue-de-litterature-du-22-aout/"
+from = "/actualites/2022/08/22/revue-de-litterature-du-22-aout/index.html"
 to = "/actualites/2022-08-22-revue-de-litterature-du-22-aout/"
 
 [[redirects]]
-from = "/fonctionnalites/communication/"
+from = "/fonctionnalites/communication/index.html"
 to = "/fonctionnalites-roadmap/communication/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/culture/"
+from = "/organisations/categories/secteurs/culture/index.html"
 to = "/organisations/categories/secteurs-organisation/culture/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/accessibilite/"
+from = "/personnes/categories/implication/comites-osuny/accessibilite/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-accessibilite/"
 
 [[redirects]]
-from = "/editeurs/"
+from = "/editeurs/index.html"
 to = "/profils/usageres/"
 
 [[redirects]]
-from = "/personnes/categories/commoners/"
+from = "/personnes/categories/commoners/index.html"
 to = "/personnes/categories/implication/commoners/"
 
 [[redirects]]
-from = "/personnes/categories/dev/back/"
+from = "/personnes/categories/dev/back/index.html"
 to = "/personnes/categories/metiers/developpement/"
 
 [[redirects]]
-from = "/agenda/2025/assemblee-osuny-20-1-1/"
+from = "/agenda/2025/assemblee-osuny-20-1-1/index.html"
 to = "/agenda/2025/assemblee-osuny-22/"
 
 [[redirects]]
-from = "/actualites/2022/09/21/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+from = "/actualites/2022/09/21/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
 to = "/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
 
 [[redirects]]
-from = "/osuny-est-un-commun-numerique-dinteret-general/"
+from = "/osuny-est-un-commun-numerique-dinteret-general/index.html"
 to = "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/offre-de-formation-1/"
+from = "/fonctionnalites-roadmap/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 
 [[redirects]]
-from = "/actualites/2022/09/12/revue-de-litterature-du-12-septembre/"
+from = "/actualites/2022/09/12/revue-de-litterature-du-12-septembre/index.html"
 to = "/actualites/2022-09-12-revue-de-litterature-du-12-septembre/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/daniela-penaranda/"
+from = "/passer-a-laction/reseau/daniela-penaranda/index.html"
 to = "/personnes/daniela-penaranda/"
 
 [[redirects]]
-from = "/valeurs/qualite/"
+from = "/valeurs/qualite/index.html"
 to = "/engagements/qualite/"
 
 [[redirects]]
-from = "/valeurs/communaute/"
+from = "/valeurs/communaute/index.html"
 to = "/engagements/communaute/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/magali-angles/"
+from = "/passer-a-laction/reseau/magali-angles/index.html"
 to = "/personnes/magali-angles/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/figma/"
+from = "/fonctionnalites/design-system/figma/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/fonctionnalites-old/recherche/"
+from = "/fonctionnalites-old/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
 [[redirects]]
-from = "/personnes/categories/comite/"
+from = "/personnes/categories/comite/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
 
 [[redirects]]
-from = "/personnes/categories/commoners/freelance/"
+from = "/personnes/categories/commoners/freelance/index.html"
 to = "/personnes/categories/implication/freelances/"
 
 [[redirects]]
-from = "/organisations/categories/nouvelle-aquitaine/"
+from = "/organisations/categories/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/valeurs/sobriete/"
+from = "/valeurs/sobriete/index.html"
 to = "/engagements/sobriete/"
 
 [[redirects]]
-from = "/agenda/2023-02-23-comite-scientifique-1/"
+from = "/agenda/2023-02-23-comite-scientifique-1/index.html"
 to = "/agenda/2023/comite-scientifique-1/"
 
 [[redirects]]
-from = "/agenda/2024-02-01-assemblee-osuny-3/"
+from = "/agenda/2024-02-01-assemblee-osuny-3/index.html"
 to = "/agenda/2024/assemblee-osuny-3/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/typos/"
+from = "/fonctionnalites/design-system/typos/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/personnes/categories/dev/front/"
+from = "/personnes/categories/dev/front/index.html"
 to = "/personnes/categories/metiers/developpement-front/"
 
 [[redirects]]
-from = "/agenda/2025/assemblee-osuny-20-1-1-1/"
+from = "/agenda/2025/assemblee-osuny-20-1-1-1/index.html"
 to = "/agenda/2025/assemblee-osuny-23/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/reversibilite/"
+from = "/fonctionnalites/informations-techniques/reversibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/reversibilite/"
 
 [[redirects]]
-from = "/actualites/2022/03/21/notre-plan-de-decarbonation-est-liste-parmi-les-initiatives-des-shifters/"
+from = "/actualites/2022/03/21/notre-plan-de-decarbonation-est-liste-parmi-les-initiatives-des-shifters/index.html"
 to = ""
 
 [[redirects]]
-from = "/personnes/categories/comite/webmaster/"
+from = "/personnes/categories/comite/webmaster/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
 
 [[redirects]]
-from = "/usages/designers/"
+from = "/usages/designers/index.html"
 to = "/profils/design/"
 
 [[redirects]]
-from = "/fonctionnalites/communication/lettres-dinformation/"
+from = "/fonctionnalites/communication/lettres-dinformation/index.html"
 to = "/fonctionnalites-roadmap/communication/lettres-dinformation/"
 
 [[redirects]]
-from = "/revue-de-presse-2023/"
+from = "/revue-de-presse-2023/index.html"
 to = "/espace-presse/revue-de-presse-2023/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/"
+from = "/passer-a-laction/reseau/index.html"
 to = "/personnes/categories/commoners/"
 
 [[redirects]]
-from = "/fonctionnalites-old/informations-techniques/schema/"
+from = "/fonctionnalites-old/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/projets/2024-rennes-metropole/"
+from = "/projets/2024-rennes-metropole/index.html"
 to = "/references/2024-rennes-metropole/"
 
 [[redirects]]
-from = "/fonctionnalites-old/administration/"
+from = "/fonctionnalites-old/administration/index.html"
 to = "/fonctionnalites-roadmap/administration/"
 
 [[redirects]]
-from = "/personnes/categories/metiers/developpement-back/"
+from = "/personnes/categories/metiers/developpement-back/index.html"
 to = "/personnes/categories/metiers/developpement/"
 
 [[redirects]]
-from = "/projets/2022-dico-du-climat-des-nations-unies/"
+from = "/projets/2022-dico-du-climat-des-nations-unies/index.html"
 to = "/references/2022-nations-unies/"
 
 [[redirects]]
-from = "/actualites/2022/11/14/revue-de-litterature-19/"
+from = "/actualites/2022/11/14/revue-de-litterature-19/index.html"
 to = "/actualites/2022-11-14-revue-de-litterature-19/"
 
 [[redirects]]
-from = "/personnes/categories/comites/scientifique/"
+from = "/personnes/categories/comites/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/charles-prevot/"
+from = "/passer-a-laction/reseau/charles-prevot/index.html"
 to = "/personnes/charles-prevot/"
 
 [[redirects]]
-from = "/personnes/categories/region/ile-de-france/"
+from = "/personnes/categories/region/ile-de-france/index.html"
 to = "/personnes/categories/regions/ile-de-france/"
 
 [[redirects]]
-from = "/actualites/2022/09/26/revue-de-litterature-du-26-septembre/"
+from = "/actualites/2022/09/26/revue-de-litterature-du-26-septembre/index.html"
 to = "/actualites/2022-09-26-revue-de-litterature-du-26-septembre/"
 
 [[redirects]]
-from = "/actualites/2024-04-30-lapplication-osuny-presente-un-bon-niveau-de-securite/"
+from = "/actualites/2024-04-30-lapplication-osuny-presente-un-bon-niveau-de-securite/index.html"
 to = "/actualites/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon/"
 
 [[redirects]]
-from = "/fonctionnalites/enseignement/offre-de-formation-1/"
+from = "/fonctionnalites/enseignement/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 
 [[redirects]]
-from = "/actualites/2022/07/25/revue-de-litterature-du-25-juillet/"
+from = "/actualites/2022/07/25/revue-de-litterature-du-25-juillet/index.html"
 to = "/actualites/2022-07-25-revue-de-litterature-du-25-juillet/"
 
 [[redirects]]
-from = "/agenda/2024-08-01-assemblee-osuny-9/"
+from = "/agenda/2024-08-01-assemblee-osuny-9/index.html"
 to = "/agenda/2024/assemblee-osuny-9/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/theme-osuny/schema-systeme-de-design/"
+from = "/fonctionnalites-roadmap/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/sites/"
+from = "/sites/index.html"
 to = "/references/"
 
 [[redirects]]
-from = "/actualites/2022/06/23/presentation-dosuny-a-levenement-jinnov/"
+from = "/actualites/2022/06/23/presentation-dosuny-a-levenement-jinnov/index.html"
 to = "/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/"
 
 [[redirects]]
-from = "/fonctionnalites-old/communication/extranets/"
+from = "/fonctionnalites-old/communication/extranets/index.html"
 to = "/fonctionnalites-roadmap/communication/extranets/"
 
 [[redirects]]
-from = "/agenda/2024-12-05-assemblee-osuny-13/"
+from = "/agenda/2024-12-05-assemblee-osuny-13/index.html"
 to = "/agenda/2024/assemblee-osuny-13/"
 
 [[redirects]]
-from = "/passer-a-laction/tarifs/"
+from = "/passer-a-laction/tarifs/index.html"
 to = "/tarifs/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/recherche/revues-scientifiques/"
+from = "/fonctionnalites-roadmap/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
-from = "/actualites/2022/03/01/osuny-est-referencee-au-catalogue-gouvtech/"
+from = "/actualites/2022/03/01/osuny-est-referencee-au-catalogue-gouvtech/index.html"
 to = "/actualites/2022-03-01-osuny-est-referencee-au-catalogue-gouvtech/"
 
 [[redirects]]
-from = "/agenda/2023-06-01-network-study-on-digital-commons/"
+from = "/agenda/2023-06-01-network-study-on-digital-commons/index.html"
 to = "/agenda/2023/network-study-on-digital-commons/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/informations-techniques/schema/"
+from = "/fonctionnalites-roadmap/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/agenda/2025-01-02-assemblee-osuny-14/"
+from = "/agenda/2025-01-02-assemblee-osuny-14/index.html"
 to = "/agenda/2025/assemblee-osuny-14/"
 
 [[redirects]]
-from = "/references/2021-iut-bordeaux-montaigne-1/"
+from = "/references/2021-iut-bordeaux-montaigne-1/index.html"
 to = "/references/2023-iut-bordeaux/"
 
 [[redirects]]
-from = "/personnes/categories/metier/gestion-de-projet/"
+from = "/personnes/categories/metier/gestion-de-projet/index.html"
 to = "/personnes/categories/metiers/gestion-de-projet/"
 
 [[redirects]]
-from = "/fonctionnalites-old/recherche/equipe-de-recherche/"
+from = "/fonctionnalites-old/recherche/equipe-de-recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/equipe-de-recherche/"
 
 [[redirects]]
-from = "/fonctionnalites/recherche/veille-scientifique/"
+from = "/fonctionnalites/recherche/veille-scientifique/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
 
 [[redirects]]
-from = "/fonctionnalites/equipe-pedagogique/"
+from = "/fonctionnalites/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/schema/"
+from = "/fonctionnalites/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/fonctionnalites/administration/suivi-qualite/"
+from = "/fonctionnalites/administration/suivi-qualite/index.html"
 to = "/fonctionnalites-roadmap/administration/suivi-qualite/"
 
 [[redirects]]
-from = "/fonctionnalites/administration/"
+from = "/fonctionnalites/administration/index.html"
 to = "/fonctionnalites-roadmap/administration/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/charline-laporte/"
+from = "/passer-a-laction/reseau/charline-laporte/index.html"
 to = "/personnes/charline-laporte/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/equipe-editoriale/"
+from = "/passer-a-laction/reseau/equipe-editoriale/index.html"
 to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/usages/developpeurs/"
+from = "/usages/developpeurs/index.html"
 to = "/profils/dev/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/alex-pazaitis/"
+from = "/passer-a-laction/reseau/alex-pazaitis/index.html"
 to = "/personnes/alex-pazaitis/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/gestion-de-contenu/"
+from = "/personnes/categories/implication/comites-osuny/gestion-de-contenu/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/infrastructure/"
+from = "/fonctionnalites/informations-techniques/infrastructure/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/infrastructure/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/recherche/equipe-de-recherche/"
+from = "/fonctionnalites-roadmap/recherche/equipe-de-recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/equipe-de-recherche/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/quentin-dufour/"
+from = "/passer-a-laction/reseau/quentin-dufour/index.html"
 to = "/personnes/quentin-dufour/"
 
 [[redirects]]
-from = "/personnes/dev/"
+from = "/personnes/dev/index.html"
 to = "/personnes/categories/metiers/"
 
 [[redirects]]
-from = "/fonctionnalites/recherche/revues-scientifiques/"
+from = "/fonctionnalites/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
-from = "/agenda/2023-12-07-reunion-mensuelle-communaute-osuny/"
+from = "/agenda/2023-12-07-reunion-mensuelle-communaute-osuny/index.html"
 to = "/agenda/2023/reunion-mensuelle-communaute-osuny/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/corinne-vercher-chaptal/"
+from = "/passer-a-laction/reseau/corinne-vercher-chaptal/index.html"
 to = "/personnes/corinne-vercher-chaptal/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/sebastien-moulene/"
+from = "/passer-a-laction/reseau/sebastien-moulene/index.html"
 to = "/personnes/sebastien-moulene/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/vincent-bachelet/"
+from = "/passer-a-laction/reseau/vincent-bachelet/index.html"
 to = "/personnes/vincent-bachelet/"
 
 [[redirects]]
-from = "/actualites/2022/12/28/revue-de-litterature-25/"
+from = "/actualites/2022/12/28/revue-de-litterature-25/index.html"
 to = "/actualites/2022-12-28-revue-de-litterature-25/"
 
 [[redirects]]
-from = "/agenda/2025-06-05-assemblee-osuny-19/"
+from = "/agenda/2025-06-05-assemblee-osuny-19/index.html"
 to = "/agenda/2025/assemblee-osuny-19/"
 
 [[redirects]]
-from = "/projets/2024-re-akt/"
+from = "/projets/2024-re-akt/index.html"
 to = "/projets/2023-re-akt/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/retrocompatibilite/"
+from = "/fonctionnalites/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
 
 [[redirects]]
-from = "/actualites/2024-01-16-les-communs-essai-de-definition/"
+from = "/actualites/2024-01-16-les-communs-essai-de-definition/index.html"
 to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
-from = "/fonctionnalites/communication/extranets/"
+from = "/fonctionnalites/communication/extranets/index.html"
 to = "/fonctionnalites-roadmap/communication/extranets/"
 
 [[redirects]]
-from = "/actualites/2022/11/21/noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/"
+from = "/actualites/2022/11/21/noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/index.html"
 to = "/actualites/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/"
 
 [[redirects]]
-from = "/projets/2025-campus-art-mediterranee/"
+from = "/projets/2025-campus-art-mediterranee/index.html"
 to = "/references/2025-campus-art-mediterranee/"
 
 [[redirects]]
-from = "/fonctionnalites-old/informations-techniques/"
+from = "/fonctionnalites-old/informations-techniques/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/"
 
 [[redirects]]
-from = "/fonctionnalites/ressources-educatives-libres/"
+from = "/fonctionnalites/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
-from = "/personnes/categories/commoners/freelances/"
+from = "/personnes/categories/commoners/freelances/index.html"
 to = "/personnes/categories/implication/freelances/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/theme-figma/"
+from = "/fonctionnalites/theme-osuny/theme-figma/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/sebastien-gaya/"
+from = "/passer-a-laction/reseau/sebastien-gaya/index.html"
 to = "/personnes/sebastien-gaya/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/schemas/"
+from = "/fonctionnalites/informations-techniques/schemas/index.html"
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/secteurs/associatif/"
+from = "/secteurs/associatif/index.html"
 to = "/secteurs/associations/"
 
 [[redirects]]
-from = "/usages/editeurs/"
+from = "/usages/editeurs/index.html"
 to = "/profils/usageres/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/"
+from = "/organisations/categories/secteurs/index.html"
 to = "/organisations/categories/secteurs-organisation/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/"
+from = "/fonctionnalites/theme-osuny/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
-from = "/un-commun-numerique/"
+from = "/un-commun-numerique/index.html"
 to = "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
 
 [[redirects]]
-from = "/passer-a-laction/osuny-as-a-service/"
+from = "/passer-a-laction/osuny-as-a-service/index.html"
 to = "/tarifs/osuny-as-a-service/"
 
 [[redirects]]
-from = "/personnes/categories/dev/"
+from = "/personnes/categories/dev/index.html"
 to = "/personnes/categories/metiers/"
 
 [[redirects]]
-from = "/projets/2025-campus-de-la-transition/"
+from = "/projets/2025-campus-de-la-transition/index.html"
 to = "/references/2025-campus-de-la-transition/"
 
 [[redirects]]
-from = "/organisations/categories/commoners/makers/"
+from = "/organisations/categories/commoners/makers/index.html"
 to = "/organisations/categories/implication/agences-osuny/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/mediation/"
+from = "/organisations/categories/secteurs/mediation/index.html"
 to = "/organisations/categories/secteurs-organisation/mediation/"
 
 [[redirects]]
-from = "/fonctionnalites-old/communication/sites-web/"
+from = "/fonctionnalites-old/communication/sites-web/index.html"
 to = "/fonctionnalites-roadmap/communication/sites-web/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/ludovic-bonduel/"
+from = "/passer-a-laction/reseau/ludovic-bonduel/index.html"
 to = "/personnes/ludovic-bonduel/"
 
 [[redirects]]
-from = "/fonctionnalites/communication/sites-web/"
+from = "/fonctionnalites/communication/sites-web/index.html"
 to = "/fonctionnalites-roadmap/communication/sites-web/"
 
 [[redirects]]
-from = "/actualites/2022/03/11/osuny-pegase/"
+from = "/actualites/2022/03/11/osuny-pegase/index.html"
 to = "/actualites/2022-03-11-osuny-pegase/"
 
 [[redirects]]
-from = "/actualites/2022/08/08/revue-de-litterature-du-8-aout/"
+from = "/actualites/2022/08/08/revue-de-litterature-du-8-aout/index.html"
 to = "/actualites/2022-08-08-revue-de-litterature-du-8-aout/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/recherche/"
+from = "/fonctionnalites-roadmap/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/grille/"
+from = "/fonctionnalites/design-system/grille/index.html"
 to = "/fonctionnalites/theme-osuny/blocs/"
 
 [[redirects]]
-from = "/fonctionnalites-old/theme-osuny/schema-systeme-de-design/"
+from = "/fonctionnalites-old/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/agenda/2023-05-15-handicap-et-dispositifs-innovants/"
+from = "/agenda/2023-05-15-handicap-et-dispositifs-innovants/index.html"
 to = "/agenda/2023/handicap-et-dispositifs-innovants/"
 
 [[redirects]]
-from = "/profils/editeurs/"
+from = "/profils/editeurs/index.html"
 to = "/profils/usageres/"
 
 [[redirects]]
-from = "/actualites/2022/10/24/revue-de-litterature-17/"
+from = "/actualites/2022/10/24/revue-de-litterature-17/index.html"
 to = "/actualites/2022-10-24-revue-de-litterature-17/"
 
 [[redirects]]
-from = "/fonctionnalites-old/administration/alumni/"
+from = "/fonctionnalites-old/administration/alumni/index.html"
 to = "/fonctionnalites-roadmap/administration/alumni/"
 
 [[redirects]]
-from = "/references/2021-iut-bordeaux/"
+from = "/references/2021-iut-bordeaux/index.html"
 to = "/references/2023-iut-bordeaux/"
 
 [[redirects]]
-from = "/fonctionnalites-old/communication/lettres-dinformation/"
+from = "/fonctionnalites-old/communication/lettres-dinformation/index.html"
 to = "/fonctionnalites-roadmap/communication/lettres-dinformation/"
 
 [[redirects]]
-from = "/actualites/2022/05/11/osuny-unsplash/"
+from = "/actualites/2022/05/11/osuny-unsplash/index.html"
 to = "/actualites/2022-05-11-osuny-unsplash/"
 
 [[redirects]]
-from = "/agenda/2024-11-07-assemblee-osuny-12/"
+from = "/agenda/2024-11-07-assemblee-osuny-12/index.html"
 to = "/agenda/2024/assemblee-osuny-12/"
 
 [[redirects]]
-from = "/actualites/2023-08-16-retour-sur-le-17e-congres-du-riodd-communs-communautes-territoires-quelles-voies-pour-les-transitions/"
+from = "/actualites/2023-08-16-retour-sur-le-17e-congres-du-riodd-communs-communautes-territoires-quelles-voies-pour-les-transitions/index.html"
 to = "/actualites/2023-08-16-retour-sur-le-17e-congres-du-riodd-communs-communautes-territoires-quelles-voies-pour-les-transition/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/design-system/"
+from = "/fonctionnalites/theme-osuny/design-system/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/usages/culture/"
+from = "/usages/culture/index.html"
 to = "/secteurs/culture/"
 
 [[redirects]]
-from = "/fonctionnalites/administration/alumni/"
+from = "/fonctionnalites/administration/alumni/index.html"
 to = "/fonctionnalites-roadmap/administration/alumni/"
 
 [[redirects]]
-from = "/fonctionnalites/enseignement/equipe-pedagogique/"
+from = "/fonctionnalites/enseignement/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
-from = "/agenda/2025-07-03-assemblee-osuny-20/"
+from = "/agenda/2025-07-03-assemblee-osuny-20/index.html"
 to = "/agenda/2025/assemblee-osuny-20/"
 
 [[redirects]]
-from = "/organisations/categories/secteur/publique/"
+from = "/organisations/categories/secteur/publique/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
-from = "/valeurs/souverainete/"
+from = "/valeurs/souverainete/index.html"
 to = "/engagements/souverainete/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/design-systeme/"
+from = "/fonctionnalites/theme-osuny/design-systeme/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/magali-angles/actualites/"
+from = "/passer-a-laction/reseau/magali-angles/actualites/index.html"
 to = "/personnes/magali-angles/actualites/"
 
 [[redirects]]
-from = "/organisations/categories/localisation/"
+from = "/organisations/categories/localisation/index.html"
 to = "/organisations/categories/lieu/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/prive/"
+from = "/organisations/categories/secteurs/prive/index.html"
 to = "/organisations/categories/secteurs-organisation/culture/"
 
 [[redirects]]
-from = "/fonctionnalites-roadmap/equipe-pedagogique/"
+from = "/fonctionnalites-roadmap/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
-from = "/organisations/categories/localisation/ile-de-france/"
+from = "/organisations/categories/localisation/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
-from = "/agenda/2025-01-09-assemblee-osuny-14/"
+from = "/agenda/2025-01-09-assemblee-osuny-14/index.html"
 to = "/agenda/2025/assemblee-osuny-14/"
 
 [[redirects]]
-from = "/actualites/2022/12/19/revue-de-litterature-24/"
+from = "/actualites/2022/12/19/revue-de-litterature-24/index.html"
 to = "/actualites/2022-12-19-revue-de-litterature-24/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/design-1/"
+from = "/personnes/categories/implication/comites-osuny/design-1/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-design/"
 
 [[redirects]]
-from = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelligente/"
+from = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelligente/index.html"
 to = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelli/"
 
 [[redirects]]
-from = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2023/"
+from = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2023/index.html"
 to = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/grille/"
+from = "/fonctionnalites/theme-osuny/grille/index.html"
 to = "/fonctionnalites/theme-osuny/blocs/"
 
 [[redirects]]
-from = "/agenda/2023-06-16-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/"
+from = "/agenda/2023-06-16-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/index.html"
 to = "/agenda/2023/table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/"
 
 [[redirects]]
-from = "/organisations/categories/soutiens-osuny/"
+from = "/organisations/categories/soutiens-osuny/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/romane-clement/"
+from = "/passer-a-laction/reseau/romane-clement/index.html"
 to = "/personnes/romane-clement/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/arnaud-levy/actualites/"
+from = "/passer-a-laction/reseau/arnaud-levy/actualites/index.html"
 to = "/personnes/arnaud-levy/actualites/"
 
 [[redirects]]
-from = "/agenda/2025-02-06-assemblee-osuny-15/"
+from = "/agenda/2025-02-06-assemblee-osuny-15/index.html"
 to = "/agenda/2025/assemblee-osuny-15/"
 
 [[redirects]]
-from = "/actualites/2022/09/19/revue-de-litterature-du-19-septembre/"
+from = "/actualites/2022/09/19/revue-de-litterature-du-19-septembre/index.html"
 to = "/actualites/2022-09-19-revue-de-litterature-du-19-septembre/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/arnaud-levy/"
+from = "/passer-a-laction/reseau/arnaud-levy/index.html"
 to = "/personnes/arnaud-levy/"
 
 [[redirects]]
-from = "/valeurs/liberte/"
+from = "/valeurs/liberte/index.html"
 to = "/engagements/liberte/"
 
 [[redirects]]
-from = "/actualites/2022/10/17/revue-de-litterature-16/"
+from = "/actualites/2022/10/17/revue-de-litterature-16/index.html"
 to = "/actualites/2022-10-17-revue-de-litterature-16/"
 
 [[redirects]]
-from = "/organisations/categories/localisation/nouvelle-aquitaine/"
+from = "/organisations/categories/localisation/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/projets/2026-gaite-lyrique/"
+from = "/projets/2026-gaite-lyrique/index.html"
 to = "/references/2026-gaite-lyrique/"
 
 [[redirects]]
-from = "/agenda/2024-03-07-assemblee-osuny-4/"
+from = "/agenda/2024-03-07-assemblee-osuny-4/index.html"
 to = "/agenda/2024/assemblee-osuny-4/"
 
 [[redirects]]
-from = "/fonctionnalites-old/communication/sites-web/comparatif/"
+from = "/fonctionnalites-old/communication/sites-web/comparatif/index.html"
 to = "/fonctionnalites-roadmap/communication/sites-web/comparatif/"
 
 [[redirects]]
-from = "/organisations/categories/monde-associatif/"
+from = "/organisations/categories/monde-associatif/index.html"
 to = "/organisations/categories/secteurs-organisation/associations/"
 
 [[redirects]]
-from = "/fonctionnalites/enseignement/feedbacks-etudiants/"
+from = "/fonctionnalites/enseignement/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
 [[redirects]]
-from = "/personnes/categories/commoners/freelance-osuny/"
+from = "/personnes/categories/commoners/freelance-osuny/index.html"
 to = "/personnes/categories/implication/freelances/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/sebastien-shulz/"
+from = "/passer-a-laction/reseau/sebastien-shulz/index.html"
 to = "/personnes/sebastien-shulz/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/schema-systeme-de-design/"
+from = "/fonctionnalites/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/agenda/2023-11-09-retour-sur-le-comite-scientifique-2/"
+from = "/agenda/2023-11-09-retour-sur-le-comite-scientifique-2/index.html"
 to = "/agenda/2023/comite-scientifique-2/"
 
 [[redirects]]
-from = "/organisations/categories/secteurs/service-public/"
+from = "/organisations/categories/secteurs/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
-from = "/designers/"
+from = "/designers/index.html"
 to = "/profils/design/"
 
 [[redirects]]
-from = "/personnes/categories/comites/"
+from = "/personnes/categories/comites/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
 
 [[redirects]]
-from = "/valeurs/accessibilite/"
+from = "/valeurs/accessibilite/index.html"
 to = "/engagements/accessibilite/"
 
 [[redirects]]
-from = "/culture/"
+from = "/culture/index.html"
 to = "/secteurs/culture/"
 
 [[redirects]]
-from = "/actualites/2022/06/21/lancement-du-site-classcode/"
+from = "/actualites/2022/06/21/lancement-du-site-classcode/index.html"
 to = "/actualites/2022-06-21-lancement-du-site-classcode/"
 
 [[redirects]]
-from = "/fonctionnalites-old/informations-techniques/reversibilite/"
+from = "/fonctionnalites-old/informations-techniques/reversibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/reversibilite/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/geoffrey-dorne/"
+from = "/passer-a-laction/reseau/geoffrey-dorne/index.html"
 to = "/personnes/geoffrey-dorne/"
 
 [[redirects]]
-from = "/personnes/categories/comites/ecoconception/"
+from = "/personnes/categories/comites/ecoconception/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-ecoconception/"
 
 [[redirects]]
-from = "/fonctionnalites-old/informations-techniques/retrocompatibilite/"
+from = "/fonctionnalites-old/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
 
 [[redirects]]
-from = "/organisations/categories/region/nouvelle-aquitaine/"
+from = "/organisations/categories/region/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/agenda/2025-01-23-comite-scientifique-3/"
+from = "/agenda/2025-01-23-comite-scientifique-3/index.html"
 to = "/agenda/2025/comite-scientifique-3/"
 
 [[redirects]]
-from = "/fonctionnalites-old/offre-de-formation-1/"
+from = "/fonctionnalites-old/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 
 [[redirects]]
-from = "/actualites/2022/07/04/revue-de-litterature-du-4-juillet/"
+from = "/actualites/2022/07/04/revue-de-litterature-du-4-juillet/index.html"
 to = "/actualites/2022-07-04-revue-de-litterature-du-4-juillet/"
 
 [[redirects]]
-from = "/fonctionnalites-old/equipe-pedagogique/"
+from = "/fonctionnalites-old/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
-from = "/usages/dev/"
+from = "/usages/dev/index.html"
 to = "/profils/dev/"
 
 [[redirects]]
-from = "/personnes/categories/region/nouvelle-aquitaine/"
+from = "/personnes/categories/region/nouvelle-aquitaine/index.html"
 to = "/personnes/categories/regions/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/personnes/categories/metier/"
+from = "/personnes/categories/metier/index.html"
 to = "/personnes/categories/metiers/"
 
 [[redirects]]
-from = "/personnes/categories/comites/accessibilite/"
+from = "/personnes/categories/comites/accessibilite/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-accessibilite/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/scientifique/"
+from = "/personnes/categories/implication/comites-osuny/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
 [[redirects]]
-from = "/actualites/2023-03-02-revue-de-litterature-32/"
+from = "/actualites/2023-03-02-revue-de-litterature-32/index.html"
 to = "/actualites/2023-02-27-revue-de-litterature-32/"
 
 [[redirects]]
-from = "/actualites/2022/10/11/osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/"
+from = "/actualites/2022/10/11/osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/index.html"
 to = "/actualites/2022-10-11-osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/"
 
 [[redirects]]
-from = "/actualites/2022/07/06/l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/"
+from = "/actualites/2022/07/06/l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/index.html"
 to = "/actualites/2022-07-06-l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/"
 
 [[redirects]]
-from = "/actualites/2022/03/08/un-plan-pour-decarboner-les-universites-francaises/"
+from = "/actualites/2022/03/08/un-plan-pour-decarboner-les-universites-francaises/index.html"
 to = "/actualites/2022-03-08-un-plan-pour-decarboner-les-universites-francaises/"
 
 [[redirects]]
-from = "/fonctionnalites-old/administration/statistiques/"
+from = "/fonctionnalites-old/administration/statistiques/index.html"
 to = "/fonctionnalites-roadmap/administration/statistiques/"
 
 [[redirects]]
-from = "/agenda/2024-10-03-assemblee-osuny-11/"
+from = "/agenda/2024-10-03-assemblee-osuny-11/index.html"
 to = "/agenda/2024/assemblee-osuny-11/"
 
 [[redirects]]
-from = "/organisations/classcode/"
+from = "/organisations/classcode/index.html"
 to = "/organisations/class-code/"
 
 [[redirects]]
-from = "/organisations/nouvelle-aquitaine/"
+from = "/organisations/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/actualites/2022/11/07/revue-de-litterature-18/"
+from = "/actualites/2022/11/07/revue-de-litterature-18/index.html"
 to = "/actualites/2022-11-07-revue-de-litterature-18/"
 
 [[redirects]]
-from = "/fonctionnalites/recherche/"
+from = "/fonctionnalites/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/yannick-breavoine/"
+from = "/passer-a-laction/reseau/yannick-breavoine/index.html"
 to = "/personnes/yannick-breavoine/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/guillaume-bourlet/"
+from = "/passer-a-laction/reseau/guillaume-bourlet/index.html"
 to = "/personnes/guillaume-bourlet/"
 
 [[redirects]]
-from = "/personnes/categories/comites/gestion-de-contenu/"
+from = "/personnes/categories/comites/gestion-de-contenu/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
 
 [[redirects]]
-from = "/actualites/2023-01-26-revue-de-litterature-29/"
+from = "/actualites/2023-01-26-revue-de-litterature-29/index.html"
 to = "/actualites/2023-01-23-revue-de-litterature-29/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/vera-vidal/"
+from = "/passer-a-laction/reseau/vera-vidal/index.html"
 to = "/personnes/vera-vidal/"
 
 [[redirects]]
-from = "/actualites/2023-11-29-lancement-sur-site-bonnes-notes/"
+from = "/actualites/2023-11-29-lancement-sur-site-bonnes-notes/index.html"
 to = "/actualites/2023-11-29-bonnes-notes/"
 
 [[redirects]]
-from = "/fonctionnalites-old/theme-osuny/"
+from = "/fonctionnalites-old/theme-osuny/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
-from = "/fonctionnalites-old/feedbacks-etudiants/"
+from = "/fonctionnalites-old/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
 [[redirects]]
-from = "/valeurs/"
+from = "/valeurs/index.html"
 to = "/engagements/"
 
 [[redirects]]
-from = "/organisations/categories/secteur/"
+from = "/organisations/categories/secteur/index.html"
 to = "/organisations/categories/secteurs-organisation/"
 
 [[redirects]]
-from = "/usages/enseignement-1/"
+from = "/usages/enseignement-1/index.html"
 to = "/secteurs/enseignement/"
 
 [[redirects]]
-from = "/actualites/2022/11/28/revue-de-litterature-21/"
+from = "/actualites/2022/11/28/revue-de-litterature-21/index.html"
 to = "/actualites/2022-11-28-revue-de-litterature-21/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/ben-robra/"
+from = "/passer-a-laction/reseau/ben-robra/index.html"
 to = "/personnes/ben-robra/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/clemence-spriet/"
+from = "/passer-a-laction/reseau/clemence-spriet/index.html"
 to = "/personnes/clemence-spriet/"
 
 [[redirects]]
-from = "/organisations/categories/secteur/service-public/"
+from = "/organisations/categories/secteur/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/virgile-leclercq/"
+from = "/passer-a-laction/reseau/virgile-leclercq/index.html"
 to = "/personnes/virgile-leclercq/"
 
 [[redirects]]
-from = "/fonctionnalites/feedbacks-etudiants/"
+from = "/fonctionnalites/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/schema-architectural/"
+from = "/fonctionnalites/informations-techniques/schema-architectural/index.html"
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/schema-1/"
+from = "/fonctionnalites/theme-osuny/schema-1/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/ophelie-burgstahler/"
+from = "/passer-a-laction/reseau/ophelie-burgstahler/index.html"
 to = "/personnes/ophelie-burgstahler/"
 
 [[redirects]]
-from = "/secteurs/culture-1/"
+from = "/secteurs/culture-1/index.html"
 to = "/secteurs/creation/"
 
 [[redirects]]
-from = "/espace-presse/sobriete-numerique-10-000-tonnes-equivalent-co2-par-an-evitables-dans-les-universites-francaises/"
+from = "/espace-presse/sobriete-numerique-10-000-tonnes-equivalent-co2-par-an-evitables-dans-les-universites-francaises/index.html"
 to = "/espace-presse/cp2022/"
 
 [[redirects]]
-from = "/agenda/2022-06-14-confiance-et-publics/"
+from = "/agenda/2022-06-14-confiance-et-publics/index.html"
 to = "/agenda/2022/confiance-et-publics/"
 
 [[redirects]]
-from = "/personnes/categories/implication/comites-osuny/ecoconception/"
+from = "/personnes/categories/implication/comites-osuny/ecoconception/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-ecoconception/"
 
 [[redirects]]
-from = "/passer-a-laction/reseau/mathieu-regnauld-de-la-soudiere/"
+from = "/passer-a-laction/reseau/mathieu-regnauld-de-la-soudiere/index.html"
 to = "/personnes/mathieu-regnauld-de-la-soudiere/"
 
 [[redirects]]
-from = "/agenda/2024-04-04-assemblee-osuny-5/"
+from = "/agenda/2024-04-04-assemblee-osuny-5/index.html"
 to = "/agenda/2024/assemblee-osuny-5/"
 
 [[redirects]]
-from = "/actualites/2024-01-16-les-communs-essai-de-definitions/"
+from = "/actualites/2024-01-16-les-communs-essai-de-definitions/index.html"
 to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/typos/"
+from = "/fonctionnalites/theme-osuny/typos/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
-from = "/fonctionnalites/recherche/equipe-de-recherche/"
+from = "/fonctionnalites/recherche/equipe-de-recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/equipe-de-recherche/"
 
 [[redirects]]
-from = "/actualites/2022/11/21/revue-de-litterature-20/"
+from = "/actualites/2022/11/21/revue-de-litterature-20/index.html"
 to = "/actualites/2022-11-21-revue-de-litterature-20/"
 
