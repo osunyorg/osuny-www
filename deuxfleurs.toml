@@ -403,6 +403,10 @@ from = "/a11y/index.html"
 to = "/declaration-d-accessibilite/"
 
 [[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-80/index.html"
+to = "/actualites/2024-05-22-revue-de-litterature-80/"
+
+[[redirects]]
 from = "/passer-a-laction/reseau/laurent-devernay/index.html"
 to = "/personnes/laurent-devernay/"
 
@@ -469,6 +473,10 @@ to = "/personnes/categories/metiers/design/"
 [[redirects]]
 from = "/actualites/2022/06/14/osuny-au-colloque-scientifique-digital-natives/index.html"
 to = "/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
+
+[[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-68/index.html"
+to = "/actualites/2024-01-31-revue-de-litterature-68/"
 
 [[redirects]]
 from = "/personnes/categories/design/index.html"
@@ -755,6 +763,10 @@ from = "/fonctionnalites/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-79/index.html"
+to = "/actualites/2024-05-15-revue-de-litterature-79/"
+
+[[redirects]]
 from = "/fonctionnalites/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
@@ -807,6 +819,10 @@ from = "/fonctionnalites/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-87/index.html"
+to = "/actualites/2024-07-10-revue-de-litterature-87/"
+
+[[redirects]]
 from = "/agenda/2023-12-07-reunion-mensuelle-communaute-osuny/index.html"
 to = "/agenda/2023/reunion-mensuelle-communaute-osuny/"
 
@@ -837,6 +853,10 @@ to = "/projets/2023-re-akt/"
 [[redirects]]
 from = "/fonctionnalites/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
+
+[[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-67/index.html"
+to = "/actualites/2024-01-24-revue-de-litterature-67/"
 
 [[redirects]]
 from = "/actualites/2024-01-16-les-communs-essai-de-definition/index.html"
@@ -1195,6 +1215,10 @@ from = "/actualites/2022/07/04/revue-de-litterature-du-4-juillet/index.html"
 to = "/actualites/2022-07-04-revue-de-litterature-du-4-juillet/"
 
 [[redirects]]
+from = "/actualites/2026-05-04-revue-de-litterature-81/index.html"
+to = "/actualites/2024-05-29-revue-de-litterature-81/"
+
+[[redirects]]
 from = "/fonctionnalites-old/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
@@ -1331,10 +1355,6 @@ from = "/fonctionnalites/informations-techniques/schema-architectural/index.html
 to = "/engagements/securite/schema/"
 
 [[redirects]]
-from = "/actualites/2024-01-24-revue-de-litterature-67/index.html"
-to = "/actualites/2026-05-04-revue-de-litterature-67/"
-
-[[redirects]]
 from = "/fonctionnalites/theme-osuny/schema-1/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
@@ -1353,6 +1373,10 @@ to = "/espace-presse/cp2022/"
 [[redirects]]
 from = "/agenda/2022-06-14-confiance-et-publics/index.html"
 to = "/agenda/2022/confiance-et-publics/"
+
+[[redirects]]
+from = "/actualites/2026-05-04-les-communs-numeriques-1/index.html"
+to = "/actualites/2024-01-23-les-communs-numeriques-1/"
 
 [[redirects]]
 from = "/personnes/categories/implication/comites-osuny/ecoconception/index.html"
