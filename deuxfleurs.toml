@@ -1331,6 +1331,10 @@ from = "/fonctionnalites/informations-techniques/schema-architectural/index.html
 to = "/engagements/securite/schema/"
 
 [[redirects]]
+from = "/actualites/2024-01-24-revue-de-litterature-67/index.html"
+to = "/actualites/2026-05-04-revue-de-litterature-67/"
+
+[[redirects]]
 from = "/fonctionnalites/theme-osuny/schema-1/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
