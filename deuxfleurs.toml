@@ -119,6 +119,10 @@ from = "/passer-a-laction/budgets/index.html"
 to = "/tarifs/"
 
 [[redirects]]
+from = "/actualites/2025-10-02-archives-du-forum-osuny/index.html"
+to = "https://commun.osuny.org/actualites/2025-10-02-archives-du-forum-osuny/"
+
+[[redirects]]
 from = "/organisations/categories/implication/organisations-contributrices/index.html"
 to = "/organisations/categories/implication/contribs-osuny/"
 
@@ -307,12 +311,20 @@ from = "/passer-a-laction/reseau/edouard-jourdain/index.html"
 to = "/personnes/edouard-jourdain/"
 
 [[redirects]]
+from = "/actualites/2023-11-29-leve-les-yeux/index.html"
+to = "https://showcase.osuny.org/websites/ed7786de-7779-42b9-826e-eee1539e5f13"
+
+[[redirects]]
 from = "/organisations/categories/secteurs/associations/index.html"
 to = "/organisations/categories/secteurs-organisation/associations/"
 
 [[redirects]]
 from = "/personnes/categories/comites/dev-back/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-back/"
+
+[[redirects]]
+from = "/actualites/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/index.html"
+to = "https://showcase.osuny.org/websites/841786c2-d279-4f01-9563-cd6a1cc82432"
 
 [[redirects]]
 from = "/enseignement-1/index.html"
@@ -831,6 +843,10 @@ from = "/fonctionnalites/enseignement/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 
 [[redirects]]
+from = "/actualites/2023-11-29-lancement-du-site-ran-coper/index.html"
+to = "https://showcase.osuny.org/websites/7d8628d7-3b6e-4058-a4e7-c7a8b0237007"
+
+[[redirects]]
 from = "/actualites/2023-09-11-revue-de-litterature-51/index.html"
 to = "https://commun.osuny.org/actualites/2023-09-11-revue-de-litterature-51/"
 
@@ -1035,16 +1051,16 @@ from = "/actualites/2022-07-11-revue-de-litterature-du-11-juillet/index.html"
 to = "https://commun.osuny.org/actualites/2022-07-11-revue-de-litterature-du-11-juillet/"
 
 [[redirects]]
-from = "/actualites/2022/11/21/noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/index.html"
-to = "/actualites/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/"
-
-[[redirects]]
 from = "/projets/2025-campus-art-mediterranee/index.html"
 to = "/references/2025-campus-art-mediterranee/"
 
 [[redirects]]
 from = "/fonctionnalites-old/informations-techniques/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/"
+
+[[redirects]]
+from = "/actualites/2023-11-29-bonnes-notes/index.html"
+to = "https://showcase.osuny.org/websites/6fc782eb-601a-4f1f-a5fb-ec3c5f6eef98"
 
 [[redirects]]
 from = "/fonctionnalites/ressources-educatives-libres/index.html"
@@ -1483,6 +1499,10 @@ from = "/personnes/categories/metier/index.html"
 to = "/personnes/categories/metiers/"
 
 [[redirects]]
+from = "/actualites/2025-10-02-le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny/index.html"
+to = "https://showcase.osuny.org/websites/45ac0f99-6dfc-4c8c-951a-2bce7b444a13"
+
+[[redirects]]
 from = "/personnes/categories/comites/accessibilite/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-accessibilite/"
 
@@ -1545,10 +1565,6 @@ to = "https://commun.osuny.org/actualites/2024-06-24-revue-de-litterature-85/"
 [[redirects]]
 from = "/passer-a-laction/reseau/vera-vidal/index.html"
 to = "/personnes/vera-vidal/"
-
-[[redirects]]
-from = "/actualites/2023-11-29-lancement-sur-site-bonnes-notes/index.html"
-to = "/actualites/2023-11-29-bonnes-notes/"
 
 [[redirects]]
 from = "/fonctionnalites-old/theme-osuny/index.html"
