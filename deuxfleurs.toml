@@ -131,6 +131,10 @@ from = "/usages/enseignement/index.html"
 to = "/secteurs/enseignement/"
 
 [[redirects]]
+from = "/actualites/2023-12-08-futurs/index.html"
+to = "https://showcase.osuny.org/websites/375f7ee4-2ced-4101-a72d-69e8b7484337"
+
+[[redirects]]
 from = "/organisations/categories/region/index.html"
 to = "/organisations/categories/lieu/"
 
@@ -157,6 +161,10 @@ to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
 [[redirects]]
 from = "/fonctionnalites-old/communication/index.html"
 to = "/fonctionnalites-roadmap/communication/"
+
+[[redirects]]
+from = "https://www.osuny.org/actualites/2023-12-08-technorealisme/index.html"
+to = "https://showcase.osuny.org/websites/0c5f68cd-12a0-4df1-bb48-f1d0541f9d37"
 
 [[redirects]]
 from = "/actualites/2024-04-30-revue-de-litterature-78/index.html"
@@ -271,10 +279,6 @@ from = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/i
 to = "https://commun.osuny.org/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
-from = "/actualites/2022/04/05/african-futures-action-lab/index.html"
-to = "/actualites/2022-04-05-african-futures-action-lab/"
-
-[[redirects]]
 from = "/actualites/2022-11-14-revue-de-litterature-19/index.html"
 to = "https://commun.osuny.org/actualites/2022-11-14-revue-de-litterature-19/"
 
@@ -309,6 +313,10 @@ to = "/fonctionnalites-roadmap/administration/admissions/"
 [[redirects]]
 from = "/passer-a-laction/reseau/edouard-jourdain/index.html"
 to = "/personnes/edouard-jourdain/"
+
+[[redirects]]
+from = "/actualites/2022-05-31-communication-democratie/index.html"
+to = "https://showcase.osuny.org/websites/2c9c1ff8-23a1-456e-9870-16ce3d9fd940"
 
 [[redirects]]
 from = "/actualites/2023-11-29-leve-les-yeux/index.html"
@@ -461,6 +469,10 @@ to = "/fonctionnalites-roadmap/administration/admissions/"
 [[redirects]]
 from = "/actualites/2022-11-21-revue-de-litterature-20/index.html"
 to = "https://commun.osuny.org/actualites/2022-11-21-revue-de-litterature-20/"
+
+[[redirects]]
+from = "/actualites/2024-01-17-a-org/index.html"
+to = "https://showcase.osuny.org/websites/3ccd06c9-5a99-44d3-8ffd-bc061bb200d7"
 
 [[redirects]]
 from = "/organisations/categories/commoners/agences-osuny/index.html"
@@ -619,10 +631,6 @@ from = "/usages/design/index.html"
 to = "/profils/design/"
 
 [[redirects]]
-from = "/actualites/2022/05/31/communication-democratie/index.html"
-to = "/actualites/2022-05-31-communication-democratie/"
-
-[[redirects]]
 from = "/passer-a-laction/reseau/yuna-orsini/index.html"
 to = "/personnes/yuna-orsini/"
 
@@ -701,6 +709,10 @@ to = "/personnes/daniela-penaranda/"
 [[redirects]]
 from = "/valeurs/qualite/index.html"
 to = "/engagements/qualite/"
+
+[[redirects]]
+from = "/actualites/2023-12-08-numerique-dinteret-general/index.html"
+to = "https://showcase.osuny.org/websites/5b500a04-660b-455a-baeb-615e2ecd17c5"
 
 [[redirects]]
 from = "/valeurs/communaute/index.html"
@@ -1035,6 +1047,10 @@ from = "/fonctionnalites/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
 
 [[redirects]]
+from = "/actualites/2022-07-06-l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/index.html"
+to = "https://showcase.osuny.org/websites/7cfe43ca-55cf-4b9f-af73-4186075a5034"
+
+[[redirects]]
 from = "/actualites/2023-08-16-revue-de-litterature-47/index.html"
 to = "https://commun.osuny.org/actualites/2023-08-16-revue-de-litterature-47/"
 
@@ -1065,6 +1081,14 @@ to = "https://showcase.osuny.org/websites/6fc782eb-601a-4f1f-a5fb-ec3c5f6eef98"
 [[redirects]]
 from = "/fonctionnalites/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
+
+[[redirects]]
+from = "/actualites/2022-06-21-lancement-du-site-classcode/index.html"
+to = "https://showcase.osuny.org/websites"
+
+[[redirects]]
+from = "/actualites/2022-04-05-african-futures-action-lab/index.html"
+to = "https://showcase.osuny.org/websites/b161445a-1b18-4e38-b131-3fdf62a5df3e"
 
 [[redirects]]
 from = "/personnes/categories/commoners/freelances/index.html"
@@ -1435,10 +1459,6 @@ from = "/culture/index.html"
 to = "/secteurs/culture/"
 
 [[redirects]]
-from = "/actualites/2022/06/21/lancement-du-site-classcode/index.html"
-to = "/actualites/2022-06-21-lancement-du-site-classcode/"
-
-[[redirects]]
 from = "/fonctionnalites-old/informations-techniques/reversibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/reversibilite/"
 
@@ -1517,10 +1537,6 @@ to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 [[redirects]]
 from = "/actualites/2022/10/11/osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/index.html"
 to = "/actualites/2022-10-11-osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/"
-
-[[redirects]]
-from = "/actualites/2022/07/06/l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/index.html"
-to = "/actualites/2022-07-06-l-iut-bordeaux-montaigne-se-dote-d-un-site-sobre-accessible-et-securise/"
 
 [[redirects]]
 from = "/actualites/2022/03/08/un-plan-pour-decarboner-les-universites-francaises/index.html"
