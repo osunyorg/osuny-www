@@ -27,8 +27,8 @@ from = "/actualites/2022-09-19-revue-de-litterature-du-19-septembre/index.html"
 to = "https://commun.osuny.org/actualites/2022-09-19-revue-de-litterature-du-19-septembre/"
 
 [[redirects]]
-from = "/actualites/2023-06-27-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/index.html"
-to = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
+from = "/actualites/2023-08-07-presentation-ouvrage-danne-bellon-cis-26-juin-2023/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-07-presentation-ouvrage-danne-bellon-cis-26-juin-2023/"
 
 [[redirects]]
 from = "/personnes/categories/comite/dev-front/index.html"
@@ -115,10 +115,6 @@ from = "/passer-a-laction/budgets/index.html"
 to = "/tarifs/"
 
 [[redirects]]
-from = "/actualites/2023-06-26-conference-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/index.html"
-to = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
-
-[[redirects]]
 from = "/organisations/categories/implication/organisations-contributrices/index.html"
 to = "/organisations/categories/implication/contribs-osuny/"
 
@@ -185,6 +181,10 @@ to = "/agenda/2024/assemblee-osuny-2/"
 [[redirects]]
 from = "/actualites/2023-06-19-revue-de-litterature-41/index.html"
 to = "https://commun.osuny.org/actualites/2023-06-19-revue-de-litterature-41/"
+
+[[redirects]]
+from = "/actualites/2024-03-25-les-transformations-du-mouvement-des-communs-numeriques-de-1990-a-nos-jours/index.html"
+to = "https://commun.osuny.org/actualites/2024-03-25-les-transformations-du-mouvement-des-communs-numeriques-de-1990-a-nos-jours/"
 
 [[redirects]]
 from = "/passer-a-laction/reseau/elodie-herisson/index.html"
@@ -259,16 +259,16 @@ from = "/passer-a-laction/reseau/pierre-andre-boissinot/actualites/index.html"
 to = "/personnes/pierre-andre-boissinot/actualites/"
 
 [[redirects]]
+from = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/index.html"
+to = "https://commun.osuny.org/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
+
+[[redirects]]
 from = "/actualites/2022/04/05/african-futures-action-lab/index.html"
 to = "/actualites/2022-04-05-african-futures-action-lab/"
 
 [[redirects]]
 from = "/actualites/2022-11-14-revue-de-litterature-19/index.html"
 to = "https://commun.osuny.org/actualites/2022-11-14-revue-de-litterature-19/"
-
-[[redirects]]
-from = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-/index.html"
-to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
 from = "/organisations/categories/mediation/index.html"
@@ -297,10 +297,6 @@ to = "/fonctionnalites-roadmap/administration/admissions/"
 [[redirects]]
 from = "/passer-a-laction/reseau/edouard-jourdain/index.html"
 to = "/personnes/edouard-jourdain/"
-
-[[redirects]]
-from = "/actualites/2023-06-27-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/index.html"
-to = "/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
 
 [[redirects]]
 from = "/organisations/categories/secteurs/associations/index.html"
@@ -343,6 +339,10 @@ from = "/fonctionnalites/design-system/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
+from = "/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/index.html"
+to = "https://commun.osuny.org/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/"
+
+[[redirects]]
 from = "/organisations/categories/region/ile-de-france/index.html"
 to = "/organisations/categories/lieu/france/ile-de-france/"
 
@@ -355,6 +355,14 @@ from = "/actualites/2022-09-12-revue-de-litterature-du-12-septembre/index.html"
 to = "https://commun.osuny.org/actualites/2022-09-12-revue-de-litterature-du-12-septembre/"
 
 [[redirects]]
+from = "/actualites/2024-03-10-les-communs-numeriques-et-leducation/index.html"
+to = "https://commun.osuny.org/actualites/2024-03-10-les-communs-numeriques-et-leducation/"
+
+[[redirects]]
+from = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/index.html"
+to = "https://commun.osuny.org/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
+
+[[redirects]]
 from = "/associatif/index.html"
 to = "/secteurs/associations/"
 
@@ -365,6 +373,10 @@ to = "/organisations/observatoire-de-la-decroissance-et-de-la-post-croissance-op
 [[redirects]]
 from = "/agenda/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
 to = "/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+
+[[redirects]]
+from = "/actualites/2023-08-08-retour-sur-la-conference-dialoguee-politiser-le-renoncement-en-presence-dalexandre-monnin/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-08-retour-sur-la-conference-dialoguee-politiser-le-renoncement-en-presence-dalexandre-monnin/"
 
 [[redirects]]
 from = "/actualites/2024-05-22-revue-de-litterature-80/index.html"
@@ -405,10 +417,6 @@ to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
 [[redirects]]
 from = "/agenda/2024-09-05-assemblee-osuny-10/index.html"
 to = "/agenda/2024/assemblee-osuny-10/"
-
-[[redirects]]
-from = "/actualites/2024-01-16-les-communs-essais-de-definitions/index.html"
-to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
 from = "/organisations/categories/secteur/public/index.html"
@@ -543,6 +551,10 @@ from = "/actualites/2023-08-17-echelles-et-gouvernance-des-communs/index.html"
 to = "https://commun.osuny.org/actualites/2023-08-17-echelles-et-gouvernance-des-communs-1/"
 
 [[redirects]]
+from = "/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/index.html"
+to = "https://commun.osuny.org/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
+
+[[redirects]]
 from = "/personnes/categories/implication/comites-osuny/infrastructure/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
@@ -555,8 +567,8 @@ from = "/organisations/categories/commoners/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
 
 [[redirects]]
-from = "/actualites/2023-08-03-retour-sur-le-seminaire-3s-soutenabilite-des-systemes-socio-techniques/index.html"
-to = "/actualites/2023-08-03-les-communs-une-alternative-pertinente-pour-aider-a-effectuer-nos-transitions-vers-des-societes-huma/"
+from = "/actualites/2024-03-25-faire-atterrir-les-communs-numeriques/index.html"
+to = "https://commun.osuny.org/actualites/2024-03-25-faire-atterrir-les-communs-numeriques/"
 
 [[redirects]]
 from = "/personnes/design/index.html"
@@ -637,6 +649,10 @@ to = "/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-coo
 [[redirects]]
 from = "/osuny-est-un-commun-numerique-dinteret-general/index.html"
 to = "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
+
+[[redirects]]
+from = "/actualites/2023-11-22-retour-sur-ledition-numerique-en-communs-a-lille/index.html"
+to = "https://commun.osuny.org/actualites/2023-11-22-retour-sur-ledition-numerique-en-communs-a-lille/"
 
 [[redirects]]
 from = "/actualites/2023-10-25-revue-de-litterature-57/index.html"
@@ -931,6 +947,10 @@ from = "/passer-a-laction/reseau/quentin-dufour/index.html"
 to = "/personnes/quentin-dufour/"
 
 [[redirects]]
+from = "/actualites/2023-06-19-retour-sur-le-seminaire-le-commun-comme-mode-de-production-au-cis-26-mai-2023/index.html"
+to = "https://commun.osuny.org/actualites/2023-06-19-retour-sur-le-seminaire-le-commun-comme-mode-de-production-au-cis-26-mai-2023/"
+
+[[redirects]]
 from = "/personnes/dev/index.html"
 to = "/personnes/categories/metiers/"
 
@@ -985,10 +1005,6 @@ to = "https://commun.osuny.org/actualites/2023-08-16-revue-de-litterature-47/"
 [[redirects]]
 from = "/actualites/2024-06-05-revue-de-litterature-82/index.html"
 to = "https://commun.osuny.org/actualites/2024-06-05-revue-de-litterature-82/"
-
-[[redirects]]
-from = "/actualites/2024-01-16-les-communs-essai-de-definition/index.html"
-to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
 from = "/fonctionnalites/communication/extranets/index.html"
@@ -1131,6 +1147,10 @@ from = "/fonctionnalites/design-system/grille/index.html"
 to = "/fonctionnalites/theme-osuny/blocs/"
 
 [[redirects]]
+from = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/index.html"
+to = "https://commun.osuny.org/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/"
+
+[[redirects]]
 from = "/fonctionnalites-old/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
@@ -1211,6 +1231,10 @@ from = "/fonctionnalites/theme-osuny/design-systeme/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
+from = "/actualites/2023-08-08-conference-dalexis-kauffmann-soutenir-le-developpement-des-communs-numeriques/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-08-conference-dalexis-kauffmann-soutenir-le-developpement-des-communs-numeriques/"
+
+[[redirects]]
 from = "/actualites/2023-02-27-revue-de-litterature-32/index.html"
 to = "https://commun.osuny.org/actualites/2023-02-27-revue-de-litterature-32/"
 
@@ -1257,14 +1281,6 @@ to = "/personnes/categories/implication/comites-osuny/comite-design/"
 [[redirects]]
 from = "/actualites/2023-04-20-revue-de-litterature-37/index.html"
 to = "https://commun.osuny.org/actualites/2023-04-20-revue-de-litterature-37/"
-
-[[redirects]]
-from = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelligente/index.html"
-to = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelli/"
-
-[[redirects]]
-from = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2023/index.html"
-to = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/"
 
 [[redirects]]
 from = "/actualites/2024-01-17-revue-de-litterature-66/index.html"
@@ -1511,6 +1527,10 @@ from = "/fonctionnalites-old/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
 [[redirects]]
+from = "/actualites/2024-01-23-les-communs-numeriques-1/index.html"
+to = "https://commun.osuny.org/actualites/2024-01-23-les-communs-numeriques-1/"
+
+[[redirects]]
 from = "/actualites/2022-10-17-revue-de-litterature-16/index.html"
 to = "https://commun.osuny.org/actualites/2022-10-17-revue-de-litterature-16/"
 
@@ -1529,6 +1549,10 @@ to = "/engagements/"
 [[redirects]]
 from = "/actualites/2022-11-28-revue-de-litterature-21/index.html"
 to = "https://commun.osuny.org/actualites/2022-11-28-revue-de-litterature-21/"
+
+[[redirects]]
+from = "/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelli/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-03-retour-sur-la-conference-conflictualites-sociales-et-environnementales-autour-de-lautomation-intelli/"
 
 [[redirects]]
 from = "/organisations/categories/secteur/index.html"
@@ -1583,6 +1607,10 @@ from = "/secteurs/culture-1/index.html"
 to = "/secteurs/creation/"
 
 [[redirects]]
+from = "/actualites/2023-08-03-les-communs-une-alternative-pertinente-pour-aider-a-effectuer-nos-transitions-vers-des-societes-huma/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-03-les-communs-une-alternative-pertinente-pour-aider-a-effectuer-nos-transitions-vers-des-societes-huma/"
+
+[[redirects]]
 from = "/espace-presse/sobriete-numerique-10-000-tonnes-equivalent-co2-par-an-evitables-dans-les-universites-francaises/index.html"
 to = "/espace-presse/cp2022/"
 
@@ -1599,10 +1627,6 @@ from = "/actualites/2022-12-28-revue-de-litterature-25/index.html"
 to = "https://commun.osuny.org/actualites/2022-12-28-revue-de-litterature-25/"
 
 [[redirects]]
-from = "/actualites/2026-05-04-les-communs-numeriques-1/index.html"
-to = "/actualites/2024-01-23-les-communs-numeriques-1/"
-
-[[redirects]]
 from = "/personnes/categories/implication/comites-osuny/ecoconception/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-ecoconception/"
 
@@ -1613,10 +1637,6 @@ to = "/personnes/mathieu-regnauld-de-la-soudiere/"
 [[redirects]]
 from = "/agenda/2024-04-04-assemblee-osuny-5/index.html"
 to = "/agenda/2024/assemblee-osuny-5/"
-
-[[redirects]]
-from = "/actualites/2024-01-16-les-communs-essai-de-definitions/index.html"
-to = "/actualites/2024-01-16-les-communs-definitions-et-courants-de-pensee-1/"
 
 [[redirects]]
 from = "/actualites/2023-11-29-revue-de-litterature-62/index.html"
