@@ -523,6 +523,10 @@ from = "/actualites/2022/08/30/les-communs-numeriques/index.html"
 to = "/actualites/2022-08-30-les-communs-numeriques/"
 
 [[redirects]]
+from = "/actualites/2023-01-16-vers-un-commun-numerique-avec-osuny-pourquoi-pour-quoi-faire/index.html"
+to = "https://commun.osuny.org/actualites/2023-01-16-vers-un-commun-numerique-avec-osuny-pourquoi-pour-quoi-faire/"
+
+[[redirects]]
 from = "/actualites/2022-12-19-revue-de-litterature-24/index.html"
 to = "https://commun.osuny.org/actualites/2022-12-19-revue-de-litterature-24/"
 
@@ -1063,6 +1067,10 @@ from = "/secteurs/associatif/index.html"
 to = "/secteurs/associations/"
 
 [[redirects]]
+from = "/actualites/2024-01-17-a11y-universites/index.html"
+to = "https://showcase.osuny.org/websites/3a2b9211-ef7d-47c1-aceb-b8d9c57c53eb"
+
+[[redirects]]
 from = "/usages/editeurs/index.html"
 to = "/profils/usageres/"
 
@@ -1221,6 +1229,10 @@ to = "https://commun.osuny.org/actualites/2024-05-15-revue-de-litterature-79/"
 [[redirects]]
 from = "/organisations/categories/secteur/publique/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/actualites/2021-10-06-hebergement-de-site-statique/index.html"
+to = "https://commun.osuny.org/actualites/2021-10-06-hebergement-de-site-statique/"
 
 [[redirects]]
 from = "/valeurs/souverainete/index.html"
@@ -1593,6 +1605,10 @@ to = "https://commun.osuny.org/actualites/2022-12-05-revue-de-litterature-22/"
 [[redirects]]
 from = "/actualites/2023-01-18-revue-de-litterature-28/index.html"
 to = "https://commun.osuny.org/actualites/2023-01-18-revue-de-litterature-28/"
+
+[[redirects]]
+from = "/actualites/2023-01-16-noesya-cooperative-de-developpement-web/index.html"
+to = "https://www.osuny.org/organisations/noesya/"
 
 [[redirects]]
 from = "/fonctionnalites/theme-osuny/schema-1/index.html"
