@@ -87,10 +87,6 @@ from = "/agenda/2023-02-23-retour-sur-le-comite-scientifique-1/index.html"
 to = "/agenda/2023/comite-scientifique-1/"
 
 [[redirects]]
-from = "/actualites/2022/07/18/revue-de-litterature-du-18-juillet/index.html"
-to = ""
-
-[[redirects]]
 from = "/recherche-1/index.html"
 to = "/secteurs/recherche/"
 
@@ -141,10 +137,6 @@ to = "/agenda/2022/presentation-dosuny-a-levenement-jinnov/"
 [[redirects]]
 from = "/personnes/categories/comites-osuny/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
-
-[[redirects]]
-from = "/actualites/2022/07/11/revue-de-litterature-du-11-juillet/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2023-03-22-revue-de-litterature-34/index.html"
@@ -287,10 +279,6 @@ from = "/passer-a-laction/reseau/pene-sophie/index.html"
 to = "/personnes/pene-sophie/"
 
 [[redirects]]
-from = "/actualites/2022/08/29/revue-de-litterature-du-29-aout/index.html"
-to = ""
-
-[[redirects]]
 from = "/fonctionnalites/theme-osuny/schemas-1/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
@@ -335,10 +323,6 @@ from = "/actualites/2023-12-20-revue-de-litterature-65/index.html"
 to = "https://commun.osuny.org/actualites/2023-12-20-revue-de-litterature-65/"
 
 [[redirects]]
-from = "/actualites/2022/10/03/14-revue-de-litterature-du-3-octobre/index.html"
-to = ""
-
-[[redirects]]
 from = "/passer-a-laction/reseau/samuel-attia/index.html"
 to = "/personnes/samuel-attia/"
 
@@ -357,10 +341,6 @@ to = "/profils/dev/"
 [[redirects]]
 from = "/fonctionnalites/design-system/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
-
-[[redirects]]
-from = "/actualites/2022/12/12/revue-de-litterature-23/index.html"
-to = ""
 
 [[redirects]]
 from = "/organisations/categories/region/ile-de-france/index.html"
@@ -389,10 +369,6 @@ to = "/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
 [[redirects]]
 from = "/actualites/2024-05-22-revue-de-litterature-80/index.html"
 to = "https://commun.osuny.org/actualites/2024-05-22-revue-de-litterature-80/"
-
-[[redirects]]
-from = "/actualites/2022/08/01/revue-de-litterature-du-1er-aout/index.html"
-to = ""
 
 [[redirects]]
 from = "/projets/index.html"
@@ -425,10 +401,6 @@ to = "/personnes/pierre-andre-boissinot/"
 [[redirects]]
 from = "/fonctionnalites-old/recherche/veille-scientifique/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
-
-[[redirects]]
-from = "/actualites/2022/10/10/revue-de-litterature-15/index.html"
-to = ""
 
 [[redirects]]
 from = "/agenda/2024-09-05-assemblee-osuny-10/index.html"
@@ -483,10 +455,6 @@ from = "/passer-a-laction/reseau/alexis-benoit/index.html"
 to = "/personnes/alexis-benoit/"
 
 [[redirects]]
-from = "/actualites/2022/09/05/revue-de-litterature-du-5-septembre/index.html"
-to = ""
-
-[[redirects]]
 from = "/fonctionnalites/administration/statistiques/index.html"
 to = "/fonctionnalites-roadmap/administration/statistiques/"
 
@@ -517,10 +485,6 @@ to = "/actualites/2025-01-07-accessibilite-conformite-a-100-pour-le-socle-front-
 [[redirects]]
 from = "/a11y/index.html"
 to = "/declaration-d-accessibilite/"
-
-[[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-80/index.html"
-to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/laurent-devernay/index.html"
@@ -559,10 +523,6 @@ from = "/actualites/2024-05-29-revue-de-litterature-81/index.html"
 to = "https://commun.osuny.org/actualites/2024-05-29-revue-de-litterature-81/"
 
 [[redirects]]
-from = "/actualites/2022/08/16/revue-de-litterature-du-16-aout/index.html"
-to = ""
-
-[[redirects]]
 from = "/actualites/2024-03-13-revue-de-litterature-74/index.html"
 to = "https://commun.osuny.org/actualites/2024-03-13-revue-de-litterature-74/"
 
@@ -595,20 +555,12 @@ from = "/actualites/2023-08-03-retour-sur-le-seminaire-3s-soutenabilite-des-syst
 to = "/actualites/2023-08-03-les-communs-une-alternative-pertinente-pour-aider-a-effectuer-nos-transitions-vers-des-societes-huma/"
 
 [[redirects]]
-from = "/actualites/2022/12/05/revue-de-litterature-22/index.html"
-to = ""
-
-[[redirects]]
 from = "/personnes/design/index.html"
 to = "/personnes/categories/metiers/design/"
 
 [[redirects]]
 from = "/actualites/2022/06/14/osuny-au-colloque-scientifique-digital-natives/index.html"
 to = "/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
-
-[[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-68/index.html"
-to = ""
 
 [[redirects]]
 from = "/personnes/categories/design/index.html"
@@ -637,10 +589,6 @@ to = "/secteurs/enseignement/"
 [[redirects]]
 from = "/fonctionnalites-roadmap/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
-
-[[redirects]]
-from = "/actualites/2022/08/22/revue-de-litterature-du-22-aout/index.html"
-to = ""
 
 [[redirects]]
 from = "/fonctionnalites/communication/index.html"
@@ -693,10 +641,6 @@ to = "https://commun.osuny.org/actualites/2023-10-25-revue-de-litterature-57/"
 [[redirects]]
 from = "/fonctionnalites-roadmap/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
-
-[[redirects]]
-from = "/actualites/2022/09/12/revue-de-litterature-du-12-septembre/index.html"
-to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/daniela-penaranda/index.html"
@@ -819,10 +763,6 @@ from = "/projets/2022-dico-du-climat-des-nations-unies/index.html"
 to = "/references/2022-nations-unies/"
 
 [[redirects]]
-from = "/actualites/2022/11/14/revue-de-litterature-19/index.html"
-to = ""
-
-[[redirects]]
 from = "/personnes/categories/comites/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
@@ -843,20 +783,12 @@ from = "/actualites/2023-07-04-revue-de-litterature-43/index.html"
 to = "https://commun.osuny.org/actualites/2023-07-04-revue-de-litterature-43/"
 
 [[redirects]]
-from = "/actualites/2022/09/26/revue-de-litterature-du-26-septembre/index.html"
-to = ""
-
-[[redirects]]
 from = "/actualites/2024-04-30-lapplication-osuny-presente-un-bon-niveau-de-securite/index.html"
 to = "/actualites/2024-04-30-l-application-osuny-presente-le-niveau-de-securite-bon/"
 
 [[redirects]]
 from = "/fonctionnalites/enseignement/offre-de-formation-1/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/offre-de-formation-1/"
-
-[[redirects]]
-from = "/actualites/2022/07/25/revue-de-litterature-du-25-juillet/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2023-09-11-revue-de-litterature-51/index.html"
@@ -943,10 +875,6 @@ from = "/fonctionnalites/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-79/index.html"
-to = ""
-
-[[redirects]]
 from = "/fonctionnalites/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
@@ -1007,10 +935,6 @@ from = "/fonctionnalites/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-87/index.html"
-to = ""
-
-[[redirects]]
 from = "/agenda/2023-12-07-reunion-mensuelle-communaute-osuny/index.html"
 to = "/agenda/2023/reunion-mensuelle-communaute-osuny/"
 
@@ -1025,10 +949,6 @@ to = "/personnes/sebastien-moulene/"
 [[redirects]]
 from = "/passer-a-laction/reseau/vincent-bachelet/index.html"
 to = "/personnes/vincent-bachelet/"
-
-[[redirects]]
-from = "/actualites/2022/12/28/revue-de-litterature-25/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2023-08-30-revue-de-litterature-49/index.html"
@@ -1053,10 +973,6 @@ to = "/projets/2023-re-akt/"
 [[redirects]]
 from = "/fonctionnalites/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
-
-[[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-67/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2023-08-16-revue-de-litterature-47/index.html"
@@ -1199,10 +1115,6 @@ from = "/actualites/2022/03/11/osuny-pegase/index.html"
 to = "/actualites/2022-03-11-osuny-pegase/"
 
 [[redirects]]
-from = "/actualites/2022/08/08/revue-de-litterature-du-8-aout/index.html"
-to = ""
-
-[[redirects]]
 from = "/actualites/2023-01-10-revue-de-litterature-27/index.html"
 to = "https://commun.osuny.org/actualites/2023-01-10-revue-de-litterature-27/"
 
@@ -1225,10 +1137,6 @@ to = "/agenda/2023/handicap-et-dispositifs-innovants/"
 [[redirects]]
 from = "/profils/editeurs/index.html"
 to = "/profils/usageres/"
-
-[[redirects]]
-from = "/actualites/2022/10/24/revue-de-litterature-17/index.html"
-to = ""
 
 [[redirects]]
 from = "/fonctionnalites-old/administration/alumni/index.html"
@@ -1327,10 +1235,6 @@ from = "/agenda/2025-01-09-assemblee-osuny-14/index.html"
 to = "/agenda/2025/assemblee-osuny-14/"
 
 [[redirects]]
-from = "/actualites/2022/12/19/revue-de-litterature-24/index.html"
-to = ""
-
-[[redirects]]
 from = "/actualites/2023-08-09-revue-de-litterature-46/index.html"
 to = "https://commun.osuny.org/actualites/2023-08-09-revue-de-litterature-46/"
 
@@ -1391,20 +1295,12 @@ from = "/agenda/2025-02-06-assemblee-osuny-15/index.html"
 to = "/agenda/2025/assemblee-osuny-15/"
 
 [[redirects]]
-from = "/actualites/2022/09/19/revue-de-litterature-du-19-septembre/index.html"
-to = ""
-
-[[redirects]]
 from = "/passer-a-laction/reseau/arnaud-levy/index.html"
 to = "/personnes/arnaud-levy/"
 
 [[redirects]]
 from = "/valeurs/liberte/index.html"
 to = "/engagements/liberte/"
-
-[[redirects]]
-from = "/actualites/2022/10/17/revue-de-litterature-16/index.html"
-to = ""
 
 [[redirects]]
 from = "/organisations/categories/localisation/nouvelle-aquitaine/index.html"
@@ -1511,14 +1407,6 @@ from = "/actualites/2022-07-18-revue-de-litterature-du-18-juillet/index.html"
 to = "https://commun.osuny.org/actualites/2022-07-18-revue-de-litterature-du-18-juillet/"
 
 [[redirects]]
-from = "/actualites/2022/07/04/revue-de-litterature-du-4-juillet/index.html"
-to = ""
-
-[[redirects]]
-from = "/actualites/2026-05-04-revue-de-litterature-81/index.html"
-to = ""
-
-[[redirects]]
 from = "/fonctionnalites-old/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
@@ -1545,10 +1433,6 @@ to = "https://commun.osuny.org/actualites/2023-02-06-revue-de-litterature-31/"
 [[redirects]]
 from = "/personnes/categories/implication/comites-osuny/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
-
-[[redirects]]
-from = "/actualites/2023-03-02-revue-de-litterature-32/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2022/10/11/osuny-est-referencee-au-socle-interministeriel-de-logiciels-libres/index.html"
@@ -1579,10 +1463,6 @@ from = "/organisations/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/actualites/2022/11/07/revue-de-litterature-18/index.html"
-to = ""
-
-[[redirects]]
 from = "/fonctionnalites/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
@@ -1601,10 +1481,6 @@ to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/
 [[redirects]]
 from = "/actualites/2024-06-24-revue-de-litterature-85/index.html"
 to = "https://commun.osuny.org/actualites/2024-06-24-revue-de-litterature-85/"
-
-[[redirects]]
-from = "/actualites/2023-01-26-revue-de-litterature-29/index.html"
-to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/vera-vidal/index.html"
@@ -1649,10 +1525,6 @@ to = "/organisations/categories/secteurs-organisation/"
 [[redirects]]
 from = "/usages/enseignement-1/index.html"
 to = "/secteurs/enseignement/"
-
-[[redirects]]
-from = "/actualites/2022/11/28/revue-de-litterature-21/index.html"
-to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/ben-robra/index.html"
@@ -1745,10 +1617,6 @@ to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 [[redirects]]
 from = "/fonctionnalites/recherche/equipe-de-recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/equipe-de-recherche/"
-
-[[redirects]]
-from = "/actualites/2022/11/21/revue-de-litterature-20/index.html"
-to = ""
 
 [[redirects]]
 from = "/actualites/2022-12-12-revue-de-litterature-23/index.html"
