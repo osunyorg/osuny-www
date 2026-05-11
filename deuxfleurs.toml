@@ -440,7 +440,7 @@ to = "https://commun.osuny.org/actualites/2023-06-26-revue-de-litterature-42/"
 
 [[redirects]]
 from = "/actualites/2022/06/28/lancement-officiel-dosuny/index.html"
-to = "/actualites/2022-06-28-lancement-officiel-dosuny/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-09-06-revue-de-litterature-50/index.html"
@@ -804,7 +804,7 @@ to = "/fonctionnalites-roadmap/informations-techniques/reversibilite/"
 
 [[redirects]]
 from = "/actualites/2022/03/21/notre-plan-de-decarbonation-est-liste-parmi-les-initiatives-des-shifters/index.html"
-to = ""
+to = "/actualites/2022-03-21-notre-plan-de-decarbonation-est-liste-parmi-les-initiatives-des-shifters/"
 
 [[redirects]]
 from = "/personnes/categories/comite/webmaster/index.html"
@@ -1605,6 +1605,10 @@ to = "/personnes/categories/metiers/"
 [[redirects]]
 from = "/actualites/2025-10-02-le-campus-de-la-transition-devoile-un-nouveau-site-concu-avec-osuny/index.html"
 to = "https://showcase.osuny.org/websites/45ac0f99-6dfc-4c8c-951a-2bce7b444a13"
+
+[[redirects]]
+from = "/actualites/2022-06-28-lancement-officiel-dosuny/index.html"
+to = "https://commun.osuny.org/actualites/2022-06-28-lancement-officiel-dosuny/"
 
 [[redirects]]
 from = "/personnes/categories/comites/accessibilite/index.html"
