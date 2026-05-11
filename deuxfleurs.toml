@@ -39,6 +39,14 @@ from = "/fonctionnalites/informations-techniques/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/"
 
 [[redirects]]
+from = "/agenda/2022/confiance-et-publics/index.html"
+to = "https://commun.osuny.org/agenda/2022/confiance-et-publics/"
+
+[[redirects]]
+from = "/agenda/2026/assemblee-osuny-25/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-25/"
+
+[[redirects]]
 from = "/quest-ce-quun-commun-numerique/index.html"
 to = "/gouvernance/osuny-est-un-commun-numerique-dinteret-general/"
 
@@ -71,6 +79,10 @@ from = "/passer-a-laction/reseau/soufiane-rouissi/index.html"
 to = "/personnes/soufiane-rouissi/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-11/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-11/"
+
+[[redirects]]
 from = "/actualites/2023-01-02-revue-de-litterature-26/index.html"
 to = "https://commun.osuny.org/actualites/2023-01-02-revue-de-litterature-26/"
 
@@ -88,7 +100,7 @@ to = "/personnes/categories/implication/makers/"
 
 [[redirects]]
 from = "/agenda/2023-02-23-retour-sur-le-comite-scientifique-1/index.html"
-to = "/agenda/2023/comite-scientifique-1/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-08-30-les-communs-numeriques/index.html"
@@ -112,7 +124,11 @@ to = "/organisations/categories/secteurs-organisation/enseignement/"
 
 [[redirects]]
 from = "/agenda/2025-04-03-assemblee-osuny-17/index.html"
-to = "/agenda/2025/assemblee-osuny-17/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2022/presentation-dosuny-a-levenement-jinnov/index.html"
+to = "https://commun.osuny.org/agenda/2022/presentation-dosuny-a-levenement-jinnov/"
 
 [[redirects]]
 from = "/fonctionnalites-roadmap/feedbacks-etudiants/index.html"
@@ -148,7 +164,7 @@ to = "/organisations/categories/lieu/"
 
 [[redirects]]
 from = "/agenda/2022-06-23-presentation-dosuny-a-levenement-jinnov/index.html"
-to = "/agenda/2022/presentation-dosuny-a-levenement-jinnov/"
+to = ""
 
 [[redirects]]
 from = "/personnes/categories/comites-osuny/index.html"
@@ -160,7 +176,7 @@ to = "https://commun.osuny.org/actualites/2023-03-22-revue-de-litterature-34/"
 
 [[redirects]]
 from = "/agenda/2025-03-06-assemblee-osuny-16/index.html"
-to = "/agenda/2025/assemblee-osuny-16/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites/offre-de-formation-1/index.html"
@@ -192,7 +208,7 @@ to = "/personnes/jade-vincent/"
 
 [[redirects]]
 from = "/agenda/2022-06-14-osuny-au-colloque-scientifique-digital-natives/index.html"
-to = "/agenda/2022/confiance-et-publics/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites-old/informations-techniques/infrastructure/index.html"
@@ -204,7 +220,7 @@ to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
 from = "/agenda/2024-01-04-assemblee-osuny-2/index.html"
-to = "/agenda/2024/assemblee-osuny-2/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-06-19-revue-de-litterature-41/index.html"
@@ -227,6 +243,10 @@ from = "/actualites/2022-08-08-revue-de-litterature-du-8-aout/index.html"
 to = "https://commun.osuny.org/actualites/2022-08-08-revue-de-litterature-du-8-aout/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-2/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-2/"
+
+[[redirects]]
 from = "/agenda/2024-11-27-communs-numerique-et-interet-general/index.html"
 to = "/agenda/2024/communs-numerique-et-interet-general/"
 
@@ -244,7 +264,11 @@ to = "https://commun.osuny.org/actualites/2023-11-22-revue-de-litterature-61/"
 
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-20-1/index.html"
-to = "/agenda/2025/assemblee-osuny-21/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2024/assemblee-osuny-7/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-7/"
 
 [[redirects]]
 from = "/organisations/ile-de-france/index.html"
@@ -260,7 +284,7 @@ to = "/references/2022-nations-unies/"
 
 [[redirects]]
 from = "/agenda/2025-05-02-assemblee-osuny-18/index.html"
-to = "/agenda/2025/assemblee-osuny-18/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-09-26-revue-de-litterature-du-26-septembre/index.html"
@@ -312,7 +336,7 @@ to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
 from = "/agenda/2022-06-28-lancement-officiel-dosuny/index.html"
-to = "/agenda/2022/lancement-officiel-dosuny/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-08-16-revue-de-litterature-du-16-aout/index.html"
@@ -349,6 +373,10 @@ to = "/personnes/categories/implication/comites-osuny/dev-back/"
 [[redirects]]
 from = "/actualites/2022-11-21-noesya-produit-le-site-web-du-dictionnaire-du-climat-pour-les-nations-unies/index.html"
 to = "https://showcase.osuny.org/websites/841786c2-d279-4f01-9563-cd6a1cc82432"
+
+[[redirects]]
+from = "/agenda/2024/assemblee-osuny-4/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-4/"
 
 [[redirects]]
 from = "/enseignement-1/index.html"
@@ -392,7 +420,7 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
 from = "/agenda/2024-05-02-assemblee-osuny-6/index.html"
-to = "/agenda/2024/assemblee-osuny-6/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-09-12-revue-de-litterature-du-12-septembre/index.html"
@@ -420,7 +448,7 @@ to = "/organisations/observatoire-de-la-decroissance-et-de-la-post-croissance-op
 
 [[redirects]]
 from = "/agenda/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
-to = "/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-08-08-retour-sur-la-conference-dialoguee-politiser-le-renoncement-en-presence-dalexandre-monnin/index.html"
@@ -429,6 +457,10 @@ to = "https://commun.osuny.org/actualites/2023-08-08-retour-sur-la-conference-di
 [[redirects]]
 from = "/actualites/2024-05-22-revue-de-litterature-80/index.html"
 to = "https://commun.osuny.org/actualites/2024-05-22-revue-de-litterature-80/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-18/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-18/"
 
 [[redirects]]
 from = "/projets/index.html"
@@ -464,7 +496,7 @@ to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
 
 [[redirects]]
 from = "/agenda/2024-09-05-assemblee-osuny-10/index.html"
-to = "/agenda/2024/assemblee-osuny-10/"
+to = ""
 
 [[redirects]]
 from = "/organisations/categories/secteur/public/index.html"
@@ -511,8 +543,16 @@ from = "/personnes/categories/comite/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
 [[redirects]]
+from = "/agenda/2026/assemblee-osuny-26/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-26/"
+
+[[redirects]]
 from = "/passer-a-laction/reseau/alexis-benoit/index.html"
 to = "/personnes/alexis-benoit/"
+
+[[redirects]]
+from = "/agenda/2024/assemblee-osuny-3/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-3/"
 
 [[redirects]]
 from = "/fonctionnalites/administration/statistiques/index.html"
@@ -596,11 +636,11 @@ to = "https://showcase.osuny.org/websites/21127503-0edc-45d8-9095-0995548df6e1"
 
 [[redirects]]
 from = "/agenda/2024-06-06-assemblee-osuny-7/index.html"
-to = "/agenda/2024/assemblee-osuny-7/"
+to = ""
 
 [[redirects]]
 from = "/agenda/2024-07-04-assemblee-osuny-8/index.html"
-to = "/agenda/2024/assemblee-osuny-8/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-12-13-revue-de-litterature-64/index.html"
@@ -615,6 +655,10 @@ from = "/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le
 to = "https://commun.osuny.org/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
 
 [[redirects]]
+from = "/agenda/2023/table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/index.html"
+to = "https://commun.osuny.org/agenda/2023/table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/"
+
+[[redirects]]
 from = "/actualites/2023-12-08-conviviel/index.html"
 to = "https://showcase.osuny.org/websites/62b7e675-0784-4227-9d1e-87daaf99f016"
 
@@ -623,12 +667,24 @@ from = "/personnes/categories/implication/comites-osuny/infrastructure/index.htm
 to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
+from = "/agenda/2025/assemblee-osuny-22/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-22/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-23/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-23/"
+
+[[redirects]]
 from = "/fonctionnalites-old/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
 from = "/organisations/categories/commoners/index.html"
 to = "/organisations/categories/implication/soutiens-osuny/"
+
+[[redirects]]
+from = "/agenda/2023/reunion-mensuelle-communaute-osuny/index.html"
+to = "https://commun.osuny.org/agenda/2023/reunion-mensuelle-communaute-osuny/"
 
 [[redirects]]
 from = "/actualites/2024-03-25-faire-atterrir-les-communs-numeriques/index.html"
@@ -708,7 +764,7 @@ to = "/personnes/categories/metiers/developpement/"
 
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-20-1-1/index.html"
-to = "/agenda/2025/assemblee-osuny-22/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022/09/21/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
@@ -776,11 +832,11 @@ to = "/engagements/sobriete/"
 
 [[redirects]]
 from = "/agenda/2023-02-23-comite-scientifique-1/index.html"
-to = "/agenda/2023/comite-scientifique-1/"
+to = ""
 
 [[redirects]]
 from = "/agenda/2024-02-01-assemblee-osuny-3/index.html"
-to = "/agenda/2024/assemblee-osuny-3/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites/design-system/typos/index.html"
@@ -792,7 +848,7 @@ to = "/personnes/categories/metiers/developpement-front/"
 
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-20-1-1-1/index.html"
-to = "/agenda/2025/assemblee-osuny-23/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2024-03-06-revue-de-litterature-73/index.html"
@@ -896,7 +952,7 @@ to = "https://commun.osuny.org/actualites/2023-09-11-revue-de-litterature-51/"
 
 [[redirects]]
 from = "/agenda/2024-08-01-assemblee-osuny-9/index.html"
-to = "/agenda/2024/assemblee-osuny-9/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites-roadmap/theme-osuny/schema-systeme-de-design/index.html"
@@ -911,12 +967,16 @@ from = "/actualites/2022/06/23/presentation-dosuny-a-levenement-jinnov/index.htm
 to = ""
 
 [[redirects]]
+from = "/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
+to = "https://commun.osuny.org/agenda/2022/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+
+[[redirects]]
 from = "/fonctionnalites-old/communication/extranets/index.html"
 to = "/fonctionnalites-roadmap/communication/extranets/"
 
 [[redirects]]
 from = "/agenda/2024-12-05-assemblee-osuny-13/index.html"
-to = "/agenda/2024/assemblee-osuny-13/"
+to = ""
 
 [[redirects]]
 from = "/passer-a-laction/tarifs/index.html"
@@ -932,7 +992,7 @@ to = "/actualites/2022-03-01-osuny-est-referencee-au-catalogue-gouvtech/"
 
 [[redirects]]
 from = "/agenda/2023-06-01-network-study-on-digital-commons/index.html"
-to = "/agenda/2023/network-study-on-digital-commons/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites-roadmap/informations-techniques/schema/index.html"
@@ -944,7 +1004,11 @@ to = "https://commun.osuny.org/actualites/2024-03-20-revue-de-litterature-75/"
 
 [[redirects]]
 from = "/agenda/2025-01-02-assemblee-osuny-14/index.html"
-to = "/agenda/2025/assemblee-osuny-14/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2026/assemblee-osuny-27/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-27/"
 
 [[redirects]]
 from = "/actualites/2023-04-05-revue-de-litterature-36/index.html"
@@ -1035,12 +1099,16 @@ from = "/personnes/dev/index.html"
 to = "/personnes/categories/metiers/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-8/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-8/"
+
+[[redirects]]
 from = "/fonctionnalites/recherche/revues-scientifiques/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/"
 
 [[redirects]]
 from = "/agenda/2023-12-07-reunion-mensuelle-communaute-osuny/index.html"
-to = "/agenda/2023/reunion-mensuelle-communaute-osuny/"
+to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/corinne-vercher-chaptal/index.html"
@@ -1060,7 +1128,7 @@ to = "https://commun.osuny.org/actualites/2023-08-30-revue-de-litterature-49/"
 
 [[redirects]]
 from = "/agenda/2025-06-05-assemblee-osuny-19/index.html"
-to = "/agenda/2025/assemblee-osuny-19/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-08-02-revue-de-litterature-45/index.html"
@@ -1123,8 +1191,16 @@ from = "/fonctionnalites/ressources-educatives-libres/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/ressources-educatives-libres/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-10/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-10/"
+
+[[redirects]]
 from = "/actualites/2022-06-21-lancement-du-site-classcode/index.html"
 to = "https://showcase.osuny.org/websites"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-21/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-21/"
 
 [[redirects]]
 from = "/actualites/2022-04-05-african-futures-action-lab/index.html"
@@ -1141,6 +1217,10 @@ to = "/personnes/categories/implication/freelances/"
 [[redirects]]
 from = "/actualites/2023-10-16-revue-de-litterature-56/index.html"
 to = "https://commun.osuny.org/actualites/2023-10-16-revue-de-litterature-56/"
+
+[[redirects]]
+from = "/agenda/2026/assemblee-osuny-28/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-28/"
 
 [[redirects]]
 from = "/actualites/2024-01-31-revue-de-litterature-68/index.html"
@@ -1187,6 +1267,14 @@ from = "/fonctionnalites/theme-osuny/index.html"
 to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
+from = "/agenda/2026/assemblee-osuny-29/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-29/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-20/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-20/"
+
+[[redirects]]
 from = "/actualites/2023-09-21-revue-de-litterature-52/index.html"
 to = "https://commun.osuny.org/actualites/2023-09-21-revue-de-litterature-52/"
 
@@ -1221,6 +1309,10 @@ to = "/organisations/categories/implication/agences-osuny/"
 [[redirects]]
 from = "/organisations/categories/secteurs/mediation/index.html"
 to = "/organisations/categories/secteurs-organisation/mediation/"
+
+[[redirects]]
+from = "/agenda/2024/assemblee-osuny-9/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-9/"
 
 [[redirects]]
 from = "/actualites/2022-11-07-revue-de-litterature-18/index.html"
@@ -1276,7 +1368,7 @@ to = "https://commun.osuny.org/actualites/2022-06-14-osuny-au-colloque-scientifi
 
 [[redirects]]
 from = "/agenda/2023-05-15-handicap-et-dispositifs-innovants/index.html"
-to = "/agenda/2023/handicap-et-dispositifs-innovants/"
+to = ""
 
 [[redirects]]
 from = "/profils/editeurs/index.html"
@@ -1307,12 +1399,16 @@ from = "/fonctionnalites-old/communication/lettres-dinformation/index.html"
 to = "/fonctionnalites-roadmap/communication/lettres-dinformation/"
 
 [[redirects]]
+from = "/agenda/2023/network-study-on-digital-commons/index.html"
+to = "https://commun.osuny.org/agenda/2023/network-study-on-digital-commons/"
+
+[[redirects]]
 from = "/actualites/2022/05/11/osuny-unsplash/index.html"
 to = "/actualites/2022-05-11-osuny-unsplash/"
 
 [[redirects]]
 from = "/agenda/2024-11-07-assemblee-osuny-12/index.html"
-to = "/agenda/2024/assemblee-osuny-12/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-08-16-retour-sur-le-17e-congres-du-riodd-communs-communautes-territoires-quelles-voies-pour-les-transitions/index.html"
@@ -1336,7 +1432,7 @@ to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
 [[redirects]]
 from = "/agenda/2025-07-03-assemblee-osuny-20/index.html"
-to = "/agenda/2025/assemblee-osuny-20/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-08-30-les-communs-definitions-et-courants-de-pensee/index.html"
@@ -1408,7 +1504,11 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 
 [[redirects]]
 from = "/agenda/2025-01-09-assemblee-osuny-14/index.html"
-to = "/agenda/2025/assemblee-osuny-14/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-15/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-15/"
 
 [[redirects]]
 from = "/actualites/2023-08-09-revue-de-litterature-46/index.html"
@@ -1427,6 +1527,10 @@ from = "/actualites/2023-04-20-revue-de-litterature-37/index.html"
 to = "https://commun.osuny.org/actualites/2023-04-20-revue-de-litterature-37/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-13/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-13/"
+
+[[redirects]]
 from = "/actualites/2024-01-17-revue-de-litterature-66/index.html"
 to = "https://commun.osuny.org/actualites/2024-01-17-revue-de-litterature-66/"
 
@@ -1439,8 +1543,16 @@ from = "/actualites/2023-03-30-revue-de-litterature-35/index.html"
 to = "https://commun.osuny.org/actualites/2023-03-30-revue-de-litterature-35/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-5/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-5/"
+
+[[redirects]]
 from = "/agenda/2023-06-16-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/index.html"
-to = "/agenda/2023/table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable/"
+to = ""
+
+[[redirects]]
+from = "/agenda/2024/assemblee-osuny-12/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-12/"
 
 [[redirects]]
 from = "/actualites/2024-07-03-revue-de-litterature-86/index.html"
@@ -1460,11 +1572,15 @@ to = "/personnes/arnaud-levy/actualites/"
 
 [[redirects]]
 from = "/agenda/2025-02-06-assemblee-osuny-15/index.html"
-to = "/agenda/2025/assemblee-osuny-15/"
+to = ""
 
 [[redirects]]
 from = "/passer-a-laction/reseau/arnaud-levy/index.html"
 to = "/personnes/arnaud-levy/"
+
+[[redirects]]
+from = "/agenda/2023/handicap-et-dispositifs-innovants/index.html"
+to = "https://commun.osuny.org/agenda/2023/handicap-et-dispositifs-innovants/"
 
 [[redirects]]
 from = "/valeurs/liberte/index.html"
@@ -1484,7 +1600,7 @@ to = "https://commun.osuny.org/comites/comite-scientifique/"
 
 [[redirects]]
 from = "/agenda/2024-03-07-assemblee-osuny-4/index.html"
-to = "/agenda/2024/assemblee-osuny-4/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites-old/communication/sites-web/comparatif/index.html"
@@ -1551,6 +1667,10 @@ from = "/actualites/2023-11-29-site-de-la-fondation-jacques-rougerie/index.html"
 to = "https://showcase.osuny.org/websites/f033833a-3aa1-4070-82d7-ddda98b96964"
 
 [[redirects]]
+from = "/agenda/2025/assemblee-osuny-25/index.html"
+to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-25/"
+
+[[redirects]]
 from = "/actualites/2024-03-25-revue-de-litterature-76/index.html"
 to = "https://commun.osuny.org/actualites/2024-03-25-revue-de-litterature-76/"
 
@@ -1583,12 +1703,24 @@ from = "/actualites/2022-07-18-revue-de-litterature-du-18-juillet/index.html"
 to = "https://commun.osuny.org/actualites/2022-07-18-revue-de-litterature-du-18-juillet/"
 
 [[redirects]]
+from = "/agenda/2025/assemblee-osuny-24/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-24/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-16/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-16/"
+
+[[redirects]]
 from = "/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/index.html"
 to = "https://commun.osuny.org/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/"
 
 [[redirects]]
 from = "/fonctionnalites-old/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-14/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-14/"
 
 [[redirects]]
 from = "/usages/dev/index.html"
@@ -1619,6 +1751,10 @@ from = "/actualites/2023-02-06-revue-de-litterature-31/index.html"
 to = "https://commun.osuny.org/actualites/2023-02-06-revue-de-litterature-31/"
 
 [[redirects]]
+from = "/agenda/2024/assemblee-osuny-6/index.html"
+to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-6/"
+
+[[redirects]]
 from = "/personnes/categories/implication/comites-osuny/scientifique/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-scientifique/"
 
@@ -1636,7 +1772,7 @@ to = "/fonctionnalites-roadmap/administration/statistiques/"
 
 [[redirects]]
 from = "/agenda/2024-10-03-assemblee-osuny-11/index.html"
-to = "/agenda/2024/assemblee-osuny-11/"
+to = ""
 
 [[redirects]]
 from = "/organisations/classcode/index.html"
@@ -1673,6 +1809,10 @@ to = "https://chroniques.osuny.org/faits/2023-06-27-lediteur-de-contenu-vient-de
 [[redirects]]
 from = "/passer-a-laction/reseau/vera-vidal/index.html"
 to = "/personnes/vera-vidal/"
+
+[[redirects]]
+from = "/agenda/2023/comite-scientifique-1/index.html"
+to = "https://commun.osuny.org/agenda/2023/comite-scientifique-1-1/"
 
 [[redirects]]
 from = "/fonctionnalites-old/theme-osuny/index.html"
@@ -1731,8 +1871,16 @@ from = "/organisations/categories/secteur/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
+from = "/agenda/2025/assemblee-osuny-19/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-19/"
+
+[[redirects]]
 from = "/passer-a-laction/reseau/virgile-leclercq/index.html"
 to = "/personnes/virgile-leclercq/"
+
+[[redirects]]
+from = "/agenda/2025/assemblee-osuny-17/index.html"
+to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-17/"
 
 [[redirects]]
 from = "/fonctionnalites/feedbacks-etudiants/index.html"
@@ -1776,7 +1924,7 @@ to = "/espace-presse/cp2022/"
 
 [[redirects]]
 from = "/agenda/2022-06-14-confiance-et-publics/index.html"
-to = "/agenda/2022/confiance-et-publics/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
@@ -1791,6 +1939,10 @@ from = "/actualites/2022-12-28-revue-de-litterature-25/index.html"
 to = "https://commun.osuny.org/actualites/2022-12-28-revue-de-litterature-25/"
 
 [[redirects]]
+from = "/agenda/2022/lancement-officiel-dosuny/index.html"
+to = "https://commun.osuny.org/agenda/2022/lancement-officiel-dosuny/"
+
+[[redirects]]
 from = "/personnes/categories/implication/comites-osuny/ecoconception/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-ecoconception/"
 
@@ -1800,7 +1952,7 @@ to = "/personnes/mathieu-regnauld-de-la-soudiere/"
 
 [[redirects]]
 from = "/agenda/2024-04-04-assemblee-osuny-5/index.html"
-to = "/agenda/2024/assemblee-osuny-5/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-11-29-revue-de-litterature-62/index.html"
