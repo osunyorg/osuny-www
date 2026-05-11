@@ -91,6 +91,10 @@ from = "/recherche-1/index.html"
 to = "/secteurs/recherche/"
 
 [[redirects]]
+from = "/actualites/2024-01-17-elodie-chardon/index.html"
+to = "https://showcase.osuny.org/websites"
+
+[[redirects]]
 from = "/actualites/2022-09-05-revue-de-litterature-du-5-septembre/index.html"
 to = "https://commun.osuny.org/actualites/2022-09-05-revue-de-litterature-du-5-septembre/"
 
@@ -277,6 +281,10 @@ to = "/organisations/categories/secteurs-organisation/mediation/"
 [[redirects]]
 from = "/passer-a-laction/reseau/pene-sophie/index.html"
 to = "/personnes/pene-sophie/"
+
+[[redirects]]
+from = "/actualites/2023-11-29-site-de-lobservatoire-de-la-post-croissance-et-de-la-decroissance-opcd/index.html"
+to = "https://showcase.osuny.org/websites/aac08387-8b8b-4dcc-8c30-e543bea5e2bd"
 
 [[redirects]]
 from = "/fonctionnalites/theme-osuny/schemas-1/index.html"
@@ -539,6 +547,10 @@ from = "/actualites/2024-03-13-revue-de-litterature-74/index.html"
 to = "https://commun.osuny.org/actualites/2024-03-13-revue-de-litterature-74/"
 
 [[redirects]]
+from = "/actualites/2023-11-29-site-du-festival-alt-shift/index.html"
+to = "https://showcase.osuny.org/websites/21127503-0edc-45d8-9095-0995548df6e1"
+
+[[redirects]]
 from = "/agenda/2024-06-06-assemblee-osuny-7/index.html"
 to = "/agenda/2024/assemblee-osuny-7/"
 
@@ -557,6 +569,10 @@ to = "https://commun.osuny.org/actualites/2023-08-17-echelles-et-gouvernance-des
 [[redirects]]
 from = "/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/index.html"
 to = "https://commun.osuny.org/actualites/2023-06-23-retour-sur-le-colloque-international-gouverner-le-numerique-dans-un-monde-en-transition/"
+
+[[redirects]]
+from = "/actualites/2023-12-08-conviviel/index.html"
+to = "https://showcase.osuny.org/websites/62b7e675-0784-4227-9d1e-87daaf99f016"
 
 [[redirects]]
 from = "/personnes/categories/implication/comites-osuny/infrastructure/index.html"
@@ -1415,6 +1431,10 @@ from = "/passer-a-laction/reseau/geoffrey-dorne/index.html"
 to = "/personnes/geoffrey-dorne/"
 
 [[redirects]]
+from = "/actualites/2023-11-29-site-de-la-fondation-jacques-rougerie/index.html"
+to = "https://showcase.osuny.org/websites/f033833a-3aa1-4070-82d7-ddda98b96964"
+
+[[redirects]]
 from = "/actualites/2024-03-25-revue-de-litterature-76/index.html"
 to = "https://commun.osuny.org/actualites/2024-03-25-revue-de-litterature-76/"
 
@@ -1665,6 +1685,10 @@ to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 [[redirects]]
 from = "/fonctionnalites/recherche/equipe-de-recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/equipe-de-recherche/"
+
+[[redirects]]
+from = "/actualites/2023-12-08-re-akt/index.html"
+to = "https://showcase.osuny.org/websites/cab98b0b-5bca-4a1c-bd31-c3828934b80e"
 
 [[redirects]]
 from = "/actualites/2022-12-12-revue-de-litterature-23/index.html"
