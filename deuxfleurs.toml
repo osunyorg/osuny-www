@@ -248,7 +248,7 @@ to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-2/"
 
 [[redirects]]
 from = "/agenda/2024-11-27-communs-numerique-et-interet-general/index.html"
-to = "/agenda/2024/communs-numerique-et-interet-general/"
+to = ""
 
 [[redirects]]
 from = "/organisations/categories/ile-de-france/index.html"
@@ -689,6 +689,10 @@ to = "/organisations/categories/implication/soutiens-osuny/"
 [[redirects]]
 from = "/agenda/2023/reunion-mensuelle-communaute-osuny/index.html"
 to = "https://commun.osuny.org/agenda/2023/reunion-mensuelle-communaute-osuny/"
+
+[[redirects]]
+from = "/gouvernance/comite-scientifique/index.html"
+to = "https://commun.osuny.org/comites/comite-scientifique/"
 
 [[redirects]]
 from = "/actualites/2024-03-25-faire-atterrir-les-communs-numeriques/index.html"
@@ -1359,6 +1363,10 @@ from = "/actualites/2022/03/11/osuny-pegase/index.html"
 to = "/actualites/2022-03-11-osuny-pegase/"
 
 [[redirects]]
+from = "/agenda/assemblees-osuny/index.html"
+to = "https://commun.osuny.org/agenda/assemblees-osuny/"
+
+[[redirects]]
 from = "/actualites/2023-06-15-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable-16-juin-2023/index.html"
 to = "https://commun.osuny.org/actualites/2023-06-15-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable-16-juin-2023/"
 
@@ -1859,6 +1867,10 @@ from = "/actualites/2024-01-23-les-communs-numeriques-1/index.html"
 to = "https://commun.osuny.org/actualites/2024-01-23-les-communs-numeriques-1/"
 
 [[redirects]]
+from = "/agenda/comites-scientifiques/index.html"
+to = "https://commun.osuny.org/agenda/comites-scientifiques/"
+
+[[redirects]]
 from = "/actualites/2022-10-17-revue-de-litterature-16/index.html"
 to = "https://commun.osuny.org/actualites/2022-10-17-revue-de-litterature-16/"
 
@@ -1985,6 +1997,10 @@ to = "/personnes/mathieu-regnauld-de-la-soudiere/"
 [[redirects]]
 from = "/agenda/2024-04-04-assemblee-osuny-5/index.html"
 to = ""
+
+[[redirects]]
+from = "/agenda/2024/communs-numerique-et-interet-general/index.html"
+to = "https://commun.osuny.org/agenda/2024/communs-numerique-et-interet-general/"
 
 [[redirects]]
 from = "/actualites/2023-11-29-revue-de-litterature-62/index.html"
