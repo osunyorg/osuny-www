@@ -9,7 +9,6 @@ allowed_domains:
   - "vimeo.com"
   - "player.vimeo.com"
   - "vumbnail.com"
-  - "peertube.designersethiques.org"
   - "youtube.com"
   - "www.youtube.com"
   - "img.youtube.com"
