@@ -67,10 +67,6 @@ from = "/actualites/2022/08/30/les-communs-definitions-et-courants-de-pensee/ind
 to = ""
 
 [[redirects]]
-from = "/agenda/2023-11-09-comite-scientifique-2/index.html"
-to = "/agenda/2023/comite-scientifique-2/"
-
-[[redirects]]
 from = "/actualites/2023-07-12-revue-de-litterature-44/index.html"
 to = "https://commun.osuny.org/actualites/2023-07-12-revue-de-litterature-44/"
 
@@ -157,6 +153,10 @@ to = "/secteurs/enseignement/"
 [[redirects]]
 from = "/actualites/2023-12-08-futurs/index.html"
 to = "https://showcase.osuny.org/websites/375f7ee4-2ced-4101-a72d-69e8b7484337"
+
+[[redirects]]
+from = "/agenda/2023/comite-scientifique-2/index.html"
+to = "https://commun.osuny.org/agenda/2023/comite-scientifique-2/"
 
 [[redirects]]
 from = "/organisations/categories/region/index.html"
@@ -795,6 +795,10 @@ from = "/passer-a-laction/reseau/daniela-penaranda/index.html"
 to = "/personnes/daniela-penaranda/"
 
 [[redirects]]
+from = "/agenda/2026/comite-scientifique-4/index.html"
+to = "https://commun.osuny.org/agenda/2026/comite-scientifique-4/"
+
+[[redirects]]
 from = "/valeurs/qualite/index.html"
 to = "/engagements/qualite/"
 
@@ -1197,6 +1201,10 @@ to = "/fonctionnalites-roadmap/informations-techniques/"
 [[redirects]]
 from = "/actualites/2023-11-29-bonnes-notes/index.html"
 to = "https://showcase.osuny.org/websites/6fc782eb-601a-4f1f-a5fb-ec3c5f6eef98"
+
+[[redirects]]
+from = "/agenda/2025/comite-scientifique-3/index.html"
+to = "https://commun.osuny.org/agenda/2025/comite-scientifique-3/"
 
 [[redirects]]
 from = "/fonctionnalites/ressources-educatives-libres/index.html"
@@ -1647,10 +1655,6 @@ from = "/fonctionnalites/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
-from = "/agenda/2023-11-09-retour-sur-le-comite-scientifique-2/index.html"
-to = "/agenda/2023/comite-scientifique-2/"
-
-[[redirects]]
 from = "/actualites/2023-10-04-revue-de-litterature-54/index.html"
 to = "https://commun.osuny.org/actualites/2023-10-04-revue-de-litterature-54/"
 
@@ -1699,16 +1703,16 @@ from = "/personnes/categories/comites/ecoconception/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-ecoconception/"
 
 [[redirects]]
+from = "/agenda/2027/assemblee-osuny-37-1/index.html"
+to = "https://commun.osuny.org/agenda/2027/assemblee-osuny-37-1/"
+
+[[redirects]]
 from = "/fonctionnalites-old/informations-techniques/retrocompatibilite/index.html"
 to = "/fonctionnalites-roadmap/informations-techniques/retrocompatibilite/"
 
 [[redirects]]
 from = "/organisations/categories/region/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
-
-[[redirects]]
-from = "/agenda/2025-01-23-comite-scientifique-3/index.html"
-to = "/agenda/2025/comite-scientifique-3/"
 
 [[redirects]]
 from = "/fonctionnalites-old/offre-de-formation-1/index.html"
