@@ -56,7 +56,7 @@ to = "https://www.osuny.org/agenda/2024/assemblee-osuny-4/"
 
 [[redirects]]
 from = "/actualites/2022/08/30/les-communs-definitions-et-courants-de-pensee/index.html"
-to = "/actualites/2022-08-30-les-communs-definitions-et-courants-de-pensee/"
+to = ""
 
 [[redirects]]
 from = "/agenda/2023-11-09-comite-scientifique-2/index.html"
@@ -89,6 +89,10 @@ to = "/personnes/categories/implication/makers/"
 [[redirects]]
 from = "/agenda/2023-02-23-retour-sur-le-comite-scientifique-1/index.html"
 to = "/agenda/2023/comite-scientifique-1/"
+
+[[redirects]]
+from = "/actualites/2022-08-30-les-communs-numeriques/index.html"
+to = "https://commun.osuny.org/actualites/2022-08-30-les-communs-numeriques-2/"
 
 [[redirects]]
 from = "/recherche-1/index.html"
@@ -403,6 +407,10 @@ from = "/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europ
 to = "https://commun.osuny.org/actualites/2023-06-26-communs-numeriques-vers-un-modele-numerique-europeen-souverain-et-durable/"
 
 [[redirects]]
+from = "/actualites/2026-05-11-lediteur-de-contenu-vient-de-sameliorer/index.html"
+to = "/actualites/2023-06-27-lediteur-de-contenu-vient-de-sameliorer/"
+
+[[redirects]]
 from = "/associatif/index.html"
 to = "/secteurs/associations/"
 
@@ -564,7 +572,7 @@ to = "/references/2025-city-orchestra/"
 
 [[redirects]]
 from = "/actualites/2022/08/30/les-communs-numeriques/index.html"
-to = "/actualites/2022-08-30-les-communs-numeriques/"
+to = ""
 
 [[redirects]]
 from = "/actualites/2023-01-16-vers-un-commun-numerique-avec-osuny-pourquoi-pour-quoi-faire/index.html"
@@ -636,7 +644,7 @@ to = "/personnes/categories/metiers/design/"
 
 [[redirects]]
 from = "/actualites/2022/06/14/osuny-au-colloque-scientifique-digital-natives/index.html"
-to = "/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
+to = ""
 
 [[redirects]]
 from = "/personnes/categories/design/index.html"
@@ -704,7 +712,7 @@ to = "/agenda/2025/assemblee-osuny-22/"
 
 [[redirects]]
 from = "/actualites/2022/09/21/osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
-to = "/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
+to = ""
 
 [[redirects]]
 from = "/osuny-est-un-commun-numerique-dinteret-general/index.html"
@@ -900,7 +908,7 @@ to = "/references/"
 
 [[redirects]]
 from = "/actualites/2022/06/23/presentation-dosuny-a-levenement-jinnov/index.html"
-to = "/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/"
+to = ""
 
 [[redirects]]
 from = "/fonctionnalites-old/communication/extranets/index.html"
@@ -1087,6 +1095,10 @@ from = "/actualites/2023-11-14-communaute-osuny/index.html"
 to = "https://commun.osuny.org/"
 
 [[redirects]]
+from = "/actualites/2023-08-18-network-study-on-digital-commons/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-18-network-study-on-digital-commons/"
+
+[[redirects]]
 from = "/fonctionnalites/communication/extranets/index.html"
 to = "/fonctionnalites-roadmap/communication/extranets/"
 
@@ -1235,6 +1247,10 @@ from = "/actualites/2022/03/11/osuny-pegase/index.html"
 to = "/actualites/2022-03-11-osuny-pegase/"
 
 [[redirects]]
+from = "/actualites/2023-06-15-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable-16-juin-2023/index.html"
+to = "https://commun.osuny.org/actualites/2023-06-15-table-ronde-les-communs-au-service-dun-numerique-plus-ethique-et-soutenable-16-juin-2023/"
+
+[[redirects]]
 from = "/actualites/2023-01-10-revue-de-litterature-27/index.html"
 to = "https://commun.osuny.org/actualites/2023-01-10-revue-de-litterature-27/"
 
@@ -1255,6 +1271,10 @@ from = "/fonctionnalites-old/theme-osuny/schema-systeme-de-design/index.html"
 to = "/engagements/securite/schema-systeme-de-design/"
 
 [[redirects]]
+from = "/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/index.html"
+to = "https://commun.osuny.org/actualites/2022-06-14-osuny-au-colloque-scientifique-digital-natives/"
+
+[[redirects]]
 from = "/agenda/2023-05-15-handicap-et-dispositifs-innovants/index.html"
 to = "/agenda/2023/handicap-et-dispositifs-innovants/"
 
@@ -1265,6 +1285,10 @@ to = "/profils/usageres/"
 [[redirects]]
 from = "/fonctionnalites-old/administration/alumni/index.html"
 to = "/fonctionnalites-roadmap/administration/alumni/"
+
+[[redirects]]
+from = "/actualites/2023-08-22-handicap-et-dispositifs-innovants/index.html"
+to = "https://commun.osuny.org/actualites/2023-08-22-handicap-et-dispositifs-innovants/"
 
 [[redirects]]
 from = "/references/2021-iut-bordeaux/index.html"
@@ -1309,6 +1333,10 @@ to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 [[redirects]]
 from = "/agenda/2025-07-03-assemblee-osuny-20/index.html"
 to = "/agenda/2025/assemblee-osuny-20/"
+
+[[redirects]]
+from = "/actualites/2022-08-30-les-communs-definitions-et-courants-de-pensee/index.html"
+to = "https://commun.osuny.org/actualites/2022-08-30-les-communs-definitions-et-courants-de-pensee-2/"
 
 [[redirects]]
 from = "/actualites/2022-08-01-revue-de-litterature-du-1er-aout/index.html"
@@ -1547,6 +1575,10 @@ from = "/actualites/2022-07-18-revue-de-litterature-du-18-juillet/index.html"
 to = "https://commun.osuny.org/actualites/2022-07-18-revue-de-litterature-du-18-juillet/"
 
 [[redirects]]
+from = "/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/index.html"
+to = "https://commun.osuny.org/actualites/2022-06-23-presentation-dosuny-a-levenement-jinnov/"
+
+[[redirects]]
 from = "/fonctionnalites-old/equipe-pedagogique/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/equipe-pedagogique/"
 
@@ -1729,6 +1761,10 @@ to = "/espace-presse/cp2022/"
 [[redirects]]
 from = "/agenda/2022-06-14-confiance-et-publics/index.html"
 to = "/agenda/2022/confiance-et-publics/"
+
+[[redirects]]
+from = "/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/index.html"
+to = "https://commun.osuny.org/actualites/2022-09-21-osuny-recoit-le-prix-cgscop-coup-de-coeur-de-la-cooperation/"
 
 [[redirects]]
 from = "/actualites/2023-11-08-revue-de-litterature-59/index.html"
