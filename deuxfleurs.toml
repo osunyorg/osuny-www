@@ -407,10 +407,6 @@ from = "/tester/index.html"
 to = "/commencer/"
 
 [[redirects]]
-from = "/developpeurs/index.html"
-to = "/profils/dev/"
-
-[[redirects]]
 from = "/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/index.html"
 to = "https://commun.osuny.org/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/"
 
@@ -739,10 +735,6 @@ from = "/actualites/2024-07-10-revue-de-litterature-87/index.html"
 to = "https://commun.osuny.org/actualites/2024-07-10-revue-de-litterature-87/"
 
 [[redirects]]
-from = "/editeurs/index.html"
-to = "/profils/usageres/"
-
-[[redirects]]
 from = "/actualites/2024-06-12-revue-de-litterature-83/index.html"
 to = "https://commun.osuny.org/actualites/2024-06-12-revue-de-litterature-83/"
 
@@ -975,6 +967,10 @@ from = "/fonctionnalites/enseignement/index.html"
 to = "https://www.osuny.org/secteurs/enseignement/"
 
 [[redirects]]
+from = "/profils/dev/index.html"
+to = "https://developers.osuny.org/"
+
+[[redirects]]
 from = "/fonctionnalites-roadmap/informations-techniques/schema/index.html"
 to = "/engagements/securite/schema/"
 
@@ -993,6 +989,10 @@ to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-27/"
 [[redirects]]
 from = "/actualites/2023-04-05-revue-de-litterature-36/index.html"
 to = "https://commun.osuny.org/actualites/2023-04-05-revue-de-litterature-36/"
+
+[[redirects]]
+from = "/profils/usageres/index.html"
+to = "https://www.osuny.org/secteurs/"
 
 [[redirects]]
 from = "/actualites/2024-02-08-revue-de-litterature-69/index.html"
@@ -1025,10 +1025,6 @@ to = "/personnes/equipe-editoriale/"
 [[redirects]]
 from = "/actualites/2023-10-31-revue-de-litterature-58/index.html"
 to = "https://commun.osuny.org/actualites/2023-10-31-revue-de-litterature-58/"
-
-[[redirects]]
-from = "/usages/developpeurs/index.html"
-to = "/profils/dev/"
 
 [[redirects]]
 from = "/passer-a-laction/reseau/alex-pazaitis/index.html"
@@ -1199,10 +1195,6 @@ from = "/actualites/2024-01-17-a11y-universites/index.html"
 to = "https://showcase.osuny.org/websites/3a2b9211-ef7d-47c1-aceb-b8d9c57c53eb"
 
 [[redirects]]
-from = "/usages/editeurs/index.html"
-to = "/profils/usageres/"
-
-[[redirects]]
 from = "/actualites/2024-06-18-revue-de-litterature-84/index.html"
 to = "https://commun.osuny.org/actualites/2024-06-18-revue-de-litterature-84/"
 
@@ -1305,10 +1297,6 @@ to = "https://commun.osuny.org/actualites/2022-06-14-osuny-au-colloque-scientifi
 [[redirects]]
 from = "/agenda/2023-05-15-handicap-et-dispositifs-innovants/index.html"
 to = ""
-
-[[redirects]]
-from = "/profils/editeurs/index.html"
-to = "/profils/usageres/"
 
 [[redirects]]
 from = "/actualites/2023-08-22-handicap-et-dispositifs-innovants/index.html"
@@ -1629,10 +1617,6 @@ to = "https://commun.osuny.org/actualites/2022-06-23-presentation-dosuny-a-leven
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-14/index.html"
 to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-14/"
-
-[[redirects]]
-from = "/usages/dev/index.html"
-to = "/profils/dev/"
 
 [[redirects]]
 from = "/personnes/categories/region/nouvelle-aquitaine/index.html"
