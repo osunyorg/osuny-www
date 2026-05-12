@@ -703,10 +703,6 @@ from = "/personnes/categories/design/index.html"
 to = "/personnes/categories/metiers/design/"
 
 [[redirects]]
-from = "/usages/design/index.html"
-to = "/profils/design/"
-
-[[redirects]]
 from = "/passer-a-laction/reseau/yuna-orsini/index.html"
 to = "/personnes/yuna-orsini/"
 
@@ -845,10 +841,6 @@ to = "/actualites/2022-03-21-notre-plan-de-decarbonation-est-liste-parmi-les-ini
 [[redirects]]
 from = "/personnes/categories/comite/webmaster/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
-
-[[redirects]]
-from = "/usages/designers/index.html"
-to = "/profils/design/"
 
 [[redirects]]
 from = "/actualites/2023-11-29-reboot/index.html"
@@ -1033,6 +1025,10 @@ to = "/personnes/alex-pazaitis/"
 [[redirects]]
 from = "/personnes/categories/implication/comites-osuny/gestion-de-contenu/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
+
+[[redirects]]
+from = "/profils/design/index.html"
+to = "https://www.osuny.org/fonctionnalites/"
 
 [[redirects]]
 from = "/agenda/2026/assemblee-osuny-35/index.html"
@@ -1539,10 +1535,6 @@ from = "/organisations/categories/secteurs/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
-from = "/designers/index.html"
-to = "/profils/design/"
-
-[[redirects]]
 from = "/personnes/categories/comites/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
 
@@ -1621,6 +1613,10 @@ to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-14/"
 [[redirects]]
 from = "/personnes/categories/region/nouvelle-aquitaine/index.html"
 to = "/personnes/categories/regions/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/profils/index.html"
+to = "https://www.osuny.org/"
 
 [[redirects]]
 from = "/personnes/categories/metier/index.html"
