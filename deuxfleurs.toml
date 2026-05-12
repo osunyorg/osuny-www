@@ -35,6 +35,10 @@ from = "/fonctionnalites-roadmap/recherche-alt/revues-scientifiques/index.html"
 to = "https://support.osuny.org/aller-plus-loin/recherche-1/les-revues-scientifiques/"
 
 [[redirects]]
+from = "/fonctionnalites-roadmap/theme-osuny/theme-figma/index.html"
+to = "https://www.figma.com/fr-fr/communaute/file/1176490763864113451/theme-osuny"
+
+[[redirects]]
 from = "/personnes/categories/comite/dev-front/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-front/"
 
@@ -175,12 +179,24 @@ from = "/personnes/categories/comites-osuny/index.html"
 to = "/personnes/categories/implication/comites-osuny/"
 
 [[redirects]]
+from = "/fonctionnalites/theme-osuny/blocs/index.html"
+to = "https://www.osuny.org/fonctionnalites/"
+
+[[redirects]]
+from = "/fonctionnalites-roadmap/informations-techniques/roadmap/index.html"
+to = "https://roadmap.osuny.org/"
+
+[[redirects]]
 from = "/actualites/2023-03-22-revue-de-litterature-34/index.html"
 to = "https://commun.osuny.org/actualites/2023-03-22-revue-de-litterature-34/"
 
 [[redirects]]
 from = "/agenda/2025-03-06-assemblee-osuny-16/index.html"
 to = ""
+
+[[redirects]]
+from = "/fonctionnalites-roadmap/theme-osuny/index.html"
+to = "https://www.figma.com/fr-fr/communaute/file/1176490763864113451/theme-osuny"
 
 [[redirects]]
 from = "/actualites/2023-11-29-cas-detude-pour-un-immersif-responsable-cepir/index.html"
@@ -209,10 +225,6 @@ to = "/personnes/jade-vincent/"
 [[redirects]]
 from = "/agenda/2022-06-14-osuny-au-colloque-scientifique-digital-natives/index.html"
 to = ""
-
-[[redirects]]
-from = "/fonctionnalites-old/informations-techniques/infrastructure/index.html"
-to = "/fonctionnalites-roadmap/informations-techniques/infrastructure/"
 
 [[redirects]]
 from = "/agenda/2024-01-04-assemblee-osuny-2/index.html"
@@ -253,6 +265,10 @@ to = "/organisations/categories/lieu/france/ile-de-france/"
 [[redirects]]
 from = "/actualites/2023-12-06-revue-de-litterature-63/index.html"
 to = "https://commun.osuny.org/actualites/2023-12-06-revue-de-litterature-63/"
+
+[[redirects]]
+from = "/fonctionnalites/theme-osuny/sections/index.html"
+to = "https://www.osuny.org/fonctionnalites/"
 
 [[redirects]]
 from = "/actualites/2023-11-22-revue-de-litterature-61/index.html"
@@ -403,10 +419,6 @@ from = "/developpeurs/index.html"
 to = "/profils/dev/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/"
-
-[[redirects]]
 from = "/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/index.html"
 to = "https://commun.osuny.org/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/"
 
@@ -493,6 +505,10 @@ to = "/personnes/pierre-andre-boissinot/"
 [[redirects]]
 from = "/fonctionnalites-old/recherche/veille-scientifique/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/veille-scientifique/"
+
+[[redirects]]
+from = "/fonctionnalites-roadmap/informations-techniques/infrastructure/index.html"
+to = "https://transparence.osuny.org/"
 
 [[redirects]]
 from = "/agenda/2024-09-05-assemblee-osuny-10/index.html"
@@ -593,10 +609,6 @@ to = "/declaration-d-accessibilite/"
 [[redirects]]
 from = "/passer-a-laction/reseau/laurent-devernay/index.html"
 to = "/personnes/laurent-devernay/"
-
-[[redirects]]
-from = "/fonctionnalites-old/theme-osuny/theme-figma/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
 from = "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/index.html"
@@ -815,10 +827,6 @@ from = "/passer-a-laction/reseau/magali-angles/index.html"
 to = "/personnes/magali-angles/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/figma/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
-
-[[redirects]]
 from = "/fonctionnalites-old/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
@@ -845,10 +853,6 @@ to = ""
 [[redirects]]
 from = "/agenda/2024-02-01-assemblee-osuny-3/index.html"
 to = ""
-
-[[redirects]]
-from = "/fonctionnalites/design-system/typos/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
 from = "/personnes/categories/dev/front/index.html"
@@ -1067,10 +1071,6 @@ from = "/personnes/categories/implication/comites-osuny/gestion-de-contenu/index
 to = "/personnes/categories/implication/comites-osuny/comite-gestion-de-contenu/"
 
 [[redirects]]
-from = "/fonctionnalites/informations-techniques/infrastructure/index.html"
-to = "/fonctionnalites-roadmap/informations-techniques/infrastructure/"
-
-[[redirects]]
 from = "/agenda/2026/assemblee-osuny-35/index.html"
 to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-35/"
 
@@ -1227,10 +1227,6 @@ from = "/actualites/2023-01-23-revue-de-litterature-29/index.html"
 to = "https://commun.osuny.org/actualites/2023-01-23-revue-de-litterature-29/"
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/theme-figma/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
-
-[[redirects]]
 from = "/passer-a-laction/reseau/sebastien-gaya/index.html"
 to = "/personnes/sebastien-gaya/"
 
@@ -1257,10 +1253,6 @@ to = "https://commun.osuny.org/actualites/2024-06-18-revue-de-litterature-84/"
 [[redirects]]
 from = "/organisations/categories/secteurs/index.html"
 to = "/organisations/categories/secteurs-organisation/"
-
-[[redirects]]
-from = "/fonctionnalites/theme-osuny/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/"
 
 [[redirects]]
 from = "/agenda/2026/assemblee-osuny-29/index.html"
@@ -1351,10 +1343,6 @@ from = "/fonctionnalites-roadmap/recherche/index.html"
 to = "/fonctionnalites-roadmap/recherche-alt/"
 
 [[redirects]]
-from = "/fonctionnalites/design-system/grille/index.html"
-to = "/fonctionnalites/theme-osuny/blocs/"
-
-[[redirects]]
 from = "/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/index.html"
 to = "https://commun.osuny.org/actualites/2023-06-20-rencontre-avec-david-bollier-pour-la-sortie-de-son-ouvrage-le-pouvoir-subversif-des-communs-26-mai-2/"
 
@@ -1415,10 +1403,6 @@ from = "/actualites/2023-08-16-retour-sur-le-17e-congres-du-riodd-communs-commun
 to = ""
 
 [[redirects]]
-from = "/fonctionnalites/theme-osuny/design-system/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
-
-[[redirects]]
 from = "/usages/culture/index.html"
 to = "/secteurs/culture/"
 
@@ -1457,10 +1441,6 @@ to = "https://commun.osuny.org/actualites/2021-10-06-hebergement-de-site-statiqu
 [[redirects]]
 from = "/valeurs/souverainete/index.html"
 to = "/engagements/souverainete/"
-
-[[redirects]]
-from = "/fonctionnalites/theme-osuny/design-systeme/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
 from = "/actualites/2023-12-18-retour-sur-lassemblee-osuny1/index.html"
@@ -1533,10 +1513,6 @@ to = "https://commun.osuny.org/agenda/2024/assemblee-osuny-13/"
 [[redirects]]
 from = "/actualites/2024-01-17-revue-de-litterature-66/index.html"
 to = "https://commun.osuny.org/actualites/2024-01-17-revue-de-litterature-66/"
-
-[[redirects]]
-from = "/fonctionnalites/theme-osuny/grille/index.html"
-to = "/fonctionnalites/theme-osuny/blocs/"
 
 [[redirects]]
 from = "/actualites/2023-03-30-revue-de-litterature-35/index.html"
@@ -1815,10 +1791,6 @@ from = "/agenda/2023/comite-scientifique-1/index.html"
 to = "https://commun.osuny.org/agenda/2023/comite-scientifique-1-1/"
 
 [[redirects]]
-from = "/fonctionnalites-old/theme-osuny/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/"
-
-[[redirects]]
 from = "/fonctionnalites-old/feedbacks-etudiants/index.html"
 to = "/fonctionnalites-roadmap/enseignement-old/feedbacks-etudiants/"
 
@@ -1969,10 +1941,6 @@ to = "https://commun.osuny.org/agenda/2024/communs-numerique-et-interet-general/
 [[redirects]]
 from = "/actualites/2023-11-29-revue-de-litterature-62/index.html"
 to = "https://commun.osuny.org/actualites/2023-11-29-revue-de-litterature-62/"
-
-[[redirects]]
-from = "/fonctionnalites/theme-osuny/typos/index.html"
-to = "/fonctionnalites-roadmap/theme-osuny/theme-figma/"
 
 [[redirects]]
 from = "/actualites/2023-12-08-re-akt/index.html"
