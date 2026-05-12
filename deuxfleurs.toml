@@ -291,6 +291,10 @@ from = "/actualites/2022-09-26-revue-de-litterature-du-26-septembre/index.html"
 to = "https://commun.osuny.org/actualites/2022-09-26-revue-de-litterature-du-26-septembre/"
 
 [[redirects]]
+from = "/presentation/index.html"
+to = "https://www.osuny.org/"
+
+[[redirects]]
 from = "/personnes/gestion-de-projet/index.html"
 to = "/personnes/categories/metiers/gestion-de-projet/"
 
