@@ -9,5 +9,5 @@ allowed_domains:
   - "vimeo.com"
   - "player.vimeo.com"
   - "vumbnail.com"
-  - "app.cal.com"
   - "app.cal.eu"
+  - "app.cal.com"
