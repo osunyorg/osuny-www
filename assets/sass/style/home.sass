@@ -104,7 +104,8 @@
     
 // ios top bar color
 html
-    &:not(.has-menu-sticky)
-        .page__home
-            background: $color-background-alt
+    @include media-breakpoint-down(md)
+        &:not(.has-menu-sticky)
+            .page__home
+                background: var(--color-background-alt)
 

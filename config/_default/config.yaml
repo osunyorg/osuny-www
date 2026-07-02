@@ -3,6 +3,10 @@ _merge: deep
 params:
   debug:
     productionUrl: https://www.osuny.org
+  head:
+    meta:
+      theme:
+        color: "#f1efe9"
   image_sizes:
     _default:
       hero:
