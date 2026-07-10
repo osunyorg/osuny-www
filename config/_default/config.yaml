@@ -18,7 +18,10 @@ params:
         hero:
           mobile:   400
           tablet:   800
-          desktop:  1200
+          desktop:  1440
+          additionnal:
+            - rule: "min-width: 1920px"
+              size: 1920
       pages:
         layouts:
           list:
