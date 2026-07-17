@@ -1,4 +1,6 @@
-theme: osuny-www-design-system
+theme: 
+  - osuny-www-design-system
+  - osuny-plugin-news-sitemap
 _merge: deep
 params:
   debug:
