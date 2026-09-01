@@ -403,6 +403,10 @@ from = "/passer-a-laction/reseau/samuel-attia/index.html"
 to = "/personnes/samuel-attia/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/synacktiv-noesya-plateforme-osuny-attestationpdf/"
+
+[[redirects]]
 from = "/tester/index.html"
 to = "/commencer/"
 
