@@ -34,17 +34,7 @@ items:
     descendants_targets: []
     path: "/pages/secteurs"
     file: content/fr/pages/secteurs/_index.html
-  - title: Tester osuny
-    slug: tester-osuny
-    target: "/commencer/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/commencer"
-    file: content/fr/pages/commencer/_index.html
   descendants_targets:
-  - "/commencer/"
   - "/engagements/"
   - "/fonctionnalites/"
   - "/secteurs/"

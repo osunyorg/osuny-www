@@ -175,6 +175,10 @@ from = "/fonctionnalites/theme-osuny/blocs/index.html"
 to = "https://www.osuny.org/fonctionnalites/"
 
 [[redirects]]
+from = "/commencer-1/index.html"
+to = "/commencer/"
+
+[[redirects]]
 from = "/fonctionnalites-roadmap/informations-techniques/roadmap/index.html"
 to = "https://roadmap.osuny.org/"
 
@@ -405,10 +409,6 @@ to = "/personnes/samuel-attia/"
 [[redirects]]
 from = "/fichiers/2026/index.html"
 to = "/fichiers/2026/synacktiv-noesya-plateforme-osuny-attestationpdf/"
-
-[[redirects]]
-from = "/tester/index.html"
-to = "/commencer/"
 
 [[redirects]]
 from = "/actualites/2024-05-31-retour-sur-la-conference-vive-les-communs-numeriques/index.html"
@@ -1401,6 +1401,10 @@ to = "/organisations/categories/lieu/"
 [[redirects]]
 from = "/organisations/categories/secteurs/prive/index.html"
 to = "/organisations/categories/secteurs-organisation/culture/"
+
+[[redirects]]
+from = "/tester/index.html"
+to = "/commencer/"
 
 [[redirects]]
 from = "/actualites/2025-03-28-eco-conception-du-site-web-de-la-criee-avec-osuny/index.html"
