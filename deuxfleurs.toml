@@ -43,6 +43,10 @@ from = "/personnes/categories/comite/dev-front/index.html"
 to = "/personnes/categories/implication/comites-osuny/dev-front/"
 
 [[redirects]]
+from = "/comparer/osuny-vs-drupal/index.html"
+to = "/comparatifs/osuny-vs-drupal/"
+
+[[redirects]]
 from = "/agenda/2022/confiance-et-publics/index.html"
 to = "https://commun.osuny.org/agenda/2022/confiance-et-publics/"
 
@@ -524,7 +528,7 @@ to = "/personnes/categories/implication/comites-osuny/comite-design/"
 
 [[redirects]]
 from = "/osuny-vs-drupal/index.html"
-to = "/comparer/osuny-vs-drupal/"
+to = "/comparatifs/osuny-vs-drupal/"
 
 [[redirects]]
 from = "/actualites/2022-11-21-revue-de-litterature-20/index.html"
@@ -579,6 +583,10 @@ from = "/fonctionnalites-roadmap/administration/statistiques/index.html"
 to = "https://support.osuny.org/"
 
 [[redirects]]
+from = "/comparer/osuny-vs-wordpress/index.html"
+to = "/comparatifs/osuny-vs-wordpress/"
+
+[[redirects]]
 from = "/actualites/2024-04-24-revue-de-litterature-77/index.html"
 to = "https://commun.osuny.org/actualites/2024-04-24-revue-de-litterature-77/"
 
@@ -604,7 +612,7 @@ to = "/personnes/laurent-devernay/"
 
 [[redirects]]
 from = "/osuny-vs-wordpress/index.html"
-to = "/comparer/osuny-vs-wordpress/"
+to = "/comparatifs/osuny-vs-wordpress/"
 
 [[redirects]]
 from = "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/index.html"
@@ -676,7 +684,7 @@ to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
 from = "/comparatif-de-cms/index.html"
-to = "/comparer/osuny-vs-wordpress/"
+to = "/comparatifs/osuny-vs-wordpress/"
 
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-22/index.html"
@@ -825,6 +833,10 @@ to = "/retrocompatibilite/"
 [[redirects]]
 from = "/organisations/categories/nouvelle-aquitaine/index.html"
 to = "/organisations/categories/lieu/france/nouvelle-aquitaine/"
+
+[[redirects]]
+from = "/comparer/osuny-vs-kirby/index.html"
+to = "/comparatifs/osuny-vs-kirby/"
 
 [[redirects]]
 from = "/valeurs/sobriete/index.html"
@@ -1148,7 +1160,7 @@ to = "https://commun.osuny.org/actualites/2022-07-11-revue-de-litterature-du-11-
 
 [[redirects]]
 from = "/osuny-vs-kirby/index.html"
-to = "/comparer/osuny-vs-kirby/"
+to = "/comparatifs/osuny-vs-kirby/"
 
 [[redirects]]
 from = "/projets/2025-campus-art-mediterranee/index.html"
@@ -1785,6 +1797,10 @@ to = "/personnes/clemence-spriet/"
 [[redirects]]
 from = "/organisations/categories/secteur/service-public/index.html"
 to = "/organisations/categories/secteurs-organisation/service-public/"
+
+[[redirects]]
+from = "/tarifs/osuny-as-a-service-old-1/index.html"
+to = "/tarifs/ressource-partagee-et-principe-de-reciprocite/"
 
 [[redirects]]
 from = "/tarifs-1/index.html"
