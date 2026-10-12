@@ -667,6 +667,10 @@ from = "/personnes/categories/implication/comites-osuny/infrastructure/index.htm
 to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
+from = "/comparatif-de-cms/index.html"
+to = "/osuny-vs-wordpress/"
+
+[[redirects]]
 from = "/agenda/2025/assemblee-osuny-22/index.html"
 to = "https://commun.osuny.org/agenda/2025/assemblee-osuny-22/"
 
