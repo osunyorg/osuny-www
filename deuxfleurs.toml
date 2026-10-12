@@ -523,6 +523,10 @@ from = "/personnes/categories/comites/design-1/index.html"
 to = "/personnes/categories/implication/comites-osuny/comite-design/"
 
 [[redirects]]
+from = "/osuny-vs-drupal/index.html"
+to = "/comparer/osuny-vs-drupal/"
+
+[[redirects]]
 from = "/actualites/2022-11-21-revue-de-litterature-20/index.html"
 to = "https://commun.osuny.org/actualites/2022-11-21-revue-de-litterature-20/"
 
@@ -599,6 +603,10 @@ from = "/passer-a-laction/reseau/laurent-devernay/index.html"
 to = "/personnes/laurent-devernay/"
 
 [[redirects]]
+from = "/osuny-vs-wordpress/index.html"
+to = "/comparer/osuny-vs-wordpress/"
+
+[[redirects]]
 from = "/osuny-offre-toutes-les-fonctionnalites-attendues-dun-cms/index.html"
 to = "/fonctionnalites/"
 
@@ -668,7 +676,7 @@ to = "/personnes/categories/implication/comites-osuny/comite-infrastructure/"
 
 [[redirects]]
 from = "/comparatif-de-cms/index.html"
-to = "/osuny-vs-wordpress/"
+to = "/comparer/osuny-vs-wordpress/"
 
 [[redirects]]
 from = "/agenda/2025/assemblee-osuny-22/index.html"
@@ -1137,6 +1145,10 @@ to = "https://commun.osuny.org/actualites/2023-08-18-network-study-on-digital-co
 [[redirects]]
 from = "/actualites/2022-07-11-revue-de-litterature-du-11-juillet/index.html"
 to = "https://commun.osuny.org/actualites/2022-07-11-revue-de-litterature-du-11-juillet/"
+
+[[redirects]]
+from = "/osuny-vs-kirby/index.html"
+to = "/comparer/osuny-vs-kirby/"
 
 [[redirects]]
 from = "/projets/2025-campus-art-mediterranee/index.html"
