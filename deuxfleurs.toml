@@ -1207,6 +1207,10 @@ from = "/agenda/2026/assemblee-osuny-28/index.html"
 to = "https://commun.osuny.org/agenda/2026/assemblee-osuny-28/"
 
 [[redirects]]
+from = "/tarifs/ressource-partagee-et-principe-de-reciprocite/index.html"
+to = "/tarifs/partage-et-reciprocite/"
+
+[[redirects]]
 from = "/actualites/2024-01-31-revue-de-litterature-68/index.html"
 to = "https://commun.osuny.org/actualites/2024-01-31-revue-de-litterature-68/"
 
@@ -1800,7 +1804,7 @@ to = "/organisations/categories/secteurs-organisation/service-public/"
 
 [[redirects]]
 from = "/tarifs/osuny-as-a-service-old-1/index.html"
-to = "/tarifs/ressource-partagee-et-principe-de-reciprocite/"
+to = "/tarifs/partage-et-reciprocite/"
 
 [[redirects]]
 from = "/tarifs-1/index.html"
